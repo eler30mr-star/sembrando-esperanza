@@ -55,7 +55,23 @@ function getMaxChars() {
   return 1350;
 }
 
-export default function BookReader({ title, subtitle, pages = [], footerLabel = 'Página' }) {
+function normalizeChapters({ chapters = [], pages = [] }) {
+  if (Array.isArray(chapters) && chapters.length > 0) {
+    return chapters.map((chapter, index) => ({
+      title: chapter.title || `Capítulo ${index + 1}`,
+      content: chapter.content || ''
+    }));
+  }
+
+  return [
+    {
+      title: 'Capítulo 1',
+      content: Array.isArray(pages) ? pages.join('\n\n') : ''
+    }
+  ];
+}
+
+export default function BookReader({ title, subtitle, chapters = [], pages = [], footerLabel = 'Página' }) {
   const [page, setPage] = useState(0);
   const [speaking, setSpeaking] = useState(false);
   const [maxChars, setMaxChars] = useState(getMaxChars);
@@ -67,11 +83,27 @@ export default function BookReader({ title, subtitle, pages = [], footerLabel = 
   }, []);
 
   const readerPages = useMemo(() => {
-    const fullText = pages.join('\n\n');
-    return chunkText(fullText, maxChars);
-  }, [pages, maxChars]);
+    const normalizedChapters = normalizeChapters({ chapters, pages });
 
-  const current = useMemo(() => readerPages[page] || '', [readerPages, page]);
+    return normalizedChapters.flatMap((chapter, chapterIndex) => {
+      const chapterPages = chunkText(chapter.content, maxChars);
+      return chapterPages.map((content, pageIndex) => ({
+        content,
+        chapterTitle: chapter.title,
+        chapterNumber: chapterIndex + 1,
+        chapterPage: pageIndex + 1,
+        chapterTotalPages: chapterPages.length
+      }));
+    });
+  }, [chapters, pages, maxChars]);
+
+  const currentPage = readerPages[page] || {
+    content: '',
+    chapterTitle: 'Capítulo 1',
+    chapterNumber: 1,
+    chapterPage: 1,
+    chapterTotalPages: 1
+  };
 
   useEffect(() => {
     setPage(0);
@@ -102,7 +134,7 @@ export default function BookReader({ title, subtitle, pages = [], footerLabel = 
       return;
     }
 
-    const text = `${title}. ${subtitle || ''}. ${current}`;
+    const text = `${title}. ${currentPage.chapterTitle}. ${currentPage.content}`;
     const utterance = new SpeechSynthesisUtterance(text);
     utterance.lang = 'es-ES';
     utterance.rate = 0.92;
@@ -119,15 +151,18 @@ export default function BookReader({ title, subtitle, pages = [], footerLabel = 
     <section className="reader-shell immersive-reader">
       <div className="reader-top immersive-reader-top">
         <div>
-          <span className="page-count">{footerLabel} {page + 1} de {readerPages.length}</span>
+          <span className="page-count">
+            Capítulo {currentPage.chapterNumber} · {footerLabel} {currentPage.chapterPage} de {currentPage.chapterTotalPages}
+          </span>
           <h1>{title}</h1>
+          <h2 className="reader-chapter-title">{currentPage.chapterTitle}</h2>
         </div>
       </div>
 
       <div className="book-stage immersive-book-stage">
-        <article className="book-page immersive-book-page" key={page}>
+        <article className="book-page immersive-book-page" key={`${currentPage.chapterNumber}-${currentPage.chapterPage}`}>
           <div className="paper-grain" />
-          <p>{current}</p>
+          <p>{currentPage.content}</p>
           <span className="page-number">{page + 1}</span>
         </article>
       </div>
