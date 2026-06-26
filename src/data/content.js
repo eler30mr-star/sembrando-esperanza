@@ -50,11 +50,11 @@ export const stories = [
     readingTime: '5 min',
     image: 'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80',
     description: 'Una lectura para recordar que el silencio de Dios no significa abandono.',
-    pages: [
-      'Hay temporadas en las que oramos y parece que nada cambia. El corazón espera una respuesta rápida, una señal clara o una puerta abierta, pero el cielo parece guardar silencio.',
-      'Sin embargo, el silencio no siempre significa ausencia. Muchas veces Dios trabaja en lo profundo, donde nuestros ojos todavía no pueden ver. Él forma paciencia, ordena caminos y fortalece la fe.',
-      'La fe verdadera no solo cree cuando ve resultados. También permanece cuando el proceso es lento, cuando la respuesta tarda y cuando el alma necesita descansar en la promesa de Dios.',
-      'Hoy recuerda esto: Dios no se ha olvidado de ti. Su tiempo no es descuido; su silencio no es abandono. Sigue confiando, porque Él también trabaja cuando todo parece quieto.'
+    chapters: [
+      {
+        title: 'El silencio no es abandono',
+        content: 'Hay temporadas en las que oramos y parece que nada cambia. El corazón espera una respuesta rápida, una señal clara o una puerta abierta, pero el cielo parece guardar silencio.\n\nSin embargo, el silencio no siempre significa ausencia. Muchas veces Dios trabaja en lo profundo, donde nuestros ojos todavía no pueden ver. Él forma paciencia, ordena caminos y fortalece la fe.\n\nLa fe verdadera no solo cree cuando ve resultados. También permanece cuando el proceso es lento, cuando la respuesta tarda y cuando el alma necesita descansar en la promesa de Dios.\n\nHoy recuerda esto: Dios no se ha olvidado de ti. Su tiempo no es descuido; su silencio no es abandono. Sigue confiando, porque Él también trabaja cuando todo parece quieto.'
+      }
     ]
   },
   {
@@ -64,10 +64,11 @@ export const stories = [
     readingTime: '6 min',
     image: 'https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1200&q=80',
     description: 'Una historia corta sobre esperanza, paciencia y confianza en Dios.',
-    pages: [
-      'Una mujer caminaba cada mañana al mismo lugar para orar. No tenía respuestas para todo, pero tenía una certeza: Dios seguía siendo bueno.',
-      'Con el paso de los días, descubrió que la oración no solo cambia circunstancias; también cambia el corazón de quien espera.',
-      'Su situación no terminó de inmediato, pero su interior comenzó a llenarse de paz. Comprendió que la fe no es negar la prueba, sino caminar con Dios dentro de ella.'
+    chapters: [
+      {
+        title: 'Esperanza en medio de la prueba',
+        content: 'Una mujer caminaba cada mañana al mismo lugar para orar. No tenía respuestas para todo, pero tenía una certeza: Dios seguía siendo bueno.\n\nCon el paso de los días, descubrió que la oración no solo cambia circunstancias; también cambia el corazón de quien espera.\n\nSu situación no terminó de inmediato, pero su interior comenzó a llenarse de paz. Comprendió que la fe no es negar la prueba, sino caminar con Dios dentro de ella.'
+      }
     ]
   }
 ];
