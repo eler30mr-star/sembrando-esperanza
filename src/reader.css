@@ -1,28 +1,45 @@
+.immersive-reader {
+  grid-template-rows: auto minmax(0, 1fr) auto;
+}
+
+.immersive-reader-top h1 {
+  font-size: clamp(1.55rem, 6.4vw, 3.2rem) !important;
+  line-height: 0.98 !important;
+  margin-top: 6px !important;
+}
+
+.immersive-reader-top {
+  gap: 6px !important;
+}
+
 .immersive-book-page p {
   text-align: justify;
   text-justify: inter-word;
-  hyphens: auto;
+  hyphens: none;
   overflow-wrap: normal;
-  letter-spacing: 0.005em;
-  word-spacing: 0.04em;
-}
-
-.immersive-book-page p::first-letter {
-  font-size: 1.12em;
-  font-weight: 700;
+  word-break: normal;
+  letter-spacing: 0;
+  word-spacing: 0.01em;
 }
 
 @media (max-width: 620px) {
+  .immersive-reader-top h1 {
+    font-size: clamp(1.45rem, 7vw, 2.25rem) !important;
+    line-height: 0.98 !important;
+  }
+
   .immersive-book-page {
-    padding: 26px 22px 42px;
+    padding: 28px 24px 42px;
   }
 
   .immersive-book-page p {
-    font-size: 0.98rem;
-    line-height: 1.54;
+    font-size: 1.05rem;
+    line-height: 1.72;
     text-align: justify;
     text-justify: inter-word;
-    hyphens: auto;
-    word-spacing: 0.02em;
+    hyphens: none;
+    word-break: normal;
+    overflow-wrap: normal;
+    word-spacing: 0;
   }
 }
