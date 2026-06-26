@@ -1,5 +1,5 @@
 import { Link, NavLink } from 'react-router-dom';
-import { Menu, X, Dove, Heart } from 'lucide-react';
+import { Menu, X, Heart } from 'lucide-react';
 import { useState } from 'react';
 
 const navItems = [
@@ -20,7 +20,7 @@ export default function Layout({ children }) {
     <div className="site-shell">
       <header className="header">
         <Link className="brand" to="/" onClick={() => setOpen(false)}>
-          <span className="brand-icon"><Dove size={22} /></span>
+          <span className="brand-icon" aria-hidden="true">🕊</span>
           <span>
             <strong>Sembrando Esperanza</strong>
             <small>Contenido cristiano diario</small>
