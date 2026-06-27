@@ -211,6 +211,15 @@ export default function BookReader({ title, subtitle, chapters = [], pages = [],
     await toggleStoryLike(storyId);
   }
 
+  async function handleCommentClick() {
+    if (!user) {
+      await loginWithGoogle();
+      setShowComments(true);
+      return;
+    }
+    setShowComments((value) => !value);
+  }
+
   async function handleCommentSubmit(event) {
     event.preventDefault();
     if (!user) {
@@ -280,7 +289,7 @@ export default function BookReader({ title, subtitle, chapters = [], pages = [],
                 <Heart size={22} fill={liked ? 'currentColor' : 'none'} />
                 <span>{likeCount}</span>
               </button>
-              <button type="button" style={actionButtonStyle} onClick={() => setShowComments((value) => !value)} aria-label="Comentar">
+              <button type="button" style={actionButtonStyle} onClick={handleCommentClick} aria-label="Comentar">
                 <MessageCircle size={22} />
                 <span>Comentar</span>
               </button>
@@ -290,26 +299,19 @@ export default function BookReader({ title, subtitle, chapters = [], pages = [],
               </button>
             </div>
 
-            {showComments && (
+            {showComments && user && (
               <div style={commentsPanelStyle}>
-                {!user && (
-                  <button type="button" className="reader-audio-button" onClick={loginWithGoogle}>
-                    Iniciar con Google para comentar
+                <form onSubmit={handleCommentSubmit} style={{ display: 'flex', gap: '8px', marginBottom: '10px' }}>
+                  <input
+                    value={commentText}
+                    onChange={(event) => setCommentText(event.target.value)}
+                    placeholder="Escribe un comentario..."
+                    style={{ flex: 1, borderRadius: '999px', border: '1px solid rgba(120, 79, 23, 0.25)', padding: '10px 12px' }}
+                  />
+                  <button type="submit" className="reader-triangle" aria-label="Enviar comentario">
+                    <Send size={16} />
                   </button>
-                )}
-                {user && (
-                  <form onSubmit={handleCommentSubmit} style={{ display: 'flex', gap: '8px', marginBottom: '10px' }}>
-                    <input
-                      value={commentText}
-                      onChange={(event) => setCommentText(event.target.value)}
-                      placeholder="Escribe un comentario..."
-                      style={{ flex: 1, borderRadius: '999px', border: '1px solid rgba(120, 79, 23, 0.25)', padding: '10px 12px' }}
-                    />
-                    <button type="submit" className="reader-triangle" aria-label="Enviar comentario">
-                      <Send size={16} />
-                    </button>
-                  </form>
-                )}
+                </form>
                 <div style={{ display: 'grid', gap: '8px', maxHeight: '150px', overflow: 'auto' }}>
                   {comments.length === 0 && <small>Aún no hay comentarios.</small>}
                   {comments.map((comment) => (
