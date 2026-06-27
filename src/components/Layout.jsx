@@ -1,6 +1,7 @@
 import { Link, NavLink } from 'react-router-dom';
-import { Menu, X, Heart } from 'lucide-react';
-import { useState } from 'react';
+import { LogIn, LogOut, Menu, X, Heart } from 'lucide-react';
+import { useEffect, useState } from 'react';
+import { listenToUser, loginWithGoogle, logout } from '../services/authService.js';
 
 const navItems = [
   { to: '/', label: 'Inicio' },
@@ -13,8 +14,33 @@ const navItems = [
   { to: '/app', label: 'App' }
 ];
 
+const authButtonStyle = {
+  border: '1px solid rgba(120, 79, 23, 0.2)',
+  borderRadius: '999px',
+  padding: '9px 13px',
+  background: '#fff8ea',
+  color: '#5a3b12',
+  fontWeight: 800,
+  display: 'inline-flex',
+  alignItems: 'center',
+  gap: '7px',
+  cursor: 'pointer'
+};
+
 export default function Layout({ children }) {
   const [open, setOpen] = useState(false);
+  const [user, setUser] = useState(null);
+
+  useEffect(() => listenToUser(setUser), []);
+
+  async function handleAuthClick() {
+    if (user) {
+      await logout();
+    } else {
+      await loginWithGoogle();
+    }
+    setOpen(false);
+  }
 
   return (
     <div className="site-shell">
@@ -37,6 +63,10 @@ export default function Layout({ children }) {
               {item.label}
             </NavLink>
           ))}
+          <button type="button" style={authButtonStyle} onClick={handleAuthClick}>
+            {user ? <LogOut size={16} /> : <LogIn size={16} />}
+            {user ? 'Salir' : 'Iniciar con Google'}
+          </button>
         </nav>
       </header>
 
