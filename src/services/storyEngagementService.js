@@ -1,4 +1,4 @@
-import { addDoc, collection, deleteDoc, doc, getDoc, limit, onSnapshot, orderBy, query, runTransaction, serverTimestamp, setDoc } from 'firebase/firestore';
+import { addDoc, collection, deleteDoc, doc, getDoc, increment, limit, onSnapshot, orderBy, query, runTransaction, serverTimestamp, setDoc } from 'firebase/firestore';
 import { db } from './firebase.js';
 
 const LIKE_CLIENT_KEY = 'sembrando_esperanza_like_client_id';
@@ -23,12 +23,15 @@ function refs(storyId, likeClientId) {
 
 export function listenToStoryStats(storyId, callback) {
   if (!db || !storyId) {
-    callback({ likeCount: 0 });
+    callback({ likeCount: 0, commentCount: 0 });
     return () => {};
   }
 
   return onSnapshot(doc(db, 'storyReactions', storyId), (snapshot) => {
-    callback({ likeCount: Number(snapshot.data()?.likeCount || 0) });
+    callback({
+      likeCount: Number(snapshot.data()?.likeCount || 0),
+      commentCount: Number(snapshot.data()?.commentCount || 0)
+    });
   });
 }
 
@@ -94,7 +97,7 @@ export async function addStoryComment(storyId, user, text) {
   const statsRef = doc(db, 'storyReactions', storyId);
   const commentsRef = collection(db, 'storyReactions', storyId, 'comments');
 
-  await setDoc(statsRef, { updatedAt: serverTimestamp() }, { merge: true });
+  await setDoc(statsRef, { commentCount: increment(1), updatedAt: serverTimestamp() }, { merge: true });
   await addDoc(commentsRef, {
     text: cleanText,
     uid: user.uid,
