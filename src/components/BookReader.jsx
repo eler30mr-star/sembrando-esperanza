@@ -81,12 +81,27 @@ const centeredHeaderInnerStyle = {
   textAlign: 'center'
 };
 
+const chapterHeaderStyle = {
+  marginBottom: '16px',
+  textAlign: 'center'
+};
+
+const chapterNumberStyle = {
+  display: 'block',
+  marginBottom: '6px',
+  color: 'var(--gold-dark)',
+  fontSize: '0.78rem',
+  fontWeight: 800,
+  letterSpacing: '0.12em',
+  textTransform: 'uppercase'
+};
+
 const readerTextStyle = {
   fontSize: '1.04rem',
   lineHeight: 1.58
 };
 
-export default function BookReader({ title, subtitle, chapters = [], pages = [], footerLabel = 'Página' }) {
+export default function BookReader({ title, subtitle, chapters = [], pages = [] }) {
   const [page, setPage] = useState(0);
   const [speaking, setSpeaking] = useState(false);
   const [maxChars, setMaxChars] = useState(getMaxChars);
@@ -106,8 +121,7 @@ export default function BookReader({ title, subtitle, chapters = [], pages = [],
         content,
         chapterTitle: chapter.title,
         chapterNumber: chapterIndex + 1,
-        chapterPage: pageIndex + 1,
-        chapterTotalPages: chapterPages.length
+        isFirstChapterPage: pageIndex === 0
       }));
     });
   }, [chapters, pages, maxChars]);
@@ -116,8 +130,7 @@ export default function BookReader({ title, subtitle, chapters = [], pages = [],
     content: '',
     chapterTitle: 'Capítulo 1',
     chapterNumber: 1,
-    chapterPage: 1,
-    chapterTotalPages: 1
+    isFirstChapterPage: true
   };
 
   useEffect(() => {
@@ -166,21 +179,22 @@ export default function BookReader({ title, subtitle, chapters = [], pages = [],
     <section className="reader-shell immersive-reader">
       <div className="reader-top immersive-reader-top" style={centeredHeaderStyle}>
         <div style={centeredHeaderInnerStyle}>
-          <span className="page-count">
-            Capítulo {currentPage.chapterNumber} · {footerLabel} {currentPage.chapterPage} de {currentPage.chapterTotalPages}
-          </span>
           <h1 style={{ textAlign: 'center' }}>{title}</h1>
         </div>
       </div>
 
       <div className="book-stage immersive-book-stage">
-        <article className="book-page immersive-book-page" key={`${currentPage.chapterNumber}-${currentPage.chapterPage}`}>
+        <article className="book-page immersive-book-page" key={`${currentPage.chapterNumber}-${page}`}>
           <div className="paper-grain" />
           <div className="reader-page-content">
-            <h2 className="reader-chapter-title">{currentPage.chapterTitle}</h2>
+            {currentPage.isFirstChapterPage && (
+              <div style={chapterHeaderStyle}>
+                <span style={chapterNumberStyle}>Capítulo {currentPage.chapterNumber}</span>
+                <h2 className="reader-chapter-title">{currentPage.chapterTitle}</h2>
+              </div>
+            )}
             <p style={readerTextStyle}>{currentPage.content}</p>
           </div>
-          <span className="page-number">{page + 1}</span>
         </article>
       </div>
 
