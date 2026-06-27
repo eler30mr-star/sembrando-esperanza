@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { Heart, Home, MessageCircle, Pause, Play, Send, Share2 } from 'lucide-react';
+import { Heart, Home, MessageCircle, Pause, Play, Send, Share2, X } from 'lucide-react';
 import { listenToUser, loginWithGoogle } from '../services/authService.js';
 import { addStoryComment, listenToComments, listenToStoryStats, listenToUserLike, toggleStoryLike } from '../services/storyEngagementService.js';
 
@@ -130,12 +130,34 @@ const actionButtonStyle = {
   cursor: 'pointer'
 };
 
+const commentsOverlayStyle = {
+  position: 'fixed',
+  inset: 0,
+  zIndex: 9999,
+  background: 'rgba(25, 18, 10, 0.48)',
+  display: 'flex',
+  alignItems: 'flex-end',
+  justifyContent: 'center',
+  padding: '16px'
+};
+
 const commentsPanelStyle = {
-  marginTop: '12px',
-  padding: '12px',
-  borderRadius: '18px',
-  background: 'rgba(255, 248, 234, 0.92)',
-  border: '1px solid rgba(120, 79, 23, 0.18)'
+  width: 'min(560px, 100%)',
+  maxHeight: '78svh',
+  overflow: 'hidden',
+  borderRadius: '24px',
+  background: '#fff8ea',
+  border: '1px solid rgba(120, 79, 23, 0.18)',
+  boxShadow: '0 24px 70px rgba(0, 0, 0, 0.28)',
+  padding: '16px'
+};
+
+const commentsHeaderStyle = {
+  display: 'flex',
+  justifyContent: 'space-between',
+  alignItems: 'center',
+  gap: '12px',
+  marginBottom: '12px'
 };
 
 export default function BookReader({ title, subtitle, chapters = [], pages = [], storyId, storySlug }) {
@@ -214,10 +236,8 @@ export default function BookReader({ title, subtitle, chapters = [], pages = [],
   async function handleCommentClick() {
     if (!user) {
       await loginWithGoogle();
-      setShowComments(true);
-      return;
     }
-    setShowComments((value) => !value);
+    setShowComments(true);
   }
 
   async function handleCommentSubmit(event) {
@@ -298,34 +318,53 @@ export default function BookReader({ title, subtitle, chapters = [], pages = [],
                 <span>Compartir</span>
               </button>
             </div>
-
-            {showComments && user && (
-              <div style={commentsPanelStyle}>
-                <form onSubmit={handleCommentSubmit} style={{ display: 'flex', gap: '8px', marginBottom: '10px' }}>
-                  <input
-                    value={commentText}
-                    onChange={(event) => setCommentText(event.target.value)}
-                    placeholder="Escribe un comentario..."
-                    style={{ flex: 1, borderRadius: '999px', border: '1px solid rgba(120, 79, 23, 0.25)', padding: '10px 12px' }}
-                  />
-                  <button type="submit" className="reader-triangle" aria-label="Enviar comentario">
-                    <Send size={16} />
-                  </button>
-                </form>
-                <div style={{ display: 'grid', gap: '8px', maxHeight: '150px', overflow: 'auto' }}>
-                  {comments.length === 0 && <small>Aún no hay comentarios.</small>}
-                  {comments.map((comment) => (
-                    <div key={comment.id} style={{ fontSize: '0.86rem' }}>
-                      <strong>{comment.displayName || 'Usuario'}</strong>
-                      <p style={{ margin: '2px 0 0' }}>{comment.text}</p>
-                    </div>
-                  ))}
-                </div>
-              </div>
-            )}
           </div>
         </article>
       </div>
+
+      {showComments && (
+        <div style={commentsOverlayStyle}>
+          <div style={commentsPanelStyle}>
+            <div style={commentsHeaderStyle}>
+              <div>
+                <strong>Comentarios</strong>
+                <p style={{ margin: '2px 0 0', fontSize: '0.86rem' }}>{title}</p>
+              </div>
+              <button type="button" className="reader-triangle" onClick={() => setShowComments(false)} aria-label="Cerrar comentarios">
+                <X size={16} />
+              </button>
+            </div>
+
+            {user ? (
+              <form onSubmit={handleCommentSubmit} style={{ display: 'flex', gap: '8px', marginBottom: '12px' }}>
+                <input
+                  value={commentText}
+                  onChange={(event) => setCommentText(event.target.value)}
+                  placeholder="Escribe un comentario..."
+                  style={{ flex: 1, borderRadius: '999px', border: '1px solid rgba(120, 79, 23, 0.25)', padding: '10px 12px' }}
+                />
+                <button type="submit" className="reader-triangle" aria-label="Enviar comentario">
+                  <Send size={16} />
+                </button>
+              </form>
+            ) : (
+              <button type="button" className="reader-audio-button" onClick={loginWithGoogle}>
+                Iniciar con Google para comentar
+              </button>
+            )}
+
+            <div style={{ display: 'grid', gap: '10px', maxHeight: '46svh', overflow: 'auto', paddingRight: '4px' }}>
+              {comments.length === 0 && <small>Aún no hay comentarios.</small>}
+              {comments.map((comment) => (
+                <div key={comment.id} style={{ fontSize: '0.9rem', borderTop: '1px solid rgba(120, 79, 23, 0.12)', paddingTop: '8px' }}>
+                  <strong>{comment.displayName || 'Usuario'}</strong>
+                  <p style={{ margin: '3px 0 0' }}>{comment.text}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      )}
 
       <div className="reader-controls immersive-reader-controls" aria-label="Controles de lectura">
         <Link className="reader-home-button" to="/historias" aria-label="Ir a historias">
