@@ -159,13 +159,7 @@ export default function BookReader({ title, subtitle, chapters = [], pages = [],
 
   useEffect(() => listenToStoryStats(storyId, (stats) => setLikeCount(stats.likeCount)), [storyId]);
 
-  useEffect(() => {
-    if (!user?.uid) {
-      setLiked(false);
-      return undefined;
-    }
-    return listenToUserLike(storyId, user.uid, setLiked);
-  }, [storyId, user?.uid]);
+  useEffect(() => listenToUserLike(storyId, setLiked), [storyId]);
 
   useEffect(() => {
     if (!showComments) return undefined;
@@ -214,11 +208,7 @@ export default function BookReader({ title, subtitle, chapters = [], pages = [],
   }, []);
 
   async function handleLike() {
-    if (!user) {
-      await loginWithGoogle();
-      return;
-    }
-    await toggleStoryLike(storyId, user);
+    await toggleStoryLike(storyId);
   }
 
   async function handleCommentSubmit(event) {
