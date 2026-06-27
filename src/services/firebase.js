@@ -1,4 +1,5 @@
 import { initializeApp } from 'firebase/app';
+import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
@@ -14,3 +15,4 @@ const firebaseConfig = {
 export const firebaseReady = Boolean(firebaseConfig.apiKey && firebaseConfig.authDomain && firebaseConfig.projectId && firebaseConfig.appId);
 export const firebaseApp = firebaseReady ? initializeApp(firebaseConfig) : null;
 export const db = firebaseReady ? getFirestore(firebaseApp) : null;
+export const auth = firebaseReady ? getAuth(firebaseApp) : null;
