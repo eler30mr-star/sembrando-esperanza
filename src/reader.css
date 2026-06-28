@@ -30,25 +30,38 @@ body:has(.immersive-reader-page),
   position: relative;
   z-index: 2;
   width: 100%;
+  height: 100%;
   display: flex !important;
   flex-direction: column !important;
   min-height: 0 !important;
-  padding-bottom: 0 !important;
+  gap: 10px;
+  overflow: hidden;
+  padding-bottom: 0;
 }
 
-.reader-page-content > div:first-child {
-  flex: 0 0 calc(100% - 76px) !important;
+.reader-text-box {
+  flex: 1 1 auto;
   min-height: 0 !important;
-  height: calc(100% - 76px) !important;
-  max-height: calc(100% - 76px) !important;
   overflow: hidden !important;
 }
 
-.reader-page-content > div:nth-child(2) {
-  position: static !important;
-  flex: 0 0 76px !important;
-  height: 76px !important;
-  padding-top: 8px !important;
+.reader-chapter-header {
+  margin-bottom: 14px;
+  text-align: center;
+}
+
+.reader-chapter-header span {
+  display: block;
+  margin-bottom: 6px;
+  color: var(--gold-dark);
+  font-weight: 800;
+  letter-spacing: 0.12em;
+}
+
+.reader-story-actions {
+  flex: 0 0 auto;
+  min-height: 58px;
+  padding-top: 6px;
   display: flex !important;
   align-items: center !important;
   justify-content: center !important;
@@ -84,6 +97,7 @@ body:has(.immersive-reader-page),
 }
 
 .immersive-book-page p {
+  margin: 0;
   text-align: justify;
   text-justify: inter-word;
   hyphens: none;
@@ -142,6 +156,26 @@ body:has(.immersive-reader-page),
     word-break: normal;
     overflow-wrap: normal;
     word-spacing: 0;
+  }
+
+  .reader-page-content {
+    gap: 8px;
+  }
+
+  .reader-chapter-header {
+    margin-bottom: 10px;
+  }
+
+  .reader-chapter-header span {
+    margin-bottom: 4px;
+    font-size: 0.72rem;
+    letter-spacing: 0.08em;
+  }
+
+  .reader-story-actions {
+    min-height: 52px;
+    padding-top: 4px;
+    gap: 14px !important;
   }
 
   .immersive-reader-controls {
