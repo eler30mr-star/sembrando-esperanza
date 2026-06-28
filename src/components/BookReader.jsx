@@ -1,5 +1,6 @@
 import { useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
+import { Heart, Home, MessageCircle, Play, Share2 } from 'lucide-react';
 
 const LIMIT = 901;
 
@@ -35,7 +36,7 @@ export default function BookReader({ title, chapters = [], pages = [] }) {
   const current = readerPages[page] || { content: '', chapterTitle: '', chapterNumber: 1, first: true };
   const back = () => setPage((v) => Math.max(v - 1, 0));
   const next = () => setPage((v) => Math.min(v + 1, readerPages.length - 1));
-  const actionStyle = { border: 0, background: 'transparent', color: '#6f4b16', fontWeight: 800, display: 'inline-flex', flexDirection: 'column', alignItems: 'center', gap: 3 };
+  const actionStyle = { border: 0, background: 'transparent', color: '#6f4b16', fontWeight: 800, display: 'inline-flex', flexDirection: 'column', alignItems: 'center', gap: 3, cursor: 'pointer' };
 
   return (
     <section className="reader-shell immersive-reader">
@@ -51,17 +52,17 @@ export default function BookReader({ title, chapters = [], pages = [] }) {
               <p style={{ margin: 0, fontSize: '1.04rem', lineHeight: 1.58, textAlign: 'justify' }}>{current.content}</p>
             </div>
             <div style={{ position: 'absolute', left: 0, right: 0, bottom: 0, display: 'flex', justifyContent: 'center', gap: 18 }}>
-              <button type="button" style={actionStyle}>Me gusta</button>
-              <button type="button" style={actionStyle}>Comentar</button>
-              <button type="button" style={actionStyle}>Compartir</button>
+              <button type="button" style={actionStyle} aria-label="Me gusta"><Heart size={22} /><span>0</span></button>
+              <button type="button" style={actionStyle} aria-label="Comentar"><MessageCircle size={22} /><span>0</span></button>
+              <button type="button" style={actionStyle} aria-label="Compartir"><Share2 size={22} /><span>Compartir</span></button>
             </div>
           </div>
         </article>
       </div>
       <div className="reader-controls immersive-reader-controls">
-        <Link className="reader-home-button" to="/historias">Inicio</Link>
+        <Link className="reader-home-button" to="/historias"><Home size={18} /> Inicio</Link>
         <button className="reader-triangle" onClick={back} disabled={page === 0}>◀</button>
-        <button className="reader-audio-button" type="button">Audio</button>
+        <button className="reader-audio-button" type="button"><Play size={18} /> Audio</button>
         <button className="reader-triangle" onClick={next} disabled={page === readerPages.length - 1}>▶</button>
       </div>
     </section>
