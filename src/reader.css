@@ -2,28 +2,70 @@ html:has(.immersive-reader-page),
 body:has(.immersive-reader-page),
 #root:has(.immersive-reader-page),
 .site-shell:has(.immersive-reader-page) {
-  min-height: 100svh;
+  min-height: 100dvh;
   overflow: hidden;
 }
 
 .immersive-reader-page {
-  height: 100svh !important;
-  min-height: 100svh !important;
+  width: 100%;
+  height: 100dvh !important;
+  min-height: 100dvh !important;
   overflow: hidden;
+  padding: clamp(8px, 1.2vw, 14px) !important;
 }
 
 .immersive-reader {
-  height: calc(100svh - 16px) !important;
+  width: min(100%, 1380px);
+  height: calc(100dvh - clamp(16px, 2.4vw, 28px)) !important;
   min-height: 0 !important;
+  margin: 0 auto;
+  display: grid !important;
   grid-template-rows: auto minmax(0, 1fr) auto;
-  gap: 8px !important;
+  gap: clamp(8px, 1.3vh, 12px) !important;
+  padding: clamp(10px, 1.3vw, 16px) !important;
+  background: rgba(255, 255, 255, 0.86);
+  border-radius: clamp(18px, 2vw, 28px);
+  overflow: hidden;
+}
+
+.immersive-reader-top {
+  display: flex !important;
+  align-items: end !important;
+  justify-content: space-between !important;
+  gap: 14px !important;
+  min-height: 0;
+  margin: 0 !important;
 }
 
 .immersive-reader-top h1 {
-  font-size: clamp(1.35rem, 5vw, 2.7rem) !important;
+  font-size: clamp(1.55rem, 3.4vw, 2.95rem) !important;
   line-height: 0.98 !important;
-  margin-top: 4px !important;
-  margin-bottom: 2px !important;
+  margin: 0 !important;
+}
+
+.page-count {
+  flex: 0 0 auto;
+  padding: 7px 11px !important;
+  font-size: 0.84rem;
+  line-height: 1;
+}
+
+.immersive-book-stage {
+  min-height: 0 !important;
+  height: 100% !important;
+  padding: clamp(9px, 1.3vw, 18px) !important;
+  border-radius: clamp(18px, 2vw, 28px) !important;
+  overflow: hidden;
+}
+
+.immersive-book-page {
+  width: 100%;
+  min-height: 0 !important;
+  height: 100% !important;
+  display: flex !important;
+  align-items: stretch !important;
+  padding: clamp(22px, 3.2vw, 46px) clamp(30px, 5vw, 72px) !important;
+  overflow: hidden !important;
 }
 
 .reader-page-content {
@@ -34,7 +76,7 @@ body:has(.immersive-reader-page),
   display: flex !important;
   flex-direction: column !important;
   min-height: 0 !important;
-  gap: 14px;
+  gap: clamp(8px, 1.2vh, 12px);
   overflow: hidden;
   padding-bottom: 0;
 }
@@ -42,66 +84,40 @@ body:has(.immersive-reader-page),
 .reader-text-box {
   flex: 1 1 auto;
   min-height: 0 !important;
-  padding-bottom: 14px;
-  overflow-y: auto !important;
-  overflow-x: hidden !important;
-  scrollbar-width: thin;
+  padding-bottom: 0;
+  overflow: hidden !important;
 }
 
 .reader-chapter-header {
-  margin-bottom: 14px;
+  margin-bottom: clamp(8px, 1.4vh, 12px);
   text-align: center;
 }
 
 .reader-chapter-header span {
   display: block;
-  margin-bottom: 6px;
+  margin-bottom: 5px;
   color: var(--gold-dark);
   font-weight: 800;
   letter-spacing: 0.12em;
 }
 
-.reader-story-actions {
-  flex: 0 0 auto;
-  min-height: 76px;
-  padding-top: 10px;
-  border-top: 1px solid rgba(120, 79, 23, 0.08);
-  display: flex !important;
-  align-items: center !important;
-  justify-content: center !important;
-  gap: 18px !important;
-}
-
 .reader-chapter-title {
-  margin: 0 0 14px;
+  margin: 0 0 clamp(6px, 1vh, 10px);
   color: var(--gold-dark);
-  font-size: clamp(0.92rem, 2.4vw, 1.15rem);
-  line-height: 1.15;
+  font-size: clamp(0.84rem, 1.7vw, 1.08rem);
+  line-height: 1.12;
   font-weight: 900;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 0.08em;
 }
 
-.page-count {
-  padding: 7px 11px !important;
-  font-size: 0.86rem;
-}
-
-.immersive-book-stage {
-  min-height: 0 !important;
-  height: 100% !important;
-  overflow: hidden;
-}
-
-.immersive-book-page {
-  min-height: 0 !important;
-  height: 100% !important;
-  overflow: hidden !important;
-}
-
 .immersive-book-page p {
+  width: 100%;
   margin: 0;
+  color: #382d20;
+  font-size: clamp(1.05rem, 1.45vw, 1.32rem) !important;
+  line-height: 1.62 !important;
   text-align: justify;
   text-justify: inter-word;
   hyphens: none;
@@ -111,8 +127,46 @@ body:has(.immersive-reader-page),
   word-spacing: 0.01em;
 }
 
+.reader-story-actions {
+  flex: 0 0 auto;
+  min-height: 54px;
+  padding-top: 8px;
+  border-top: 1px solid rgba(120, 79, 23, 0.08);
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 22px !important;
+}
+
 .immersive-reader-controls {
+  margin: 0 !important;
+  align-items: center;
+  gap: 10px !important;
   padding-bottom: max(0px, env(safe-area-inset-bottom));
+}
+
+.reader-home-button,
+.reader-audio-button,
+.reader-triangle {
+  min-height: 40px !important;
+}
+
+@media (max-width: 900px) {
+  .immersive-reader-top {
+    align-items: start !important;
+  }
+
+  .immersive-reader-top h1 {
+    font-size: clamp(1.45rem, 7.8vw, 2.5rem) !important;
+  }
+
+  .page-count {
+    display: none;
+  }
+
+  .immersive-book-page {
+    padding: clamp(22px, 5vw, 36px) clamp(18px, 5vw, 34px) !important;
+  }
 }
 
 @media (max-width: 620px) {
@@ -121,7 +175,7 @@ body:has(.immersive-reader-page),
   }
 
   .immersive-reader {
-    height: calc(100svh - 12px) !important;
+    height: calc(100dvh - 12px) !important;
     padding: 7px !important;
     gap: 7px !important;
   }
@@ -131,29 +185,17 @@ body:has(.immersive-reader-page),
     line-height: 0.98 !important;
   }
 
-  .reader-chapter-title {
-    margin-bottom: 10px;
-    font-size: 0.72rem;
-    line-height: 1.1;
-    letter-spacing: 0.06em;
-  }
-
-  .page-count {
-    padding: 6px 10px !important;
-    font-size: 0.78rem;
-  }
-
   .immersive-book-stage {
     padding: 7px !important;
   }
 
   .immersive-book-page {
-    padding: 22px 20px 34px !important;
+    padding: 22px 20px 32px !important;
   }
 
   .immersive-book-page p {
-    font-size: 0.98rem !important;
-    line-height: 1.56 !important;
+    font-size: 0.96rem !important;
+    line-height: 1.52 !important;
     text-align: justify;
     text-justify: inter-word;
     hyphens: none;
@@ -163,26 +205,29 @@ body:has(.immersive-reader-page),
   }
 
   .reader-page-content {
-    gap: 10px;
-  }
-
-  .reader-text-box {
-    padding-bottom: 10px;
+    gap: 8px;
   }
 
   .reader-chapter-header {
-    margin-bottom: 10px;
+    margin-bottom: 8px;
   }
 
   .reader-chapter-header span {
     margin-bottom: 4px;
-    font-size: 0.72rem;
+    font-size: 0.7rem;
     letter-spacing: 0.08em;
   }
 
+  .reader-chapter-title {
+    margin-bottom: 8px;
+    font-size: 0.72rem;
+    line-height: 1.1;
+    letter-spacing: 0.06em;
+  }
+
   .reader-story-actions {
-    min-height: 62px;
-    padding-top: 6px;
+    min-height: 54px;
+    padding-top: 5px;
     gap: 14px !important;
   }
 
