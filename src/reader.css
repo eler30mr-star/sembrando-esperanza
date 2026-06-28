@@ -180,6 +180,7 @@ body:has(.immersive-reader-page),
   font-size: clamp(1.06rem, 1.45vw, 1.32rem) !important;
   line-height: 1.62 !important;
   text-align: justify;
+  text-align-last: justify;
   text-justify: inter-word;
   hyphens: none;
   overflow-wrap: normal;
@@ -275,6 +276,7 @@ body:has(.immersive-reader-page),
     font-size: 0.96rem !important;
     line-height: 1.52 !important;
     text-align: justify;
+    text-align-last: justify;
     text-justify: inter-word;
     hyphens: none;
     word-break: normal;
