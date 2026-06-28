@@ -4,7 +4,7 @@ import { Heart, Home, MessageCircle, Pause, Play, Send, Share2, X } from 'lucide
 import { listenToUser, loginWithGoogle } from '../services/authService.js';
 import { addStoryComment, listenToComments, listenToStoryStats, listenToUserLike, toggleStoryLike } from '../services/storyEngagementService.js';
 
-const WIDTH_FACTOR = 1;
+const WIDTH_FACTOR = 0.94;
 const textStyle = { margin: 0, fontSize: '1.04rem', lineHeight: 1.58, textAlign: 'justify', whiteSpace: 'pre-wrap' };
 const actionStyle = { border: 0, background: 'transparent', color: '#6f4b16', fontWeight: 800, display: 'inline-flex', flexDirection: 'column', alignItems: 'center', gap: 3, cursor: 'pointer' };
 const cleanTitle = (v) => String(v || '').replace(/\s+/g, ' ').trim();
