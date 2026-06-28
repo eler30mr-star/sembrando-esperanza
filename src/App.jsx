@@ -20,6 +20,7 @@ export default function App() {
         <Route path="/planes" element={<Plans />} />
         <Route path="/planes/:slug" element={<PlanDetail />} />
         <Route path="/historias" element={<Stories />} />
+        <Route path="/historias/categoria/:categorySlug" element={<Stories />} />
         <Route path="/historias/:slug" element={<StoryDetail />} />
         <Route path="/versiculos" element={<Verses />} />
         <Route path="/imagenes" element={<Gallery />} />
