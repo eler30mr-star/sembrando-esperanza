@@ -35,6 +35,7 @@ export default function BookReader({ title, chapters = [], pages = [] }) {
   const current = readerPages[page] || { content: '', chapterTitle: '', chapterNumber: 1, first: true };
   const back = () => setPage((v) => Math.max(v - 1, 0));
   const next = () => setPage((v) => Math.min(v + 1, readerPages.length - 1));
+  const actionStyle = { border: 0, background: 'transparent', color: '#6f4b16', fontWeight: 800, display: 'inline-flex', flexDirection: 'column', alignItems: 'center', gap: 3 };
 
   return (
     <section className="reader-shell immersive-reader">
@@ -44,9 +45,16 @@ export default function BookReader({ title, chapters = [], pages = [] }) {
       <div className="book-stage immersive-book-stage">
         <article className="book-page immersive-book-page">
           <div className="paper-grain" />
-          <div className="reader-page-content" style={{ height: '100%', overflow: 'hidden' }}>
-            {current.first && <div style={{ textAlign: 'center', marginBottom: 16 }}><span style={{ display: 'block', marginBottom: 6, color: 'var(--gold-dark)', fontWeight: 800, letterSpacing: '0.12em' }}>CAPÍTULO {current.chapterNumber}</span><h2 className="reader-chapter-title">{current.chapterTitle}</h2></div>}
-            <p style={{ margin: 0, fontSize: '1.04rem', lineHeight: 1.58, textAlign: 'justify' }}>{current.content}</p>
+          <div className="reader-page-content" style={{ position: 'relative', height: '100%', overflow: 'hidden', paddingBottom: 58, boxSizing: 'border-box' }}>
+            <div style={{ height: '100%', overflow: 'hidden' }}>
+              {current.first && <div style={{ textAlign: 'center', marginBottom: 16 }}><span style={{ display: 'block', marginBottom: 6, color: 'var(--gold-dark)', fontWeight: 800, letterSpacing: '0.12em' }}>CAPÍTULO {current.chapterNumber}</span><h2 className="reader-chapter-title">{current.chapterTitle}</h2></div>}
+              <p style={{ margin: 0, fontSize: '1.04rem', lineHeight: 1.58, textAlign: 'justify' }}>{current.content}</p>
+            </div>
+            <div style={{ position: 'absolute', left: 0, right: 0, bottom: 0, display: 'flex', justifyContent: 'center', gap: 18 }}>
+              <button type="button" style={actionStyle}>Me gusta</button>
+              <button type="button" style={actionStyle}>Comentar</button>
+              <button type="button" style={actionStyle}>Compartir</button>
+            </div>
           </div>
         </article>
       </div>
