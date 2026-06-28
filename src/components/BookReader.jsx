@@ -33,15 +33,10 @@ function takeTextChunk(text, maxChars) {
   };
 }
 
-function getLineCharacterCost(text) {
-  const cleanText = normalizeText(text);
-  return Math.max(1, Math.ceil(cleanText.length / READER_LINE_CHARACTER_COUNT)) * READER_LINE_CHARACTER_COUNT;
-}
-
 function getChapterHeaderCharacterCount(chapterNumber, chapterTitle) {
   return (
-    getLineCharacterCost(`CAPÍTULO ${chapterNumber}`) +
-    getLineCharacterCost(chapterTitle) +
+    normalizeText(`CAPÍTULO ${chapterNumber}`).length +
+    normalizeText(chapterTitle).length +
     READER_LINE_CHARACTER_COUNT
   );
 }
