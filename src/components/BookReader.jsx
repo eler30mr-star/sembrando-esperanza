@@ -31,15 +31,14 @@ function takeTextChunk(text, maxChars) {
   };
 }
 
-function getChapterHeaderCharacterCost(chapterNumber, chapterTitle) {
-  const headerText = normalizeText(`Capítulo ${chapterNumber} ${chapterTitle}`);
-  return headerText.length + 150;
+function getChapterHeaderCharacterCount(chapterNumber, chapterTitle) {
+  return normalizeText(`CAPÍTULO ${chapterNumber} ${chapterTitle}`).length;
 }
 
 function chunkChapterText(text, maxChars, chapterNumber, chapterTitle) {
   const chunks = [];
-  const headerCost = getChapterHeaderCharacterCost(chapterNumber, chapterTitle);
-  const firstPageLimit = Math.max(0, maxChars - headerCost);
+  const headerCount = getChapterHeaderCharacterCount(chapterNumber, chapterTitle);
+  const firstPageLimit = Math.max(0, maxChars - headerCount);
   let remainingText = normalizeText(text);
 
   const firstChunk = takeTextChunk(remainingText, firstPageLimit);
