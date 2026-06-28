@@ -25,7 +25,6 @@ const cleanBody = (v) => String(v || '')
   .replace(/\n{4,}/g, '\n\n\n')
   .trim();
 const wordTokens = (v) => cleanTitle(v).match(/\S+\s*/g) || [];
-const bodyTokens = (v) => cleanBody(v).match(/\n|[^\s\n]+\s*/g) || [];
 
 function canvasCtx() {
   if (typeof document === 'undefined') return null;
@@ -52,10 +51,40 @@ function wrappedLines(ctx, text, width) {
   return n;
 }
 
+function wrapTextIntoVisualLines(ctx, text, width) {
+  const cleaned = cleanBody(text);
+  if (!cleaned) return [];
+  const logicalLines = cleaned.split('\n');
+  const visualLines = [];
+
+  logicalLines.forEach((logicalLine) => {
+    const line = logicalLine.trim();
+    if (!line) {
+      visualLines.push('');
+      return;
+    }
+
+    const tokens = line.match(/\S+\s*/g) || [];
+    let currentLine = '';
+
+    tokens.forEach((token) => {
+      const next = currentLine ? `${currentLine}${token}` : token;
+      if (!currentLine || ctx.measureText(next.trim()).width <= width) {
+        currentLine = next;
+        return;
+      }
+      visualLines.push(currentLine.trimEnd());
+      currentLine = token;
+    });
+
+    if (currentLine) visualLines.push(currentLine.trimEnd());
+  });
+
+  return visualLines;
+}
+
 function paginate(text, layout, chapterTitle) {
-  const toks = bodyTokens(text);
   const ctx = canvasCtx();
-  if (!toks.length) return [''];
   if (!ctx || !layout.width || !layout.height || !layout.bodyLineHeight) return [cleanBody(text)];
 
   const width = layout.width * WIDTH_FACTOR;
@@ -64,64 +93,36 @@ function paginate(text, layout, chapterTitle) {
   const titleLineHeight = layout.titleLineHeight || bodyLineHeight;
   const titleMargin = layout.titleMarginBottom || Math.round(bodyLineHeight * 0.35);
   const pages = [];
-  let page = [];
-  let line = '';
+  let pageLines = [];
   let usedHeight = 0;
-  let pageIndex = 0;
 
   const save = () => {
-    const content = page.join('').trim();
+    const content = pageLines.join('\n').trim();
     if (content) pages.push(content);
-    page = [];
-    line = '';
+    pageLines = [];
     usedHeight = 0;
-    pageIndex += 1;
   };
 
-  const addVisualHeight = (height) => {
-    if (usedHeight + height > pageLimit && page.length) save();
+  const addHeightOnly = (height) => {
     usedHeight += height;
+  };
+
+  const addVisualLine = (visualLine) => {
+    if (usedHeight + bodyLineHeight > pageLimit && pageLines.length) save();
+    pageLines.push(visualLine);
+    usedHeight += bodyLineHeight;
   };
 
   if (chapterTitle) {
     ctx.font = layout.titleFont || layout.bodyFont;
-    const titleHeight = wrappedLines(ctx, chapterTitle, width) * titleLineHeight + titleMargin;
-    addVisualHeight(titleHeight);
+    addHeightOnly(wrappedLines(ctx, chapterTitle, width) * titleLineHeight + titleMargin);
   }
 
   ctx.font = layout.bodyFont;
+  const visualLines = wrapTextIntoVisualLines(ctx, text, width);
+  visualLines.forEach(addVisualLine);
 
-  const addWord = (tok) => {
-    if (!line) {
-      addVisualHeight(bodyLineHeight);
-      page.push(tok);
-      line = tok;
-      return;
-    }
-
-    const next = `${line}${tok}`;
-    if (ctx.measureText(next.trim()).width <= width) {
-      page.push(tok);
-      line = next;
-      return;
-    }
-
-    addVisualHeight(bodyLineHeight);
-    page.push(tok);
-    line = tok;
-  };
-
-  toks.forEach((tok) => {
-    if (tok === '\n') {
-      addVisualHeight(bodyLineHeight);
-      page.push(tok);
-      line = '';
-      return;
-    }
-    addWord(tok);
-  });
-
-  if (page.length) pages.push(page.join('').trim());
+  if (pageLines.length) pages.push(pageLines.join('\n').trim());
   return pages.length ? pages : [''];
 }
 
