@@ -1,8 +1,8 @@
 import { useEffect, useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { Heart, Home, MessageCircle, Pause, Play, Share2 } from 'lucide-react';
+import { Heart, Home, MessageCircle, Pause, Play, Send, Share2, X } from 'lucide-react';
 import { listenToUser, loginWithGoogle } from '../services/authService.js';
-import { addStoryComment, listenToStoryStats, listenToUserLike, toggleStoryLike } from '../services/storyEngagementService.js';
+import { addStoryComment, listenToComments, listenToStoryStats, listenToUserLike, toggleStoryLike } from '../services/storyEngagementService.js';
 
 const LIMIT = 901;
 
@@ -30,6 +30,9 @@ export default function BookReader({ title, chapters = [], pages = [], storyId, 
   const [likeCount, setLikeCount] = useState(0);
   const [commentCount, setCommentCount] = useState(0);
   const [speaking, setSpeaking] = useState(false);
+  const [showComments, setShowComments] = useState(false);
+  const [comments, setComments] = useState([]);
+  const [commentText, setCommentText] = useState('');
 
   const readerPages = useMemo(() => {
     const source = chapters.length ? chapters : [{ title: 'Capítulo 1', content: pages.join(' ') }];
@@ -53,6 +56,10 @@ export default function BookReader({ title, chapters = [], pages = [], storyId, 
   }), [storyId]);
   useEffect(() => listenToUserLike(storyId, setLiked), [storyId]);
   useEffect(() => {
+    if (!showComments) return undefined;
+    return listenToComments(storyId, setComments);
+  }, [storyId, showComments]);
+  useEffect(() => {
     if ('speechSynthesis' in window) {
       window.speechSynthesis.cancel();
       setSpeaking(false);
@@ -62,13 +69,16 @@ export default function BookReader({ title, chapters = [], pages = [], storyId, 
     if ('speechSynthesis' in window) window.speechSynthesis.cancel();
   }, []);
 
-  async function handleComment() {
+  async function handleCommentSubmit(event) {
+    event.preventDefault();
     if (!user) {
       await loginWithGoogle();
       return;
     }
-    const text = window.prompt('Escribe un comentario');
-    if (text && text.trim()) await addStoryComment(storyId, user, text.trim());
+    const text = commentText.trim();
+    if (!text) return;
+    await addStoryComment(storyId, user, text);
+    setCommentText('');
   }
 
   async function handleShare() {
@@ -114,12 +124,19 @@ export default function BookReader({ title, chapters = [], pages = [], storyId, 
             </div>
             <div style={{ position: 'absolute', left: 0, right: 0, bottom: 0, display: 'flex', justifyContent: 'center', gap: 18 }}>
               <button type="button" style={actionStyle} onClick={() => toggleStoryLike(storyId)} aria-label="Me gusta"><Heart size={22} fill={liked ? 'currentColor' : 'none'} /><span>{likeCount}</span></button>
-              <button type="button" style={actionStyle} onClick={handleComment} aria-label="Comentar"><MessageCircle size={22} /><span>{commentCount}</span></button>
+              <button type="button" style={actionStyle} onClick={() => setShowComments(true)} aria-label="Comentar"><MessageCircle size={22} /><span>{commentCount}</span></button>
               <button type="button" style={actionStyle} onClick={handleShare} aria-label="Compartir"><Share2 size={22} /><span>Compartir</span></button>
             </div>
           </div>
         </article>
       </div>
+      {showComments && <div style={{ position: 'fixed', inset: 0, zIndex: 9999, background: 'rgba(25,18,10,.48)', display: 'flex', alignItems: 'flex-end', justifyContent: 'center', padding: 16 }}>
+        <div style={{ width: 'min(560px,100%)', maxHeight: '78svh', overflow: 'hidden', borderRadius: 24, background: '#fff8ea', border: '1px solid rgba(120,79,23,.18)', boxShadow: '0 24px 70px rgba(0,0,0,.28)', padding: 16 }}>
+          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: 12, marginBottom: 12 }}><div><strong>Comentarios</strong><p style={{ margin: '2px 0 0', fontSize: '.86rem' }}>{title}</p></div><button type="button" className="reader-triangle" onClick={() => setShowComments(false)}><X size={16} /></button></div>
+          {user ? <form onSubmit={handleCommentSubmit} style={{ display: 'flex', gap: 8, marginBottom: 12 }}><input value={commentText} onChange={(event) => setCommentText(event.target.value)} placeholder="Escribe un comentario..." style={{ flex: 1, borderRadius: 999, border: '1px solid rgba(120,79,23,.25)', padding: '10px 12px' }} /><button type="submit" className="reader-triangle"><Send size={16} /></button></form> : <button type="button" className="reader-audio-button" onClick={loginWithGoogle} style={{ marginBottom: 12 }}>Iniciar con Google para comentar</button>}
+          <div style={{ display: 'grid', gap: 10, maxHeight: '46svh', overflow: 'auto', paddingRight: 4 }}>{comments.length === 0 && <small>Aún no hay comentarios.</small>}{comments.map((comment) => <div key={comment.id} style={{ fontSize: '.9rem', borderTop: '1px solid rgba(120,79,23,.12)', paddingTop: 8 }}><strong>{comment.displayName || 'Usuario'}</strong><p style={{ margin: '3px 0 0' }}>{comment.text}</p></div>)}</div>
+        </div>
+      </div>}
       <div className="reader-controls immersive-reader-controls">
         <Link className="reader-home-button" to="/historias"><Home size={18} /> Inicio</Link>
         <button className="reader-triangle" onClick={back} disabled={page === 0}>◀</button>
