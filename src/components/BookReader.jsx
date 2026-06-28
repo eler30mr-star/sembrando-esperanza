@@ -52,6 +52,7 @@ function renderMeasurementPage(measurer, { content, chapterNumber, chapterTitle,
     chapter.textContent = `Capítulo ${chapterNumber}`;
     chapter.style.display = 'block';
     chapter.style.marginBottom = '6px';
+    chapter.style.color = 'var(--gold-dark)';
     chapter.style.fontSize = '0.78rem';
     chapter.style.fontWeight = '800';
     chapter.style.letterSpacing = '0.12em';
@@ -73,6 +74,9 @@ function renderMeasurementPage(measurer, { content, chapterNumber, chapterTitle,
   paragraph.style.fontSize = '1.04rem';
   paragraph.style.lineHeight = '1.58';
   paragraph.style.whiteSpace = 'pre-wrap';
+  paragraph.style.textAlign = 'left';
+  paragraph.style.wordSpacing = 'normal';
+  paragraph.style.letterSpacing = 'normal';
 
   wrapper.appendChild(paragraph);
   measurer.appendChild(wrapper);
@@ -86,7 +90,12 @@ function buildVisualPages({ chapters, measurer, textArea }) {
 
   if (!availableHeight || !availableWidth) return [];
 
+  const computedTextArea = window.getComputedStyle(textArea);
   measurer.style.width = `${availableWidth}px`;
+  measurer.style.fontFamily = computedTextArea.fontFamily;
+  measurer.style.textAlign = 'left';
+  measurer.style.wordSpacing = 'normal';
+  measurer.style.letterSpacing = 'normal';
 
   const fits = ({ content, chapterNumber, chapterTitle, isFirstChapterPage }) => {
     renderMeasurementPage(measurer, { content, chapterNumber, chapterTitle, isFirstChapterPage });
@@ -180,7 +189,10 @@ const pageContentStyle = {
 const textAreaStyle = {
   flex: 1,
   minHeight: 0,
-  overflow: 'hidden'
+  overflow: 'hidden',
+  textAlign: 'left',
+  wordSpacing: 'normal',
+  letterSpacing: 'normal'
 };
 
 const chapterHeaderStyle = {
@@ -202,7 +214,10 @@ const readerTextStyle = {
   margin: 0,
   fontSize: '1.04rem',
   lineHeight: 1.58,
-  whiteSpace: 'pre-wrap'
+  whiteSpace: 'pre-wrap',
+  textAlign: 'left',
+  wordSpacing: 'normal',
+  letterSpacing: 'normal'
 };
 
 const actionBarStyle = {
@@ -290,6 +305,11 @@ export default function BookReader({ title, subtitle, chapters = [], pages = [],
   useEffect(() => {
     const handleResize = () => setLayoutVersion((value) => value + 1);
     window.addEventListener('resize', handleResize);
+
+    if (document.fonts?.ready) {
+      document.fonts.ready.then(handleResize).catch(() => {});
+    }
+
     return () => window.removeEventListener('resize', handleResize);
   }, []);
 
