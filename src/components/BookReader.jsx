@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { Heart, Home, MessageCircle, Play, Share2 } from 'lucide-react';
+import { Heart, Home, MessageCircle, Pause, Play, Share2 } from 'lucide-react';
 import { listenToUser, loginWithGoogle } from '../services/authService.js';
 import { addStoryComment, listenToStoryStats, listenToUserLike, toggleStoryLike } from '../services/storyEngagementService.js';
 
@@ -29,6 +29,7 @@ export default function BookReader({ title, chapters = [], pages = [], storyId, 
   const [liked, setLiked] = useState(false);
   const [likeCount, setLikeCount] = useState(0);
   const [commentCount, setCommentCount] = useState(0);
+  const [speaking, setSpeaking] = useState(false);
 
   const readerPages = useMemo(() => {
     const source = chapters.length ? chapters : [{ title: 'Capítulo 1', content: pages.join(' ') }];
@@ -51,6 +52,15 @@ export default function BookReader({ title, chapters = [], pages = [], storyId, 
     setCommentCount(stats.commentCount);
   }), [storyId]);
   useEffect(() => listenToUserLike(storyId, setLiked), [storyId]);
+  useEffect(() => {
+    if ('speechSynthesis' in window) {
+      window.speechSynthesis.cancel();
+      setSpeaking(false);
+    }
+  }, [page]);
+  useEffect(() => () => {
+    if ('speechSynthesis' in window) window.speechSynthesis.cancel();
+  }, []);
 
   async function handleComment() {
     if (!user) {
@@ -68,6 +78,25 @@ export default function BookReader({ title, chapters = [], pages = [], storyId, 
       await navigator.clipboard.writeText(url);
       alert('Enlace copiado');
     }
+  }
+
+  function toggleAudio() {
+    if (!('speechSynthesis' in window)) return;
+    if (speaking) {
+      window.speechSynthesis.cancel();
+      setSpeaking(false);
+      return;
+    }
+    const text = [page === 0 ? title : '', current.first ? `Capítulo ${current.chapterNumber}. ${current.chapterTitle}` : '', current.content].filter(Boolean).join('. ');
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.lang = 'es-ES';
+    utterance.rate = 0.92;
+    utterance.pitch = 1;
+    utterance.onend = () => setSpeaking(false);
+    utterance.onerror = () => setSpeaking(false);
+    window.speechSynthesis.cancel();
+    window.speechSynthesis.speak(utterance);
+    setSpeaking(true);
   }
 
   return (
@@ -94,7 +123,7 @@ export default function BookReader({ title, chapters = [], pages = [], storyId, 
       <div className="reader-controls immersive-reader-controls">
         <Link className="reader-home-button" to="/historias"><Home size={18} /> Inicio</Link>
         <button className="reader-triangle" onClick={back} disabled={page === 0}>◀</button>
-        <button className="reader-audio-button" type="button"><Play size={18} /> Audio</button>
+        <button className="reader-audio-button" type="button" onClick={toggleAudio}>{speaking ? <Pause size={18} /> : <Play size={18} />} Audio</button>
         <button className="reader-triangle" onClick={next} disabled={page === readerPages.length - 1}>▶</button>
       </div>
     </section>
