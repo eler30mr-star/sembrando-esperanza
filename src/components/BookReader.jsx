@@ -31,10 +31,15 @@ function takeTextChunk(text, maxChars) {
   };
 }
 
-function chunkChapterText(text, maxChars, firstPageHeaderText = '') {
+function getChapterHeaderCharacterCost(chapterNumber, chapterTitle) {
+  const headerText = normalizeText(`Capítulo ${chapterNumber} ${chapterTitle}`);
+  return headerText.length + 150;
+}
+
+function chunkChapterText(text, maxChars, chapterNumber, chapterTitle) {
   const chunks = [];
-  const headerLength = normalizeText(firstPageHeaderText).length;
-  const firstPageLimit = Math.max(0, maxChars - headerLength);
+  const headerCost = getChapterHeaderCharacterCost(chapterNumber, chapterTitle);
+  const firstPageLimit = Math.max(0, maxChars - headerCost);
   let remainingText = normalizeText(text);
 
   const firstChunk = takeTextChunk(remainingText, firstPageLimit);
@@ -198,8 +203,7 @@ export default function BookReader({ title, subtitle, chapters = [], pages = [],
 
     return normalizedChapters.flatMap((chapter, chapterIndex) => {
       const chapterNumber = chapterIndex + 1;
-      const chapterHeaderText = `Capítulo ${chapterNumber} ${chapter.title}`;
-      const chapterPages = chunkChapterText(chapter.content, maxChars, chapterHeaderText);
+      const chapterPages = chunkChapterText(chapter.content, maxChars, chapterNumber, chapter.title);
       return chapterPages.map((content, pageIndex) => ({
         content,
         chapterTitle: chapter.title,
