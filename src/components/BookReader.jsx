@@ -11,7 +11,7 @@ import {
 } from '../services/storyEngagementService.js';
 
 const WIDTH_FACTOR = 0.94;
-const PAGE_LINE_SAFETY = 3;
+const PAGE_BOTTOM_SAFETY = 28;
 
 const cleanTitle = (v) => String(v || '').replace(/\s+/g, ' ').trim();
 const cleanBody = (v) => String(v || '')
@@ -56,32 +56,46 @@ function paginate(text, layout, chapterTitle) {
   const toks = bodyTokens(text);
   const ctx = canvasCtx();
   if (!toks.length) return [''];
-  if (!ctx || !layout.width || !layout.lines) return [cleanBody(text)];
+  if (!ctx || !layout.width || !layout.height || !layout.bodyLineHeight) return [cleanBody(text)];
 
-  ctx.font = layout.font;
   const width = layout.width * WIDTH_FACTOR;
-  const header = wrappedLines(ctx, chapterTitle, width) + 2;
+  const pageLimit = Math.max(layout.bodyLineHeight * 5, layout.height - PAGE_BOTTOM_SAFETY);
+  const bodyLineHeight = layout.bodyLineHeight;
+  const titleLineHeight = layout.titleLineHeight || bodyLineHeight;
+  const titleMargin = layout.titleMarginBottom || Math.round(bodyLineHeight * 0.35);
   const pages = [];
   let page = [];
   let line = '';
-  let used = 0;
+  let usedHeight = 0;
   let pageIndex = 0;
 
-  const limit = () => Math.max(7, layout.lines - PAGE_LINE_SAFETY - (pageIndex === 0 ? header : 0));
   const save = () => {
     const content = page.join('').trim();
     if (content) pages.push(content);
     page = [];
     line = '';
-    used = 0;
+    usedHeight = 0;
     pageIndex += 1;
   };
+
+  const addVisualHeight = (height) => {
+    if (usedHeight + height > pageLimit && page.length) save();
+    usedHeight += height;
+  };
+
+  if (chapterTitle) {
+    ctx.font = layout.titleFont || layout.bodyFont;
+    const titleHeight = wrappedLines(ctx, chapterTitle, width) * titleLineHeight + titleMargin;
+    addVisualHeight(titleHeight);
+  }
+
+  ctx.font = layout.bodyFont;
+
   const addWord = (tok) => {
     if (!line) {
-      if (used + 1 > limit()) save();
+      addVisualHeight(bodyLineHeight);
       page.push(tok);
       line = tok;
-      used += 1;
       return;
     }
 
@@ -92,20 +106,16 @@ function paginate(text, layout, chapterTitle) {
       return;
     }
 
-    if (used + 1 > limit()) save();
+    addVisualHeight(bodyLineHeight);
     page.push(tok);
     line = tok;
-    used += 1;
   };
 
   toks.forEach((tok) => {
     if (tok === '\n') {
-      if (used + 1 > limit()) save();
-      else {
-        page.push(tok);
-        line = '';
-        used += 1;
-      }
+      addVisualHeight(bodyLineHeight);
+      page.push(tok);
+      line = '';
       return;
     }
     addWord(tok);
@@ -118,7 +128,7 @@ function paginate(text, layout, chapterTitle) {
 export default function BookReader({ title, chapters = [], pages = [], storyId, storySlug }) {
   const textBoxRef = useRef(null);
   const utteranceRef = useRef(null);
-  const [layout, setLayout] = useState({ width: 0, lines: 12, font: '16px serif' });
+  const [layout, setLayout] = useState({ width: 0, height: 0, bodyFont: '16px serif', bodyLineHeight: 24, titleFont: '16px serif', titleLineHeight: 24, titleMarginBottom: 8 });
   const [page, setPage] = useState(0);
   const [user, setUser] = useState(null);
   const [liked, setLiked] = useState(false);
@@ -151,17 +161,33 @@ export default function BookReader({ title, chapters = [], pages = [], storyId, 
       const box = textBoxRef.current;
       if (!box) return;
       const p = box.querySelector('p') || box;
-      const s = window.getComputedStyle(p);
-      const fs = parseFloat(s.fontSize) || 16;
-      const lh = parseFloat(s.lineHeight) || fs * 1.58;
-      const font = s.font || `${s.fontWeight} ${s.fontSize} ${s.fontFamily}`;
+      const titleEl = box.querySelector('.reader-chapter-title');
+      const bodyStyle = window.getComputedStyle(p);
+      const titleStyle = titleEl ? window.getComputedStyle(titleEl) : bodyStyle;
+      const bodyFontSize = parseFloat(bodyStyle.fontSize) || 16;
+      const titleFontSize = parseFloat(titleStyle.fontSize) || bodyFontSize;
+      const bodyLineHeight = parseFloat(bodyStyle.lineHeight) || bodyFontSize * 1.58;
+      const titleLineHeight = parseFloat(titleStyle.lineHeight) || titleFontSize * 1.2;
+      const titleMarginBottom = parseFloat(titleStyle.marginBottom) || Math.round(bodyLineHeight * 0.35);
+      const bodyFont = bodyStyle.font || `${bodyStyle.fontWeight} ${bodyStyle.fontSize} ${bodyStyle.fontFamily}`;
+      const titleFont = titleStyle.font || `${titleStyle.fontWeight} ${titleStyle.fontSize} ${titleStyle.fontFamily}`;
       const next = {
         width: box.clientWidth,
-        lines: Math.max(8, Math.floor((box.clientHeight - 26) / lh)),
-        font
+        height: box.clientHeight,
+        bodyFont,
+        bodyLineHeight,
+        titleFont,
+        titleLineHeight,
+        titleMarginBottom
       };
       setLayout((prev) => (
-        prev.width === next.width && prev.lines === next.lines && prev.font === next.font ? prev : next
+        prev.width === next.width &&
+        prev.height === next.height &&
+        prev.bodyFont === next.bodyFont &&
+        prev.bodyLineHeight === next.bodyLineHeight &&
+        prev.titleFont === next.titleFont &&
+        prev.titleLineHeight === next.titleLineHeight &&
+        prev.titleMarginBottom === next.titleMarginBottom ? prev : next
       ));
     };
 
@@ -190,7 +216,7 @@ export default function BookReader({ title, chapters = [], pages = [], storyId, 
     }
   }, [page]);
   useEffect(() => () => { if ('speechSynthesis' in window) window.speechSynthesis.cancel(); }, []);
-  useEffect(() => setPage(0), [chapters, pages, layout.width, layout.lines]);
+  useEffect(() => setPage(0), [chapters, pages, layout.width, layout.height]);
 
   async function submitComment(e) {
     e.preventDefault();
