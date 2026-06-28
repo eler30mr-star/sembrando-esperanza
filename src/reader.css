@@ -219,8 +219,8 @@ body:has(.immersive-reader-page),
   display: flex !important;
   align-items: center !important;
   justify-content: center !important;
-  gap: clamp(10px, 2vw, 18px) !important;
-  padding: 2px 0 max(0px, env(safe-area-inset-bottom));
+  gap: clamp(18px, 4vw, 42px) !important;
+  padding: 4px 0 max(0px, env(safe-area-inset-bottom));
 }
 
 @media (max-width: 900px) {
@@ -323,7 +323,7 @@ body:has(.immersive-reader-page),
   }
 
   .immersive-reader-controls {
-    gap: 8px !important;
+    gap: clamp(13px, 4.2vw, 24px) !important;
     flex-wrap: nowrap !important;
   }
 
