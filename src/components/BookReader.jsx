@@ -10,8 +10,8 @@ import {
   toggleStoryLike
 } from '../services/storyEngagementService.js';
 
-const WIDTH_FACTOR = 0.76;
-const PAGE_LINE_SAFETY = 6;
+const WIDTH_FACTOR = 0.94;
+const PAGE_LINE_SAFETY = 1;
 
 const cleanTitle = (v) => String(v || '').replace(/\s+/g, ' ').trim();
 const cleanBody = (v) => String(v || '')
@@ -60,14 +60,14 @@ function paginate(text, layout, chapterTitle) {
 
   ctx.font = layout.font;
   const width = layout.width * WIDTH_FACTOR;
-  const header = wrappedLines(ctx, chapterTitle, width) + 3;
+  const header = wrappedLines(ctx, chapterTitle, width) + 1;
   const pages = [];
   let page = [];
   let line = '';
   let used = 0;
   let pageIndex = 0;
 
-  const limit = () => Math.max(3, layout.lines - PAGE_LINE_SAFETY - (pageIndex === 0 ? header : 0));
+  const limit = () => Math.max(7, layout.lines - PAGE_LINE_SAFETY - (pageIndex === 0 ? header : 0));
   const save = () => {
     const content = page.join('').trim();
     if (content) pages.push(content);
@@ -157,7 +157,7 @@ export default function BookReader({ title, chapters = [], pages = [], storyId, 
       const font = s.font || `${s.fontWeight} ${s.fontSize} ${s.fontFamily}`;
       const next = {
         width: box.clientWidth,
-        lines: Math.max(3, Math.floor((box.clientHeight - 18) / lh)),
+        lines: Math.max(8, Math.floor((box.clientHeight - 10) / lh)),
         font
       };
       setLayout((prev) => (
