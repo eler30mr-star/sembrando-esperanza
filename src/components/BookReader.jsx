@@ -4,28 +4,49 @@ import { Heart, Home, MessageCircle, Pause, Play, Send, Share2, X } from 'lucide
 import { listenToUser, loginWithGoogle } from '../services/authService.js';
 import { addStoryComment, listenToComments, listenToStoryStats, listenToUserLike, toggleStoryLike } from '../services/storyEngagementService.js';
 
-function chunkText(text, maxChars) {
-  const cleanText = String(text || '')
-    .replace(/\s+/g, ' ')
-    .trim();
+function normalizeText(text) {
+  return String(text || '').replace(/\s+/g, ' ').trim();
+}
 
-  if (!cleanText) return [''];
+function takeTextChunk(text, maxChars) {
+  const cleanText = normalizeText(text);
 
-  const chunks = [];
-  let remainingText = cleanText;
-
-  while (remainingText.length > maxChars) {
-    let cutIndex = remainingText.lastIndexOf(' ', maxChars);
-
-    if (cutIndex < Math.floor(maxChars * 0.82)) {
-      cutIndex = maxChars;
-    }
-
-    chunks.push(remainingText.slice(0, cutIndex).trim());
-    remainingText = remainingText.slice(cutIndex).trim();
+  if (!cleanText) {
+    return { chunk: '', remaining: '' };
   }
 
-  if (remainingText) chunks.push(remainingText);
+  if (cleanText.length <= maxChars) {
+    return { chunk: cleanText, remaining: '' };
+  }
+
+  let cutIndex = cleanText.lastIndexOf(' ', maxChars);
+
+  if (cutIndex < Math.floor(maxChars * 0.82)) {
+    cutIndex = maxChars;
+  }
+
+  return {
+    chunk: cleanText.slice(0, cutIndex).trim(),
+    remaining: cleanText.slice(cutIndex).trim()
+  };
+}
+
+function chunkChapterText(text, maxChars, firstPageHeaderText = '') {
+  const chunks = [];
+  const headerLength = normalizeText(firstPageHeaderText).length;
+  const firstPageLimit = Math.max(220, maxChars - headerLength);
+  let remainingText = normalizeText(text);
+
+  const firstChunk = takeTextChunk(remainingText, firstPageLimit);
+  chunks.push(firstChunk.chunk);
+  remainingText = firstChunk.remaining;
+
+  while (remainingText) {
+    const nextChunk = takeTextChunk(remainingText, maxChars);
+    chunks.push(nextChunk.chunk);
+    remainingText = nextChunk.remaining;
+  }
+
   return chunks.length ? chunks : [''];
 }
 
@@ -176,11 +197,13 @@ export default function BookReader({ title, subtitle, chapters = [], pages = [],
     const normalizedChapters = normalizeChapters({ chapters, pages });
 
     return normalizedChapters.flatMap((chapter, chapterIndex) => {
-      const chapterPages = chunkText(chapter.content, maxChars);
+      const chapterNumber = chapterIndex + 1;
+      const chapterHeaderText = `Capítulo ${chapterNumber} ${chapter.title}`;
+      const chapterPages = chunkChapterText(chapter.content, maxChars, chapterHeaderText);
       return chapterPages.map((content, pageIndex) => ({
         content,
         chapterTitle: chapter.title,
-        chapterNumber: chapterIndex + 1,
+        chapterNumber,
         isFirstChapterPage: pageIndex === 0
       }));
     });
