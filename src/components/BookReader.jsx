@@ -4,14 +4,15 @@ import { Heart, Home, MessageCircle, Pause, Play, Send, Share2, X } from 'lucide
 import { listenToUser, loginWithGoogle } from '../services/authService.js';
 import { addStoryComment, listenToComments, listenToStoryStats, listenToUserLike, toggleStoryLike } from '../services/storyEngagementService.js';
 
+const READER_PAGE_CHARACTER_LIMIT = 813;
 const READER_LINE_CHARACTER_COUNT = 35;
 
-function normalizeText(text) {
-  return String(text || '').replace(/\s+/g, ' ').trim();
+function prepareTextForCounting(text) {
+  return String(text || '').trim();
 }
 
 function takeTextChunk(text, maxChars) {
-  const cleanText = normalizeText(text);
+  const cleanText = prepareTextForCounting(text);
 
   if (!cleanText || maxChars <= 0) {
     return { chunk: '', remaining: cleanText };
@@ -35,8 +36,8 @@ function takeTextChunk(text, maxChars) {
 
 function getChapterHeaderCharacterCount(chapterNumber, chapterTitle) {
   return (
-    normalizeText(`CAPÍTULO ${chapterNumber}`).length +
-    normalizeText(chapterTitle).length +
+    prepareTextForCounting(`CAPÍTULO ${chapterNumber}`).length +
+    prepareTextForCounting(chapterTitle).length +
     READER_LINE_CHARACTER_COUNT
   );
 }
@@ -45,7 +46,7 @@ function chunkChapterText(text, maxChars, chapterNumber, chapterTitle) {
   const chunks = [];
   const headerCount = getChapterHeaderCharacterCount(chapterNumber, chapterTitle);
   const firstPageLimit = Math.max(0, maxChars - headerCount);
-  let remainingText = normalizeText(text);
+  let remainingText = prepareTextForCounting(text);
 
   const firstChunk = takeTextChunk(remainingText, firstPageLimit);
   chunks.push(firstChunk.chunk);
@@ -61,11 +62,7 @@ function chunkChapterText(text, maxChars, chapterNumber, chapterTitle) {
 }
 
 function getMaxChars() {
-  if (typeof window === 'undefined') return 973;
-  if (window.innerWidth <= 420) return 823;
-  if (window.innerWidth <= 620) return 973;
-  if (window.innerWidth <= 900) return 1423;
-  return 2023;
+  return READER_PAGE_CHARACTER_LIMIT;
 }
 
 function normalizeChapters({ chapters = [], pages = [] }) {
