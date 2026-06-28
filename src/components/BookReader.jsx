@@ -18,7 +18,30 @@ function getCanvas() {
   return getCanvas.canvas.getContext('2d');
 }
 
-function splitByLines(text, layout, headerLines) {
+function wrappedLineCount(ctx, text, width) {
+  const words = getWords(text);
+  if (!words.length) return 0;
+  let lines = 1;
+  let current = '';
+  words.forEach((word) => {
+    const candidate = current ? `${current}${word}` : word;
+    if (ctx.measureText(candidate.trim()).width <= width) {
+      current = candidate;
+    } else {
+      lines += 1;
+      current = word;
+    }
+  });
+  return lines;
+}
+
+function headerLineCount(ctx, chapterTitle, chapterNumber, layout) {
+  if (!layout.width) return 0;
+  const chapterLabel = `CAPÍTULO ${chapterNumber}`;
+  return wrappedLineCount(ctx, chapterLabel, layout.width) + wrappedLineCount(ctx, chapterTitle, layout.width) + 1;
+}
+
+function splitByLines(text, layout, chapterTitle, chapterNumber) {
   const words = getWords(text);
   if (!words.length) return [''];
 
@@ -32,7 +55,10 @@ function splitByLines(text, layout, headerLines) {
   let usedLines = 1;
   let pageIndex = 0;
 
-  const pageLineLimit = () => Math.max(4, layout.maxLines - (pageIndex === 0 ? headerLines : 0));
+  const pageLineLimit = () => {
+    const headerLines = pageIndex === 0 ? headerLineCount(ctx, chapterTitle, chapterNumber, layout) : 0;
+    return Math.max(4, layout.maxLines - headerLines);
+  };
 
   words.forEach((word) => {
     const candidate = currentLine ? `${currentLine}${word}` : word;
@@ -80,12 +106,16 @@ export default function BookReader({ title, chapters = [], pages = [], storyId, 
 
   const readerPages = useMemo(() => {
     const source = chapters.length ? chapters : [{ title: 'Capítulo 1', content: pages.join(' ') }];
-    return source.flatMap((chapter, chapterIndex) => splitByLines(chapter.content, layout, 4).map((content, index) => ({
-      content,
-      chapterTitle: clean(chapter.title || `Capítulo ${chapterIndex + 1}`),
-      chapterNumber: chapterIndex + 1,
-      first: index === 0
-    })));
+    return source.flatMap((chapter, chapterIndex) => {
+      const chapterTitle = clean(chapter.title || `Capítulo ${chapterIndex + 1}`);
+      const chapterNumber = chapterIndex + 1;
+      return splitByLines(chapter.content, layout, chapterTitle, chapterNumber).map((content, index) => ({
+        content,
+        chapterTitle,
+        chapterNumber,
+        first: index === 0
+      }));
+    });
   }, [chapters, pages, layout]);
 
   const current = readerPages[page] || { content: '', chapterTitle: '', chapterNumber: 1, first: true };
