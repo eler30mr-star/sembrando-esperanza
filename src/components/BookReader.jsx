@@ -4,8 +4,8 @@ import { Heart, Home, MessageCircle, Pause, Play, Send, Share2, X } from 'lucide
 import { listenToUser, loginWithGoogle } from '../services/authService.js';
 import { addStoryComment, listenToComments, listenToStoryStats, listenToUserLike, toggleStoryLike } from '../services/storyEngagementService.js';
 
-const WIDTH_FACTOR = 0.92;
-const PAGE_LINE_SAFETY = 2;
+const WIDTH_FACTOR = 0.86;
+const PAGE_LINE_SAFETY = 4;
 const actionStyle = { border: 0, background: 'transparent', color: '#6f4b16', fontWeight: 800, display: 'inline-flex', flexDirection: 'column', alignItems: 'center', gap: 3, cursor: 'pointer' };
 const cleanTitle = (v) => String(v || '').replace(/\s+/g, ' ').trim();
 const cleanBody = (v) => String(v || '').replace(/[\u200B-\u200D\uFEFF]/g, '').replace(/\u00A0/g, ' ').replace(/\r\n/g, '\n').replace(/\r/g, '\n').replace(/[ \t]+/g, ' ').replace(/\n[ \t]+/g, '\n').replace(/[ \t]+\n/g, '\n').replace(/\n{4,}/g, '\n\n\n').trim();
@@ -19,10 +19,10 @@ function paginate(text, layout, chapterTitle, chapterNumber) {
   if (!ctx || !layout.width || !layout.lines) return [cleanBody(text)];
   ctx.font = layout.font;
   const width = layout.width * WIDTH_FACTOR;
-  const header = wrappedLines(ctx, `CAPÍTULO ${chapterNumber}`, width) + wrappedLines(ctx, chapterTitle, width) + 3;
+  const header = wrappedLines(ctx, `CAPÍTULO ${chapterNumber}`, width) + wrappedLines(ctx, chapterTitle, width) + 4;
   const pages = [];
   let page = [], line = '', used = 0, pageIndex = 0;
-  const limit = () => Math.max(4, layout.lines - PAGE_LINE_SAFETY - (pageIndex === 0 ? header : 0));
+  const limit = () => Math.max(3, layout.lines - PAGE_LINE_SAFETY - (pageIndex === 0 ? header : 0));
   const save = () => { const content = page.join('').trim(); if (content) pages.push(content); page = []; line = ''; used = 0; pageIndex += 1; };
   const addWord = (tok) => {
     if (!line) { if (used + 1 > limit()) save(); page.push(tok); line = tok; used += 1; return; }
@@ -67,7 +67,7 @@ export default function BookReader({ title, chapters = [], pages = [], storyId, 
       const font = s.font || `${s.fontWeight} ${s.fontSize} ${s.fontFamily}`;
       const next = {
         width: box.clientWidth,
-        lines: Math.max(4, Math.floor(box.clientHeight / lh)),
+        lines: Math.max(3, Math.floor((box.clientHeight - 16) / lh)),
         font
       };
       setLayout((prev) => (
