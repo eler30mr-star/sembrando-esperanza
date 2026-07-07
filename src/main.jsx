@@ -6,6 +6,7 @@ import './styles.css';
 import './reader.css';
 import './plans.css';
 import './app-layout.css';
+import './mobile-compact.css';
 
 createRoot(document.getElementById('root')).render(
   <React.StrictMode>
