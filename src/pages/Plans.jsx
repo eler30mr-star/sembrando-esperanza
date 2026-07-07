@@ -1,3 +1,4 @@
+import { useEffect, useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
 import {
   ArrowRight,
@@ -22,8 +23,52 @@ const categories = [
   { label: 'Gratitud', icon: ShieldCheck }
 ];
 
+function storageKey(slug) {
+  return `sembrando-plan-progress-${slug}`;
+}
+
+function readPlanProgress(slug) {
+  if (typeof window === 'undefined') return null;
+
+  try {
+    const raw = window.localStorage.getItem(storageKey(slug));
+    return raw ? JSON.parse(raw) : null;
+  } catch {
+    return null;
+  }
+}
+
+function completedCount(progress) {
+  return Array.isArray(progress?.completedDays) ? progress.completedDays.length : 0;
+}
+
 export default function Plans() {
-  const featured = plans[0];
+  const [progressMap, setProgressMap] = useState({});
+
+  useEffect(() => {
+    const nextProgress = {};
+    plans.forEach((plan) => {
+      const saved = readPlanProgress(plan.slug);
+      if (saved) nextProgress[plan.slug] = saved;
+    });
+    setProgressMap(nextProgress);
+  }, []);
+
+  const featured = useMemo(() => {
+    const activePlan = plans.find((plan) => {
+      const progress = progressMap[plan.slug];
+      const count = completedCount(progress);
+      return count > 0 && count < plan.days.length;
+    });
+
+    return activePlan || plans[0];
+  }, [progressMap]);
+
+  const featuredProgress = progressMap[featured.slug];
+  const featuredCompleted = completedCount(featuredProgress);
+  const featuredPercent = featured.days.length ? Math.round((featuredCompleted / featured.days.length) * 100) : 0;
+  const featuredDay = Math.min(featuredCompleted + 1, featured.days.length);
+  const hasStarted = featuredCompleted > 0;
   const recommended = plans.slice(0, 3);
   const otherPlans = plans.slice(3);
 
@@ -37,19 +82,19 @@ export default function Plans() {
 
       <Link className="plans-continue-card" to={`/planes/${featured.slug}`}>
         <div className="plans-continue-info">
-          <span className="plans-kicker"><Sparkles size={16} /> Continúa tu plan</span>
+          <span className="plans-kicker"><Sparkles size={16} /> {hasStarted ? 'Continúa tu plan' : 'Empieza un plan'}</span>
           <h2>{featured.title}</h2>
-          <div className="plans-progress-row" aria-label="57% completado">
-            <span className="plans-progress"><span style={{ width: '57%' }} /></span>
-            <strong>57%</strong>
+          <div className="plans-progress-row" aria-label={`${featuredPercent}% completado`}>
+            <span className="plans-progress"><span style={{ width: `${Math.max(featuredPercent, hasStarted ? 8 : 0)}%` }} /></span>
+            <strong>{featuredPercent}%</strong>
           </div>
           <div className="plans-meta-line">
-            <span><CalendarDays size={17} /> Día 4 de {featured.days.length}</span>
+            <span><CalendarDays size={17} /> Día {featuredDay} de {featured.days.length}</span>
             <span><Clock3 size={17} /> {featured.time}</span>
           </div>
         </div>
         <div className="plans-continue-image" style={{ backgroundImage: `url(${featured.image})` }} />
-        <span className="plans-continue-button">Continuar <ArrowRight size={18} /></span>
+        <span className="plans-continue-button">{hasStarted ? 'Continuar' : 'Comenzar'} <ArrowRight size={18} /></span>
       </Link>
 
       <div className="plans-category-row" aria-label="Categorías de planes bíblicos">
@@ -78,7 +123,7 @@ export default function Plans() {
               <span className="plan-card-meta"><CalendarDays size={15} /> {plan.duration}</span>
               <h3>{plan.title}</h3>
               <p>{plan.description}</p>
-              <strong>Comenzar <ArrowRight size={16} /></strong>
+              <strong>{completedCount(progressMap[plan.slug]) ? 'Continuar' : 'Comenzar'} <ArrowRight size={16} /></strong>
             </div>
           </Link>
         ))}
