@@ -66,10 +66,10 @@
   }
 
   .mobile-app-frame .plans-meta-line {
-    gap: 14px !important;
+    gap: 12px !important;
     margin-top: 16px !important;
-    padding-right: 140px !important;
-    font-size: 0.9rem !important;
+    padding-right: 104px !important;
+    font-size: 0.86rem !important;
     flex-wrap: nowrap !important;
     overflow: hidden !important;
   }
@@ -79,12 +79,21 @@
   }
 
   .mobile-app-frame .plans-continue-button {
-    right: 18px !important;
-    bottom: 18px !important;
-    min-height: 48px !important;
-    padding: 0 18px !important;
-    border-radius: 16px !important;
-    font-size: 0.95rem !important;
+    right: 16px !important;
+    bottom: 20px !important;
+    min-height: 40px !important;
+    width: auto !important;
+    max-width: 132px !important;
+    padding: 0 13px !important;
+    border-radius: 14px !important;
+    font-size: 0.82rem !important;
+    gap: 7px !important;
+    box-shadow: 0 10px 22px rgba(0, 0, 0, 0.20) !important;
+  }
+
+  .mobile-app-frame .plans-continue-button svg {
+    width: 16px !important;
+    height: 16px !important;
   }
 
   .mobile-app-frame .plans-category-row {
