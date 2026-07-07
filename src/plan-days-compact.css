@@ -82,86 +82,113 @@
   }
 
   .mobile-app-frame .plan-complete-screen {
-    padding-bottom: 120px !important;
+    padding-bottom: 118px !important;
+    text-align: center !important;
   }
 
   .mobile-app-frame .complete-hero {
-    height: 165px !important;
+    height: 205px !important;
     margin: -22px -16px 0 !important;
-    border-radius: 0 0 28px 28px !important;
+    border-radius: 0 !important;
+    opacity: 0.96 !important;
+    position: relative !important;
+  }
+
+  .mobile-app-frame .complete-hero::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -1px;
+    height: 96px;
+    background: linear-gradient(180deg, rgba(255, 250, 241, 0), #fffaf0 78%);
   }
 
   .mobile-app-frame .complete-hero .round-back {
-    width: 42px !important;
-    height: 42px !important;
-    margin: 12px !important;
+    display: none !important;
   }
 
   .mobile-app-frame .complete-content-card {
-    margin: -34px auto 16px !important;
-    max-width: 360px !important;
-    padding: 0 8px !important;
+    margin: -44px auto 18px !important;
+    max-width: 350px !important;
+    padding: 0 10px !important;
+    position: relative !important;
+    z-index: 2 !important;
   }
 
   .mobile-app-frame .complete-badge {
-    width: 78px !important;
-    height: 78px !important;
+    width: 74px !important;
+    height: 74px !important;
     margin: 0 auto 12px !important;
+    background: #062144 !important;
+    color: #d4a445 !important;
   }
 
   .mobile-app-frame .complete-badge svg {
-    width: 24px !important;
-    height: 24px !important;
+    width: 25px !important;
+    height: 25px !important;
   }
 
   .mobile-app-frame .complete-content-card h1 {
-    font-size: clamp(2.15rem, 10vw, 2.9rem) !important;
+    font-size: clamp(2.15rem, 10.2vw, 2.95rem) !important;
     line-height: 0.96 !important;
-    margin: 8px 0 12px !important;
+    margin: 8px 0 9px !important;
+    letter-spacing: -0.05em !important;
   }
 
   .mobile-app-frame .complete-content-card p {
     font-size: 0.98rem !important;
-    line-height: 1.36 !important;
+    line-height: 1.35 !important;
     margin: 0 auto 12px !important;
-    max-width: 330px !important;
+    max-width: 325px !important;
   }
 
   .mobile-app-frame .complete-days {
-    margin-top: 6px !important;
-    padding: 11px 22px !important;
+    margin: 2px auto 10px !important;
+    padding: 11px 24px !important;
     font-size: 1rem !important;
+    border-radius: 999px !important;
   }
 
   .mobile-app-frame .complete-gains-card {
-    margin: 16px auto !important;
-    padding: 20px !important;
+    margin: 18px auto 14px !important;
+    padding: 20px 22px !important;
     max-width: 360px !important;
     border-radius: 20px !important;
+    text-align: left !important;
   }
 
   .mobile-app-frame .complete-gains-card h2 {
     font-size: 1.45rem !important;
-    margin-bottom: 12px !important;
+    line-height: 1.05 !important;
+    margin: 0 0 14px !important;
   }
 
   .mobile-app-frame .complete-gains-card p {
-    gap: 10px !important;
-    margin: 10px 0 !important;
+    gap: 13px !important;
+    margin: 12px 0 !important;
     font-size: 0.9rem !important;
     line-height: 1.25 !important;
   }
 
   .mobile-app-frame .complete-actions {
     gap: 10px !important;
-    margin-bottom: 18px !important;
+    margin: 0 auto 20px !important;
+    max-width: 360px !important;
+  }
+
+  .mobile-app-frame .complete-actions .plan-btn {
+    min-height: 52px !important;
+    border-radius: 11px !important;
   }
 
   .mobile-app-frame .complete-next-card {
-    grid-template-columns: 92px 1fr 32px !important;
+    grid-template-columns: 92px 1fr 34px !important;
     gap: 10px !important;
     padding: 10px !important;
     border-radius: 16px !important;
+    max-width: 360px !important;
+    margin-bottom: 16px !important;
   }
 
   .mobile-app-frame .complete-next-card img {
