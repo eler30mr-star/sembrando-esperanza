@@ -12,7 +12,7 @@ import {
   Users,
   Wind
 } from 'lucide-react';
-import { plans } from '../data/content.js';
+import { getPublishedPlans } from '../services/plansService.js';
 
 const categories = [
   { label: 'Fe', icon: Heart, active: true },
@@ -43,7 +43,23 @@ function completedCount(progress) {
 }
 
 export default function Plans() {
+  const [plans, setPlans] = useState([]);
+  const [loading, setLoading] = useState(true);
   const [progressMap, setProgressMap] = useState({});
+
+  useEffect(() => {
+    let alive = true;
+
+    async function loadPlans() {
+      const publishedPlans = await getPublishedPlans();
+      if (!alive) return;
+      setPlans(publishedPlans);
+      setLoading(false);
+    }
+
+    loadPlans();
+    return () => { alive = false; };
+  }, []);
 
   useEffect(() => {
     const nextProgress = {};
@@ -52,7 +68,7 @@ export default function Plans() {
       if (saved) nextProgress[plan.slug] = saved;
     });
     setProgressMap(nextProgress);
-  }, []);
+  }, [plans]);
 
   const featured = useMemo(() => {
     const activePlan = plans.find((plan) => {
@@ -61,16 +77,41 @@ export default function Plans() {
       return count > 0 && count < plan.days.length;
     });
 
-    return activePlan || plans[0];
-  }, [progressMap]);
+    return activePlan || plans[0] || null;
+  }, [plans, progressMap]);
 
-  const featuredProgress = progressMap[featured.slug];
+  const featuredProgress = featured ? progressMap[featured.slug] : null;
   const featuredCompleted = completedCount(featuredProgress);
-  const featuredPercent = featured.days.length ? Math.round((featuredCompleted / featured.days.length) * 100) : 0;
-  const featuredDay = Math.min(featuredCompleted + 1, featured.days.length);
+  const featuredTotalDays = featured?.days?.length || 0;
+  const featuredPercent = featuredTotalDays ? Math.round((featuredCompleted / featuredTotalDays) * 100) : 0;
+  const featuredDay = featuredTotalDays ? Math.min(featuredCompleted + 1, featuredTotalDays) : 1;
   const hasStarted = featuredCompleted > 0;
   const recommended = plans.slice(0, 3);
   const otherPlans = plans.slice(3);
+
+  if (loading) {
+    return (
+      <section className="page section plans-web-page">
+        <div className="plans-web-heading">
+          <span className="eyebrow"><Sparkles size={15} /> Caminos de fe</span>
+          <h1>Planes Bíblicos</h1>
+          <p>Cargando planes...</p>
+        </div>
+      </section>
+    );
+  }
+
+  if (!plans.length) {
+    return (
+      <section className="page section plans-web-page">
+        <div className="plans-web-heading">
+          <span className="eyebrow"><Sparkles size={15} /> Caminos de fe</span>
+          <h1>Planes Bíblicos</h1>
+          <p>Aún no hay planes publicados. Crea y publica un plan desde el panel administrador.</p>
+        </div>
+      </section>
+    );
+  }
 
   return (
     <section className="page section plans-web-page">
@@ -80,22 +121,24 @@ export default function Plans() {
         <p>Lecturas guiadas para crecer cada día con la Palabra de Dios.</p>
       </div>
 
-      <Link className="plans-continue-card" to={`/planes/${featured.slug}`}>
-        <div className="plans-continue-info">
-          <span className="plans-kicker"><Sparkles size={16} /> {hasStarted ? 'Continúa tu plan' : 'Empieza un plan'}</span>
-          <h2>{featured.title}</h2>
-          <div className="plans-progress-row" aria-label={`${featuredPercent}% completado`}>
-            <span className="plans-progress"><span style={{ width: `${Math.max(featuredPercent, hasStarted ? 8 : 0)}%` }} /></span>
-            <strong>{featuredPercent}%</strong>
+      {featured && (
+        <Link className="plans-continue-card" to={`/planes/${featured.slug}`}>
+          <div className="plans-continue-info">
+            <span className="plans-kicker"><Sparkles size={16} /> {hasStarted ? 'Continúa tu plan' : 'Empieza un plan'}</span>
+            <h2>{featured.title}</h2>
+            <div className="plans-progress-row" aria-label={`${featuredPercent}% completado`}>
+              <span className="plans-progress"><span style={{ width: `${Math.max(featuredPercent, hasStarted ? 8 : 0)}%` }} /></span>
+              <strong>{featuredPercent}%</strong>
+            </div>
+            <div className="plans-meta-line">
+              <span><CalendarDays size={17} /> Día {featuredDay} de {featuredTotalDays}</span>
+              <span><Clock3 size={17} /> {featured.time}</span>
+            </div>
           </div>
-          <div className="plans-meta-line">
-            <span><CalendarDays size={17} /> Día {featuredDay} de {featured.days.length}</span>
-            <span><Clock3 size={17} /> {featured.time}</span>
-          </div>
-        </div>
-        <div className="plans-continue-image" style={{ backgroundImage: `url(${featured.image})` }} />
-        <span className="plans-continue-button">{hasStarted ? 'Continuar' : 'Comenzar'} <ArrowRight size={18} /></span>
-      </Link>
+          <div className="plans-continue-image" style={{ backgroundImage: `url(${featured.image})` }} />
+          <span className="plans-continue-button">{hasStarted ? 'Continuar' : 'Comenzar'} <ArrowRight size={18} /></span>
+        </Link>
+      )}
 
       <div className="plans-category-row" aria-label="Categorías de planes bíblicos">
         {categories.map(({ label, icon: Icon, active }) => (
@@ -129,26 +172,30 @@ export default function Plans() {
         ))}
       </div>
 
-      <div className="plans-section-title compact">
-        <div>
-          <span>Biblioteca</span>
-          <h2>Todos los planes</h2>
-        </div>
-      </div>
-
-      <div className="plans-list-grid">
-        {otherPlans.map((plan) => (
-          <Link className="plans-list-card" to={`/planes/${plan.slug}`} key={plan.slug}>
-            <img src={plan.image} alt="" />
+      {otherPlans.length > 0 && (
+        <>
+          <div className="plans-section-title compact">
             <div>
-              <span className="plan-card-meta">{plan.category} · {plan.duration}</span>
-              <h3>{plan.title}</h3>
-              <p>{plan.description}</p>
+              <span>Biblioteca</span>
+              <h2>Todos los planes</h2>
             </div>
-            <span className="plans-arrow"><ArrowRight size={18} /></span>
-          </Link>
-        ))}
-      </div>
+          </div>
+
+          <div className="plans-list-grid">
+            {otherPlans.map((plan) => (
+              <Link className="plans-list-card" to={`/planes/${plan.slug}`} key={plan.slug}>
+                <img src={plan.image} alt="" />
+                <div>
+                  <span className="plan-card-meta">{plan.category} · {plan.duration}</span>
+                  <h3>{plan.title}</h3>
+                  <p>{plan.description}</p>
+                </div>
+                <span className="plans-arrow"><ArrowRight size={18} /></span>
+              </Link>
+            ))}
+          </div>
+        </>
+      )}
     </section>
   );
 }
