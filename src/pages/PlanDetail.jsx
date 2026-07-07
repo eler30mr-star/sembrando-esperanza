@@ -1,5 +1,5 @@
 import { Link, useParams } from 'react-router-dom';
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import {
   ArrowLeft,
   ArrowRight,
@@ -17,17 +17,70 @@ import {
 } from 'lucide-react';
 import { plans } from '../data/content.js';
 
+function storageKey(slug) {
+  return `sembrando-plan-progress-${slug}`;
+}
+
+function readSavedProgress(slug) {
+  if (typeof window === 'undefined' || !slug) return null;
+
+  try {
+    const raw = window.localStorage.getItem(storageKey(slug));
+    return raw ? JSON.parse(raw) : null;
+  } catch {
+    return null;
+  }
+}
+
+function saveProgress(slug, data) {
+  if (typeof window === 'undefined' || !slug) return;
+
+  window.localStorage.setItem(storageKey(slug), JSON.stringify({
+    ...data,
+    updatedAt: new Date().toISOString()
+  }));
+}
+
+function uniqueSortedDays(days) {
+  return [...new Set(days.map(Number).filter((day) => Number.isInteger(day) && day >= 0))]
+    .sort((a, b) => a - b);
+}
+
 export default function PlanDetail() {
   const { slug } = useParams();
   const plan = plans.find((item) => item.slug === slug);
   const [screen, setScreen] = useState('overview');
   const [activeDayIndex, setActiveDayIndex] = useState(0);
   const [completedDays, setCompletedDays] = useState([]);
+  const [savedPlan, setSavedPlan] = useState(false);
 
   const totalDays = plan?.days.length ?? 0;
   const progress = totalDays ? Math.round((completedDays.length / totalDays) * 100) : 0;
+  const nextDayIndex = totalDays ? Math.min(completedDays.length, totalDays - 1) : 0;
   const activeDay = plan?.days[activeDayIndex];
   const recommendedPlan = useMemo(() => plans.find((item) => item.slug !== slug) ?? plans[0], [slug]);
+
+  useEffect(() => {
+    if (!slug || !plan) return;
+
+    const saved = readSavedProgress(slug);
+    if (!saved) return;
+
+    const validCompletedDays = uniqueSortedDays(saved.completedDays || [])
+      .filter((day) => day < plan.days.length);
+
+    setCompletedDays(validCompletedDays);
+    setSavedPlan(Boolean(saved.savedPlan));
+    setActiveDayIndex(
+      Number.isInteger(saved.lastDayIndex)
+        ? Math.min(Math.max(saved.lastDayIndex, 0), plan.days.length - 1)
+        : Math.min(validCompletedDays.length, plan.days.length - 1)
+    );
+
+    if (validCompletedDays.length >= plan.days.length && plan.days.length > 0) {
+      setScreen('complete');
+    }
+  }, [slug, plan]);
 
   if (!plan) {
     return (
@@ -38,29 +91,56 @@ export default function PlanDetail() {
     );
   }
 
+  function persist(nextCompletedDays, nextLastDayIndex = activeDayIndex, nextSavedPlan = savedPlan) {
+    const finalCompletedDays = uniqueSortedDays(nextCompletedDays).filter((day) => day < totalDays);
+    saveProgress(slug, {
+      planSlug: slug,
+      planTitle: plan.title,
+      completedDays: finalCompletedDays,
+      lastDayIndex: Math.min(Math.max(nextLastDayIndex, 0), totalDays - 1),
+      savedPlan: nextSavedPlan,
+      startedAt: readSavedProgress(slug)?.startedAt || new Date().toISOString(),
+      completedAt: finalCompletedDays.length >= totalDays ? new Date().toISOString() : null
+    });
+  }
+
   function openDay(index) {
     setActiveDayIndex(index);
+    persist(completedDays, index, savedPlan);
     setScreen('reading');
   }
 
   function completeDay() {
     const nextCompleted = completedDays.includes(activeDayIndex)
       ? completedDays
-      : [...completedDays, activeDayIndex].sort((a, b) => a - b);
+      : [...completedDays, activeDayIndex];
 
-    setCompletedDays(nextCompleted);
+    const finalCompletedDays = uniqueSortedDays(nextCompleted);
+    const nextIndex = Math.min(activeDayIndex + 1, totalDays - 1);
 
-    if (nextCompleted.length >= totalDays) {
+    setCompletedDays(finalCompletedDays);
+    persist(finalCompletedDays, nextIndex, savedPlan);
+
+    if (finalCompletedDays.length >= totalDays) {
       setScreen('complete');
       return;
     }
 
-    setActiveDayIndex(Math.min(activeDayIndex + 1, totalDays - 1));
+    setActiveDayIndex(nextIndex);
     setScreen('days');
   }
 
   function startPlan() {
+    const targetIndex = completedDays.length >= totalDays ? totalDays - 1 : nextDayIndex;
+    setActiveDayIndex(targetIndex);
+    persist(completedDays, targetIndex, savedPlan);
     setScreen('days');
+  }
+
+  function toggleSavePlan() {
+    const nextSavedPlan = !savedPlan;
+    setSavedPlan(nextSavedPlan);
+    persist(completedDays, activeDayIndex, nextSavedPlan);
   }
 
   return (
@@ -97,10 +177,10 @@ export default function PlanDetail() {
                 </ul>
                 <div className="plan-action-stack">
                   <button className="plan-btn plan-btn-gold" type="button" onClick={startPlan}>
-                    Comenzar plan <ArrowRight size={19} />
+                    {completedDays.length ? 'Continuar plan' : 'Comenzar plan'} <ArrowRight size={19} />
                   </button>
-                  <button className="plan-btn plan-btn-secondary" type="button">
-                    <Bookmark size={18} /> Guardar plan
+                  <button className="plan-btn plan-btn-secondary" type="button" onClick={toggleSavePlan}>
+                    <Bookmark size={18} /> {savedPlan ? 'Plan guardado' : 'Guardar plan'}
                   </button>
                 </div>
               </div>
@@ -199,7 +279,7 @@ export default function PlanDetail() {
 
           <div className="plan-reading-actions">
             <button className="plan-btn plan-btn-gold" type="button" onClick={completeDay}>
-              <CheckCircle2 size={21} /> Marcar como completado
+              <CheckCircle2 size={21} /> {completedDays.includes(activeDayIndex) ? 'Día completado' : 'Marcar como completado'}
             </button>
             <button className="plan-text-action" type="button"><NotebookPen size={18} /> Agregar nota</button>
           </div>
