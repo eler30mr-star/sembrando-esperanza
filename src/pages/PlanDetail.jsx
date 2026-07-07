@@ -319,6 +319,18 @@ export default function PlanDetail() {
             <button className="round-back" type="button" onClick={() => setScreen('days')} aria-label="Volver a los días">
               <ArrowLeft size={20} />
             </button>
+            <span
+              aria-hidden="true"
+              style={{
+                position: 'absolute',
+                left: 0,
+                right: 0,
+                bottom: -1,
+                height: 155,
+                zIndex: 3,
+                background: 'linear-gradient(to bottom, transparent 0%, #fffaf0 92%)'
+              }}
+            />
           </div>
           <div className="complete-content-card">
             <span className="complete-badge"><Trophy size={28} /></span>
