@@ -27,10 +27,11 @@ function normalizeDays(value) {
       subtitle: day?.subtitle || '',
       verse: day?.verse || '',
       text: day?.text || '',
+      internalize: day?.internalize || day?.question || day?.meditation || '',
       prayer: day?.prayer || '',
       action: day?.action || ''
     }))
-    .filter((day) => day.title || day.verse || day.text || day.prayer || day.action);
+    .filter((day) => day.title || day.verse || day.text || day.internalize || day.prayer || day.action);
 }
 
 function formatDuration(data, days) {
