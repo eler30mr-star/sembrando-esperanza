@@ -1,4 +1,5 @@
 const defaultPlanImage = 'https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1400&q=85';
+const defaultLanguage = 'es';
 
 async function fetchJson(path, fallback) {
   try {
@@ -47,10 +48,11 @@ function formatTime(data) {
 function normalizePlan(data, index = 0) {
   const days = normalizeDays(data.days);
   const dayCount = Number(data.dayCount || days.length || 0);
+  const slug = data.slug || data.id || `plan-${index + 1}`;
 
   return {
     id: data.id || `plan-${index + 1}`,
-    slug: data.slug || data.id || `plan-${index + 1}`,
+    slug,
     title: data.title || 'Plan bíblico',
     category: data.category || 'Fe',
     dayCount,
@@ -62,7 +64,8 @@ function normalizePlan(data, index = 0) {
     gains: cleanStringList(data.gains),
     days,
     status: data.status || 'published',
-    detailPath: data.detailPath || `/data/plans/${data.slug}.json`,
+    language: data.language || defaultLanguage,
+    detailPath: data.detailPath || `/data/${defaultLanguage}/plans/${slug}.json`,
     updatedAtMs: Number(data.updatedAtMs || 0)
   };
 }
@@ -71,8 +74,8 @@ function sortByUpdatedAt(items) {
   return [...items].sort((a, b) => Number(b.updatedAtMs || 0) - Number(a.updatedAtMs || 0));
 }
 
-export async function getPublishedPlans() {
-  const plans = await fetchJson('/data/plans.json', []);
+export async function getPublishedPlans(language = defaultLanguage) {
+  const plans = await fetchJson(`/data/${language}/plans.json`, []);
   const publishedPlans = Array.isArray(plans)
     ? plans.map(normalizePlan).filter((plan) => plan.status === 'published')
     : [];
@@ -80,13 +83,13 @@ export async function getPublishedPlans() {
   return sortByUpdatedAt(publishedPlans);
 }
 
-export async function getPublishedPlanBySlug(slug) {
-  const publishedPlans = await getPublishedPlans();
+export async function getPublishedPlanBySlug(slug, language = defaultLanguage) {
+  const publishedPlans = await getPublishedPlans(language);
   const planSummary = publishedPlans.find((plan) => plan.slug === slug);
 
   if (!planSummary) return null;
 
-  const detailPath = planSummary.detailPath || `/data/plans/${slug}.json`;
+  const detailPath = planSummary.detailPath || `/data/${language}/plans/${slug}.json`;
   const detail = await fetchJson(detailPath, null);
 
   if (!detail) return planSummary;
