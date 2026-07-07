@@ -9,8 +9,9 @@ import {
   Check,
   CheckCircle2,
   Clock3,
-  ListChecks,
+  HandHeart,
   NotebookPen,
+  Shield,
   Sparkles,
   Target,
   Trophy
@@ -341,9 +342,9 @@ export default function PlanDetail() {
 
           <div className="complete-gains-card">
             <h2>Lo que has ganado</h2>
-            {(plan.gains ?? ['Más confianza en Dios', 'Constancia en la oración', 'Palabra aplicada cada día']).map((item) => (
-              <p key={item}><ListChecks size={19} /> {item}</p>
-            ))}
+            <div className="complete-gain-item"><Shield size={24} strokeWidth={1.9} /><span>Más confianza en Dios</span></div>
+            <div className="complete-gain-item"><HandHeart size={24} strokeWidth={1.9} /><span>Constancia en la oración</span></div>
+            <div className="complete-gain-item"><BookOpen size={24} strokeWidth={1.9} /><span>Palabra aplicada cada día</span></div>
           </div>
 
           <div className="complete-actions">
