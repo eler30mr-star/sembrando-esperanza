@@ -10,7 +10,7 @@
 .polished-reading-header {
   position: relative;
   margin-bottom: 18px;
-  padding: 24px 22px 20px;
+  padding: 22px 22px 20px;
   text-align: left;
   background: linear-gradient(135deg, rgba(255, 255, 255, 0.82), rgba(255, 248, 235, 0.72));
   border: 1px solid rgba(7, 29, 58, 0.08);
@@ -48,8 +48,9 @@
 .polished-reading-header h1 {
   margin: 0;
   max-width: 720px;
-  font-size: clamp(2.8rem, 8vw, 4.9rem);
-  line-height: 0.96;
+  font-size: clamp(2.35rem, 6.8vw, 4.1rem);
+  line-height: 1.02;
+  letter-spacing: -0.045em;
 }
 
 .polished-reference-card {
@@ -78,7 +79,7 @@
 
 .polished-reference-card h2 {
   margin: 0;
-  font-size: clamp(1.9rem, 6vw, 3rem);
+  font-size: clamp(1.75rem, 5.3vw, 2.7rem);
   line-height: 1.05;
 }
 
@@ -112,7 +113,7 @@
 
 .reading-section-title h2 {
   margin: 0;
-  font-size: clamp(2.05rem, 6vw, 3.1rem);
+  font-size: clamp(1.95rem, 5.4vw, 2.85rem);
   line-height: 1;
 }
 
@@ -133,9 +134,8 @@
 }
 
 .polished-reading-actions {
-  position: sticky;
-  bottom: 92px;
-  z-index: 9;
+  position: static;
+  z-index: auto;
   margin: 22px 0 10px;
   padding: 12px;
   background: rgba(255, 250, 241, 0.76);
@@ -162,12 +162,18 @@
   }
 
   .polished-reading-header {
-    padding: 20px 18px 18px;
+    padding: 18px 18px 18px;
     border-radius: 24px;
   }
 
   .polished-reading-header h1 {
-    font-size: clamp(2.55rem, 13vw, 4.3rem);
+    font-size: clamp(2.2rem, 10.5vw, 3.35rem);
+    line-height: 1.04;
+  }
+
+  .polished-reading-header .reading-day-pill {
+    padding: 9px 13px;
+    font-size: 0.92rem;
   }
 
   .polished-reference-card {
@@ -180,6 +186,10 @@
     width: 56px;
     height: 56px;
     border-radius: 18px;
+  }
+
+  .polished-reference-card h2 {
+    font-size: clamp(1.8rem, 8vw, 2.55rem);
   }
 
   .polished-reading-card {
@@ -197,7 +207,7 @@
   }
 
   .reading-section-title h2 {
-    font-size: clamp(2rem, 9vw, 2.8rem);
+    font-size: clamp(1.9rem, 8vw, 2.55rem);
   }
 
   .prayer-block .reading-body-copy,
@@ -206,7 +216,8 @@
   }
 
   .polished-reading-actions {
-    bottom: 82px;
-    margin-top: 18px;
+    position: static;
+    margin-top: 20px;
+    margin-bottom: 18px;
   }
 }
