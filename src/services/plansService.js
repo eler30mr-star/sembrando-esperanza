@@ -1,6 +1,8 @@
-import plansJson from '../data/plans.json';
+import plansIndex from '../data/plans.json';
 
 const defaultPlanImage = 'https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1400&q=85';
+
+const planModules = import.meta.glob('../data/plans/*.json');
 
 function cleanStringList(value) {
   return Array.isArray(value)
@@ -12,7 +14,8 @@ function normalizeDays(value) {
   if (!Array.isArray(value)) return [];
 
   return value
-    .map((day) => ({
+    .map((day, index) => ({
+      dayNumber: Number(day?.dayNumber || index + 1),
       title: day?.title || 'Día del plan',
       subtitle: day?.subtitle || '',
       verse: day?.verse || '',
@@ -24,22 +27,37 @@ function normalizeDays(value) {
     .filter((day) => day.title || day.verse || day.text || day.prayer || day.action);
 }
 
-function normalizePlan(data, index) {
+function formatDuration(data, days) {
+  const value = String(data.duration || '').trim();
+  if (value) return /día|dias|días/i.test(value) ? value : `${value} días`;
+  return `${data.dayCount || days.length || 1} días`;
+}
+
+function formatTime(data) {
+  const value = String(data.time || '').trim();
+  if (value) return /min|hora|día|dias|días/i.test(value) ? value : `${value} min al día`;
+  return '5 min al día';
+}
+
+function normalizePlan(data, index = 0) {
   const days = normalizeDays(data.days);
+  const dayCount = Number(data.dayCount || days.length || 0);
 
   return {
     id: data.id || `plan-${index + 1}`,
     slug: data.slug || data.id || `plan-${index + 1}`,
     title: data.title || 'Plan bíblico',
     category: data.category || 'Fe',
-    duration: data.duration || `${days.length || 1} días`,
-    time: data.time || '5 min al día',
+    dayCount,
+    duration: formatDuration(data, days),
+    time: formatTime(data),
     image: data.coverImage || data.image || defaultPlanImage,
     description: data.shortDescription || data.description || '',
     learning: cleanStringList(data.learning),
     gains: cleanStringList(data.gains),
     days,
     status: data.status || 'published',
+    detailPath: data.detailPath || '',
     updatedAtMs: Number(data.updatedAtMs || 0)
   };
 }
@@ -49,15 +67,25 @@ function sortByUpdatedAt(items) {
 }
 
 export async function getPublishedPlans() {
-  const plans = Array.isArray(plansJson) ? plansJson : [];
+  const plans = Array.isArray(plansIndex) ? plansIndex : [];
   const publishedPlans = plans
     .map(normalizePlan)
-    .filter((plan) => plan.status === 'published' && plan.days.length > 0);
+    .filter((plan) => plan.status === 'published');
 
   return sortByUpdatedAt(publishedPlans);
 }
 
 export async function getPublishedPlanBySlug(slug) {
   const publishedPlans = await getPublishedPlans();
-  return publishedPlans.find((plan) => plan.slug === slug) || null;
+  const planSummary = publishedPlans.find((plan) => plan.slug === slug);
+
+  if (!planSummary) return null;
+
+  const modulePath = `../data/plans/${slug}.json`;
+  const loader = planModules[modulePath];
+
+  if (!loader) return planSummary;
+
+  const module = await loader();
+  return normalizePlan({ ...planSummary, ...(module.default || module) });
 }
