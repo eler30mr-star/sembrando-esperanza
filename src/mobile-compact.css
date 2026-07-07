@@ -200,14 +200,16 @@
   }
 
   .mobile-app-frame .plan-overview-cover {
-    min-height: 320px !important;
+    min-height: 305px !important;
     padding: 28px !important;
     border-radius: 24px !important;
   }
 
   .mobile-app-frame .plan-overview-cover h1 {
-    font-size: clamp(2.25rem, 11vw, 3.2rem) !important;
-    margin: 16px 0 !important;
+    font-size: clamp(1.95rem, 9.2vw, 2.72rem) !important;
+    line-height: 1.03 !important;
+    margin: 14px 0 !important;
+    max-width: 300px !important;
   }
 
   .mobile-app-frame .plan-description-card,
