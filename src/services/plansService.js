@@ -1,6 +1,4 @@
-import { collection, getDocs, query, where } from 'firebase/firestore';
-import { plans as localPlans } from '../data/content.js';
-import { db, firebaseReady } from './firebase.js';
+import plansJson from '../data/plans.json';
 
 const defaultPlanImage = 'https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1400&q=85';
 
@@ -26,13 +24,12 @@ function normalizeDays(value) {
     .filter((day) => day.title || day.verse || day.text || day.prayer || day.action);
 }
 
-function normalizePlan(snapshot) {
-  const data = snapshot.data();
+function normalizePlan(data, index) {
   const days = normalizeDays(data.days);
 
   return {
-    id: snapshot.id,
-    slug: data.slug || snapshot.id,
+    id: data.id || `plan-${index + 1}`,
+    slug: data.slug || data.id || `plan-${index + 1}`,
     title: data.title || 'Plan bíblico',
     category: data.category || 'Fe',
     duration: data.duration || `${days.length || 1} días`,
@@ -42,7 +39,7 @@ function normalizePlan(snapshot) {
     learning: cleanStringList(data.learning),
     gains: cleanStringList(data.gains),
     days,
-    status: data.status || 'draft',
+    status: data.status || 'published',
     updatedAtMs: Number(data.updatedAtMs || 0)
   };
 }
@@ -52,16 +49,12 @@ function sortByUpdatedAt(items) {
 }
 
 export async function getPublishedPlans() {
-  if (!firebaseReady || !db) return localPlans;
+  const plans = Array.isArray(plansJson) ? plansJson : [];
+  const publishedPlans = plans
+    .map(normalizePlan)
+    .filter((plan) => plan.status === 'published' && plan.days.length > 0);
 
-  try {
-    const publishedQuery = query(collection(db, 'plans'), where('status', '==', 'published'));
-    const snapshot = await getDocs(publishedQuery);
-    const firebasePlans = snapshot.docs.map(normalizePlan).filter((plan) => plan.days.length > 0);
-    return sortByUpdatedAt(firebasePlans);
-  } catch {
-    return localPlans;
-  }
+  return sortByUpdatedAt(publishedPlans);
 }
 
 export async function getPublishedPlanBySlug(slug) {
