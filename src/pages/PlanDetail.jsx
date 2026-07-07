@@ -299,52 +299,59 @@ export default function PlanDetail() {
       )}
 
       {screen === 'reading' && activeDay && (
-        <article className="plan-reading-screen">
-          <button className="round-back" type="button" onClick={() => setScreen('days')} aria-label="Volver a los días">
+        <article className="plan-reading-screen polished-reading-screen">
+          <button className="round-back reading-back-button" type="button" onClick={() => setScreen('days')} aria-label="Volver a los días">
             <ArrowLeft size={20} />
           </button>
 
-          <header className="plan-reading-header">
-            <span><CalendarDays size={17} /> Día {activeDayIndex + 1} de {totalDays} · {formatPlanDate(addDays(startDate, activeDayIndex))}</span>
+          <header className="plan-reading-header polished-reading-header">
+            <div className="reading-day-pill"><CalendarDays size={17} /> Día {activeDayIndex + 1} de {totalDays} · {formatPlanDate(addDays(startDate, activeDayIndex))}</div>
             <div className="mini-progress"><span style={{ width: `${Math.max(progress, 10)}%` }} /></div>
             <p>{plan.title}</p>
             <h1>{activeDay.title}</h1>
           </header>
 
-          <section className="verse-reading-card">
+          <section className="verse-reading-card polished-reference-card">
             <span className="verse-reading-icon"><BookOpen size={28} /></span>
             <div>
+              <small>Referencia bíblica</small>
               <h2>{activeDay.verse}</h2>
             </div>
           </section>
 
-          <section className="reading-block reflection-block">
-            <span className="reading-floating-icon">❧</span>
-            <div>
+          <section className="reading-block reflection-block polished-reading-card polished-reflection-card">
+            <div className="reading-section-title">
+              <span className="reading-round-icon">❧</span>
               <h2>Reflexión</h2>
+            </div>
+            <div className="reading-body-copy">
               {String(activeDay.text || '').split('\n\n').map((paragraph) => (
                 <p key={paragraph}>{paragraph}</p>
               ))}
             </div>
           </section>
 
-          <section className="reading-block prayer-block">
-            <span className="reading-round-icon">🙏</span>
-            <div>
+          <section className="reading-block prayer-block polished-reading-card">
+            <div className="reading-section-title">
+              <span className="reading-round-icon">🙏</span>
               <h2>Oración del día</h2>
+            </div>
+            <div className="reading-body-copy">
               <p>{activeDay.prayer}</p>
             </div>
           </section>
 
-          <section className="reading-block action-block">
-            <span className="reading-round-icon"><Target size={28} /></span>
-            <div>
+          <section className="reading-block action-block polished-reading-card">
+            <div className="reading-section-title">
+              <span className="reading-round-icon"><Target size={24} /></span>
               <h2>Acción de hoy</h2>
+            </div>
+            <div className="reading-body-copy">
               <p>{activeDay.action}</p>
             </div>
           </section>
 
-          <div className="plan-reading-actions">
+          <div className="plan-reading-actions polished-reading-actions">
             <button className="plan-btn plan-btn-gold" type="button" onClick={completeDay}>
               <CheckCircle2 size={21} /> {completedDays.includes(activeDayIndex) ? 'Día completado' : 'Marcar como completado'}
             </button>
