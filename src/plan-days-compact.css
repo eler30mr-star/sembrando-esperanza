@@ -1,0 +1,83 @@
+@media (max-width: 520px) {
+  .mobile-app-frame .plan-days-header {
+    padding-left: 62px !important;
+    margin-bottom: 18px !important;
+  }
+
+  .mobile-app-frame .plan-days-header h1 {
+    font-size: clamp(1.7rem, 8.4vw, 2.25rem) !important;
+    line-height: 1.05 !important;
+    margin: 0 0 10px !important;
+  }
+
+  .mobile-app-frame .plan-wide-progress {
+    gap: 10px !important;
+  }
+
+  .mobile-app-frame .plan-wide-progress strong {
+    font-size: 0.9rem !important;
+  }
+
+  .mobile-app-frame .plan-days-header p {
+    margin: 10px 0 8px !important;
+    font-size: 0.9rem !important;
+  }
+
+  .mobile-app-frame .plan-days-header small {
+    font-size: 0.88rem !important;
+    line-height: 1.45 !important;
+  }
+
+  .mobile-app-frame .plan-day-list {
+    gap: 11px !important;
+  }
+
+  .mobile-app-frame .plan-day-row {
+    grid-template-columns: 66px 1fr auto !important;
+    gap: 12px !important;
+    min-height: 92px !important;
+    padding: 10px 12px !important;
+    border-radius: 18px !important;
+  }
+
+  .mobile-app-frame .plan-day-icon {
+    width: 58px !important;
+    height: 64px !important;
+    border-radius: 15px !important;
+  }
+
+  .mobile-app-frame .plan-day-icon svg {
+    width: 27px !important;
+    height: 27px !important;
+  }
+
+  .mobile-app-frame .plan-day-copy small {
+    font-size: 0.78rem !important;
+    line-height: 1.15 !important;
+  }
+
+  .mobile-app-frame .plan-day-copy strong {
+    font-size: 1.08rem !important;
+    line-height: 1.08 !important;
+    margin: 3px 0 !important;
+  }
+
+  .mobile-app-frame .plan-day-copy em {
+    display: -webkit-box !important;
+    -webkit-line-clamp: 2 !important;
+    -webkit-box-orient: vertical !important;
+    overflow: hidden !important;
+    font-size: 0.82rem !important;
+    line-height: 1.28 !important;
+  }
+
+  .mobile-app-frame .plan-day-status {
+    padding: 7px 10px !important;
+    font-size: 0.72rem !important;
+    white-space: nowrap !important;
+  }
+
+  .mobile-app-frame .plan-day-arrow {
+    display: none !important;
+  }
+}
