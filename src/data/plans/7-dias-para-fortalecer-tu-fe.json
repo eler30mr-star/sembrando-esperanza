@@ -1,0 +1,49 @@
+{
+  "id": "plan-1783453919119",
+  "title": "7 días para fortalecer tu fe",
+  "slug": "7-dias-para-fortalecer-tu-fe",
+  "category": "Fe",
+  "status": "published",
+  "dayCount": 2,
+  "duration": "7 días",
+  "time": "5 min al día",
+  "coverImage": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1400&q=85",
+  "shortDescription": "Un plan bíblico de 7 días para fortalecer tu fe, renovar tu confianza en Dios y aprender a caminar firme aun cuando las circunstancias parecen difíciles. Cada día incluye un versículo, una reflexión, una oración y una acción práctica para aplicar la Palabra en tu vida diaria.",
+  "learning": [
+    "Confiar en Dios aun cuando no ves la respuesta",
+    "Fortalecer tu fe con la Palabra",
+    "Vencer el temor con las promesas de Dios",
+    "Orar con confianza y perseverancia",
+    "Caminar por fe y no solo por lo que ves"
+  ],
+  "gains": [
+    "Fe más firme en Dios",
+    "Paz en medio de los procesos",
+    "Mayor constancia en la oración",
+    "Confianza renovada en las promesas bíblicas",
+    "Ánimo espiritual para seguir adelante"
+  ],
+  "days": [
+    {
+      "dayNumber": 1,
+      "title": "Dios está contigo",
+      "subtitle": "La fe comienza recordando que no caminas solo.",
+      "verse": "41:10",
+      "verseText": "No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo.",
+      "text": "La fe no nace cuando todo está resuelto, sino cuando decides confiar en Dios aun en medio de la incertidumbre. Muchas veces el temor intenta ocupar el centro del corazón, pero la promesa de Dios es más fuerte que cualquier preocupación.\n\nDios no te dice que nunca enfrentarás procesos difíciles. Él te promete algo mayor: Su presencia. Cuando sabes que Dios está contigo, puedes caminar con más seguridad, aunque todavía no entiendas todo el camino.\n\nHoy recuerda que no estás solo. Dios ve tu situación, conoce tus pensamientos y sostiene tu vida con amor. La fe se fortalece cuando vuelves tu mirada a Él en lugar de quedarte mirando solo el problema.",
+      "prayer": "Señor, fortalece mi corazón y ayúdame a confiar en tu presencia. Recuérdame que no estoy solo y que Tú caminas conmigo en cada momento. Amén.",
+      "action": "Toma cinco minutos para orar y agradecer a Dios por una situación en la que sentiste Su ayuda."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Fe aun sin ver",
+      "subtitle": "Confiar en Dios también es creer antes de ver la respuesta.",
+      "verse": "Hebreos 11:1",
+      "verseText": "H",
+      "text": "La fe no depende de tener todas las respuestas en la mano. Muchas veces Dios trabaja en silencio, preparando cosas que tus ojos todavía no pueden ver. Por eso la fe mira más allá de las circunstancias presentes.\nCreer no significa negar la realidad. Significa reconocer que Dios es mayor que lo que hoy estás enfrentando. La fe no se sostiene en emociones pasajeras, sino en la fidelidad de Dios.\nTal vez estás esperando una respuesta, una puerta abierta o una dirección clara. No permitas que la espera apague tu confianza. Dios sigue obrando aun cuando el proceso parece lento.",
+      "prayer": "Padre, ayúdame a confiar en Ti aunque todavía no vea la respuesta. Fortalece mi fe y enséñame a descansar en tu fidelidad. Amén.",
+      "action": "Escribe una situación por la que estás esperando respuesta y entrégala a Dios en oración."
+    }
+  ],
+  "updatedAtMs": 1783457955810
+}
