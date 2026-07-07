@@ -7,6 +7,7 @@ import './reader.css';
 import './plans.css';
 import './app-layout.css';
 import './mobile-compact.css';
+import './plan-days-compact.css';
 
 createRoot(document.getElementById('root')).render(
   <React.StrictMode>
