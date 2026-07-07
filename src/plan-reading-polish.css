@@ -1,0 +1,212 @@
+.polished-reading-screen {
+  max-width: 820px;
+  padding-bottom: 32px;
+}
+
+.reading-back-button {
+  margin-bottom: 18px;
+}
+
+.polished-reading-header {
+  position: relative;
+  margin-bottom: 18px;
+  padding: 24px 22px 20px;
+  text-align: left;
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.82), rgba(255, 248, 235, 0.72));
+  border: 1px solid rgba(7, 29, 58, 0.08);
+  border-radius: 28px;
+  box-shadow: 0 18px 44px rgba(7, 29, 58, 0.08);
+}
+
+.polished-reading-header .reading-day-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  width: fit-content;
+  padding: 10px 14px;
+  color: var(--plan-navy);
+  background: #ffffff;
+  border: 1px solid rgba(7, 29, 58, 0.08);
+  border-radius: 999px;
+  font-weight: 900;
+  box-shadow: 0 10px 24px rgba(7, 29, 58, 0.06);
+}
+
+.polished-reading-header .mini-progress {
+  max-width: none;
+  height: 10px;
+  margin: 16px 0 18px;
+  background: #e8ebf0;
+}
+
+.polished-reading-header p {
+  margin: 0 0 8px;
+  color: #7a8190;
+  font-size: 1rem;
+}
+
+.polished-reading-header h1 {
+  margin: 0;
+  max-width: 720px;
+  font-size: clamp(2.8rem, 8vw, 4.9rem);
+  line-height: 0.96;
+}
+
+.polished-reference-card {
+  grid-template-columns: 76px 1fr;
+  gap: 18px;
+  margin-top: 14px;
+  padding: 22px;
+  background: linear-gradient(135deg, #ffffff, #fffaf2);
+}
+
+.polished-reference-card .verse-reading-icon {
+  width: 64px;
+  height: 64px;
+  border-radius: 20px;
+}
+
+.polished-reference-card small {
+  display: block;
+  margin-bottom: 6px;
+  color: var(--plan-gold);
+  font-size: 0.76rem;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.polished-reference-card h2 {
+  margin: 0;
+  font-size: clamp(1.9rem, 6vw, 3rem);
+  line-height: 1.05;
+}
+
+.polished-reading-card {
+  display: block;
+  margin-top: 18px;
+  padding: 26px;
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid rgba(7, 29, 58, 0.08);
+  border-radius: 26px;
+  box-shadow: 0 18px 44px rgba(7, 29, 58, 0.08);
+}
+
+.polished-reflection-card {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.56), rgba(255, 248, 235, 0.34));
+}
+
+.reading-section-title {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 18px;
+}
+
+.reading-section-title .reading-round-icon {
+  flex: 0 0 auto;
+  width: 58px;
+  height: 58px;
+  margin: 0;
+}
+
+.reading-section-title h2 {
+  margin: 0;
+  font-size: clamp(2.05rem, 6vw, 3.1rem);
+  line-height: 1;
+}
+
+.reading-body-copy p {
+  margin: 0;
+  color: #243042;
+  font-size: clamp(1.08rem, 4.4vw, 1.32rem);
+  line-height: 1.78;
+}
+
+.reading-body-copy p + p {
+  margin-top: 16px;
+}
+
+.prayer-block .reading-body-copy,
+.action-block .reading-body-copy {
+  padding-left: 74px;
+}
+
+.polished-reading-actions {
+  position: sticky;
+  bottom: 92px;
+  z-index: 9;
+  margin: 22px 0 10px;
+  padding: 12px;
+  background: rgba(255, 250, 241, 0.76);
+  border: 1px solid rgba(7, 29, 58, 0.06);
+  border-radius: 24px;
+  backdrop-filter: blur(12px);
+}
+
+.polished-reading-actions .plan-btn {
+  min-height: 56px;
+  border-radius: 18px;
+}
+
+@media (max-width: 720px) {
+  .polished-reading-screen {
+    padding-left: 2px;
+    padding-right: 2px;
+  }
+
+  .reading-back-button {
+    width: 58px;
+    height: 58px;
+    margin-bottom: 12px;
+  }
+
+  .polished-reading-header {
+    padding: 20px 18px 18px;
+    border-radius: 24px;
+  }
+
+  .polished-reading-header h1 {
+    font-size: clamp(2.55rem, 13vw, 4.3rem);
+  }
+
+  .polished-reference-card {
+    grid-template-columns: 62px 1fr;
+    padding: 20px;
+    border-radius: 24px;
+  }
+
+  .polished-reference-card .verse-reading-icon {
+    width: 56px;
+    height: 56px;
+    border-radius: 18px;
+  }
+
+  .polished-reading-card {
+    padding: 22px 20px;
+    border-radius: 24px;
+  }
+
+  .reading-section-title {
+    gap: 13px;
+  }
+
+  .reading-section-title .reading-round-icon {
+    width: 52px;
+    height: 52px;
+  }
+
+  .reading-section-title h2 {
+    font-size: clamp(2rem, 9vw, 2.8rem);
+  }
+
+  .prayer-block .reading-body-copy,
+  .action-block .reading-body-copy {
+    padding-left: 0;
+  }
+
+  .polished-reading-actions {
+    bottom: 82px;
+    margin-top: 18px;
+  }
+}
