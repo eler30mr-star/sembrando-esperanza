@@ -46,6 +46,25 @@ function uniqueSortedDays(days) {
     .sort((a, b) => a - b);
 }
 
+function normalizeDate(value) {
+  const date = value ? new Date(value) : new Date();
+  if (Number.isNaN(date.getTime())) return new Date();
+  return date;
+}
+
+function addDays(date, amount) {
+  const next = new Date(date);
+  next.setDate(next.getDate() + amount);
+  return next;
+}
+
+function formatPlanDate(date) {
+  return new Intl.DateTimeFormat('es-PE', {
+    day: 'numeric',
+    month: 'long'
+  }).format(date);
+}
+
 export default function PlanDetail() {
   const { slug } = useParams();
   const plan = plans.find((item) => item.slug === slug);
@@ -53,11 +72,13 @@ export default function PlanDetail() {
   const [activeDayIndex, setActiveDayIndex] = useState(0);
   const [completedDays, setCompletedDays] = useState([]);
   const [savedPlan, setSavedPlan] = useState(false);
+  const [startedAt, setStartedAt] = useState(() => new Date().toISOString());
 
   const totalDays = plan?.days.length ?? 0;
   const progress = totalDays ? Math.round((completedDays.length / totalDays) * 100) : 0;
   const nextDayIndex = totalDays ? Math.min(completedDays.length, totalDays - 1) : 0;
   const activeDay = plan?.days[activeDayIndex];
+  const startDate = normalizeDate(startedAt);
   const recommendedPlan = useMemo(() => plans.find((item) => item.slug !== slug) ?? plans[0], [slug]);
 
   useEffect(() => {
@@ -71,6 +92,7 @@ export default function PlanDetail() {
 
     setCompletedDays(validCompletedDays);
     setSavedPlan(Boolean(saved.savedPlan));
+    setStartedAt(saved.startedAt || new Date().toISOString());
     setActiveDayIndex(
       Number.isInteger(saved.lastDayIndex)
         ? Math.min(Math.max(saved.lastDayIndex, 0), plan.days.length - 1)
@@ -93,13 +115,17 @@ export default function PlanDetail() {
 
   function persist(nextCompletedDays, nextLastDayIndex = activeDayIndex, nextSavedPlan = savedPlan) {
     const finalCompletedDays = uniqueSortedDays(nextCompletedDays).filter((day) => day < totalDays);
+    const saved = readSavedProgress(slug);
+    const finalStartedAt = saved?.startedAt || startedAt || new Date().toISOString();
+    setStartedAt(finalStartedAt);
+
     saveProgress(slug, {
       planSlug: slug,
       planTitle: plan.title,
       completedDays: finalCompletedDays,
       lastDayIndex: Math.min(Math.max(nextLastDayIndex, 0), totalDays - 1),
       savedPlan: nextSavedPlan,
-      startedAt: readSavedProgress(slug)?.startedAt || new Date().toISOString(),
+      startedAt: finalStartedAt,
       completedAt: finalCompletedDays.length >= totalDays ? new Date().toISOString() : null
     });
   }
@@ -208,6 +234,7 @@ export default function PlanDetail() {
             {plan.days.map((day, index) => {
               const completed = completedDays.includes(index);
               const current = !completed && index === Math.min(completedDays.length, totalDays - 1);
+              const dayDate = formatPlanDate(addDays(startDate, index));
               return (
                 <button
                   key={`${day.title}-${index}`}
@@ -217,7 +244,7 @@ export default function PlanDetail() {
                 >
                   <span className="plan-day-icon">{completed ? <CheckCircle2 /> : current ? <BookOpen /> : <CalendarDays />}</span>
                   <span className="plan-day-copy">
-                    <small>Día {index + 1}</small>
+                    <small>Día {index + 1} · {dayDate}</small>
                     <strong>{day.title}</strong>
                     <em>{day.subtitle}</em>
                   </span>
@@ -237,7 +264,7 @@ export default function PlanDetail() {
           </button>
 
           <header className="plan-reading-header">
-            <span><CalendarDays size={17} /> Día {activeDayIndex + 1} de {totalDays}</span>
+            <span><CalendarDays size={17} /> Día {activeDayIndex + 1} de {totalDays} · {formatPlanDate(addDays(startDate, activeDayIndex))}</span>
             <div className="mini-progress"><span style={{ width: `${Math.max(progress, 10)}%` }} /></div>
             <p>{plan.title}</p>
             <h1>{activeDay.title}</h1>
