@@ -1,8 +1,14 @@
-import plansIndex from '../data/plans.json';
-
 const defaultPlanImage = 'https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1400&q=85';
 
-const planModules = import.meta.glob('../data/plans/*.json');
+async function fetchJson(path, fallback) {
+  try {
+    const response = await fetch(path, { cache: 'no-store' });
+    if (!response.ok) return fallback;
+    return await response.json();
+  } catch {
+    return fallback;
+  }
+}
 
 function cleanStringList(value) {
   return Array.isArray(value)
@@ -19,7 +25,6 @@ function normalizeDays(value) {
       title: day?.title || 'Día del plan',
       subtitle: day?.subtitle || '',
       verse: day?.verse || '',
-      verseText: day?.verseText || '',
       text: day?.text || '',
       prayer: day?.prayer || '',
       action: day?.action || ''
@@ -57,7 +62,7 @@ function normalizePlan(data, index = 0) {
     gains: cleanStringList(data.gains),
     days,
     status: data.status || 'published',
-    detailPath: data.detailPath || '',
+    detailPath: data.detailPath || `/data/plans/${data.slug}.json`,
     updatedAtMs: Number(data.updatedAtMs || 0)
   };
 }
@@ -67,10 +72,10 @@ function sortByUpdatedAt(items) {
 }
 
 export async function getPublishedPlans() {
-  const plans = Array.isArray(plansIndex) ? plansIndex : [];
-  const publishedPlans = plans
-    .map(normalizePlan)
-    .filter((plan) => plan.status === 'published');
+  const plans = await fetchJson('/data/plans.json', []);
+  const publishedPlans = Array.isArray(plans)
+    ? plans.map(normalizePlan).filter((plan) => plan.status === 'published')
+    : [];
 
   return sortByUpdatedAt(publishedPlans);
 }
@@ -81,11 +86,9 @@ export async function getPublishedPlanBySlug(slug) {
 
   if (!planSummary) return null;
 
-  const modulePath = `../data/plans/${slug}.json`;
-  const loader = planModules[modulePath];
+  const detailPath = planSummary.detailPath || `/data/plans/${slug}.json`;
+  const detail = await fetchJson(detailPath, null);
 
-  if (!loader) return planSummary;
-
-  const module = await loader();
-  return normalizePlan({ ...planSummary, ...(module.default || module) });
+  if (!detail) return planSummary;
+  return normalizePlan({ ...planSummary, ...detail });
 }
