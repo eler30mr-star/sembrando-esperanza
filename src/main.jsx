@@ -5,6 +5,7 @@ import App from './App.jsx';
 import './styles.css';
 import './reader.css';
 import './plans.css';
+import './app-layout.css';
 
 createRoot(document.getElementById('root')).render(
   <React.StrictMode>
