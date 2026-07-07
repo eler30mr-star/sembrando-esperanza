@@ -80,4 +80,103 @@
   .mobile-app-frame .plan-day-arrow {
     display: none !important;
   }
+
+  .mobile-app-frame .plan-complete-screen {
+    padding-bottom: 120px !important;
+  }
+
+  .mobile-app-frame .complete-hero {
+    height: 165px !important;
+    margin: -22px -16px 0 !important;
+    border-radius: 0 0 28px 28px !important;
+  }
+
+  .mobile-app-frame .complete-hero .round-back {
+    width: 42px !important;
+    height: 42px !important;
+    margin: 12px !important;
+  }
+
+  .mobile-app-frame .complete-content-card {
+    margin: -34px auto 16px !important;
+    max-width: 360px !important;
+    padding: 0 8px !important;
+  }
+
+  .mobile-app-frame .complete-badge {
+    width: 78px !important;
+    height: 78px !important;
+    margin: 0 auto 12px !important;
+  }
+
+  .mobile-app-frame .complete-badge svg {
+    width: 24px !important;
+    height: 24px !important;
+  }
+
+  .mobile-app-frame .complete-content-card h1 {
+    font-size: clamp(2.15rem, 10vw, 2.9rem) !important;
+    line-height: 0.96 !important;
+    margin: 8px 0 12px !important;
+  }
+
+  .mobile-app-frame .complete-content-card p {
+    font-size: 0.98rem !important;
+    line-height: 1.36 !important;
+    margin: 0 auto 12px !important;
+    max-width: 330px !important;
+  }
+
+  .mobile-app-frame .complete-days {
+    margin-top: 6px !important;
+    padding: 11px 22px !important;
+    font-size: 1rem !important;
+  }
+
+  .mobile-app-frame .complete-gains-card {
+    margin: 16px auto !important;
+    padding: 20px !important;
+    max-width: 360px !important;
+    border-radius: 20px !important;
+  }
+
+  .mobile-app-frame .complete-gains-card h2 {
+    font-size: 1.45rem !important;
+    margin-bottom: 12px !important;
+  }
+
+  .mobile-app-frame .complete-gains-card p {
+    gap: 10px !important;
+    margin: 10px 0 !important;
+    font-size: 0.9rem !important;
+    line-height: 1.25 !important;
+  }
+
+  .mobile-app-frame .complete-actions {
+    gap: 10px !important;
+    margin-bottom: 18px !important;
+  }
+
+  .mobile-app-frame .complete-next-card {
+    grid-template-columns: 92px 1fr 32px !important;
+    gap: 10px !important;
+    padding: 10px !important;
+    border-radius: 16px !important;
+  }
+
+  .mobile-app-frame .complete-next-card img {
+    width: 92px !important;
+    height: 68px !important;
+    border-radius: 12px !important;
+  }
+
+  .mobile-app-frame .complete-next-card strong {
+    font-size: 0.98rem !important;
+    line-height: 1.15 !important;
+  }
+
+  .mobile-app-frame .complete-next-card small,
+  .mobile-app-frame .complete-next-card em {
+    font-size: 0.75rem !important;
+  }
 }
