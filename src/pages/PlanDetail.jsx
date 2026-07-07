@@ -67,12 +67,12 @@ function formatPlanDate(date) {
 }
 
 function getGainItems(plan) {
-  const gains = Array.isArray(plan?.gains) && plan.gains.length
-    ? plan.gains
-    : ['Más confianza en Dios', 'Constancia en la oración', 'Palabra aplicada cada día'];
+  const gains = Array.isArray(plan?.gains)
+    ? plan.gains.map((gain) => String(gain || '').trim()).filter(Boolean)
+    : [];
 
   const icons = [Shield, HandHeart, BookOpen];
-  return gains.slice(0, 3).map((gain, index) => ({ gain, Icon: icons[index] || CheckCircle2 }));
+  return gains.map((gain, index) => ({ gain, Icon: icons[index] || CheckCircle2 }));
 }
 
 export default function PlanDetail() {
@@ -315,7 +315,6 @@ export default function PlanDetail() {
             <span className="verse-reading-icon"><BookOpen size={28} /></span>
             <div>
               <h2>{activeDay.verse}</h2>
-              <blockquote>“{activeDay.verseText}”</blockquote>
             </div>
           </section>
 
@@ -380,12 +379,14 @@ export default function PlanDetail() {
             <strong className="complete-days"><CheckCircle2 size={19} /> {totalDays} de {totalDays} días</strong>
           </div>
 
-          <div className="complete-gains-card">
-            <h2>Lo que has ganado</h2>
-            {gainItems.map(({ gain, Icon }) => (
-              <div className="complete-gain-item" key={gain}><Icon size={24} strokeWidth={1.9} /><span>{gain}</span></div>
-            ))}
-          </div>
+          {gainItems.length > 0 && (
+            <div className="complete-gains-card">
+              <h2>Lo que has ganado</h2>
+              {gainItems.map(({ gain, Icon }) => (
+                <div className="complete-gain-item" key={gain}><Icon size={24} strokeWidth={1.9} /><span>{gain}</span></div>
+              ))}
+            </div>
+          )}
 
           <div className="complete-actions">
             <Link className="plan-btn plan-btn-gold" to="/planes">Comenzar otro plan <ArrowRight size={19} /></Link>
