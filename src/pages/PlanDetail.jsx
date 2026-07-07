@@ -16,7 +16,7 @@ import {
   Target,
   Trophy
 } from 'lucide-react';
-import { plans } from '../data/content.js';
+import { getPublishedPlanBySlug, getPublishedPlans } from '../services/plansService.js';
 
 function storageKey(slug) {
   return `sembrando-plan-progress-${slug}`;
@@ -66,21 +66,53 @@ function formatPlanDate(date) {
   }).format(date);
 }
 
+function getGainItems(plan) {
+  const gains = Array.isArray(plan?.gains) && plan.gains.length
+    ? plan.gains
+    : ['Más confianza en Dios', 'Constancia en la oración', 'Palabra aplicada cada día'];
+
+  const icons = [Shield, HandHeart, BookOpen];
+  return gains.slice(0, 3).map((gain, index) => ({ gain, Icon: icons[index] || CheckCircle2 }));
+}
+
 export default function PlanDetail() {
   const { slug } = useParams();
-  const plan = plans.find((item) => item.slug === slug);
+  const [plan, setPlan] = useState(null);
+  const [allPlans, setAllPlans] = useState([]);
+  const [loading, setLoading] = useState(true);
   const [screen, setScreen] = useState('overview');
   const [activeDayIndex, setActiveDayIndex] = useState(0);
   const [completedDays, setCompletedDays] = useState([]);
   const [savedPlan, setSavedPlan] = useState(false);
   const [startedAt, setStartedAt] = useState(() => new Date().toISOString());
 
+  useEffect(() => {
+    let alive = true;
+
+    async function loadPlan() {
+      setLoading(true);
+      const [selectedPlan, publishedPlans] = await Promise.all([
+        getPublishedPlanBySlug(slug),
+        getPublishedPlans()
+      ]);
+
+      if (!alive) return;
+      setPlan(selectedPlan);
+      setAllPlans(publishedPlans);
+      setLoading(false);
+    }
+
+    loadPlan();
+    return () => { alive = false; };
+  }, [slug]);
+
   const totalDays = plan?.days.length ?? 0;
   const progress = totalDays ? Math.round((completedDays.length / totalDays) * 100) : 0;
   const nextDayIndex = totalDays ? Math.min(completedDays.length, totalDays - 1) : 0;
   const activeDay = plan?.days[activeDayIndex];
   const startDate = normalizeDate(startedAt);
-  const recommendedPlan = useMemo(() => plans.find((item) => item.slug !== slug) ?? plans[0], [slug]);
+  const recommendedPlan = useMemo(() => allPlans.find((item) => item.slug !== slug) ?? allPlans[0] ?? null, [slug, allPlans]);
+  const gainItems = getGainItems(plan);
 
   useEffect(() => {
     if (!slug || !plan) return;
@@ -104,6 +136,14 @@ export default function PlanDetail() {
       setScreen('complete');
     }
   }, [slug, plan]);
+
+  if (loading) {
+    return (
+      <section className="section page not-found">
+        <h1>Cargando plan...</h1>
+      </section>
+    );
+  }
 
   if (!plan) {
     return (
@@ -198,7 +238,7 @@ export default function PlanDetail() {
               <div className="plan-learning-card">
                 <h2>En este plan aprenderás</h2>
                 <ul>
-                  {plan.learning.map((item) => (
+                  {(plan.learning.length ? plan.learning : ['Meditar en la Palabra', 'Orar con intención', 'Aplicar una acción diaria']).map((item) => (
                     <li key={item}><Check size={17} /> {item}</li>
                   ))}
                 </ul>
@@ -283,7 +323,7 @@ export default function PlanDetail() {
             <span className="reading-floating-icon">❧</span>
             <div>
               <h2>Reflexión</h2>
-              {activeDay.text.split('\n\n').map((paragraph) => (
+              {String(activeDay.text || '').split('\n\n').map((paragraph) => (
                 <p key={paragraph}>{paragraph}</p>
               ))}
             </div>
@@ -342,9 +382,9 @@ export default function PlanDetail() {
 
           <div className="complete-gains-card">
             <h2>Lo que has ganado</h2>
-            <div className="complete-gain-item"><Shield size={24} strokeWidth={1.9} /><span>Más confianza en Dios</span></div>
-            <div className="complete-gain-item"><HandHeart size={24} strokeWidth={1.9} /><span>Constancia en la oración</span></div>
-            <div className="complete-gain-item"><BookOpen size={24} strokeWidth={1.9} /><span>Palabra aplicada cada día</span></div>
+            {gainItems.map(({ gain, Icon }) => (
+              <div className="complete-gain-item" key={gain}><Icon size={24} strokeWidth={1.9} /><span>{gain}</span></div>
+            ))}
           </div>
 
           <div className="complete-actions">
@@ -352,15 +392,17 @@ export default function PlanDetail() {
             <button className="plan-btn plan-btn-secondary" type="button"><NotebookPen size={18} /> Ver mis notas</button>
           </div>
 
-          <Link className="complete-next-card" to={`/planes/${recommendedPlan.slug}`}>
-            <img src={recommendedPlan.image} alt="" />
-            <span>
-              <small>Recomendado para seguir</small>
-              <strong>{recommendedPlan.title}</strong>
-              <em>{recommendedPlan.duration}</em>
-            </span>
-            <ArrowRight size={18} />
-          </Link>
+          {recommendedPlan && recommendedPlan.slug !== plan.slug && (
+            <Link className="complete-next-card" to={`/planes/${recommendedPlan.slug}`}>
+              <img src={recommendedPlan.image} alt="" />
+              <span>
+                <small>Recomendado para seguir</small>
+                <strong>{recommendedPlan.title}</strong>
+                <em>{recommendedPlan.duration}</em>
+              </span>
+              <ArrowRight size={18} />
+            </Link>
+          )}
         </section>
       )}
     </section>
