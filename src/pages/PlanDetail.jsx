@@ -331,6 +331,18 @@ export default function PlanDetail() {
             </div>
           </section>
 
+          {activeDay.internalize && (
+            <section className="reading-block internalize-block polished-reading-card">
+              <div className="reading-section-title">
+                <span className="reading-round-icon">✦</span>
+                <h2>Interioriza</h2>
+              </div>
+              <div className="reading-body-copy">
+                <p>{activeDay.internalize}</p>
+              </div>
+            </section>
+          )}
+
           <section className="reading-block prayer-block polished-reading-card">
             <div className="reading-section-title">
               <span className="reading-round-icon">🙏</span>
