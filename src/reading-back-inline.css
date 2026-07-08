@@ -1,3 +1,5 @@
+@import './plan-cover-size.css';
+
 .reading-top-row {
   display: flex;
   align-items: center;
