@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1783536665231",
+    "title": "Paz Mental en Tiempos de Incertidumbre",
+    "slug": "paz-mental-en-tiempos-de-incertidumbre",
+    "category": "Ansiedad",
+    "status": "published",
+    "language": "es",
+    "dayCount": 7,
+    "duration": "7 días",
+    "time": "6 min al día",
+    "coverImage": "https://github.com/eler30mr-star/sembrando-esperanza/blob/main/public/images/plans/paz-mental-en-tiempos-de-incertidumbre.png",
+    "shortDescription": "Un plan bíblico de 7 días diseñado para recuperar la estabilidad emocional y la calma interior a través de verdades doctrinales sólidas, ayudándote a gobernar tu mente cuando el futuro es incierto.",
+    "detailPath": "/data/es/plans/paz-mental-en-tiempos-de-incertidumbre.json",
+    "updatedAtMs": 1783536665232
+  },
+  {
     "id": "plan-1783486825537",
     "title": "Cuando Dios sostiene tu confianza",
     "slug": "cuando-dios-sostiene-tu-confianza",
