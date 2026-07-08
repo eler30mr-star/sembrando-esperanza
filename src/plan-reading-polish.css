@@ -54,24 +54,25 @@
 }
 
 .polished-reference-card {
-  grid-template-columns: 76px 1fr;
-  gap: 18px;
+  grid-template-columns: 58px 1fr;
+  gap: 16px;
+  align-items: center;
   margin-top: 14px;
-  padding: 22px;
+  padding: 20px;
   background: linear-gradient(135deg, #ffffff, #fffaf2);
 }
 
 .polished-reference-card .verse-reading-icon {
-  width: 64px;
-  height: 64px;
-  border-radius: 20px;
+  width: 54px;
+  height: 54px;
+  border-radius: 18px;
 }
 
 .polished-reference-card small {
   display: block;
-  margin-bottom: 6px;
+  margin-bottom: 4px;
   color: var(--plan-gold);
-  font-size: 0.76rem;
+  font-size: 0.72rem;
   font-weight: 900;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -79,8 +80,13 @@
 
 .polished-reference-card h2 {
   margin: 0;
-  font-size: clamp(1.75rem, 5.3vw, 2.7rem);
-  line-height: 1.05;
+  max-width: 100%;
+  color: var(--plan-navy);
+  font-size: clamp(1.25rem, 4.8vw, 2rem);
+  line-height: 1.18;
+  letter-spacing: -0.025em;
+  overflow-wrap: anywhere;
+  word-break: normal;
 }
 
 .polished-reading-card {
@@ -93,29 +99,29 @@
   box-shadow: 0 18px 44px rgba(7, 29, 58, 0.08);
 }
 
-.polished-reflection-card {
+.polished-reflection-card,
+.internalize-block {
   background: linear-gradient(180deg, rgba(255, 255, 255, 0.56), rgba(255, 248, 235, 0.34));
 }
 
 .internalize-block {
-  background: linear-gradient(135deg, rgba(6, 33, 68, 0.96), rgba(12, 54, 82, 0.92));
-  color: #ffffff;
-  border-color: rgba(227, 189, 98, 0.24);
+  color: var(--plan-navy);
+  border-color: rgba(7, 29, 58, 0.08);
 }
 
 .internalize-block .reading-round-icon {
-  color: var(--plan-navy);
-  background: linear-gradient(135deg, var(--plan-gold-2), var(--plan-gold));
-  border-color: transparent;
+  color: var(--plan-gold);
+  background: #fff8e8;
+  border-color: rgba(212, 164, 69, 0.16);
 }
 
 .internalize-block h2,
 .internalize-block .reading-body-copy p {
-  color: #ffffff;
+  color: var(--plan-navy);
 }
 
 .internalize-block .reading-body-copy p {
-  font-weight: 800;
+  font-weight: 600;
 }
 
 .reading-section-title {
@@ -198,19 +204,21 @@
   }
 
   .polished-reference-card {
-    grid-template-columns: 62px 1fr;
-    padding: 20px;
+    grid-template-columns: 52px 1fr;
+    gap: 14px;
+    padding: 18px;
     border-radius: 24px;
   }
 
   .polished-reference-card .verse-reading-icon {
-    width: 56px;
-    height: 56px;
-    border-radius: 18px;
+    width: 50px;
+    height: 50px;
+    border-radius: 16px;
   }
 
   .polished-reference-card h2 {
-    font-size: clamp(1.8rem, 8vw, 2.55rem);
+    font-size: clamp(1.18rem, 6vw, 1.7rem);
+    line-height: 1.2;
   }
 
   .polished-reading-card {
