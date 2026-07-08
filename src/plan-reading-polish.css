@@ -54,25 +54,25 @@
 }
 
 .polished-reference-card {
-  grid-template-columns: 58px 1fr;
-  gap: 16px;
+  grid-template-columns: 56px 1fr;
+  gap: 15px;
   align-items: center;
   margin-top: 14px;
-  padding: 20px;
+  padding: 18px 20px;
   background: linear-gradient(135deg, #ffffff, #fffaf2);
 }
 
 .polished-reference-card .verse-reading-icon {
-  width: 54px;
-  height: 54px;
-  border-radius: 18px;
+  width: 52px;
+  height: 52px;
+  border-radius: 17px;
 }
 
 .polished-reference-card small {
   display: block;
   margin-bottom: 4px;
   color: var(--plan-gold);
-  font-size: 0.72rem;
+  font-size: 0.68rem;
   font-weight: 900;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -82,9 +82,9 @@
   margin: 0;
   max-width: 100%;
   color: var(--plan-navy);
-  font-size: clamp(1.25rem, 4.8vw, 2rem);
-  line-height: 1.18;
-  letter-spacing: -0.025em;
+  font-size: clamp(1.05rem, 4.2vw, 1.55rem);
+  line-height: 1.22;
+  letter-spacing: -0.018em;
   overflow-wrap: anywhere;
   word-break: normal;
 }
@@ -92,7 +92,7 @@
 .polished-reading-card {
   display: block;
   margin-top: 18px;
-  padding: 26px;
+  padding: 24px;
   background: rgba(255, 255, 255, 0.9);
   border: 1px solid rgba(7, 29, 58, 0.08);
   border-radius: 26px;
@@ -127,28 +127,28 @@
 .reading-section-title {
   display: flex;
   align-items: center;
-  gap: 16px;
-  margin-bottom: 18px;
+  gap: 14px;
+  margin-bottom: 16px;
 }
 
 .reading-section-title .reading-round-icon {
   flex: 0 0 auto;
-  width: 58px;
-  height: 58px;
+  width: 52px;
+  height: 52px;
   margin: 0;
 }
 
 .reading-section-title h2 {
   margin: 0;
-  font-size: clamp(1.95rem, 5.4vw, 2.85rem);
+  font-size: clamp(1.58rem, 4.8vw, 2.25rem);
   line-height: 1;
 }
 
 .reading-body-copy p {
   margin: 0;
   color: #243042;
-  font-size: clamp(1.08rem, 4.4vw, 1.32rem);
-  line-height: 1.78;
+  font-size: clamp(1.06rem, 4.2vw, 1.26rem);
+  line-height: 1.74;
 }
 
 .reading-body-copy p + p {
@@ -157,7 +157,7 @@
 
 .prayer-block .reading-body-copy,
 .action-block .reading-body-copy {
-  padding-left: 74px;
+  padding-left: 66px;
 }
 
 .polished-reading-actions {
@@ -204,39 +204,45 @@
   }
 
   .polished-reference-card {
-    grid-template-columns: 52px 1fr;
-    gap: 14px;
-    padding: 18px;
-    border-radius: 24px;
+    grid-template-columns: 48px 1fr;
+    gap: 13px;
+    padding: 16px 18px;
+    border-radius: 22px;
   }
 
   .polished-reference-card .verse-reading-icon {
-    width: 50px;
-    height: 50px;
-    border-radius: 16px;
+    width: 46px;
+    height: 46px;
+    border-radius: 15px;
   }
 
   .polished-reference-card h2 {
-    font-size: clamp(1.18rem, 6vw, 1.7rem);
-    line-height: 1.2;
+    font-size: clamp(1.02rem, 5vw, 1.38rem);
+    line-height: 1.22;
   }
 
   .polished-reading-card {
-    padding: 22px 20px;
+    padding: 21px 20px;
     border-radius: 24px;
   }
 
   .reading-section-title {
-    gap: 13px;
+    gap: 12px;
+    margin-bottom: 15px;
   }
 
   .reading-section-title .reading-round-icon {
-    width: 52px;
-    height: 52px;
+    width: 48px;
+    height: 48px;
   }
 
   .reading-section-title h2 {
-    font-size: clamp(1.9rem, 8vw, 2.55rem);
+    font-size: clamp(1.55rem, 6.8vw, 2.08rem);
+  }
+
+  .reading-body-copy p {
+    font-size: clamp(1.04rem, 4.1vw, 1.22rem);
+    line-height: 1.7;
   }
 
   .prayer-block .reading-body-copy,
