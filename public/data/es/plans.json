@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1783537353045",
+    "title": "Ansiedad en tiempos de espera",
+    "slug": "ansiedad-en-tiempos-de-espera",
+    "category": "Ansiedad",
+    "status": "published",
+    "language": "es",
+    "dayCount": 10,
+    "duration": "10 días",
+    "time": "6 min al día",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/cuando-dios-sostiene-tu-confianza.png",
+    "shortDescription": "Un plan bíblico para calmar la ansiedad cuando una respuesta tarda y el corazón empieza a cansarse.",
+    "detailPath": "/data/es/plans/ansiedad-en-tiempos-de-espera.json",
+    "updatedAtMs": 1783537353045
+  },
+  {
     "id": "plan-1783536665231",
     "title": "Paz Mental en Tiempos de Incertidumbre",
     "slug": "paz-mental-en-tiempos-de-incertidumbre",
