@@ -300,12 +300,13 @@ export default function PlanDetail() {
 
       {screen === 'reading' && activeDay && (
         <article className="plan-reading-screen polished-reading-screen">
-          <button className="round-back reading-back-button" type="button" onClick={() => setScreen('days')} aria-label="Volver a los días">
-            <ArrowLeft size={20} />
-          </button>
-
           <header className="plan-reading-header polished-reading-header">
-            <div className="reading-day-pill"><CalendarDays size={17} /> Día {activeDayIndex + 1} de {totalDays} · {formatPlanDate(addDays(startDate, activeDayIndex))}</div>
+            <div className="reading-top-row">
+              <button className="round-back reading-back-button" type="button" onClick={() => setScreen('days')} aria-label="Volver a los días">
+                <ArrowLeft size={20} />
+              </button>
+              <div className="reading-day-pill"><CalendarDays size={17} /> Día {activeDayIndex + 1} de {totalDays} · {formatPlanDate(addDays(startDate, activeDayIndex))}</div>
+            </div>
             <div className="mini-progress"><span style={{ width: `${Math.max(progress, 10)}%` }} /></div>
             <p>{plan.title}</p>
             <h1>{activeDay.title}</h1>
