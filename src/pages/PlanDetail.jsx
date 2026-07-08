@@ -11,6 +11,7 @@ import {
   Clock3,
   HandHeart,
   NotebookPen,
+  Play,
   Share2,
   Shield,
   Sparkles,
@@ -267,10 +268,10 @@ export default function PlanDetail() {
                 </ul>
                 <div className="plan-action-stack">
                   <button className="plan-btn plan-btn-gold" type="button" onClick={startPlan}>
-                    {completedDays.length ? 'Continuar plan' : 'Comenzar plan'} <ArrowRight size={19} />
+                    {completedDays.length ? 'Continuar plan' : 'Comenzar plan'} <Play size={18} fill="currentColor" />
                   </button>
                   <button className="plan-btn plan-btn-secondary" type="button" onClick={toggleSavePlan}>
-                    <Bookmark size={18} /> {savedPlan ? 'Plan guardado' : 'Guardar plan'}
+                    <Bookmark size={18} /> {savedPlan ? 'Guardado' : 'Guardar'}
                   </button>
                 </div>
               </div>
