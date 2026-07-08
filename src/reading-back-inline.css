@@ -25,6 +25,15 @@
   position: relative;
 }
 
+.plan-experience-page .plan-overview-topbar strong {
+  text-align: center !important;
+}
+
+.plan-experience-page .plan-description-card p {
+  text-align: justify !important;
+  text-justify: inter-word;
+}
+
 .plan-experience-page .plan-overview-cover.plan-overview-cover-image-only {
   min-height: 260px !important;
   max-height: 260px !important;
