@@ -42,6 +42,10 @@ function completedCount(progress) {
   return Array.isArray(progress?.completedDays) ? progress.completedDays.length : 0;
 }
 
+function getPlanTotalDays(plan) {
+  return Number(plan?.dayCount || plan?.days?.length || 0);
+}
+
 export default function Plans() {
   const [plans, setPlans] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -74,7 +78,8 @@ export default function Plans() {
     const activePlan = plans.find((plan) => {
       const progress = progressMap[plan.slug];
       const count = completedCount(progress);
-      return count > 0 && count < plan.days.length;
+      const total = getPlanTotalDays(plan);
+      return count > 0 && total > 0 && count < total;
     });
 
     return activePlan || plans[0] || null;
@@ -82,7 +87,7 @@ export default function Plans() {
 
   const featuredProgress = featured ? progressMap[featured.slug] : null;
   const featuredCompleted = completedCount(featuredProgress);
-  const featuredTotalDays = featured?.days?.length || 0;
+  const featuredTotalDays = getPlanTotalDays(featured);
   const featuredPercent = featuredTotalDays ? Math.round((featuredCompleted / featuredTotalDays) * 100) : 0;
   const featuredDay = featuredTotalDays ? Math.min(featuredCompleted + 1, featuredTotalDays) : 1;
   const hasStarted = featuredCompleted > 0;
