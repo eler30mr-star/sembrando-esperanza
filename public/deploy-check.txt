@@ -1,2 +1,2 @@
-redeploy=1783494000
-fix=prevent-blank-screen
+redeploy=1783494600
+fix=root-startup-fallback
