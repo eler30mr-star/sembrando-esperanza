@@ -74,7 +74,8 @@ export default function Plans() {
     const activePlan = plans.find((plan) => {
       const progress = progressMap[plan.slug];
       const count = completedCount(progress);
-      return count > 0 && count < plan.days.length;
+      const total = plan.dayCount || plan.days?.length || 0;
+      return count > 0 && count < total;
     });
 
     return activePlan || plans[0] || null;
@@ -82,9 +83,9 @@ export default function Plans() {
 
   const featuredProgress = featured ? progressMap[featured.slug] : null;
   const featuredCompleted = completedCount(featuredProgress);
-  const featuredTotalDays = featured?.days?.length || 0;
+  const featuredTotalDays = featured?.dayCount || featured?.days?.length || 0;
   const featuredPercent = featuredTotalDays ? Math.round((featuredCompleted / featuredTotalDays) * 100) : 0;
-  const featuredDay = featuredTotalDays ? Math.min(featuredCompleted + 1, featuredTotalDays) : 1;
+  const featuredDay = featuredTotalDays ? Math.min(featuredCompleted + 1, featuredTotalDays) : 0;
   const hasStarted = featuredCompleted > 0;
   const recommended = plans.slice(0, 3);
   const otherPlans = plans.slice(3);
@@ -122,7 +123,7 @@ export default function Plans() {
       </div>
 
       {featured && (
-        <Link className="plans-continue-card" to={`/planes/${featured.slug}`}>
+        <Link className="plans-continue-card" to={`/planes/${featured.slug}`} style={{ backgroundImage: `url(${featured.image})` }}>
           <div className="plans-continue-info">
             <span className="plans-kicker"><Sparkles size={16} /> {hasStarted ? 'Continúa tu plan' : 'Empieza un plan'}</span>
             <h2>{featured.title}</h2>
@@ -135,7 +136,6 @@ export default function Plans() {
               <span><Clock3 size={17} /> {featured.time}</span>
             </div>
           </div>
-          <div className="plans-continue-image" style={{ backgroundImage: `url(${featured.image})` }} />
           <span className="plans-continue-button">{hasStarted ? 'Continuar' : 'Comenzar'} <ArrowRight size={18} /></span>
         </Link>
       )}
