@@ -56,7 +56,7 @@
 .polished-reference-card {
   grid-template-columns: 56px 1fr;
   gap: 15px;
-  align-items: center;
+  align-items: flex-start;
   margin-top: 14px;
   padding: 18px 20px;
   background: linear-gradient(135deg, #ffffff, #fffaf2);
@@ -70,7 +70,7 @@
 
 .polished-reference-card small {
   display: block;
-  margin-bottom: 4px;
+  margin-bottom: 8px;
   color: var(--plan-gold);
   font-size: 0.68rem;
   font-weight: 900;
@@ -87,6 +87,28 @@
   letter-spacing: -0.018em;
   overflow-wrap: anywhere;
   word-break: normal;
+}
+
+.reference-list {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 7px;
+}
+
+.reference-item {
+  display: inline-flex;
+  width: fit-content;
+  max-width: 100%;
+  padding: 5px 10px;
+  color: var(--plan-navy);
+  background: rgba(255, 248, 232, 0.86);
+  border: 1px solid rgba(212, 164, 69, 0.18);
+  border-radius: 999px;
+  font-size: clamp(1rem, 4vw, 1.32rem);
+  font-weight: 850;
+  line-height: 1.18;
+  overflow-wrap: anywhere;
 }
 
 .polished-reading-card {
@@ -219,6 +241,15 @@
   .polished-reference-card h2 {
     font-size: clamp(1.02rem, 5vw, 1.38rem);
     line-height: 1.22;
+  }
+
+  .reference-list {
+    gap: 6px;
+  }
+
+  .reference-item {
+    padding: 5px 9px;
+    font-size: clamp(0.98rem, 4.6vw, 1.2rem);
   }
 
   .polished-reading-card {
