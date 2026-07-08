@@ -1,0 +1,30 @@
+.plan-days-screen {
+  position: relative;
+}
+
+.plan-days-screen > .round-back {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  z-index: 4;
+  width: 56px;
+  height: 56px;
+  margin: 0;
+}
+
+.plan-days-screen .plan-days-header {
+  padding-left: 74px;
+  padding-top: 0;
+}
+
+@media (max-width: 720px) {
+  .plan-days-screen > .round-back {
+    top: 4px;
+    width: 52px;
+    height: 52px;
+  }
+
+  .plan-days-screen .plan-days-header {
+    padding-left: 70px;
+  }
+}
