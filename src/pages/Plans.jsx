@@ -1,10 +1,9 @@
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import {
   ArrowRight,
   BookOpen,
   CalendarDays,
-  Clock3,
   Heart,
   Leaf,
   ShieldCheck,
@@ -70,25 +69,8 @@ export default function Plans() {
     setProgressMap(nextProgress);
   }, [plans]);
 
-  const featured = useMemo(() => {
-    const activePlan = plans.find((plan) => {
-      const progress = progressMap[plan.slug];
-      const count = completedCount(progress);
-      const total = plan.dayCount || plan.days?.length || 0;
-      return count > 0 && count < total;
-    });
-
-    return activePlan || plans[0] || null;
-  }, [plans, progressMap]);
-
-  const featuredProgress = featured ? progressMap[featured.slug] : null;
-  const featuredCompleted = completedCount(featuredProgress);
-  const featuredTotalDays = featured?.dayCount || featured?.days?.length || 0;
-  const featuredPercent = featuredTotalDays ? Math.round((featuredCompleted / featuredTotalDays) * 100) : 0;
-  const featuredDay = featuredTotalDays ? Math.min(featuredCompleted + 1, featuredTotalDays) : 0;
-  const hasStarted = featuredCompleted > 0;
-  const recommended = plans.slice(0, 3);
-  const otherPlans = plans.slice(3);
+  const recommended = plans.slice(0, 6);
+  const otherPlans = plans.slice(6);
 
   if (loading) {
     return (
@@ -121,24 +103,6 @@ export default function Plans() {
         <h1>Planes Bíblicos</h1>
         <p>Lecturas guiadas para crecer cada día con la Palabra de Dios.</p>
       </div>
-
-      {featured && (
-        <Link className="plans-continue-card" to={`/planes/${featured.slug}`} style={{ backgroundImage: `url(${featured.image})` }}>
-          <div className="plans-continue-info">
-            <span className="plans-kicker"><Sparkles size={16} /> {hasStarted ? 'Continúa tu plan' : 'Empieza un plan'}</span>
-            <h2>{featured.title}</h2>
-            <div className="plans-progress-row" aria-label={`${featuredPercent}% completado`}>
-              <span className="plans-progress"><span style={{ width: `${Math.max(featuredPercent, hasStarted ? 8 : 0)}%` }} /></span>
-              <strong>{featuredPercent}%</strong>
-            </div>
-            <div className="plans-meta-line">
-              <span><CalendarDays size={17} /> Día {featuredDay} de {featuredTotalDays}</span>
-              <span><Clock3 size={17} /> {featured.time}</span>
-            </div>
-          </div>
-          <span className="plans-continue-button">{hasStarted ? 'Continuar' : 'Comenzar'} <ArrowRight size={18} /></span>
-        </Link>
-      )}
 
       <div className="plans-category-row" aria-label="Categorías de planes bíblicos">
         {categories.map(({ label, icon: Icon, active }) => (
