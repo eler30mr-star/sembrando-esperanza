@@ -1,0 +1,56 @@
+.plans-continue-cover {
+  display: none !important;
+}
+
+.plans-continue-card {
+  position: relative !important;
+  display: grid !important;
+  grid-template-columns: 1fr !important;
+  min-height: 230px !important;
+  max-height: none !important;
+  margin: 22px 0 24px !important;
+  overflow: hidden !important;
+  color: #ffffff !important;
+  background-color: var(--plan-navy-2, #062144) !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  border-radius: 24px !important;
+}
+
+.plans-continue-card::before {
+  content: "" !important;
+  position: absolute !important;
+  inset: 0 !important;
+  z-index: 1 !important;
+  background: linear-gradient(90deg, rgba(6, 31, 60, 0.96), rgba(6, 31, 60, 0.72) 50%, rgba(6, 31, 60, 0.22)) !important;
+}
+
+.plans-continue-info,
+.plans-continue-button {
+  position: relative !important;
+  z-index: 2 !important;
+}
+
+.plans-web-page {
+  display: block !important;
+  min-height: auto !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+.header,
+.app-bottom-nav {
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+@media (max-width: 720px) {
+  .plans-continue-card {
+    min-height: 230px !important;
+  }
+
+  .plans-continue-info {
+    padding: 28px 28px 92px !important;
+  }
+}
