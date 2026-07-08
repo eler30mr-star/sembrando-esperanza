@@ -57,7 +57,7 @@
   right: 0 !important;
   z-index: 5 !important;
   display: grid !important;
-  grid-template-columns: 1fr 1fr !important;
+  grid-template-columns: minmax(0, 1fr) 140px !important;
   gap: 12px !important;
 }
 
@@ -96,6 +96,7 @@
 
   .mobile-app-frame .plan-experience-page .plan-action-stack {
     top: 244px !important;
+    grid-template-columns: minmax(0, 1fr) 118px !important;
     gap: 10px !important;
   }
 
