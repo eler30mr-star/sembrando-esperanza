@@ -5,6 +5,30 @@
   margin-bottom: 16px;
 }
 
+.reading-title-row {
+  margin-bottom: 14px;
+}
+
+.reading-day-title-pill {
+  flex: 1;
+  min-width: 0;
+  min-height: 52px;
+  display: flex;
+  align-items: center;
+  padding: 0 18px;
+  color: var(--plan-navy);
+  background: #ffffff;
+  border: 1px solid rgba(7, 29, 58, 0.08);
+  border-radius: 999px;
+  box-shadow: 0 10px 24px rgba(7, 29, 58, 0.06);
+  font-size: 0.98rem;
+  font-weight: 900;
+  line-height: 1.1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
 .polished-reading-screen > .reading-back-button {
   display: none;
 }
@@ -79,11 +103,12 @@
     min-width: 48px;
   }
 
-  .polished-reading-header .reading-day-pill {
+  .polished-reading-header .reading-day-pill,
+  .polished-reading-header .reading-day-title-pill {
     flex: 1;
     min-height: 48px;
-    padding: 9px 12px;
-    font-size: 0.9rem;
+    padding: 0 14px;
+    font-size: 0.92rem;
     line-height: 1.15;
   }
 
