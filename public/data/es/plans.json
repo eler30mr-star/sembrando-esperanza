@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1783539174143",
+    "title": "Miedo a perder el control",
+    "slug": "miedo-a-perder-el-control",
+    "category": "Ansiedad",
+    "status": "published",
+    "language": "es",
+    "dayCount": 12,
+    "duration": "12 días",
+    "time": "6 min al día",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/cuando-dios-sostiene-tu-confianza.png",
+    "shortDescription": "Un plan bíblico para aprender a soltar lo que no puedes controlar y descansar en la soberanía de Dios.",
+    "detailPath": "/data/es/plans/miedo-a-perder-el-control.json",
+    "updatedAtMs": 1783539191953
+  },
+  {
     "id": "plan-1783537353045",
     "title": "Ansiedad en tiempos de espera",
     "slug": "ansiedad-en-tiempos-de-espera",
