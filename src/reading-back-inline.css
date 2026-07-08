@@ -1,5 +1,3 @@
-@import './plan-cover-size.css';
-
 .reading-top-row {
   display: flex;
   align-items: center;
@@ -23,6 +21,21 @@
   margin-top: 0;
 }
 
+.plan-experience-page .plan-overview-cover.plan-overview-cover-image-only {
+  min-height: 260px !important;
+  max-height: 260px !important;
+  padding: 22px !important;
+}
+
+.plan-experience-page .plan-overview-cover.plan-overview-cover-image-only .plan-cover-chip {
+  align-self: flex-start !important;
+  margin-bottom: auto !important;
+}
+
+.plan-experience-page .plan-overview-cover.plan-overview-cover-image-only .plans-meta-line {
+  margin-top: 10px !important;
+}
+
 @media (max-width: 720px) {
   .reading-top-row {
     gap: 10px;
@@ -41,5 +54,11 @@
     padding: 9px 12px;
     font-size: 0.9rem;
     line-height: 1.15;
+  }
+
+  .mobile-app-frame .plan-experience-page .plan-overview-cover.plan-overview-cover-image-only {
+    min-height: 230px !important;
+    max-height: 230px !important;
+    padding: 18px !important;
   }
 }
