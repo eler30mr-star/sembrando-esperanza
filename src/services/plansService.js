@@ -18,8 +18,8 @@ function cleanStringList(value) {
 }
 
 function normalizeReferences(day) {
-  if (Array.isArray(day?.verses) && day.verses.length) return cleanStringList(day.verses);
   if (Array.isArray(day?.references) && day.references.length) return cleanStringList(day.references);
+  if (Array.isArray(day?.verses) && day.verses.length) return cleanStringList(day.verses);
   const verse = String(day?.verse || '').trim();
   return verse ? [verse] : [];
 }
@@ -29,13 +29,14 @@ function normalizeDays(value) {
 
   return value
     .map((day, index) => {
-      const verses = normalizeReferences(day);
+      const references = normalizeReferences(day);
       return {
         dayNumber: Number(day?.dayNumber || index + 1),
         title: day?.title || 'Día del plan',
         subtitle: day?.subtitle || '',
-        verse: verses.join('; '),
-        verses,
+        verse: references[0] || '',
+        verses: references,
+        references,
         text: day?.text || '',
         internalize: day?.internalize || day?.question || day?.meditation || '',
         prayer: day?.prayer || '',
