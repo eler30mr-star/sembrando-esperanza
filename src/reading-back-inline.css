@@ -28,9 +28,10 @@
   border-radius: 0 !important;
   box-shadow: none !important;
   padding: 0 !important;
-  font-size: 1.45rem;
+  font-size: 1.85rem;
   font-weight: 950;
-  line-height: 1.08;
+  line-height: 1.02;
+  letter-spacing: -0.035em;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -118,8 +119,8 @@
   }
 
   .polished-reading-header .reading-day-title-pill {
-    font-size: 1.28rem;
-    line-height: 1.08;
+    font-size: 1.62rem;
+    line-height: 1.03;
   }
 
   .mobile-app-frame .plan-experience-page .plan-overview-cover.plan-overview-cover-image-only {
