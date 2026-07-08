@@ -8,7 +8,7 @@
   "dayCount": 7,
   "duration": "7 días",
   "time": "6 min al día",
-  "coverImage": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1400&q=85",
+  "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/cuando-dios-sostiene-tu-confianza.png",
   "shortDescription": "Un plan bíblico de 7 días para fortalecer una fe firme, madura y perseverante cuando las respuestas tardan, las circunstancias pesan y el corazón necesita volver a confiar en Dios.",
   "learning": [
     "Comprender que la fe no depende de emociones pasajeras, sino de la fidelidad de Dios.",
@@ -149,5 +149,5 @@
       "action": "Define una práctica sencilla para los próximos siete días: oración diaria, lectura bíblica, gratitud, ayuno parcial o escribir lo que Dios te enseña."
     }
   ],
-  "updatedAtMs": 1783489273471
+  "updatedAtMs": 1783490135449
 }
