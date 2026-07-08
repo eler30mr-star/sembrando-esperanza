@@ -11,6 +11,7 @@ import {
   Clock3,
   HandHeart,
   NotebookPen,
+  Share2,
   Shield,
   Sparkles,
   Target,
@@ -210,15 +211,37 @@ export default function PlanDetail() {
     persist(completedDays, activeDayIndex, nextSavedPlan);
   }
 
+  async function sharePlan() {
+    const shareData = {
+      title: plan.title,
+      text: plan.description || plan.title,
+      url: window.location.href
+    };
+
+    try {
+      if (navigator.share) {
+        await navigator.share(shareData);
+      } else if (navigator.clipboard) {
+        await navigator.clipboard.writeText(window.location.href);
+      }
+    } catch {
+      // El usuario canceló compartir o el navegador no lo permitió.
+    }
+  }
+
   return (
     <section className="page section plan-experience-page">
       {screen === 'overview' && (
         <>
-          <Link className="back-link" to="/planes"><ArrowLeft size={17} /> Volver a planes</Link>
+          <div className="plan-overview-topbar">
+            <Link className="plan-overview-back" to="/planes" aria-label="Volver a planes"><ArrowLeft size={20} /></Link>
+            <strong title={plan.title}>{plan.title}</strong>
+            <button className="plan-overview-share" type="button" onClick={sharePlan} aria-label="Compartir plan"><Share2 size={20} /></button>
+          </div>
+
           <div className="plan-overview-layout">
-            <article className="plan-overview-cover" style={{ backgroundImage: `url(${plan.image})` }}>
+            <article className="plan-overview-cover plan-overview-cover-image-only" style={{ backgroundImage: `url(${plan.image})` }}>
               <span className="plan-cover-chip"><Sparkles size={16} /> {plan.category}</span>
-              <h1>{plan.title}</h1>
               <div className="plans-progress-row" aria-label={`${progress}% completado`}>
                 <span className="plans-progress"><span style={{ width: `${Math.max(progress, 8)}%` }} /></span>
                 <strong>{progress}% completado</strong>
