@@ -17,6 +17,16 @@ function cleanStringList(value) {
     : [];
 }
 
+function withImageVersion(url, updatedAtMs) {
+  const cleanUrl = String(url || '').trim();
+  if (!cleanUrl) return defaultPlanImage;
+
+  const version = Number(updatedAtMs || 0);
+  if (!version || cleanUrl.includes('images.unsplash.com')) return cleanUrl;
+
+  return `${cleanUrl}${cleanUrl.includes('?') ? '&' : '?'}v=${version}`;
+}
+
 function normalizeReferences(day) {
   if (Array.isArray(day?.references) && day.references.length) return cleanStringList(day.references);
   if (Array.isArray(day?.verses) && day.verses.length) return cleanStringList(day.verses);
@@ -62,6 +72,8 @@ function normalizePlan(data, index = 0) {
   const days = normalizeDays(data.days);
   const dayCount = Number(data.dayCount || days.length || 0);
   const slug = data.slug || data.id || `plan-${index + 1}`;
+  const updatedAtMs = Number(data.updatedAtMs || 0);
+  const coverImage = data.coverImage || data.image || defaultPlanImage;
 
   return {
     id: data.id || `plan-${index + 1}`,
@@ -71,7 +83,7 @@ function normalizePlan(data, index = 0) {
     dayCount,
     duration: formatDuration(data, days),
     time: formatTime(data),
-    image: data.coverImage || data.image || defaultPlanImage,
+    image: withImageVersion(coverImage, updatedAtMs),
     description: data.shortDescription || data.description || '',
     learning: cleanStringList(data.learning),
     gains: cleanStringList(data.gains),
@@ -79,7 +91,7 @@ function normalizePlan(data, index = 0) {
     status: data.status || 'published',
     language: data.language || defaultLanguage,
     detailPath: data.detailPath || `/data/${defaultLanguage}/plans/${slug}.json`,
-    updatedAtMs: Number(data.updatedAtMs || 0)
+    updatedAtMs
   };
 }
 
