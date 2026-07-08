@@ -77,6 +77,15 @@ function getGainItems(plan) {
   return gains.map((gain, index) => ({ gain, Icon: icons[index] || CheckCircle2 }));
 }
 
+function getDayReferences(day) {
+  if (Array.isArray(day?.verses) && day.verses.length) {
+    return day.verses.map((item) => String(item || '').trim()).filter(Boolean);
+  }
+
+  const verse = String(day?.verse || '').trim();
+  return verse ? [verse] : [];
+}
+
 export default function PlanDetail() {
   const { slug } = useParams();
   const [plan, setPlan] = useState(null);
@@ -339,7 +348,7 @@ export default function PlanDetail() {
             <span className="verse-reading-icon"><BookOpen size={28} /></span>
             <div>
               <small>Referencia bíblica</small>
-              <h2>{activeDay.verse}</h2>
+              <h2>{getDayReferences(activeDay).join('; ')}</h2>
             </div>
           </section>
 
