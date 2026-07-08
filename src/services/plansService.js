@@ -17,20 +17,31 @@ function cleanStringList(value) {
     : [];
 }
 
+function normalizeReferences(day) {
+  if (Array.isArray(day?.verses) && day.verses.length) return cleanStringList(day.verses);
+  if (Array.isArray(day?.references) && day.references.length) return cleanStringList(day.references);
+  const verse = String(day?.verse || '').trim();
+  return verse ? [verse] : [];
+}
+
 function normalizeDays(value) {
   if (!Array.isArray(value)) return [];
 
   return value
-    .map((day, index) => ({
-      dayNumber: Number(day?.dayNumber || index + 1),
-      title: day?.title || 'Día del plan',
-      subtitle: day?.subtitle || '',
-      verse: day?.verse || '',
-      text: day?.text || '',
-      internalize: day?.internalize || day?.question || day?.meditation || '',
-      prayer: day?.prayer || '',
-      action: day?.action || ''
-    }))
+    .map((day, index) => {
+      const verses = normalizeReferences(day);
+      return {
+        dayNumber: Number(day?.dayNumber || index + 1),
+        title: day?.title || 'Día del plan',
+        subtitle: day?.subtitle || '',
+        verse: verses.join('; '),
+        verses,
+        text: day?.text || '',
+        internalize: day?.internalize || day?.question || day?.meditation || '',
+        prayer: day?.prayer || '',
+        action: day?.action || ''
+      };
+    })
     .filter((day) => day.title || day.verse || day.text || day.internalize || day.prayer || day.action);
 }
 
