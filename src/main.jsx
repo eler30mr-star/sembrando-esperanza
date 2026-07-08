@@ -11,6 +11,7 @@ import './plan-days-compact.css';
 import './plan-reading-polish.css';
 import './reading-back-inline.css';
 
+// Build marker: recovery fix for public production render.
 createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <BrowserRouter>
