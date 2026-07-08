@@ -78,6 +78,10 @@ function getGainItems(plan) {
 }
 
 function getDayReferences(day) {
+  if (Array.isArray(day?.references) && day.references.length) {
+    return day.references.map((item) => String(item || '').trim()).filter(Boolean);
+  }
+
   if (Array.isArray(day?.verses) && day.verses.length) {
     return day.verses.map((item) => String(item || '').trim()).filter(Boolean);
   }
@@ -348,7 +352,11 @@ export default function PlanDetail() {
             <span className="verse-reading-icon"><BookOpen size={28} /></span>
             <div>
               <small>Referencia bíblica</small>
-              <h2>{getDayReferences(activeDay).join('; ')}</h2>
+              <div className="reference-list">
+                {getDayReferences(activeDay).map((reference) => (
+                  <span className="reference-item" key={reference}>{reference}</span>
+                ))}
+              </div>
             </div>
           </section>
 
