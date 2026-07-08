@@ -10,7 +10,6 @@ import './mobile-compact.css';
 import './plan-days-compact.css';
 import './plan-reading-polish.css';
 import './reading-back-inline.css';
-import './emergency-plans-fix.css';
 
 createRoot(document.getElementById('root')).render(
   <React.StrictMode>
