@@ -9,6 +9,15 @@
   margin-bottom: 0;
 }
 
+.plan-experience-page .polished-reading-header {
+  margin-bottom: 14px !important;
+  padding: 12px 4px 10px !important;
+  background: transparent !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+
 .reading-day-title-pill {
   flex: 1;
   min-width: 0;
@@ -41,6 +50,7 @@
   width: 48px;
   height: 48px;
   margin: 0;
+  background: #ffffff;
   box-shadow: 0 10px 24px rgba(7, 29, 58, 0.06);
 }
 
@@ -94,6 +104,11 @@
   .reading-top-row {
     gap: 12px;
     margin-bottom: 0;
+  }
+
+  .plan-experience-page .polished-reading-header {
+    margin-bottom: 12px !important;
+    padding: 8px 0 8px !important;
   }
 
   .reading-top-row .reading-back-button {
