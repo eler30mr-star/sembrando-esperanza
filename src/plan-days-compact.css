@@ -1,6 +1,40 @@
+.plan-days-screen {
+  position: relative;
+}
+
+.plan-days-screen > .round-back {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  z-index: 4;
+  width: 56px;
+  height: 56px;
+  margin: 0;
+}
+
+.plan-days-screen .plan-days-header {
+  padding-left: 74px;
+  padding-top: 0;
+}
+
 @media (max-width: 520px) {
+  .mobile-app-frame .plan-days-screen {
+    position: relative !important;
+  }
+
+  .mobile-app-frame .plan-days-screen > .round-back {
+    position: absolute !important;
+    top: 4px !important;
+    left: 0 !important;
+    z-index: 4 !important;
+    width: 52px !important;
+    height: 52px !important;
+    margin: 0 !important;
+  }
+
   .mobile-app-frame .plan-days-header {
-    padding-left: 62px !important;
+    padding-left: 70px !important;
+    padding-top: 0 !important;
     margin-bottom: 18px !important;
   }
 
