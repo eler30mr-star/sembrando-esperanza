@@ -9,10 +9,10 @@
     "dayCount": 7,
     "duration": "7 días",
     "time": "6 min al día",
-    "coverImage": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1400&q=85",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/cuando-dios-sostiene-tu-confianza.png",
     "shortDescription": "Un plan bíblico de 7 días para fortalecer una fe firme, madura y perseverante cuando las respuestas tardan, las circunstancias pesan y el corazón necesita volver a confiar en Dios.",
     "detailPath": "/data/es/plans/cuando-dios-sostiene-tu-confianza.json",
-    "updatedAtMs": 1783489273471
+    "updatedAtMs": 1783490135449
   },
   {
     "id": "plan-1783453919119",
