@@ -2,6 +2,11 @@
   min-height: 250px !important;
 }
 
+.plan-overview-cover-image-only .plan-cover-chip {
+  align-self: flex-start !important;
+  margin-bottom: auto !important;
+}
+
 .plan-overview-cover-image-only .plans-meta-line {
   margin-top: 12px !important;
 }
