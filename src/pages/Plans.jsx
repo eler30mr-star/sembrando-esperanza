@@ -123,7 +123,8 @@ export default function Plans() {
       </div>
 
       {featured && (
-        <Link className="plans-continue-card" to={`/planes/${featured.slug}`} style={{ backgroundImage: `url(${featured.image})` }}>
+        <Link className="plans-continue-card" to={`/planes/${featured.slug}`}>
+          <img className="plans-continue-cover" src={featured.image} alt="" loading="eager" />
           <div className="plans-continue-info">
             <span className="plans-kicker"><Sparkles size={16} /> {hasStarted ? 'Continúa tu plan' : 'Empieza un plan'}</span>
             <h2>{featured.title}</h2>
