@@ -17,9 +17,13 @@ import { getPublishedPlans } from '../services/plansService.js';
 const categories = [
   { label: 'Fe', icon: Heart, active: true },
   { label: 'Oración', icon: BookOpen },
-  { label: 'Ansiedad', icon: Wind },
+  { label: 'Vida Espiritual', icon: Sparkles },
   { label: 'Paz', icon: Leaf },
+  { label: 'Sanidad Interior', icon: Wind },
+  { label: 'Amor', icon: Heart },
   { label: 'Familia', icon: Users },
+  { label: 'Propósito', icon: ArrowRight },
+  { label: 'Jóvenes', icon: Users },
   { label: 'Gratitud', icon: ShieldCheck }
 ];
 
