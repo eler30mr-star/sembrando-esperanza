@@ -3,7 +3,7 @@
     "id": "plan-1783539174143",
     "title": "Miedo a perder el control",
     "slug": "miedo-a-perder-el-control",
-    "category": "Ansiedad",
+    "category": "Sanidad Interior",
     "status": "published",
     "language": "es",
     "dayCount": 12,
@@ -18,7 +18,7 @@
     "id": "plan-1783537353045",
     "title": "Ansiedad en tiempos de espera",
     "slug": "ansiedad-en-tiempos-de-espera",
-    "category": "Ansiedad",
+    "category": "Sanidad Interior",
     "status": "published",
     "language": "es",
     "dayCount": 10,
@@ -33,7 +33,7 @@
     "id": "plan-1783536665231",
     "title": "Paz Mental en Tiempos de Incertidumbre",
     "slug": "paz-mental-en-tiempos-de-incertidumbre",
-    "category": "Ansiedad",
+    "category": "Sanidad Interior",
     "status": "published",
     "language": "es",
     "dayCount": 7,
@@ -58,20 +58,5 @@
     "shortDescription": "Un plan bíblico de 7 días para fortalecer una fe firme, madura y perseverante cuando las respuestas tardan, las circunstancias pesan y el corazón necesita volver a confiar en Dios.",
     "detailPath": "/data/es/plans/cuando-dios-sostiene-tu-confianza.json",
     "updatedAtMs": 1783530412861
-  },
-  {
-    "id": "plan-1783453919119",
-    "title": "7 días para fortalecer tu fe",
-    "slug": "7-dias-para-fortalecer-tu-fe",
-    "category": "Fe",
-    "status": "published",
-    "language": "es",
-    "dayCount": 2,
-    "duration": "7 días",
-    "time": "5 min al día",
-    "coverImage": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1400&q=85",
-    "shortDescription": "Un plan bíblico de 7 días para fortalecer tu fe, renovar tu confianza en Dios y aprender a caminar firme aun cuando las circunstancias parecen difíciles. Cada día incluye un versículo, una reflexión, una oración y una acción práctica para aplicar la Palabra en tu vida diaria.",
-    "detailPath": "/data/es/plans/7-dias-para-fortalecer-tu-fe.json",
-    "updatedAtMs": 1783468723634
   }
 ]
