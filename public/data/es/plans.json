@@ -39,10 +39,10 @@
     "dayCount": 7,
     "duration": "7 días",
     "time": "6 min al día",
-    "coverImage": "https://github.com/eler30mr-star/sembrando-esperanza/blob/main/public/images/plans/paz-mental-en-tiempos-de-incertidumbre.png",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/paz-mental-en-tiempos-de-incertidumbre.png",
     "shortDescription": "Un plan bíblico de 7 días diseñado para recuperar la estabilidad emocional y la calma interior a través de verdades doctrinales sólidas, ayudándote a gobernar tu mente cuando el futuro es incierto.",
     "detailPath": "/data/es/plans/paz-mental-en-tiempos-de-incertidumbre.json",
-    "updatedAtMs": 1783643555002
+    "updatedAtMs": 1783645172438
   },
   {
     "id": "plan-1783486825537",
