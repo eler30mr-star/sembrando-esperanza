@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1783798663552",
+    "title": "Una Fe Que No Se Rinde",
+    "slug": "una-fe-que-no-se-rinde",
+    "category": "Fe",
+    "status": "published",
+    "language": "es",
+    "dayCount": 8,
+    "duration": "8 días",
+    "time": "20 minutos",
+    "coverImage": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1400&q=85",
+    "shortDescription": "Un viaje para fortalecer una fe que resiste las pruebas, persevera en la espera y confía en Dios aunque el escenario sea contrario.",
+    "detailPath": "/data/es/plans/una-fe-que-no-se-rinde.json",
+    "updatedAtMs": 1783798663552
+  },
+  {
     "id": "plan-1783536665231",
     "title": "Paz Mental en Tiempos de Incertidumbre",
     "slug": "paz-mental-en-tiempos-de-incertidumbre",
