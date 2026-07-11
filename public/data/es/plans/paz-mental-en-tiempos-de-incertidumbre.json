@@ -25,7 +25,6 @@
     {
       "dayNumber": 1,
       "title": "Soltar el control de lo que no puedes cambiar",
-      "subtitle": "La preocupación no altera el mañana, pero sí destruye la paz de tu presente.",
       "verse": "Mateo 6:27",
       "verses": [
         "Mateo 6:27",
@@ -43,7 +42,6 @@
     {
       "dayNumber": 2,
       "title": "El hábito de cambiar preocupación por oración",
-      "subtitle": "El antídoto contra la angustia es transformar el monólogo mental en un diálogo con Dios.",
       "verse": "Filipenses 4:6-7",
       "verses": [
         "Filipenses 4:6-7"
@@ -59,7 +57,6 @@
     {
       "dayNumber": 3,
       "title": "Cómo proteger tu mente de los pensamientos negativos",
-      "subtitle": "Tú no puedes evitar que los pensamientos intrusivos lleguen, pero sí decides cuáles se quedan.",
       "verse": "Filipenses 4:8",
       "verses": [
         "Filipenses 4:8",
@@ -77,7 +74,6 @@
     {
       "dayNumber": 4,
       "title": "Vivir un día a la vez: El valor del momento presente",
-      "subtitle": "Dios te da la gracia necesaria para las próximas 24 horas, no para los próximos 10 años.",
       "verse": "Éxodo 16:19-20",
       "verses": [
         "Éxodo 16:19-20",
@@ -95,7 +91,6 @@
     {
       "dayNumber": 5,
       "title": "Encontrar descanso cuando te sientes agotado",
-      "subtitle": "La fe no se demuestra corriendo sin parar, sino sabiendo cuándo reposar en Dios.",
       "verse": "Mateo 11:28-30",
       "verses": [
         "Mateo 11:28-30",
@@ -113,7 +108,6 @@
     {
       "dayNumber": 6,
       "title": "Mantener la calma cuando las circunstancias fallan",
-      "subtitle": "Tu estabilidad no depende de la ausencia de problemas, sino de la presencia del Creador.",
       "verse": "Salmos 46:1-3",
       "verses": [
         "Salmos 46:1-3",
@@ -131,7 +125,6 @@
     {
       "dayNumber": 7,
       "title": "La seguridad de saber que Dios cuida de ti",
-      "subtitle": "La raíz última de la paz es la certeza legal y eterna de que le perteneces al Señor.",
       "verse": "Romanos 8:31",
       "verses": [
         "Romanos 8:31",
@@ -149,5 +142,5 @@
       "action": "Escribe un compromiso contigo mismo para mantener las disciplinas de oración y filtrado de pensamientos durante la próxima semana."
     }
   ],
-  "updatedAtMs": 1783645172438
+  "updatedAtMs": 1783796728224
 }
