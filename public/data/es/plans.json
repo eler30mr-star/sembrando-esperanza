@@ -8,11 +8,11 @@
     "language": "es",
     "dayCount": 8,
     "duration": "8 días",
-    "time": "25 minutos",
-    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/cuando-dios-sostiene-tu-confianza.png",
-    "shortDescription": "Un viaje profundo para fortalecer una fe que resiste las pruebas, persevera en la espera, confía en Dios aunque el escenario sea contrario y sale victoriosa de cada batalla.",
+    "time": "20 minutos",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/paz-mental-en-tiempos-de-incertidumbre.png",
+    "shortDescription": "Un camino para fortalecer una fe que persevera en la prueba, aprende a esperar y continúa confiando en Dios aun cuando las respuestas tardan en llegar.",
     "detailPath": "/data/es/plans/una-fe-que-no-se-rinde.json",
-    "updatedAtMs": 1783799832551
+    "updatedAtMs": 1783801527576
   },
   {
     "id": "plan-1783536665231",
