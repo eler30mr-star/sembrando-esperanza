@@ -66,12 +66,12 @@ function normalizeDays(value) {
         verses: references,
         references,
         text: safeString(day.text),
-        internalize: safeString(day.internalize || day.question || day.meditation),
+        interioriza: safeString(day.interioriza || day.internalize || day.interiorizar || day.question || day.meditation),
         prayer: safeString(day.prayer),
         action: safeString(day.action)
       };
     })
-    .filter((day) => day.title || day.verse || day.text || day.internalize || day.prayer || day.action);
+    .filter((day) => day.title || day.verse || day.text || day.interioriza || day.prayer || day.action);
 }
 
 function formatDuration(dataValue, days) {

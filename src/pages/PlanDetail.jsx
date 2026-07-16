@@ -125,6 +125,7 @@ export default function PlanDetail() {
   const progress = totalDays ? Math.round((completedDays.length / totalDays) * 100) : 0;
   const nextDayIndex = totalDays ? Math.min(completedDays.length, totalDays - 1) : 0;
   const activeDay = plan?.days[activeDayIndex];
+  const activeInterioriza = activeDay?.interioriza || activeDay?.internalize || activeDay?.interiorizar;
   const startDate = normalizeDate(startedAt);
   const recommendedPlan = useMemo(() => allPlans.find((item) => item.slug !== slug) ?? allPlans[0] ?? null, [slug, allPlans]);
   const gainItems = getGainItems(plan);
@@ -372,14 +373,14 @@ export default function PlanDetail() {
             </div>
           </section>
 
-          {activeDay.internalize && (
+          {activeInterioriza && (
             <section className="reading-block internalize-block polished-reading-card">
               <div className="reading-section-title">
                 <span className="reading-round-icon">✦</span>
                 <h2>Interioriza</h2>
               </div>
               <div className="reading-body-copy">
-                <p>{activeDay.internalize}</p>
+                <p>{activeInterioriza}</p>
               </div>
             </section>
           )}
