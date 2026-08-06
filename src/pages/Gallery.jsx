@@ -1,7 +1,8 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { ArrowUpRight, Clock3, Images, Play, Video } from 'lucide-react';
 import ContentCard from '../components/ContentCard.jsx';
-import { albums, videos } from '../data/content.js';
+import { albums } from '../data/content.js';
+import { getPublishedVideos } from '../services/videosService.js';
 
 function getWatchUrl(url) {
   if (!url) return '#';
@@ -12,11 +13,19 @@ function getWatchUrl(url) {
   return url;
 }
 
-function VideosGallery() {
+function VideosGallery({ videos, loading }) {
+  if (loading) {
+    return <p className="gallery-loading">Cargando videos...</p>;
+  }
+
+  if (!videos.length) {
+    return <p className="gallery-loading">Todavía no hay videos publicados.</p>;
+  }
+
   return (
     <div className="gallery-videos-grid">
       {videos.map((video) => (
-        <article className="gallery-video-card" key={video.slug || video.title}>
+        <article className="gallery-video-card" key={video.id || video.slug || video.title}>
           <a
             className="gallery-video-media"
             href={getWatchUrl(video.url)}
@@ -24,13 +33,13 @@ function VideosGallery() {
             rel="noreferrer"
             aria-label={`Reproducir ${video.title}`}
           >
-            <img src={video.thumbnail} alt="" loading="lazy" />
+            {video.thumbnail ? <img src={video.thumbnail} alt="" loading="lazy" /> : <span className="gallery-video-placeholder" />}
             <span className="gallery-video-overlay" />
-            <span className="gallery-video-duration"><Clock3 size={13} /> {video.duration}</span>
+            {video.duration && <span className="gallery-video-duration"><Clock3 size={13} /> {video.duration}</span>}
             <span className="gallery-video-play"><Play size={22} fill="currentColor" /></span>
           </a>
           <div className="gallery-video-body">
-            <span>{video.category}</span>
+            <span>{video.category || 'Reflexión'}</span>
             <h3>{video.title}</h3>
             <a href={getWatchUrl(video.url)} target="_blank" rel="noreferrer">
               Ver video <ArrowUpRight size={15} />
@@ -44,6 +53,23 @@ function VideosGallery() {
 
 export default function Gallery() {
   const [activeTab, setActiveTab] = useState('images');
+  const [publicVideos, setPublicVideos] = useState([]);
+  const [videosLoading, setVideosLoading] = useState(true);
+
+  useEffect(() => {
+    let alive = true;
+
+    async function loadVideos() {
+      setVideosLoading(true);
+      const loaded = await getPublishedVideos();
+      if (!alive) return;
+      setPublicVideos(loaded);
+      setVideosLoading(false);
+    }
+
+    loadVideos();
+    return () => { alive = false; };
+  }, []);
 
   return (
     <section className="section page unified-gallery-page">
@@ -84,7 +110,7 @@ export default function Gallery() {
             ))}
           </div>
         ) : (
-          <VideosGallery />
+          <VideosGallery videos={publicVideos} loading={videosLoading} />
         )}
       </div>
     </section>
