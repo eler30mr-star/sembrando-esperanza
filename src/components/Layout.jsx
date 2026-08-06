@@ -1,14 +1,13 @@
 import { Link, NavLink } from 'react-router-dom';
 import {
   BookOpen,
+  GalleryHorizontalEnd,
   Heart,
   Home,
-  Images,
   LogIn,
   LogOut,
   Menu,
   MessageCircleHeart,
-  PlayCircle,
   ScrollText,
   X
 } from 'lucide-react';
@@ -20,8 +19,7 @@ const navItems = [
   { to: '/planes', label: 'Planes' },
   { to: '/historias', label: 'Historias' },
   { to: '/versiculos', label: 'Versículos' },
-  { to: '/imagenes', label: 'Imágenes' },
-  { to: '/videos', label: 'Videos' },
+  { to: '/galeria', label: 'Galería' },
   { to: '/oracion', label: 'Oración' },
   { to: '/app', label: 'App' }
 ];
@@ -30,13 +28,12 @@ const bottomNavItems = [
   { to: '/', label: 'Inicio', icon: Home },
   { to: '/planes', label: 'Planes', icon: BookOpen },
   { to: '/historias', label: 'Historias', icon: ScrollText },
-  { to: '/imagenes', label: 'Imágenes', icon: Images },
+  { to: '/galeria', label: 'Galería', icon: GalleryHorizontalEnd },
   { to: '/oracion', label: 'Orar', icon: MessageCircleHeart }
 ];
 
 const moreNavItems = [
   { to: '/versiculos', label: 'Versículos', icon: Heart },
-  { to: '/videos', label: 'Videos', icon: PlayCircle },
   { to: '/app', label: 'Biblia Universal', icon: BookOpen }
 ];
 
