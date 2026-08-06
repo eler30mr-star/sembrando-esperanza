@@ -47,11 +47,6 @@ export default function Gallery() {
 
   return (
     <section className="section page unified-gallery-page">
-      <header className="unified-gallery-header">
-        <span>Contenido para compartir</span>
-        <h1>Galería</h1>
-      </header>
-
       <div className="gallery-tabs" role="tablist" aria-label="Tipo de contenido">
         <button
           type="button"
