@@ -11,6 +11,7 @@ import './plan-days-compact.css';
 import './plan-reading-polish.css';
 import './reading-back-inline.css';
 import './videos.css';
+import './gallery-sticky.css';
 
 const rootElement = document.getElementById('root');
 
