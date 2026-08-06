@@ -1,0 +1,37 @@
+.mobile-app-frame .unified-gallery-page {
+  padding-top: 0;
+}
+
+.mobile-app-frame .gallery-tabs {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  width: calc(100% + 32px);
+  margin-left: -16px;
+  margin-right: -16px;
+  margin-bottom: 18px;
+  padding: 8px 16px;
+  gap: 6px;
+  background: rgba(255, 250, 241, 0.97);
+  border: 0;
+  border-bottom: 1px solid rgba(31, 41, 51, 0.09);
+  border-radius: 0;
+  box-shadow: 0 8px 22px rgba(31, 41, 51, 0.07);
+  backdrop-filter: blur(18px);
+}
+
+.mobile-app-frame .gallery-tabs button {
+  min-height: 44px;
+  border-radius: 14px;
+}
+
+.mobile-app-frame .gallery-tab-content {
+  padding-top: 2px;
+}
+
+@media (max-width: 520px) {
+  .mobile-app-frame .gallery-tabs {
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+}
