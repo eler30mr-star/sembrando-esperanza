@@ -10,6 +10,7 @@ import './mobile-compact.css';
 import './plan-days-compact.css';
 import './plan-reading-polish.css';
 import './reading-back-inline.css';
+import './videos.css';
 
 const rootElement = document.getElementById('root');
 
