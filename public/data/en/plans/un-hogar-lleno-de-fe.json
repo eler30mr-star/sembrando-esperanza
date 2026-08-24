@@ -8,7 +8,7 @@
   "dayCount": 7,
   "duration": "7 days",
   "time": "6 min per day",
-  "coverImage": "https://images.unsplash.com/photo-1511895426328-dc8714191300?auto=format&fit=crop&w=1400&q=85",
+  "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/un-hogar-lleno-de-fe.webp",
   "shortDescription": "A 7-day Bible plan to strengthen your family’s spiritual life, cultivate healthy relationships, and turn your home into a place where faith is lived out through love, prayer, and everyday actions.",
   "learning": [
     "Understand that family faith is built through everyday decisions",
@@ -158,5 +158,5 @@
       "action": "Together, write a sentence that represents your family’s spiritual commitment and place it somewhere visible in your home."
     }
   ],
-  "updatedAtMs": 1787602960987
+  "updatedAtMs": 1787603021644
 }\n
