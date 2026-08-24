@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787586514256",
+    "title": "Pequeños hábitos, raíces profundas",
+    "slug": "pequenos-habitos-raices-profundas",
+    "category": "Vida Espiritual",
+    "status": "published",
+    "language": "es",
+    "dayCount": 3,
+    "duration": "3 días",
+    "time": "8 min al día",
+    "coverImage": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1400&q=85",
+    "shortDescription": "Un plan bíblico de 3 días para construir hábitos espirituales pequeños, claros y sostenibles. En lugar de depender de comienzos intensos o metas imposibles, este recorrido enseña a elegir una práctica esencial, preparar un entorno que la sostenga y perseverar durante el tiempo oculto en que las raíces crecen antes de que aparezcan los frutos.",
+    "detailPath": "/data/es/plans/pequenos-habitos-raices-profundas.json",
+    "updatedAtMs": 1787586514256
+  },
+  {
     "id": "plan-1787586270232",
     "title": "Dejar atrás mi antigua manera de vivir",
     "slug": "dejar-atras-mi-antigua-manera-de-vivir",
