@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787588039506",
+    "title": "El amor que se demuestra con acciones",
+    "slug": "el-amor-que-se-demuestra-con-acciones",
+    "category": "Amor",
+    "status": "published",
+    "language": "es",
+    "dayCount": 4,
+    "duration": "4 días",
+    "time": "8 min al día",
+    "coverImage": "https://images.unsplash.com/photo-1511895426328-dc8714191300?auto=format&fit=crop&w=1400&q=85",
+    "shortDescription": "Un plan bíblico de 4 días para convertir el amor en una práctica concreta, sabia y sostenible. El recorrido enseña a observar necesidades reales, ayudar sin controlar, perseverar sin descuidar límites y reparar mediante hechos cuando las palabras no son suficientes.",
+    "detailPath": "/data/es/plans/el-amor-que-se-demuestra-con-acciones.json",
+    "updatedAtMs": 1787588039506
+  },
+  {
     "id": "plan-1787587373378",
     "title": "El amor de Dios en mis días más difíciles",
     "slug": "el-amor-de-dios-en-mis-dias-mas-dificiles",
