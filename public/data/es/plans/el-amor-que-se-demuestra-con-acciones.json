@@ -1,0 +1,96 @@
+{
+  "id": "plan-1787588039506",
+  "title": "El amor que se demuestra con acciones",
+  "slug": "el-amor-que-se-demuestra-con-acciones",
+  "category": "Amor",
+  "status": "published",
+  "language": "es",
+  "dayCount": 4,
+  "duration": "4 días",
+  "time": "8 min al día",
+  "coverImage": "https://images.unsplash.com/photo-1511895426328-dc8714191300?auto=format&fit=crop&w=1400&q=85",
+  "shortDescription": "Un plan bíblico de 4 días para convertir el amor en una práctica concreta, sabia y sostenible. El recorrido enseña a observar necesidades reales, ayudar sin controlar, perseverar sin descuidar límites y reparar mediante hechos cuando las palabras no son suficientes.",
+  "learning": [
+    "Reconocer la diferencia entre sentir afecto y responder concretamente a una necesidad",
+    "Escuchar antes de ayudar para evitar que el servicio se convierta en control",
+    "Practicar un amor constante que también respeta límites y capacidades reales",
+    "Demostrar arrepentimiento y restauración mediante acciones coherentes"
+  ],
+  "gains": [
+    "Mayor atención a las necesidades que suelen pasar inadvertidas",
+    "Criterio para ofrecer ayuda respetuosa, útil y no invasiva",
+    "Formas sostenibles de amar sin actuar por culpa ni agotamiento",
+    "Herramientas para reparar vínculos mediante compromisos observables"
+  ],
+  "days": [
+    {
+      "dayNumber": 1,
+      "title": "El amor se vuelve visible cuando presto atención",
+      "verse": "1 Juan 3:16-18",
+      "verses": [
+        "1 Juan 3:16-18",
+        "Santiago 2:15-17"
+      ],
+      "references": [
+        "1 Juan 3:16-18",
+        "Santiago 2:15-17"
+      ],
+      "text": "Podemos sentir afecto sincero por alguien y, aun así, pasar por alto lo que necesita. Las buenas intenciones permanecen dentro de nosotros hasta que aprendemos a observar, preguntar y responder. El amor se vuelve visible cuando deja de ser solamente una emoción y toma la forma de tiempo, presencia, recursos o una decisión concreta.\n\nPrestar atención es el primer acto. Las personas no siempre expresan su necesidad de manera directa. El cansancio puede aparecer como irritación; la soledad, como silencio; la sobrecarga, como dificultad para cumplir algo sencillo. No debemos asumir que conocemos todo lo que ocurre, pero sí podemos detenernos lo suficiente para notar que alguien necesita ser visto.\n\nLas acciones de amor no tienen que ser grandes. Preparar una comida, cumplir una promesa, escuchar sin mirar el teléfono o realizar una tarea que normalmente recae sobre otra persona puede comunicar cuidado de una manera profunda. La relevancia del gesto no depende de su visibilidad, sino de su conexión con una necesidad real.\n\nTambién es importante revisar nuestras motivaciones. A veces ayudamos para sentirnos indispensables, recibir reconocimiento o evitar una conversación difícil. El amor maduro busca el bien de la otra persona, incluso cuando la acción más útil es discreta y nadie la celebra.",
+      "internalize": "Observa durante un minuto a las personas que forman parte de tu día. Repite: «Antes de demostrar amor a mi manera, prestaré atención a la realidad que la otra persona está viviendo».",
+      "prayer": "Dios de amor, abre mis ojos a las necesidades que normalmente no veo. Líbrame de conformarme con buenas intenciones y de buscar reconocimiento mediante el servicio. Dame sensibilidad para observar, humildad para preguntar y disposición para responder de forma concreta. Que mis acciones comuniquen cuidado verdadero y no una imagen de bondad. Amén.",
+      "action": "Elige a una persona cercana y observa qué carga práctica podrías aliviar hoy. Realiza una acción específica sin anunciarla ni esperar agradecimiento."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Pregunto antes de decidir cómo ayudar",
+      "verse": "Filipenses 2:3-4",
+      "verses": [
+        "Filipenses 2:3-4",
+        "Proverbios 18:13"
+      ],
+      "references": [
+        "Filipenses 2:3-4",
+        "Proverbios 18:13"
+      ],
+      "text": "Ayudar sin escuchar puede producir una acción bien intencionada que no responde a la necesidad real. Ofrecemos consejos cuando alguien buscaba compañía, asumimos una responsabilidad que la persona quería aprender a realizar o damos algo que resulta poco útil mientras ignoramos lo que pidió. El amor no solo actúa; también respeta.\n\nPreguntar «¿qué sería útil para ti?» reconoce que la otra persona conoce aspectos de su situación que nosotros no vemos. También le devuelve participación y evita que nuestro servicio comunique incapacidad. En ocasiones, la respuesta será distinta de lo que imaginábamos o la persona preferirá no recibir ayuda. Respetar un «no» puede ser parte del amor.\n\nEscuchar tampoco significa aceptar toda petición sin discernimiento. Algunas solicitudes superan nuestras capacidades, comprometen responsabilidades importantes o sostienen una conducta dañina. Podemos expresar límites y, si es posible, ofrecer una alternativa. Decir «no puedo hacer eso, pero sí puedo ayudarte de esta manera» combina honestidad con cuidado.\n\nEl amor que pregunta antes de actuar renuncia a controlar el resultado. Ofrece presencia, información o recursos, pero no obliga a la persona a tomar la decisión que nosotros consideramos correcta. Acompañar con respeto puede ser más transformador que intentar dirigir la vida de alguien.",
+      "internalize": "Practica interiormente estas tres frases: «¿Qué necesitas de mí?», «Esto es lo que sí puedo ofrecer» y «Respetaré tu decisión aunque sea diferente de la mía».",
+      "prayer": "Señor, enséñame a escuchar antes de intervenir. Líbrame de usar la ayuda para sentirme indispensable o controlar decisiones ajenas. Dame discernimiento para reconocer mis límites, claridad para expresarlos y creatividad para ofrecer alternativas útiles. Que mi amor proteja la dignidad y la libertad de quienes acompaño. Amén.",
+      "action": "Pregunta a alguien: «¿Qué acción concreta te haría sentir acompañado esta semana?». Escucha sin prometer inmediatamente; responde con honestidad sobre lo que realmente puedes ofrecer."
+    },
+    {
+      "dayNumber": 3,
+      "title": "El amor constante necesita límites saludables",
+      "verse": "Gálatas 6:9-10",
+      "verses": [
+        "Gálatas 6:9-10",
+        "Marcos 6:31"
+      ],
+      "references": [
+        "Gálatas 6:9-10",
+        "Marcos 6:31"
+      ],
+      "text": "Un gesto extraordinario puede llamar la atención, pero muchas necesidades requieren constancia: visitar, llamar, colaborar, cuidar o sostener una responsabilidad durante cierto tiempo. El amor perseverante regresa cuando la emoción inicial ha disminuido y la acción ya no resulta novedosa.\n\nSin embargo, constancia no significa disponibilidad ilimitada. Cuando ayudamos desde la culpa, prometemos más de lo que podemos cumplir y terminamos agotados o resentidos. Un amor sostenible considera el tiempo, la salud, las responsabilidades y los recursos reales. Los límites protegen la posibilidad de continuar sirviendo con libertad.\n\nTambién debemos distinguir acompañar de sustituir. Hacer permanentemente por otra persona aquello que puede aprender a realizar quizá alivie el momento, pero puede crear dependencia. El amor maduro pregunta qué acción fortalece y cuál solo mantiene el problema. A veces ayudar significa enseñar, conectar con recursos o permitir una consecuencia natural.\n\nLa constancia se construye mediante compromisos claros. Es mejor ofrecer una hora semanal y cumplirla que prometer disponibilidad permanente y desaparecer. La confiabilidad convierte el amor en un lugar seguro: la otra persona sabe qué puede esperar y nosotros sabemos qué podemos sostener sin destruir otras áreas de la vida.",
+      "internalize": "Dibuja dos círculos. En el primero escribe «Lo que puedo ofrecer con libertad»; en el segundo, «Lo que produciría agotamiento o dependencia». Permite que el amor y la verdad definan el límite entre ambos.",
+      "prayer": "Padre, forma en mí un amor perseverante y libre de culpa. Ayúdame a cumplir lo que prometo, reconocer mis capacidades y establecer límites antes de llegar al resentimiento. Dame sabiduría para acompañar sin sustituir la responsabilidad de otros. Que mi servicio sea confiable, humilde y sostenible. Amén.",
+      "action": "Revisa un compromiso de ayuda que ya tienes. Define con claridad qué ofrecerás, con qué frecuencia y durante cuánto tiempo. Comunica cualquier ajuste necesario de manera respetuosa."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Las acciones también reparan lo que mis palabras dañaron",
+      "verse": "Lucas 19:8",
+      "verses": [
+        "Lucas 19:8",
+        "Colosenses 3:12-14"
+      ],
+      "references": [
+        "Lucas 19:8",
+        "Colosenses 3:12-14"
+      ],
+      "text": "Decir «te amo» o «lo siento» tiene valor, pero algunas heridas necesitan más que palabras. Cuando incumplimos, mentimos, hablamos con crueldad o ignoramos una necesidad, la reparación requiere acciones que respondan al tipo de daño causado. El arrepentimiento se vuelve creíble cuando produce una conducta diferente.\n\nReparar comienza reconociendo el hecho sin excusas. Después necesitamos escuchar cómo afectó a la otra persona y preguntar qué podría contribuir a restaurar seguridad. Tal vez debamos devolver algo, corregir información, asumir una responsabilidad, respetar un límite o demostrar constancia durante el tiempo.\n\nNo podemos exigir que una acción produzca perdón inmediato o restaure automáticamente la confianza. La persona herida conserva el derecho de procesar, observar y decidir qué cercanía es segura. Amar mediante la reparación significa hacer nuestra parte sin manipular el resultado ni presentar el esfuerzo como una deuda que el otro debe pagar con reconciliación.\n\nEl amor práctico también incluye acciones preventivas. Podemos identificar qué condiciones favorecieron el daño y modificar hábitos, conversaciones o límites para no repetirlo. La reparación no busca regresar exactamente a la situación anterior; intenta construir una relación más verdadera y responsable.",
+      "internalize": "Permanece en silencio y completa: «Si mis acciones hablaran con mayor fuerza que mis disculpas, el cambio concreto que necesitarían mostrar sería...». Recibe la respuesta sin justificarte.",
+      "prayer": "Dios, muéstrame dónde mis palabras de amor necesitan convertirse en reparación. Dame humildad para reconocer el daño sin excusas, escuchar su impacto y realizar cambios observables. Líbrame de exigir confianza o perdón inmediato. Enséñame a respetar el proceso de otros y a demostrar arrepentimiento mediante constancia, verdad y responsabilidad. Amén.",
+      "action": "Elige una reparación pendiente. Reconoce la conducta, pregunta por su impacto y ofrece una acción concreta. Si la persona necesita distancia, respétala mientras mantienes el cambio que te corresponde."
+    }
+  ],
+  "updatedAtMs": 1787588039506
+}
