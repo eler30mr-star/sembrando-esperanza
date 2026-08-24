@@ -1,20 +1,5 @@
 [
   {
-    "id": "plan-1787586759783",
-    "title": "Cuando la respuesta tarda",
-    "slug": "cuando-la-respuesta-tarda",
-    "category": "Vida Espiritual",
-    "status": "published",
-    "language": "es",
-    "dayCount": 6,
-    "duration": "6 días",
-    "time": "9 min al día",
-    "coverImage": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1400&q=85",
-    "shortDescription": "Un plan bíblico de 6 días para atravesar la demora sin negar el cansancio, apresurar decisiones ni poner la vida en pausa. Este recorrido ayuda a expresar la espera con honestidad, reconocer la presencia de Dios, perseverar en oración, resistir atajos, atender las responsabilidades presentes y sostener la esperanza cuando la respuesta todavía no llega o toma una forma distinta de la esperada.",
-    "detailPath": "/data/es/plans/cuando-la-respuesta-tarda.json",
-    "updatedAtMs": 1787586759783
-  },
-  {
     "id": "plan-1787586514256",
     "title": "Pequeños hábitos, raíces profundas",
     "slug": "pequenos-habitos-raices-profundas",
