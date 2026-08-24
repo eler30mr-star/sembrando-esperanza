@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787584568816",
+    "title": "Claridad para temporadas de confusión",
+    "slug": "claridad-para-temporadas-de-confusion",
+    "category": "Vida Espiritual",
+    "status": "published",
+    "language": "es",
+    "dayCount": 5,
+    "duration": "5 días",
+    "time": "9 min al día",
+    "coverImage": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1400&q=85",
+    "shortDescription": "Un plan bíblico de 5 días para atravesar temporadas de confusión sin tomar decisiones dominadas por el temor o la urgencia. El recorrido enseña a ordenar lo que ocurre dentro de ti, separar hechos de interpretaciones, buscar sabiduría, reconocer el siguiente paso responsable y esperar con paz cuando todavía no existe una respuesta completa.",
+    "detailPath": "/data/es/plans/claridad-para-temporadas-de-confusion.json",
+    "updatedAtMs": 1787584568816
+  },
+  {
     "id": "plan-1787584205039",
     "title": "Cuando Dios trabaja en tu carácter",
     "slug": "cuando-dios-trabaja-en-tu-caracter",
