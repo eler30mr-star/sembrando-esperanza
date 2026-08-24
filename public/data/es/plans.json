@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787583584256",
+    "title": "Encontrar a Dios en lo cotidiano",
+    "slug": "encontrar-a-dios-en-lo-cotidiano",
+    "category": "Vida Espiritual",
+    "status": "published",
+    "language": "es",
+    "dayCount": 5,
+    "duration": "5 días",
+    "time": "8 min al día",
+    "coverImage": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1400&q=85",
+    "shortDescription": "Un plan bíblico de 5 días para reconocer la presencia de Dios en medio de las tareas, conversaciones, responsabilidades y pausas de la vida diaria. Este recorrido ayuda a superar la idea de que lo espiritual solo ocurre en momentos extraordinarios y enseña a vivir cada jornada con atención, gratitud y propósito.",
+    "detailPath": "/data/es/plans/encontrar-a-dios-en-lo-cotidiano.json",
+    "updatedAtMs": 1787583606209
+  },
+  {
     "id": "plan-1787582689615",
     "title": "Paz para los conflictos familiares",
     "slug": "paz-para-los-conflictos-familiares",
