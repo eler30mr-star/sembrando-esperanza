@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787586270232",
+    "title": "Dejar atrás mi antigua manera de vivir",
+    "slug": "dejar-atras-mi-antigua-manera-de-vivir",
+    "category": "Vida Espiritual",
+    "status": "published",
+    "language": "es",
+    "dayCount": 5,
+    "duration": "5 días",
+    "time": "9 min al día",
+    "coverImage": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1400&q=85",
+    "shortDescription": "Un plan bíblico de 5 días para reconocer patrones del pasado, renovar la manera de pensar y construir una vida coherente con la nueva identidad recibida en Dios. Sin recurrir a la condenación ni a promesas de cambio instantáneo, este recorrido guía al lector a reemplazar hábitos, reparar lo necesario y sostener una dirección nueva con gracia, verdad y responsabilidad.",
+    "detailPath": "/data/es/plans/dejar-atras-mi-antigua-manera-de-vivir.json",
+    "updatedAtMs": 1787586270232
+  },
+  {
     "id": "plan-1787585909503",
     "title": "Una fe viva para días comunes",
     "slug": "una-fe-viva-para-dias-comunes",
