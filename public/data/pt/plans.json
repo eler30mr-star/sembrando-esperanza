@@ -1,1 +1,17 @@
-[]\n
+[
+  {
+    "id": "plan-1787592038196",
+    "title": "Um lar cheio de fé",
+    "slug": "un-hogar-lleno-de-fe",
+    "category": "Familia",
+    "status": "published",
+    "language": "pt",
+    "dayCount": 7,
+    "duration": "7 dias",
+    "time": "6 min por dia",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/un-hogar-lleno-de-fe.webp",
+    "shortDescription": "Um plano bíblico de 7 dias para fortalecer a vida espiritual da família, cultivar relacionamentos saudáveis e transformar o lar em um espaço onde a fé seja vivida com amor, oração e atitudes cotidianas.",
+    "detailPath": "/data/pt/plans/un-hogar-lleno-de-fe.json",
+    "updatedAtMs": 1787605044261
+  }
+]\n
