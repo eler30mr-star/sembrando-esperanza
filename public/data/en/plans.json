@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787603430412",
+    "title": "Praying for My Family",
+    "slug": "orando-por-mi-familia",
+    "category": "Familia",
+    "status": "published",
+    "language": "en",
+    "dayCount": 5,
+    "duration": "5 days",
+    "time": "7 min per day",
+    "coverImage": "https://images.unsplash.com/photo-1511895426328-dc8714191300?auto=format&fit=crop&w=1400&q=85",
+    "shortDescription": "A 5-day plan to learn how to intercede for your family with love, gratitude, and perseverance. Each day guides you to bring specific needs before God, tend to your own attitudes, and trust that prayer also transforms the way you support those you love.",
+    "detailPath": "/data/en/plans/orando-por-mi-familia.json",
+    "updatedAtMs": 1787606702803
+  },
+  {
     "id": "plan-1787592038196",
     "title": "A Home Filled with Faith",
     "slug": "un-hogar-lleno-de-fe",

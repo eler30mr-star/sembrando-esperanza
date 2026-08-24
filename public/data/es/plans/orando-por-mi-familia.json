@@ -9,7 +9,7 @@
   "duration": "5 días",
   "time": "7 min al día",
   "coverImage": "https://images.unsplash.com/photo-1511895426328-dc8714191300?auto=format&fit=crop&w=1400&q=85",
-  "shortDescription": "Un plan bíblico de 5 días para aprender a interceder por la familia con amor, gratitud y perseverancia. Cada jornada guía al lector a presentar necesidades concretas delante de Dios, cuidar sus propias actitudes y confiar en que la oración también transforma la manera de acompañar a quienes ama.",
+  "shortDescription": "5 días para aprender a interceder por la familia con amor, gratitud y perseverancia. Cada jornada guía a presentar necesidades concretas delante de Dios, cuidar sus propias actitudes y confiar en que la oración también transforma la manera de acompañar a quienes ama.",
   "learning": [
     "Presentar a cada integrante de la familia delante de Dios con sinceridad",
     "Orar con gratitud y no solamente durante las crisis",
@@ -121,5 +121,5 @@
       "action": "Crea una lista semanal de oración con un día para cada integrante o necesidad familiar. Elige un horario breve y realista para continuar este hábito después del plan."
     }
   ],
-  "updatedAtMs": 1787603430412
+  "updatedAtMs": 1787606702803
 }\n
