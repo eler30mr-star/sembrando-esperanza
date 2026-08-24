@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787585909503",
+    "title": "Una fe viva para días comunes",
+    "slug": "una-fe-viva-para-dias-comunes",
+    "category": "Vida Espiritual",
+    "status": "published",
+    "language": "es",
+    "dayCount": 3,
+    "duration": "3 días",
+    "time": "8 min al día",
+    "coverImage": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1400&q=85",
+    "shortDescription": "Un plan bíblico de 3 días para vivir una fe auténtica cuando no ocurre nada extraordinario. Este recorrido muestra cómo la presencia, las pequeñas decisiones y la constancia convierten las responsabilidades comunes en espacios donde la confianza en Dios puede crecer, expresarse y bendecir a otros.",
+    "detailPath": "/data/es/plans/una-fe-viva-para-dias-comunes.json",
+    "updatedAtMs": 1787585909503
+  },
+  {
     "id": "plan-1787584568816",
     "title": "Claridad para temporadas de confusión",
     "slug": "claridad-para-temporadas-de-confusion",
