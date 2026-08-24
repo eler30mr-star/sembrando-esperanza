@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787587373378",
+    "title": "El amor de Dios en mis días más difíciles",
+    "slug": "el-amor-de-dios-en-mis-dias-mas-dificiles",
+    "category": "Amor",
+    "status": "published",
+    "language": "es",
+    "dayCount": 5,
+    "duration": "5 días",
+    "time": "9 min al día",
+    "coverImage": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1400&q=85",
+    "shortDescription": "Un plan bíblico de 5 días para recibir el amor de Dios en medio del dolor, el agotamiento y la incertidumbre. Sin minimizar las circunstancias ni exigir una fortaleza artificial, este recorrido ayuda a lamentar con honestidad, reconocer formas concretas de cuidado, tratarse con la dignidad de alguien amado y sostener una esperanza que no depende de que todo se resuelva inmediatamente.",
+    "detailPath": "/data/es/plans/el-amor-de-dios-en-mis-dias-mas-dificiles.json",
+    "updatedAtMs": 1787587373378
+  },
+  {
     "id": "plan-1787586759783",
     "title": "Cuando la respuesta tarda",
     "slug": "cuando-la-respuesta-tarda",
