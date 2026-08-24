@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787584205039",
+    "title": "Cuando Dios trabaja en tu carácter",
+    "slug": "cuando-dios-trabaja-en-tu-caracter",
+    "category": "Vida Espiritual",
+    "status": "published",
+    "language": "es",
+    "dayCount": 7,
+    "duration": "7 días",
+    "time": "9 min al día",
+    "coverImage": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=1400&q=85",
+    "shortDescription": "Un plan bíblico de 7 días para comprender cómo Dios forma el carácter mediante la verdad, la espera, la corrección, las decisiones ocultas y las relaciones. Este recorrido invita a abandonar tanto la apariencia espiritual como la condenación personal, y a colaborar con la gracia de Dios en una transformación paciente, profunda y visible en la vida diaria.",
+    "detailPath": "/data/es/plans/cuando-dios-trabaja-en-tu-caracter.json",
+    "updatedAtMs": 1787584205039
+  },
+  {
     "id": "plan-1787583584256",
     "title": "Encontrar a Dios en lo cotidiano",
     "slug": "encontrar-a-dios-en-lo-cotidiano",
