@@ -1,9 +1,16 @@
 const defaultPlanImage = 'https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1400&q=85';
 const defaultLanguage = 'es';
+const publicDataBase = 'https://raw.githubusercontent.com/eler30mr-star/sembrando-esperanza/main/public/data';
+
+function resolvePublicDataUrl(path) {
+  if (!String(path).startsWith('/data/')) return path;
+  const relativePath = String(path).slice('/data/'.length);
+  return `${publicDataBase}/${relativePath}?v=${Date.now()}`;
+}
 
 async function fetchJson(path, fallback) {
   try {
-    const response = await fetch(path, { cache: 'no-store' });
+    const response = await fetch(resolvePublicDataUrl(path), { cache: 'no-store' });
     if (!response.ok) return fallback;
     return await response.json();
   } catch (error) {
