@@ -1,1 +1,17 @@
-[]\n
+[
+  {
+    "id": "plan-1787592038196",
+    "title": "A Home Filled with Faith",
+    "slug": "un-hogar-lleno-de-fe",
+    "category": "Familia",
+    "status": "published",
+    "language": "en",
+    "dayCount": 7,
+    "duration": "7 days",
+    "time": "6 min per day",
+    "coverImage": "https://images.unsplash.com/photo-1511895426328-dc8714191300?auto=format&fit=crop&w=1400&q=85",
+    "shortDescription": "A 7-day Bible plan to strengthen your family’s spiritual life, cultivate healthy relationships, and turn your home into a place where faith is lived out through love, prayer, and everyday actions.",
+    "detailPath": "/data/en/plans/un-hogar-lleno-de-fe.json",
+    "updatedAtMs": 1787602960987
+  }
+]\n
