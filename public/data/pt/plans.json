@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787603430412",
+    "title": "Orando pela minha família",
+    "slug": "orando-por-mi-familia",
+    "category": "Familia",
+    "status": "published",
+    "language": "pt",
+    "dayCount": 5,
+    "duration": "5 dias",
+    "time": "7 min por dia",
+    "coverImage": "https://images.unsplash.com/photo-1511895426328-dc8714191300?auto=format&fit=crop&w=1400&q=85",
+    "shortDescription": "Um plano de 5 dias para aprender a interceder pela família com amor, gratidão e perseverança. Cada dia orienta você a apresentar necessidades concretas diante de Deus, cuidar das próprias atitudes e confiar que a oração também transforma a maneira de apoiar aqueles que ama.",
+    "detailPath": "/data/pt/plans/orando-por-mi-familia.json",
+    "updatedAtMs": 1787607464537
+  },
+  {
     "id": "plan-1787592038196",
     "title": "Um lar cheio de fé",
     "slug": "un-hogar-lleno-de-fe",
