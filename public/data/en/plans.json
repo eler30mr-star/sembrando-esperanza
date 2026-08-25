@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787674937916",
+    "title": "When God works on your character",
+    "slug": "cuando-dios-trabaja-en-tu-caracter",
+    "category": "Vida Espiritual",
+    "status": "published",
+    "language": "en",
+    "dayCount": 4,
+    "duration": "4 days",
+    "time": "8 min per day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/cuando-dios-trabaja-en-tu-caracter.webp",
+    "shortDescription": "Character is formed away from applause: in the reaction you choose to restrain, the correction you accept, and the faithfulness you maintain when no one is watching you. These readings show how to cooperate with God’s work without confusing transformation with perfectionism or growth with condemnation.",
+    "detailPath": "/data/en/plans/cuando-dios-trabaja-en-tu-caracter.json",
+    "updatedAtMs": 1787674937916
+  },
+  {
     "id": "plan-1787672619649",
     "title": "Finding God in everyday life",
     "slug": "encontrar-a-dios-en-lo-cotidiano",

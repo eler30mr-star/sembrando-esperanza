@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787674937916",
+    "title": "Cuando Dios trabaja en tu carácter",
+    "slug": "cuando-dios-trabaja-en-tu-caracter",
+    "category": "Vida Espiritual",
+    "status": "published",
+    "language": "es",
+    "dayCount": 4,
+    "duration": "4 días",
+    "time": "8 min al día",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/cuando-dios-trabaja-en-tu-caracter.webp",
+    "shortDescription": "El carácter se forma lejos de los aplausos: en la reacción que decides contener, la corrección que aceptas y la fidelidad que mantienes cuando nadie te observa. Estas lecturas muestran cómo colaborar con la obra de Dios sin confundir transformación con perfeccionismo, ni crecimiento con condenación.",
+    "detailPath": "/data/es/plans/cuando-dios-trabaja-en-tu-caracter.json",
+    "updatedAtMs": 1787674937916
+  },
+  {
     "id": "plan-1787672619649",
     "title": "Encontrar a Dios en lo cotidiano",
     "slug": "encontrar-a-dios-en-lo-cotidiano",
