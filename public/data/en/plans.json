@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787693915371",
+    "title": "A Living Faith for Ordinary Days",
+    "slug": "a-living-faith-for-ordinary-days",
+    "category": "Vida Espiritual",
+    "status": "published",
+    "language": "en",
+    "dayCount": 5,
+    "duration": "5 days",
+    "time": "8 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/una-fe-viva-para-dias-comunes.webp",
+    "shortDescription": "There are days without surprising answers, intense emotions, or visible changes. It is precisely there that faith shows its roots: when you choose to trust, keep your word, treat others with love, and continue doing good. These readings explore a sincere spirituality that does not need spectacle in order to remain alive.",
+    "detailPath": "/data/en/plans/a-living-faith-for-ordinary-days.json",
+    "updatedAtMs": 1787693915371
+  },
+  {
     "id": "plan-1787677510372",
     "title": "Clarity for seasons of confusion",
     "slug": "claridad-para-temporadas-de-confusion",

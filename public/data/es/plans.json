@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787693915371",
+    "title": "Una fe viva para días comunes",
+    "slug": "una-fe-viva-para-dias-comunes",
+    "category": "Vida Espiritual",
+    "status": "published",
+    "language": "es",
+    "dayCount": 5,
+    "duration": "5 días",
+    "time": "8 min al día",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/una-fe-viva-para-dias-comunes.webp",
+    "shortDescription": "Hay jornadas sin respuestas sorprendentes, emociones intensas ni cambios visibles. Precisamente allí la fe demuestra sus raíces: cuando eliges confiar, cumplir tu palabra, tratar a otros con amor y continuar haciendo el bien. Estas lecturas exploran una espiritualidad sincera que no necesita espectáculo para permanecer viva.",
+    "detailPath": "/data/es/plans/una-fe-viva-para-dias-comunes.json",
+    "updatedAtMs": 1787693915371
+  },
+  {
     "id": "plan-1787677510372",
     "title": "Claridad para temporadas de confusión",
     "slug": "claridad-para-temporadas-de-confusion",
