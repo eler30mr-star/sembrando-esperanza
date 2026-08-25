@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787672619649",
+    "title": "Encontrar Deus no cotidiano",
+    "slug": "encontrar-a-dios-en-lo-cotidiano",
+    "category": "Vida Espiritual",
+    "status": "published",
+    "language": "pt",
+    "dayCount": 6,
+    "duration": "6 dias",
+    "time": "7 min por dia",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/encontrar-a-dios-en-lo-cotidiano.webp",
+    "shortDescription": "Deus não se limita aos templos, às reuniões ou aos momentos extraordinários. Sua presença também pode ser reconhecida ao começar a manhã, cumprir uma responsabilidade, ouvir outra pessoa ou parar em meio ao cansaço. Este percurso convida a despertar a atenção espiritual e transformar a vida comum em um espaço de comunhão, gratidão e propósito.",
+    "detailPath": "/data/pt/plans/encontrar-a-dios-en-lo-cotidiano.json",
+    "updatedAtMs": 1787673450022
+  },
+  {
     "id": "plan-1787603430412",
     "title": "Orando pela minha família",
     "slug": "orando-por-mi-familia",
