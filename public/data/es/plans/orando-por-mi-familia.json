@@ -8,7 +8,7 @@
   "dayCount": 5,
   "duration": "5 días",
   "time": "7 min al día",
-  "coverImage": "https://images.unsplash.com/photo-1511895426328-dc8714191300?auto=format&fit=crop&w=1400&q=85",
+  "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/orando-por-mi-familia.webp",
   "shortDescription": "5 días para aprender a interceder por la familia con amor, gratitud y perseverancia. Cada jornada guía a presentar necesidades concretas delante de Dios, cuidar sus propias actitudes y confiar en que la oración también transforma la manera de acompañar a quienes ama.",
   "learning": [
     "Presentar a cada integrante de la familia delante de Dios con sinceridad",
@@ -121,5 +121,5 @@
       "action": "Crea una lista semanal de oración con un día para cada integrante o necesidad familiar. Elige un horario breve y realista para continuar este hábito después del plan."
     }
   ],
-  "updatedAtMs": 1787671379727
+  "updatedAtMs": 1787673255818
 }\n
