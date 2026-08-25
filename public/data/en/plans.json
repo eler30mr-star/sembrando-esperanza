@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787672619649",
+    "title": "Finding God in everyday life",
+    "slug": "encontrar-a-dios-en-lo-cotidiano",
+    "category": "Vida Espiritual",
+    "status": "published",
+    "language": "en",
+    "dayCount": 6,
+    "duration": "6 days",
+    "time": "7 min per day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/encontrar-a-dios-en-lo-cotidiano.webp",
+    "shortDescription": "God is not limited to temples, gatherings, or extraordinary moments. His presence can also be recognized when beginning the morning, fulfilling a responsibility, listening to another person, or pausing in the midst of tiredness. This journey invites you to awaken spiritual attentiveness and turn ordinary life into a space of communion, gratitude, and purpose.",
+    "detailPath": "/data/en/plans/encontrar-a-dios-en-lo-cotidiano.json",
+    "updatedAtMs": 1787672991164
+  },
+  {
     "id": "plan-1787603430412",
     "title": "Praying for my family",
     "slug": "orando-por-mi-familia",
