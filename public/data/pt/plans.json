@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787677510372",
+    "title": "Clareza para temporadas de confusão",
+    "slug": "claridad-para-temporadas-de-confusion",
+    "category": "Vida Espiritual",
+    "status": "published",
+    "language": "pt",
+    "dayCount": 10,
+    "duration": "10 dias",
+    "time": "9 min por dia",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/claridad-para-temporadas-de-confusion.webp",
+    "shortDescription": "Quando muitas vozes, possibilidades e medos competem por sua atenção, pensar com serenidade pode parecer impossível. Este percurso oferece um processo bíblico para organizar o que você sabe, reconhecer o que o influencia, buscar sabedoria e avançar com humildade, mesmo quando Deus não mostra imediatamente o panorama completo.",
+    "detailPath": "/data/pt/plans/claridad-para-temporadas-de-confusion.json",
+    "updatedAtMs": 1787677510372
+  },
+  {
     "id": "plan-1787674937916",
     "title": "Quando Deus trabalha em seu caráter",
     "slug": "cuando-dios-trabaja-en-tu-caracter",

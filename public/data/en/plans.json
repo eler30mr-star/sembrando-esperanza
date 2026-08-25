@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787677510372",
+    "title": "Clarity for seasons of confusion",
+    "slug": "claridad-para-temporadas-de-confusion",
+    "category": "Vida Espiritual",
+    "status": "published",
+    "language": "en",
+    "dayCount": 10,
+    "duration": "10 days",
+    "time": "9 min per day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/claridad-para-temporadas-de-confusion.webp",
+    "shortDescription": "When many voices, possibilities, and fears compete for your attention, thinking calmly can seem impossible. This journey offers a biblical process for organizing what you know, recognizing what influences you, seeking wisdom, and moving forward with humility, even when God does not immediately show the complete picture.",
+    "detailPath": "/data/en/plans/claridad-para-temporadas-de-confusion.json",
+    "updatedAtMs": 1787677510372
+  },
+  {
     "id": "plan-1787674937916",
     "title": "When God works on your character",
     "slug": "cuando-dios-trabaja-en-tu-caracter",
