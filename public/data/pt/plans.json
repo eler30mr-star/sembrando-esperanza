@@ -1,18 +1,18 @@
 [
   {
-    "id": "plan-1787776095655",
-    "title": "Quando Deus Parece Permanecer em Silêncio",
-    "slug": "quando-deus-parece-permanecer-em-silenci",
+    "id": "plan-1787776587642",
+    "title": "Quando Sua Fé Parece Fraca",
+    "slug": "quando-sua-fe-parece-fraca",
     "category": "Fe",
     "status": "published",
     "language": "pt",
-    "dayCount": 7,
-    "duration": "7 dias",
-    "time": "9 min por dia",
-    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/cuando-dios-parece-guardar-silencio.webp",
-    "shortDescription": "Há períodos em que oramos, buscamos direção e esperamos uma resposta, mas tudo parece permanecer em silêncio. Esse silêncio pode gerar dúvidas, cansaço e a sensação de que Deus está distante. Durante sete dias, você percorrerá passagens bíblicas que ensinam a permanecer firme quando não há respostas imediatas, a distinguir silêncio de abandono, a orar com honestidade, a se sustentar no que Deus já disse e a esperar sem permitir que a falta de clareza apague sua fé.",
-    "detailPath": "/data/pt/plans/quando-deus-parece-permanecer-em-silenci.json",
-    "updatedAtMs": 1787776095655
+    "dayCount": 4,
+    "duration": "4 dias",
+    "time": "8 min por dia",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/cuando-tu-fe-se-siente-debil.webp",
+    "shortDescription": "Há dias em que crer parece mais difícil do que o normal. A oração custa, as dúvidas pesam e aquilo que antes parecia firme começa a parecer frágil. Este percurso de quatro dias ajudará você a olhar para sua fraqueza sem se condenar, voltar às verdades que sustentam a fé, depender da graça de Deus quando faltam forças e continuar caminhando com passos pequenos, porém sinceros.",
+    "detailPath": "/data/pt/plans/quando-sua-fe-parece-fraca.json",
+    "updatedAtMs": 1787776587643
   },
   {
     "id": "plan-1787775259909",
