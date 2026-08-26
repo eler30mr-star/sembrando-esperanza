@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787776095655",
+    "title": "Cuando Dios Parece Guardar Silencio",
+    "slug": "cuando-dios-parece-guardar-silenci",
+    "category": "Fe",
+    "status": "published",
+    "language": "es",
+    "dayCount": 7,
+    "duration": "7 días",
+    "time": "9 min al día",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/cuando-dios-parece-guardar-silencio.webp",
+    "shortDescription": "Hay temporadas en las que oramos, buscamos dirección y esperamos una respuesta, pero todo parece permanecer en silencio. Ese silencio puede generar dudas, cansancio y la sensación de que Dios está lejos. Durante siete días recorrerás pasajes bíblicos que enseñan a permanecer cuando no hay respuestas inmediatas, a distinguir silencio de abandono, a orar con honestidad, a sostenerte en lo que Dios ya ha dicho y a esperar sin dejar que la ausencia de claridad apague tu fe.",
+    "detailPath": "/data/es/plans/cuando-dios-parece-guardar-silenci.json",
+    "updatedAtMs": 1787776095655
+  },
+  {
     "id": "plan-1787775259909",
     "title": "Cuando Dios Parece Guardar Silencio",
     "slug": "cuando-dios-parece-guardar-silencio",

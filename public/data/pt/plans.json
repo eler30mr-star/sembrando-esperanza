@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787776095655",
+    "title": "Quando Deus Parece Permanecer em Silêncio",
+    "slug": "quando-deus-parece-permanecer-em-silenci",
+    "category": "Fe",
+    "status": "published",
+    "language": "pt",
+    "dayCount": 7,
+    "duration": "7 dias",
+    "time": "9 min por dia",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/cuando-dios-parece-guardar-silencio.webp",
+    "shortDescription": "Há períodos em que oramos, buscamos direção e esperamos uma resposta, mas tudo parece permanecer em silêncio. Esse silêncio pode gerar dúvidas, cansaço e a sensação de que Deus está distante. Durante sete dias, você percorrerá passagens bíblicas que ensinam a permanecer firme quando não há respostas imediatas, a distinguir silêncio de abandono, a orar com honestidade, a se sustentar no que Deus já disse e a esperar sem permitir que a falta de clareza apague sua fé.",
+    "detailPath": "/data/pt/plans/quando-deus-parece-permanecer-em-silenci.json",
+    "updatedAtMs": 1787776095655
+  },
+  {
     "id": "plan-1787775259909",
     "title": "Quando Deus Parece Permanecer em Silêncio",
     "slug": "quando-deus-parece-permanecer-em-silencio",
