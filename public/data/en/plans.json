@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787770886625",
+    "title": "Love Without Carrying the Past",
+    "slug": "love-without-carrying-the-past",
+    "category": "Amor",
+    "status": "published",
+    "language": "en",
+    "dayCount": 5,
+    "duration": "5 days",
+    "time": "9 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/amar-sin-cargar-con-el-pasado.webp",
+    "shortDescription": "Yesterday's wounds can quietly enter today's relationships: an old betrayal can become suspicion, a painful word can become distance, and a disappointment can become fear of trusting again. This biblical journey does not invite you to erase history or pretend that nothing happened. Over five days, you will learn to bring the past before God, distinguish memory from resentment, heal patterns that affect the way you love, and move forward with grace, truth, and wise boundaries.",
+    "detailPath": "/data/en/plans/love-without-carrying-the-past.json",
+    "updatedAtMs": 1787771457531
+  },
+  {
     "id": "plan-1787759647740",
     "title": "Love as God Loves",
     "slug": "love-as-god-loves",
