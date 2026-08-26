@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787772175037",
+    "title": "Curar o Coração para Voltar a Amar",
+    "slug": "curar-o-coracao-para-voltar-a-amar",
+    "category": "Amor",
+    "status": "published",
+    "language": "pt",
+    "dayCount": 8,
+    "duration": "8 dias",
+    "time": "9 min por dia",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/sanar-el-corazon-para-volver-a-amar.webp",
+    "shortDescription": "Depois de uma decepção, uma traição ou um relacionamento que deixou feridas, voltar a amar pode parecer arriscado. Este percurso bíblico não propõe esquecer o que foi vivido nem apressar a confiança. Durante oito dias, você aprenderá a reconhecer o que ainda dói, levá-lo com honestidade diante de Deus, curar interpretações nascidas do medo, estabelecer limites sábios e recuperar a capacidade de se relacionar sem permitir que o passado governe seu coração.",
+    "detailPath": "/data/pt/plans/curar-o-coracao-para-voltar-a-amar.json",
+    "updatedAtMs": 1787772175037
+  },
+  {
     "id": "plan-1787770886625",
     "title": "Amar Sem Carregar o Passado",
     "slug": "amar-sem-carregar-o-passado",

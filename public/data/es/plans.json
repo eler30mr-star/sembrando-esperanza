@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787772175037",
+    "title": "Sanar el Corazón para Volver a Amar",
+    "slug": "sanar-el-corazon-para-volver-a-amar",
+    "category": "Amor",
+    "status": "published",
+    "language": "es",
+    "dayCount": 8,
+    "duration": "8 días",
+    "time": "9 min al día",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/sanar-el-corazon-para-volver-a-amar.webp",
+    "shortDescription": "Después de una decepción, una traición o una relación que dejó heridas, volver a amar puede sentirse riesgoso. Este recorrido bíblico no propone olvidar lo vivido ni apresurar la confianza. Durante ocho días aprenderás a reconocer lo que todavía duele, llevarlo con honestidad delante de Dios, sanar interpretaciones nacidas del temor, establecer límites sabios y recuperar la capacidad de relacionarte sin permitir que el pasado gobierne tu corazón.",
+    "detailPath": "/data/es/plans/sanar-el-corazon-para-volver-a-amar.json",
+    "updatedAtMs": 1787772175037
+  },
+  {
     "id": "plan-1787770886625",
     "title": "Amar Sin Cargar con el Pasado",
     "slug": "amar-sin-cargar-con-el-pasado",

@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787772175037",
+    "title": "Healing the Heart to Love Again",
+    "slug": "healing-the-heart-to-love-again",
+    "category": "Amor",
+    "status": "published",
+    "language": "en",
+    "dayCount": 8,
+    "duration": "8 days",
+    "time": "9 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/sanar-el-corazon-para-volver-a-amar.webp",
+    "shortDescription": "After disappointment, betrayal, or a relationship that left wounds behind, loving again can feel risky. This biblical journey does not suggest forgetting what you lived through or rushing trust. Over eight days, you will learn to recognize what still hurts, bring it honestly before God, heal interpretations born from fear, establish wise boundaries, and recover the ability to relate to others without allowing the past to rule your heart.",
+    "detailPath": "/data/en/plans/healing-the-heart-to-love-again.json",
+    "updatedAtMs": 1787772175037
+  },
+  {
     "id": "plan-1787770886625",
     "title": "Love Without Carrying the Past",
     "slug": "love-without-carrying-the-past",
