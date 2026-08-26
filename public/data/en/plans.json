@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787785991345",
+    "title": "When Fear Wants to Steal Your Peace",
+    "slug": "when-fear-wants-to-steal-your-peace",
+    "category": "Paz",
+    "status": "published",
+    "language": "en",
+    "dayCount": 4,
+    "duration": "4 days",
+    "time": "8 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/cuando-el-miedo-quiere-robarte-la-paz.webp",
+    "shortDescription": "Fear can enter quietly and end up dominating thoughts, decisions, and emotions. This four-day journey will help you recognize how fear operates, confront it with God's truth, regain inner self-control, and learn to walk in peace even when you do not have every guarantee. It is not about denying what you feel, but about preventing fear from having the final word.",
+    "detailPath": "/data/en/plans/when-fear-wants-to-steal-your-peace.json",
+    "updatedAtMs": 1787785991345
+  },
+  {
     "id": "plan-1787783854861",
     "title": "Peace for a Worried Heart",
     "slug": "peace-for-a-worried-heart",

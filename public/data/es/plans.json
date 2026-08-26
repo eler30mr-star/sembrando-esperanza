@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787785991345",
+    "title": "Cuando el Miedo Quiere Robarte la Paz",
+    "slug": "cuando-el-miedo-quiere-robarte-la-paz",
+    "category": "Paz",
+    "status": "published",
+    "language": "es",
+    "dayCount": 4,
+    "duration": "4 días",
+    "time": "8 min al día",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/cuando-el-miedo-quiere-robarte-la-paz.webp",
+    "shortDescription": "El miedo puede entrar de forma silenciosa y terminar dominando pensamientos, decisiones y emociones. Este recorrido de cuatro días te ayudará a reconocer cómo opera el temor, confrontarlo con la verdad de Dios, recuperar dominio interior y aprender a caminar con paz aun cuando no tengas todas las garantías. No se trata de negar lo que sientes, sino de impedir que el miedo tenga la última palabra.",
+    "detailPath": "/data/es/plans/cuando-el-miedo-quiere-robarte-la-paz.json",
+    "updatedAtMs": 1787785991345
+  },
+  {
     "id": "plan-1787783854861",
     "title": "Paz para un Corazón Preocupado",
     "slug": "paz-para-un-corazon-preocupado",
