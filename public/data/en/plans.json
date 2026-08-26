@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787775259909",
+    "title": "When God Seems Silent",
+    "slug": "when-god-seems-silent",
+    "category": "Fe",
+    "status": "published",
+    "language": "en",
+    "dayCount": 7,
+    "duration": "7 days",
+    "time": "9 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/cuando-dios-parece-guardar-silencio.webp",
+    "shortDescription": "There are seasons when we pray, seek direction, and wait for an answer, yet everything seems to remain silent. That silence can create doubt, weariness, and the feeling that God is far away. Over seven days, you will explore biblical passages that teach you how to remain faithful when there are no immediate answers, distinguish silence from abandonment, pray honestly, stand on what God has already said, and wait without allowing the lack of clarity to extinguish your faith.",
+    "detailPath": "/data/en/plans/when-god-seems-silent.json",
+    "updatedAtMs": 1787775259909
+  },
+  {
     "id": "plan-1787774576027",
     "title": "Trusting God in the Midst of Uncertainty",
     "slug": "trusting-god-in-the-midst-of-uncertainty",
