@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787774576027",
+    "title": "Creer en Dios en Medio de la Incertidumbre",
+    "slug": "creer-en-dios-en-medio-de-la-incertidumbre",
+    "category": "Fe",
+    "status": "published",
+    "language": "es",
+    "dayCount": 14,
+    "duration": "14 días",
+    "time": "10 min al día",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/creer-en-dios-en-medio-de-la-incertidumbre.webp",
+    "shortDescription": "Hay temporadas en las que no sabemos qué ocurrirá, cuándo llegará una respuesta ni por qué Dios permite determinados procesos. La incertidumbre puede despertar temor, urgencia y necesidad de control, pero también puede convertirse en un lugar donde la fe madura. Durante catorce días aprenderás a confiar en el carácter de Dios cuando no tienes todas las respuestas, esperar sin paralizarte, discernir con sabiduría, obedecer con la luz disponible y avanzar con esperanza aun cuando el camino completo todavía no sea visible.",
+    "detailPath": "/data/es/plans/creer-en-dios-en-medio-de-la-incertidumbre.json",
+    "updatedAtMs": 1787774576027
+  },
+  {
     "id": "plan-1787773322398",
     "title": "El Amor de Dios Que Transforma",
     "slug": "el-amor-de-dios-que-transforma",

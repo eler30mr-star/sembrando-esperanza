@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787774576027",
+    "title": "Trusting God in the Midst of Uncertainty",
+    "slug": "trusting-god-in-the-midst-of-uncertainty",
+    "category": "Fe",
+    "status": "published",
+    "language": "en",
+    "dayCount": 14,
+    "duration": "14 days",
+    "time": "10 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/creer-en-dios-en-medio-de-la-incertidumbre.webp",
+    "shortDescription": "There are seasons when we do not know what will happen, when an answer will come, or why God allows certain processes. Uncertainty can awaken fear, urgency, and a need for control, but it can also become a place where faith matures. Over fourteen days, you will learn to trust God's character when you do not have all the answers, wait without becoming paralyzed, discern with wisdom, obey with the light available, and move forward with hope even when the full path is not yet visible.",
+    "detailPath": "/data/en/plans/trusting-god-in-the-midst-of-uncertainty.json",
+    "updatedAtMs": 1787774576027
+  },
+  {
     "id": "plan-1787773322398",
     "title": "The Transforming Love of God",
     "slug": "the-transforming-love-of-god",
