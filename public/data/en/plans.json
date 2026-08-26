@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787782687769",
+    "title": "God Is in Control",
+    "slug": "god-is-in-control",
+    "category": "Paz",
+    "status": "published",
+    "language": "en",
+    "dayCount": 3,
+    "duration": "3 days",
+    "time": "8 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/dios-tiene-el-control.webp",
+    "shortDescription": "There are moments when we try to carry too much: outcomes, people, decisions, timing, and scenarios that do not depend entirely on us. This three-day journey will help you distinguish between responsibility and control, remember God's faithful rule, and learn to rest without neglecting obedience. It is not about abandoning your duties, but about living with peace knowing that the final weight of the story does not rest on your shoulders.",
+    "detailPath": "/data/en/plans/god-is-in-control.json",
+    "updatedAtMs": 1787782687769
+  },
+  {
     "id": "plan-1787781465502",
     "title": "Peace in the Midst of the Storm",
     "slug": "peace-in-the-midst-of-the-storm",

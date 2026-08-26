@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787782687769",
+    "title": "Deus Está no Controle",
+    "slug": "deus-esta-no-controle",
+    "category": "Paz",
+    "status": "published",
+    "language": "pt",
+    "dayCount": 3,
+    "duration": "3 dias",
+    "time": "8 min por dia",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/dios-tiene-el-control.webp",
+    "shortDescription": "Há momentos em que tentamos sustentar coisas demais: resultados, pessoas, decisões, tempos e cenários que não dependem completamente de nós. Este percurso de três dias ajudará você a distinguir entre responsabilidade e controle, lembrar do governo fiel de Deus e aprender a descansar sem deixar de obedecer. Não se trata de abandonar seus deveres, mas de viver em paz sabendo que o peso final da história não repousa sobre seus ombros.",
+    "detailPath": "/data/pt/plans/deus-esta-no-controle.json",
+    "updatedAtMs": 1787782687769
+  },
+  {
     "id": "plan-1787781465502",
     "title": "Paz em Meio à Tempestade",
     "slug": "paz-em-meio-a-tempestade",

@@ -1,0 +1,83 @@
+{
+  "id": "plan-1787782687769",
+  "title": "God Is in Control",
+  "slug": "god-is-in-control",
+  "category": "Paz",
+  "status": "published",
+  "language": "en",
+  "dayCount": 3,
+  "duration": "3 days",
+  "time": "8 min a day",
+  "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/dios-tiene-el-control.webp",
+  "shortDescription": "There are moments when we try to carry too much: outcomes, people, decisions, timing, and scenarios that do not depend entirely on us. This three-day journey will help you distinguish between responsibility and control, remember God's faithful rule, and learn to rest without neglecting obedience. It is not about abandoning your duties, but about living with peace knowing that the final weight of the story does not rest on your shoulders.",
+  "learning": [
+    "Recognize the difference between taking responsibility and trying to control what is not yours to control",
+    "Understand biblically that God's rule remains even when circumstances seem unstable",
+    "Learn to rest in God without falling into passivity or neglecting obedience"
+  ],
+  "gains": [
+    "Greater peace in situations you cannot control",
+    "More clarity to identify what is yours to do and what you need to surrender",
+    "A more practical trust in God's sovereignty and faithfulness"
+  ],
+  "days": [
+    {
+      "dayNumber": 1,
+      "title": "Not Everything Depends on You",
+      "verse": "Psalm 46:10",
+      "verses": [
+        "Psalm 46:10",
+        "Proverbs 3:5-6",
+        "Matthew 6:27"
+      ],
+      "references": [
+        "Psalm 46:10",
+        "Proverbs 3:5-6",
+        "Matthew 6:27"
+      ],
+      "text": "One of the heaviest burdens is living as though everything depended on us. We want to anticipate every problem, correct every detail, prevent every mistake, and make sure people respond the way we expect. Without realizing it, we end up carrying a weight that was never fully entrusted to us.\n\nThe Bible does not call us to irresponsibility. It invites us to trust. Proverbs teaches us to acknowledge God in all our ways and not rely only on our own understanding. Jesus reminds us that our worry has no power to control the future. Psalm 46 calls us to be still and recognize who God is.\n\nPeace begins when we accept our limits. There are decisions we do need to make, conversations we do need to have, and tasks we do need to complete. But there are also outcomes, timing, and other people's reactions that we cannot govern. Recognizing that boundary is not giving up; it is stepping out of a place that belongs only to God.",
+      "internalize": "Today separate two ideas: “this is my responsibility” and “this is not under my control.” You do not need to carry both in the same way.",
+      "prayer": "Lord, help me recognize my limits. Show me what I need to take responsibility for and what I need to leave in your hands. Free me from living as though everything depended on me. Amen.",
+      "action": "Make a short list of three things that concern you. Mark which ones depend on an action you can take and which ones involve outcomes you cannot control."
+    },
+    {
+      "dayNumber": 2,
+      "title": "God's Rule Is Never Interrupted",
+      "verse": "Psalm 103:19",
+      "verses": [
+        "Psalm 103:19",
+        "Daniel 4:35",
+        "Romans 8:28"
+      ],
+      "references": [
+        "Psalm 103:19",
+        "Daniel 4:35",
+        "Romans 8:28"
+      ],
+      "text": "When circumstances change quickly, we may feel as though everything is out of control. Unexpected news, other people's decisions, or doors that close can make us think history is moving forward without direction. Yet Scripture presents God as King, not as a spectator.\n\nHis rule does not mean that everything that happens is good or that we immediately understand his purposes. The Bible acknowledges pain, injustice, and loss. But it also affirms that nothing forces God to abandon his throne. He remains able to work in the middle of complex situations and to carry out his purpose even when we can see only fragments.\n\nTrusting God's control does not mean claiming that we know exactly what he will do. It means resting in the fact that his wisdom surpasses ours, his presence does not disappear, and his faithfulness does not depend on circumstances being easy. Sometimes peace is born not from understanding the plan, but from remembering who is still ruling.",
+      "internalize": "Repeat this truth without turning it into an easy explanation: “I do not understand everything that is happening, but God has not stopped being God.”",
+      "prayer": "Father, when circumstances seem disordered, remind me that your rule remains. Give me humility to accept what I do not understand and confidence to keep trusting your wisdom and faithfulness. Amen.",
+      "action": "Write down one situation that feels out of control today. Underneath, list three attributes of God that remain true even if that situation has not changed yet."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Rest and Obey at the Same Time",
+      "verse": "Psalm 37:5",
+      "verses": [
+        "Psalm 37:5",
+        "Philippians 4:6-7",
+        "James 1:22"
+      ],
+      "references": [
+        "Psalm 37:5",
+        "Philippians 4:6-7",
+        "James 1:22"
+      ],
+      "text": "Saying that God is in control does not mean folding our arms and doing nothing. Biblical trust never removes obedience. We can surrender the outcome to God and, at the same time, faithfully do what is ours to do.\n\nThis combination produces mature peace. We pray without stopping action. We plan without believing our plans are sovereign. We work responsibly and then rest without repeatedly reviewing what we can no longer change. Peace appears when we stop using activity as an attempt to control the outcome.\n\nSurrendering control to God does not reduce our participation; it puts it in order. We can take the next step without carrying the whole road. We can obey today without guaranteeing tomorrow. And we can rest because the story is not sustained by our strength alone. Faith learns to say: “I will do what is mine to do and trust God with what only He can sustain.”",
+      "internalize": "Make this your closing sentence: “I will obey in what is mine to do and rest in God concerning what I cannot control.”",
+      "prayer": "Lord, teach me to live between obedience and rest. Give me discipline to do what is mine to do and peace to entrust the outcome to You. Let my trust in You be stronger than my need for control. Amen.",
+      "action": "Choose one current concern. Define one responsible step you will take today and one part of the outcome you will consciously leave in God's hands."
+    }
+  ],
+  "updatedAtMs": 1787782687769
+}\n
