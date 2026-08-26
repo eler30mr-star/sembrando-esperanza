@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787780413727",
+    "title": "When God Seems Not to Answer",
+    "slug": "when-god-seems-not-to-answer",
+    "category": "Oración",
+    "status": "published",
+    "language": "en",
+    "dayCount": 5,
+    "duration": "5 days",
+    "time": "8 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/cuando-dios-parece-no-responder.webp",
+    "shortDescription": "There are prayers that seem to remain suspended in the air. We ask, wait, and ask again, but the answer does not come as we imagined. This five-day journey will help you walk through that tension without blaming yourself, without trying to manipulate God with formulas, and without turning delay into a verdict. You will learn to pray honestly, examine your expectations, recognize answers that may come in a different way, and persevere with a faith that rests in God's character.",
+    "detailPath": "/data/en/plans/when-god-seems-not-to-answer.json",
+    "updatedAtMs": 1787780413727
+  },
+  {
     "id": "plan-1787779518599",
     "title": "Praying Until You Find Peace",
     "slug": "praying-until-you-find-peace",

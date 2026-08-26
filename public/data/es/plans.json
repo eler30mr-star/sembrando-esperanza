@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787780413727",
+    "title": "Cuando Dios Parece No Responder",
+    "slug": "cuando-dios-parece-no-responder",
+    "category": "Oración",
+    "status": "published",
+    "language": "es",
+    "dayCount": 5,
+    "duration": "5 días",
+    "time": "8 min al día",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/cuando-dios-parece-no-responder.webp",
+    "shortDescription": "Hay oraciones que parecen quedar suspendidas en el aire. Pedimos, esperamos y volvemos a pedir, pero la respuesta no llega como imaginamos. Este recorrido de cinco días te ayudará a atravesar esa tensión sin culparte, sin manipular a Dios con fórmulas y sin convertir la demora en una sentencia. Aprenderás a orar con honestidad, revisar tus expectativas, reconocer respuestas que quizá llegan de otra manera y perseverar con una fe que descansa en el carácter de Dios.",
+    "detailPath": "/data/es/plans/cuando-dios-parece-no-responder.json",
+    "updatedAtMs": 1787780413727
+  },
+  {
     "id": "plan-1787779518599",
     "title": "Orar Hasta Encontrar Paz",
     "slug": "orar-hasta-encontrar-paz",
