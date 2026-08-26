@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787779518599",
+    "title": "Orar Até Encontrar Paz",
+    "slug": "orar-ate-encontrar-paz",
+    "category": "Oración",
+    "status": "published",
+    "language": "pt",
+    "dayCount": 10,
+    "duration": "10 dias",
+    "time": "9 min por dia",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/orar-hasta-encontrar-paz.webp",
+    "shortDescription": "Há momentos em que oramos e o coração continua inquieto. As circunstâncias não mudam imediatamente, as perguntas permanecem e a mente volta repetidas vezes ao mesmo assunto. Este percurso de dez dias ajudará você a transformar a oração em um lugar de entrega, verdade, gratidão, silêncio e confiança. Não se trata de repetir palavras até forçar uma emoção, mas de permanecer diante de Deus até aprender a descansar em sua presença mesmo quando algumas respostas ainda estiverem pendentes.",
+    "detailPath": "/data/pt/plans/orar-ate-encontrar-paz.json",
+    "updatedAtMs": 1787779518599
+  },
+  {
     "id": "plan-1787778547096",
     "title": "Orações para os Dias Difíceis",
     "slug": "oracoes-para-os-dias-dificeis",

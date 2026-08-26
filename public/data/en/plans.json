@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787779518599",
+    "title": "Praying Until You Find Peace",
+    "slug": "praying-until-you-find-peace",
+    "category": "Oración",
+    "status": "published",
+    "language": "en",
+    "dayCount": 10,
+    "duration": "10 days",
+    "time": "9 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/orar-hasta-encontrar-paz.webp",
+    "shortDescription": "There are moments when we pray and the heart remains restless. Circumstances do not change immediately, questions remain, and the mind returns to the same things again and again. This ten-day journey will help you turn prayer into a place of surrender, truth, gratitude, silence, and trust. It is not about repeating words until you force an emotion, but about remaining before God until you learn to rest in his presence even while some answers are still pending.",
+    "detailPath": "/data/en/plans/praying-until-you-find-peace.json",
+    "updatedAtMs": 1787779518599
+  },
+  {
     "id": "plan-1787778547096",
     "title": "Prayers for Difficult Days",
     "slug": "prayers-for-difficult-days",
