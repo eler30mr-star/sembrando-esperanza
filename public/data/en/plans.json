@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787759647740",
+    "title": "Love as God Loves",
+    "slug": "love-as-god-loves",
+    "category": "Amor",
+    "status": "published",
+    "language": "en",
+    "dayCount": 15,
+    "duration": "14 days",
+    "time": "10 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/amar-como-dios-ama.webp",
+    "shortDescription": "God's love is not a sentimental idea or a passing emotion. It is holy, patient, truthful, sacrificial, and able to transform the way we see and treat others. Over fourteen days, you will explore teachings from Jesus and other biblical passages that show how to receive this love, remain in it, and express it truthfully in conversations, conflicts, service, forgiveness, boundaries, and everyday decisions.",
+    "detailPath": "/data/en/plans/love-as-god-loves.json",
+    "updatedAtMs": 1787760620280
+  },
+  {
     "id": "plan-1787693915371",
     "title": "A Living Faith for Ordinary Days",
     "slug": "a-living-faith-for-ordinary-days",
