@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787781465502",
+    "title": "Peace in the Midst of the Storm",
+    "slug": "peace-in-the-midst-of-the-storm",
+    "category": "Paz",
+    "status": "published",
+    "language": "en",
+    "dayCount": 6,
+    "duration": "6 days",
+    "time": "9 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/paz-en-medio-de-la-tormenta.webp",
+    "shortDescription": "There are seasons when everything seems to be moving at once: unexpected problems, difficult news, conflicts, losses, or urgent decisions. Biblical peace does not mean denying the storm or waiting for everything to calm down before trusting. Over six days, you will learn to recognize what you are going through, remember God's presence, bring order to your inner life, pray from the chaos, act with wisdom, and remain anchored in a peace that does not depend entirely on circumstances.",
+    "detailPath": "/data/en/plans/peace-in-the-midst-of-the-storm.json",
+    "updatedAtMs": 1787781465502
+  },
+  {
     "id": "plan-1787780413727",
     "title": "When God Seems Not to Answer",
     "slug": "when-god-seems-not-to-answer",

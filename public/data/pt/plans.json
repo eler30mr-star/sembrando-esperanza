@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787781465502",
+    "title": "Paz em Meio à Tempestade",
+    "slug": "paz-em-meio-a-tempestade",
+    "category": "Paz",
+    "status": "published",
+    "language": "pt",
+    "dayCount": 6,
+    "duration": "6 dias",
+    "time": "9 min por dia",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/paz-en-medio-de-la-tormenta.webp",
+    "shortDescription": "Há períodos em que tudo parece se mover ao mesmo tempo: problemas inesperados, notícias difíceis, conflitos, perdas ou decisões urgentes. A paz bíblica não consiste em negar a tempestade nem em esperar que tudo se acalme para então confiar. Durante seis dias, você aprenderá a reconhecer o que está vivendo, lembrar da presença de Deus, colocar seu interior em ordem, orar em meio ao caos, agir com sabedoria e permanecer ancorado em uma paz que não depende completamente das circunstâncias.",
+    "detailPath": "/data/pt/plans/paz-em-meio-a-tempestade.json",
+    "updatedAtMs": 1787781465502
+  },
+  {
     "id": "plan-1787780413727",
     "title": "Quando Deus Parece Não Responder",
     "slug": "quando-deus-parece-nao-responder",

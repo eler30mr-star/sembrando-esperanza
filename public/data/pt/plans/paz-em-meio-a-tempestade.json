@@ -1,0 +1,146 @@
+{
+  "id": "plan-1787781465502",
+  "title": "Paz em Meio à Tempestade",
+  "slug": "paz-em-meio-a-tempestade",
+  "category": "Paz",
+  "status": "published",
+  "language": "pt",
+  "dayCount": 6,
+  "duration": "6 dias",
+  "time": "9 min por dia",
+  "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/paz-en-medio-de-la-tormenta.webp",
+  "shortDescription": "Há períodos em que tudo parece se mover ao mesmo tempo: problemas inesperados, notícias difíceis, conflitos, perdas ou decisões urgentes. A paz bíblica não consiste em negar a tempestade nem em esperar que tudo se acalme para então confiar. Durante seis dias, você aprenderá a reconhecer o que está vivendo, lembrar da presença de Deus, colocar seu interior em ordem, orar em meio ao caos, agir com sabedoria e permanecer ancorado em uma paz que não depende completamente das circunstâncias.",
+  "learning": [
+    "Compreender que a paz bíblica pode coexistir com circunstâncias difíceis",
+    "Reconhecer como uma tempestade externa pode intensificar o medo, a confusão e a urgência interior",
+    "Aprender a voltar conscientemente à presença e ao caráter de Deus em momentos de crise",
+    "Desenvolver uma oração simples e honesta para períodos de pressão",
+    "Distinguir entre agir com responsabilidade e reagir impulsivamente",
+    "Fortalecer uma fé capaz de permanecer estável mesmo quando o problema não se resolve imediatamente"
+  ],
+  "gains": [
+    "Maior serenidade para enfrentar situações difíceis sem negar a realidade",
+    "Mais clareza para reconhecer que parte da crise você pode enfrentar e que parte precisa entregar a Deus",
+    "Uma resposta interior menos dominada pelo medo e pela urgência",
+    "Ferramentas bíblicas para orar e decidir em meio à pressão",
+    "Maior estabilidade espiritual durante processos prolongados",
+    "Uma compreensão mais profunda da paz de Cristo como âncora e não apenas como emoção"
+  ],
+  "days": [
+    {
+      "dayNumber": 1,
+      "title": "Você não precisa negar a tempestade para ter fé",
+      "verse": "Marcos 4:35-40",
+      "verses": [
+        "Marcos 4:35-40",
+        "Salmos 46:1-3",
+        "João 16:33"
+      ],
+      "references": [
+        "Marcos 4:35-40",
+        "Salmos 46:1-3",
+        "João 16:33"
+      ],
+      "text": "A fé não começa chamando de pequeno aquilo que dói. Em Marcos 4, a tempestade era real: o vento golpeava, a água entrava no barco e os discípulos tinham motivos para se sentirem ameaçados. Jesus não pediu que fingissem que o mar estava calmo. Sua presença não eliminou a realidade do perigo, mas mudou a maneira como poderiam atravessá-lo.\n\nÀs vezes pensamos que confiar em Deus significa reagir com absoluta calma desde o primeiro momento. Então, quando sentimos medo ou desorientação, acreditamos que nossa fé falhou. No entanto, as Escrituras estão cheias de pessoas que sentiram medo, choraram e fizeram perguntas enquanto continuavam voltando o coração para Deus.\n\nReconhecer a tempestade com clareza evita dois extremos: dramatizar até pensar que tudo está perdido ou minimizar até negar que precisamos de ajuda. A fé pode dizer: “Isto é difícil” e, ao mesmo tempo, “Deus continua sendo meu refúgio”. Essa combinação de honestidade e confiança é um bom lugar para começar.",
+      "internalize": "Descreva sua tempestade sem exagerá-la e sem minimizá-la. Depois acrescente uma segunda frase: “Isto é real, mas não é maior do que a presença de Deus comigo”.",
+      "prayer": "Senhor, Tu conheces o que estou enfrentando. Não quero fingir que isso não me afeta, mas também não quero viver como se estivesse sozinho. Sê meu refúgio e ensina-me a olhar para Ti em meio a esta tempestade. Amém.",
+      "action": "Escreva em uma frase o que realmente está acontecendo. Evite palavras absolutas como “tudo”, “nunca” ou “nada” se elas não descreverem fatos concretos."
+    },
+    {
+      "dayNumber": 2,
+      "title": "A presença de Deus também está no barco",
+      "verse": "Marcos 4:38-41",
+      "verses": [
+        "Marcos 4:38-41",
+        "Isaías 43:1-2",
+        "Salmos 23:4"
+      ],
+      "references": [
+        "Marcos 4:38-41",
+        "Isaías 43:1-2",
+        "Salmos 23:4"
+      ],
+      "text": "Uma das perguntas mais dolorosas durante uma crise é: “Onde está Deus?”. Quando os discípulos acordaram Jesus, interpretaram sua aparente calma como falta de cuidado. A tempestade não havia apenas balançado o barco; também havia começado a alterar a maneira como entendiam a presença de Jesus.\n\nO mesmo pode acontecer conosco. Se a situação não muda, concluímos que Deus está longe. Se a resposta demora, pensamos que Ele não está agindo. Isaías oferece outra perspectiva: quando você passar pelas águas, Deus estará com você. A promessa nem sempre é evitar a passagem por lugares difíceis, mas não atravessá-los sozinho.\n\nLembrar da presença de Deus não significa sentir algo extraordinário em cada momento. Pode significar voltar a uma promessa, fazer uma oração breve ou simplesmente nos recusarmos a interpretar a demora como abandono. A paz começa a crescer quando deixamos de medir a proximidade de Deus apenas pela rapidez com que nossa circunstância muda.",
+      "internalize": "Não pergunte apenas: “Por que isso continua acontecendo?”. Acrescente: “Como posso lembrar hoje que Deus continua comigo enquanto atravesso isso?”.",
+      "prayer": "Pai, quando a demora ou a dificuldade me fizerem pensar que me deixaste, lembra-me da tua presença. Ajuda-me a confiar que estás comigo mesmo quando ainda não vejo a mudança que espero. Amém.",
+      "action": "Escolha um dos versículos de hoje e escreva-o em um lugar visível. Leia-o sempre que surgir a sensação de estar enfrentando tudo sozinho."
+    },
+    {
+      "dayNumber": 3,
+      "title": "A tempestade lá fora não precisa governar por dentro",
+      "verse": "Filipenses 4:6-7",
+      "verses": [
+        "Filipenses 4:6-7",
+        "Isaías 26:3",
+        "Colossenses 3:15"
+      ],
+      "references": [
+        "Filipenses 4:6-7",
+        "Isaías 26:3",
+        "Colossenses 3:15"
+      ],
+      "text": "Uma crise externa pode rapidamente se transformar em uma crise interior. O problema ocupa cada pensamento, o corpo permanece em alerta e qualquer nova dificuldade parece confirmar que tudo vai piorar. Nesse ponto, a tempestade já não está apenas ao nosso redor; começou a governar o coração.\n\nPaulo fala de uma paz capaz de guardar o coração e a mente. Ele não promete ausência de problemas, mas uma presença de Deus que pode colocar limites à ansiedade. Isaías relaciona a paz a uma mente que volta repetidas vezes para Deus. Colossenses nos convida a permitir que a paz de Cristo governe.\n\nGovernar não significa eliminar cada emoção. Significa decidir o que terá a autoridade final. Podemos sentir preocupação sem permitir que ela decida cada pensamento. Podemos receber uma notícia difícil e ainda assim reservar um tempo para respirar, orar e avaliar. A paz então se torna uma forma de colocar o interior em ordem enquanto o exterior continua se movendo.",
+      "internalize": "Observe o que está governando hoje seu interior: o fato real, a imaginação, a urgência, o medo ou a verdade de Deus.",
+      "prayer": "Senhor, guarda minha mente e meu coração. Não permitas que a tempestade exterior se torne dona de tudo o que penso e sinto. Que tua paz tenha autoridade dentro de mim. Amém.",
+      "action": "Quando perceber que sua mente está acelerando, pare por um minuto. Respire com calma e repita uma verdade bíblica antes de continuar com a próxima decisão."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Orar quando tudo parece demais",
+      "verse": "Salmos 61:1-3",
+      "verses": [
+        "Salmos 61:1-3",
+        "Salmos 142:1-3",
+        "Romanos 8:26"
+      ],
+      "references": [
+        "Salmos 61:1-3",
+        "Salmos 142:1-3",
+        "Romanos 8:26"
+      ],
+      "text": "Em meio a uma tempestade, a oração pode se tornar difícil. Talvez não saibamos o que pedir primeiro ou sintamos que nossas palavras não são suficientes para descrever tudo. A Bíblia não exige orações perfeitas em momentos de crise. Os Salmos mostram clamor, confusão e pedidos breves nascidos sob pressão.\n\nDavi pede para ser levado a uma rocha mais alta do que ele. Essa imagem reconhece algo importante: há momentos em que precisamos de apoio além da nossa própria capacidade. Romanos acrescenta que o Espírito nos ajuda quando nem sequer sabemos como orar.\n\nOrar em meio ao caos pode ser tão simples quanto nomear três coisas: o que está acontecendo, o que você precisa e o que decide entregar. Essa estrutura evita que a oração se transforme apenas em repetição ansiosa. Ela nos ajuda a voltar os olhos para Deus sem negar a realidade.",
+      "internalize": "Hoje sua oração pode ter três movimentos: “Isto está acontecendo”, “isto é o que preciso” e “isto eu entrego a Ti”.",
+      "prayer": "Senhor, ouve meu clamor quando tudo parece demais. Dá-me a ajuda de que preciso, a clareza que me falta e a capacidade de entregar a Ti aquilo que não consigo sustentar sozinho. Amém.",
+      "action": "Faça uma oração em três linhas: uma para descrever a situação, uma para pedir ajuda concreta e uma para entregar algo que está fora do seu controle."
+    },
+    {
+      "dayNumber": 5,
+      "title": "A paz não substitui a responsabilidade",
+      "verse": "Provérbios 21:5",
+      "verses": [
+        "Provérbios 21:5",
+        "Neemias 4:9",
+        "Tiago 1:5"
+      ],
+      "references": [
+        "Provérbios 21:5",
+        "Neemias 4:9",
+        "Tiago 1:5"
+      ],
+      "text": "Buscar paz não significa permanecer imóveis enquanto um problema exige ação. Neemias e o povo oraram, mas também organizaram vigilância. Fé e responsabilidade não competem entre si. Podemos confiar em Deus e, ao mesmo tempo, tomar medidas prudentes.\n\nEm uma tempestade, a urgência pode nos empurrar a reagir sem pensar ou, no extremo oposto, o medo pode nos paralisar. A sabedoria busca um caminho diferente: oração, avaliação e ação proporcional. Nem tudo precisa ser resolvido hoje, mas talvez exista um próximo passo claro.\n\nA paz nos ajuda a decidir melhor porque reduz a necessidade de agir apenas para aliviar a ansiedade. Podemos fazer uma ligação, pedir ajuda, organizar recursos, adiar uma decisão impulsiva ou buscar conselho. A fé não elimina a responsabilidade; coloca-a sob uma direção mais serena.",
+      "internalize": "Pergunte: “Que ação responsável realmente ajudaria e que reação apenas tenta reduzir minha ansiedade imediatamente?”.",
+      "prayer": "Deus, dá-me sabedoria para agir bem em meio à pressão. Livra-me tanto da impulsividade quanto da paralisia. Mostra-me qual passo me cabe dar hoje. Amém.",
+      "action": "Defina uma única ação concreta e útil que você possa realizar hoje em relação à sua situação. Faça-a sem tentar resolver tudo de uma vez."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Permanecer ancorado mesmo que o mar ainda não tenha se acalmado",
+      "verse": "Hebreus 6:19",
+      "verses": [
+        "Hebreus 6:19",
+        "Salmos 112:7",
+        "João 14:27"
+      ],
+      "references": [
+        "Hebreus 6:19",
+        "Salmos 112:7",
+        "João 14:27"
+      ],
+      "text": "Algumas tempestades passam rapidamente. Outras duram mais do que esperávamos. Quando o problema continua, precisamos de algo mais profundo do que um momento de alívio: precisamos de uma âncora. Hebreus usa exatamente essa imagem para falar da esperança.\n\nUma âncora não elimina as ondas; impede que a embarcação seja arrastada sem direção. Da mesma forma, a paz de Cristo nem sempre muda a situação imediatamente, mas pode sustentar o coração. Essa paz é alimentada por decisões repetidas: voltar à verdade, pedir ajuda, descansar, cumprir a responsabilidade do dia e lembrar que Deus continua presente.\n\nA meta deste percurso não é que você nunca mais sinta medo. É que, quando a tempestade voltar, tenha um lugar para onde retornar. A paz madura não depende de tudo estar tranquilo ao redor; aprende a permanecer unida a Deus enquanto aquilo que está ao redor ainda se move.",
+      "internalize": "A paz nem sempre significa que o mar se acalmou. Às vezes significa que seu coração encontrou onde se ancorar.",
+      "prayer": "Jesus, sê minha âncora quando as circunstâncias continuarem mudando. Que tua paz não dependa da ausência de problemas, mas da minha confiança na tua presença, na tua verdade e na tua fidelidade. Amém.",
+      "action": "Escolha três âncoras para a próxima semana: uma verdade bíblica, uma pessoa a quem recorrer e uma prática espiritual simples. Escreva-as e volte a elas quando perceber que a tempestade começa a governar você."
+    }
+  ],
+  "updatedAtMs": 1787781465502
+}\n
