@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787773322398",
+    "title": "O Amor de Deus Que Transforma",
+    "slug": "o-amor-de-deus-que-transforma",
+    "category": "Amor",
+    "status": "published",
+    "language": "pt",
+    "dayCount": 10,
+    "duration": "10 dias",
+    "time": "9 min por dia",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/el-amor-de-dios-que-transforma.webp",
+    "shortDescription": "O amor de Deus não apenas consola: também corrige, restaura, renova e forma uma nova vida. Durante dez dias, você descobrirá como seu amor alcança a identidade, cura pensamentos distorcidos, confronta hábitos, transforma relacionamentos e produz uma obediência que nasce da graça. Este percurso bíblico ajudará você a passar de saber que Deus ama para viver de uma maneira moldada por esse amor.",
+    "detailPath": "/data/pt/plans/o-amor-de-deus-que-transforma.json",
+    "updatedAtMs": 1787773322400
+  },
+  {
     "id": "plan-1787772175037",
     "title": "Curar o Coração para Voltar a Amar",
     "slug": "curar-o-coracao-para-voltar-a-amar",
