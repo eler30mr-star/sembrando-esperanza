@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787778547096",
+    "title": "Prayers for Difficult Days",
+    "slug": "prayers-for-difficult-days",
+    "category": "Oración",
+    "status": "published",
+    "language": "en",
+    "dayCount": 3,
+    "duration": "3 days",
+    "time": "8 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/oraciones-para-los-dias-dificiles.webp",
+    "shortDescription": "There are days when we do not need quick answers, but words that help us remain before God. This three-day journey offers biblical guidance for praying when the heart is tired, when there are matters beyond our control, and when we need to recover hope. These are not formulas for avoiding pain, but sincere ways of bringing it to God and continuing to walk with him.",
+    "detailPath": "/data/en/plans/prayers-for-difficult-days.json",
+    "updatedAtMs": 1787778547096
+  },
+  {
     "id": "plan-1787777924280",
     "title": "When You Don't Know What to Say to God",
     "slug": "when-you-dont-know-what-to-say-to-god",

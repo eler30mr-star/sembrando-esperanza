@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787778547096",
+    "title": "Oraciones Para los Días Difíciles",
+    "slug": "oraciones-para-los-dias-dificiles",
+    "category": "Oración",
+    "status": "published",
+    "language": "es",
+    "dayCount": 3,
+    "duration": "3 días",
+    "time": "8 min al día",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/oraciones-para-los-dias-dificiles.webp",
+    "shortDescription": "Hay días en los que no necesitamos respuestas rápidas, sino palabras que nos ayuden a permanecer delante de Dios. Este recorrido de tres días ofrece una guía bíblica para orar cuando el corazón está cansado, cuando hay asuntos fuera de nuestro control y cuando necesitamos recuperar esperanza. No son fórmulas para evitar el dolor, sino maneras sinceras de llevarlo a Dios y seguir caminando con Él.",
+    "detailPath": "/data/es/plans/oraciones-para-los-dias-dificiles.json",
+    "updatedAtMs": 1787778547096
+  },
+  {
     "id": "plan-1787777924280",
     "title": "Cuando No Sabes Qué Decirle a Dios",
     "slug": "cuando-no-sabes-que-decirle-a-dios",

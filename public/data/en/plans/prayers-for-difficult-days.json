@@ -1,0 +1,83 @@
+{
+  "id": "plan-1787778547096",
+  "title": "Prayers for Difficult Days",
+  "slug": "prayers-for-difficult-days",
+  "category": "Oración",
+  "status": "published",
+  "language": "en",
+  "dayCount": 3,
+  "duration": "3 days",
+  "time": "8 min a day",
+  "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/oraciones-para-los-dias-dificiles.webp",
+  "shortDescription": "There are days when we do not need quick answers, but words that help us remain before God. This three-day journey offers biblical guidance for praying when the heart is tired, when there are matters beyond our control, and when we need to recover hope. These are not formulas for avoiding pain, but sincere ways of bringing it to God and continuing to walk with him.",
+  "learning": [
+    "Learn to pray honestly when pain or weariness makes it difficult to find words",
+    "Understand how to entrust God with burdens that cannot be resolved by personal effort alone",
+    "Discover a biblical way to return to hope without denying reality"
+  ],
+  "gains": [
+    "Greater freedom to speak with God from difficult emotions",
+    "Greater inner rest in situations you cannot control",
+    "A simple prayer practice that can sustain you through heavy seasons"
+  ],
+  "days": [
+    {
+      "dayNumber": 1,
+      "title": "A Prayer That Does Not Hide the Pain",
+      "verse": "Psalm 13:1-6",
+      "verses": [
+        "Psalm 13:1-6",
+        "Psalm 62:8",
+        "1 Peter 5:7"
+      ],
+      "references": [
+        "Psalm 13:1-6",
+        "Psalm 62:8",
+        "1 Peter 5:7"
+      ],
+      "text": "When we go through a difficult day, we may feel pressure to appear strong before God. We try to organize our emotions before praying, soften what we feel, or avoid certain words because they seem too intense. Yet the Psalms show another way to draw near: with honesty.\n\nDavid expressed questions, weariness, and pain without ceasing to turn to God. That matters. A prayer of lament is not a break from faith; it can be a profound way of remaining in it. By telling God what hurts, we stop carrying the experience entirely on our own.\n\nSpiritual honesty does not mean turning every emotion into absolute truth. We can say “I feel alone” without concluding that God has abandoned us. We can say “I am afraid” without claiming that fear has the final word. Prayer creates a space where we present what we feel and allow God's truth to meet us again.",
+      "internalize": "Today, do not try to correct your emotions before praying. Name them before God and then add one truth you want to remember about him.",
+      "prayer": "Lord, today I do not want to hide what I feel from You. You know my weariness, my questions, and what weighs on me. Receive my pain and do not let my emotions pull me away from your presence. Remind me that I can be honest with You and still keep trusting. Amen.",
+      "action": "Complete three sentences in prayer: “Lord, today what hurts is…”, “what I fear most is…”, and “even so, I want to remember that You…”."
+    },
+    {
+      "dayNumber": 2,
+      "title": "A Prayer to Release What You Cannot Control",
+      "verse": "Philippians 4:6-7",
+      "verses": [
+        "Philippians 4:6-7",
+        "Psalm 55:22",
+        "Matthew 6:31-34"
+      ],
+      "references": [
+        "Philippians 4:6-7",
+        "Psalm 55:22",
+        "Matthew 6:31-34"
+      ],
+      "text": "Some burdens can be addressed with a decision, a conversation, or a specific action. Others remain beyond our reach. We cannot control other people's decisions, speed up certain processes, change the past, or guarantee what will happen tomorrow.\n\nAnxiety often appears when we try to assume responsibility for what is not ours to control. Paul invites us to present our requests before God. Jesus teaches us not to carry tomorrow's weight in advance. These words do not promote passivity; they help us distinguish between responsibility and control.\n\nPraying on a difficult day can mean making two movements: faithfully taking responsibility for what is ours to do and surrendering what we cannot govern. That surrender may need to be repeated several times throughout the day. Not because God forgets, but because our hearts tend to pick back up what we had already released.",
+      "internalize": "Mentally divide your burden into two parts: “This is my responsibility” and “This is not under my control.” You do not need to treat both parts the same way.",
+      "prayer": "Father, show me what responsibility I need to take and what burden I need to entrust to You. Give me wisdom to act where I can and peace to rest where I have no control. Amen.",
+      "action": "Write down one specific concern. Underneath, note one responsible action you can take and one part of the situation you need to consciously surrender to God."
+    },
+    {
+      "dayNumber": 3,
+      "title": "A Prayer to Hope Again",
+      "verse": "Lamentations 3:21-24",
+      "verses": [
+        "Lamentations 3:21-24",
+        "Romans 15:13",
+        "Psalm 42:11"
+      ],
+      "references": [
+        "Lamentations 3:21-24",
+        "Romans 15:13",
+        "Psalm 42:11"
+      ],
+      "text": "After several difficult days, the heart can grow tired of waiting. We do not always lose faith all at once; sometimes we simply stop expecting anything good. We lower our expectations to protect ourselves from another disappointment.\n\nLamentations shows a different kind of hope. In the middle of a painful reality, the writer chooses to bring God's mercy back to mind. He does not deny the difficulty or promise that everything will change immediately. He remembers who God still is while the situation remains uncertain.\n\nBiblical hope is not a guarantee that every situation will end the way we want. It is the decision not to let pain completely define the future. We can ask for help, keep doing good, rest, seek counsel, and expect God to continue working even when we still do not know how.",
+      "internalize": "Hope can be small and still be real. Today it may be enough to say: “I still do not see the way out, but I do not want to stop believing that God is still at work.”",
+      "prayer": "God of hope, strengthen my heart when I grow tired of waiting. Remind me of your mercy, sustain my faith, and help me keep walking without pretending that everything is fine. Amen.",
+      "action": "Write a one-sentence prayer of hope that you can read again on your next difficult day. Make it realistic, biblical, and independent of a specific outcome."
+    }
+  ],
+  "updatedAtMs": 1787778547096
+}\n
