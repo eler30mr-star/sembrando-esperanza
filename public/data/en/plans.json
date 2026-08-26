@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787777152030",
+    "title": "Faith to Face the Unknown",
+    "slug": "faith-to-face-the-unknown",
+    "category": "Fe",
+    "status": "published",
+    "language": "en",
+    "dayCount": 9,
+    "duration": "9 days",
+    "time": "9 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/fe-para-enfrentar-lo-desconocido.webp",
+    "shortDescription": "The unknown can awaken fear even when we know God is with us. New seasons, important decisions, unexpected changes, and paths we do not yet understand can make us feel insecure. Over nine days, you will learn to face what lies ahead without depending on having everything under control, discern with wisdom, move forward in obedience, prepare without anxiety, and trust that God can guide you even when the next chapter has not yet been written.",
+    "detailPath": "/data/en/plans/faith-to-face-the-unknown.json",
+    "updatedAtMs": 1787777152030
+  },
+  {
     "id": "plan-1787776587642",
     "title": "When Your Faith Feels Weak",
     "slug": "when-your-faith-feels-weak",

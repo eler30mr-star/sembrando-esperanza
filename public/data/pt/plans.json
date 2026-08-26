@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787777152030",
+    "title": "Fé para Enfrentar o Desconhecido",
+    "slug": "fe-para-enfrentar-o-desconhecido",
+    "category": "Fe",
+    "status": "published",
+    "language": "pt",
+    "dayCount": 9,
+    "duration": "9 dias",
+    "time": "9 min por dia",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/fe-para-enfrentar-lo-desconocido.webp",
+    "shortDescription": "O desconhecido pode despertar medo mesmo quando sabemos que Deus está conosco. Novas etapas, decisões importantes, mudanças inesperadas e caminhos que ainda não compreendemos podem nos fazer sentir inseguros. Durante nove dias, você aprenderá a enfrentar o que vem pela frente sem depender de ter tudo sob controle, a discernir com sabedoria, avançar em obediência, preparar-se sem ansiedade e confiar que Deus pode guiá-lo mesmo quando o próximo capítulo ainda não foi escrito.",
+    "detailPath": "/data/pt/plans/fe-para-enfrentar-o-desconhecido.json",
+    "updatedAtMs": 1787777152030
+  },
+  {
     "id": "plan-1787776587642",
     "title": "Quando Sua Fé Parece Fraca",
     "slug": "quando-sua-fe-parece-fraca",
