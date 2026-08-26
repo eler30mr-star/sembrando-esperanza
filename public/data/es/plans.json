@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787770886625",
+    "title": "Amar Sin Cargar con el Pasado",
+    "slug": "amar-sin-cargar-con-el-pasado",
+    "category": "Familia",
+    "status": "published",
+    "language": "es",
+    "dayCount": 5,
+    "duration": "5 días",
+    "time": "9 min al día",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/amar-sin-cargar-con-el-pasado.webp",
+    "shortDescription": "Las heridas de ayer pueden entrar silenciosamente en las relaciones de hoy: una traición antigua puede convertirse en sospecha, una palabra dolorosa en distancia y una decepción en temor a volver a confiar. Este recorrido bíblico no invita a borrar la historia ni a fingir que nada ocurrió. Durante cinco días aprenderás a llevar el pasado delante de Dios, distinguir memoria de resentimiento, sanar patrones que afectan tu manera de amar y avanzar con gracia, verdad y límites sabios.",
+    "detailPath": "/data/es/plans/amar-sin-cargar-con-el-pasado.json",
+    "updatedAtMs": 1787770886625
+  },
+  {
     "id": "plan-1787759647740",
     "title": "Amar Como Dios Ama",
     "slug": "amar-como-dios-ama",
