@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787783854861",
+    "title": "Peace for a Worried Heart",
+    "slug": "peace-for-a-worried-heart",
+    "category": "Paz",
+    "status": "published",
+    "language": "en",
+    "dayCount": 5,
+    "duration": "5 days",
+    "time": "8 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/paz-para-un-corazon-preocupado.webp",
+    "shortDescription": "Worry can occupy the mind from the moment the day begins and turn small matters into lasting burdens. This five-day journey will help you recognize what is troubling your heart, bring your burdens honestly before God, bring order to your thoughts, distinguish between responsibility and control, and cultivate a more stable peace in everyday life.",
+    "detailPath": "/data/en/plans/peace-for-a-worried-heart.json",
+    "updatedAtMs": 1787783854861
+  },
+  {
     "id": "plan-1787782687769",
     "title": "God Is in Control",
     "slug": "god-is-in-control",

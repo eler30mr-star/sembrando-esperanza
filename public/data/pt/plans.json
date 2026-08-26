@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787783854861",
+    "title": "Paz para um Coração Preocupado",
+    "slug": "paz-para-um-coracao-preocupado",
+    "category": "Paz",
+    "status": "published",
+    "language": "pt",
+    "dayCount": 5,
+    "duration": "5 dias",
+    "time": "8 min por dia",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/paz-para-un-corazon-preocupado.webp",
+    "shortDescription": "A preocupação pode ocupar a mente desde o início do dia e transformar assuntos pequenos em cargas permanentes. Este percurso de cinco dias ajudará você a reconhecer o que está inquietando seu coração, apresentar suas cargas a Deus com honestidade, colocar seus pensamentos em ordem, distinguir entre responsabilidade e controle e cultivar uma paz mais estável em meio à vida cotidiana.",
+    "detailPath": "/data/pt/plans/paz-para-um-coracao-preocupado.json",
+    "updatedAtMs": 1787783854861
+  },
+  {
     "id": "plan-1787782687769",
     "title": "Deus Está no Controle",
     "slug": "deus-esta-no-controle",
