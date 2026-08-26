@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787759647740",
+    "title": "Amar Como Deus Ama",
+    "slug": "amar-como-deus-ama",
+    "category": "Amor",
+    "status": "published",
+    "language": "pt",
+    "dayCount": 15,
+    "duration": "14 dias",
+    "time": "10 min por dia",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/amar-como-dios-ama.webp",
+    "shortDescription": "O amor de Deus não é uma ideia sentimental nem uma emoção passageira. É santo, paciente, verdadeiro, sacrificial e capaz de transformar a maneira como olhamos e tratamos os outros. Durante catorze dias, você percorrerá ensinamentos de Jesus e outras passagens bíblicas que mostram como receber esse amor, permanecer nele e expressá-lo com verdade em conversas, conflitos, serviço, perdão, limites e decisões cotidianas.",
+    "detailPath": "/data/pt/plans/amar-como-deus-ama.json",
+    "updatedAtMs": 1787768630922
+  },
+  {
     "id": "plan-1787693915371",
     "title": "Uma fé viva para dias comuns",
     "slug": "uma-fe-viva-para-dias-comuns",
