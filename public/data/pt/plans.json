@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787777924280",
+    "title": "Quando Você Não Sabe o Que Dizer a Deus",
+    "slug": "quando-voce-nao-sabe-o-que-dizer-a-deus",
+    "category": "Oración",
+    "status": "published",
+    "language": "pt",
+    "dayCount": 5,
+    "duration": "5 dias",
+    "time": "8 min por dia",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/cuando-no-sabes-que-decirle-a-dios.webp",
+    "shortDescription": "Há momentos em que a oração fica sem palavras. O cansaço, a tristeza, a confusão ou até mesmo a culpa podem fazer com que se aproximar de Deus pareça difícil. Este percurso de cinco dias ajudará você a descobrir que orar nem sempre significa falar muito: também pode ser permanecer, suspirar, ler uma oração bíblica, guardar silêncio e deixar que o Espírito sustente aquilo que você não sabe expressar.",
+    "detailPath": "/data/pt/plans/quando-voce-nao-sabe-o-que-dizer-a-deus.json",
+    "updatedAtMs": 1787777924280
+  },
+  {
     "id": "plan-1787777152030",
     "title": "Fé para Enfrentar o Desconhecido",
     "slug": "fe-para-enfrentar-o-desconhecido",

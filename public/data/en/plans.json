@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787777924280",
+    "title": "When You Don't Know What to Say to God",
+    "slug": "when-you-dont-know-what-to-say-to-god",
+    "category": "Oración",
+    "status": "published",
+    "language": "en",
+    "dayCount": 5,
+    "duration": "5 days",
+    "time": "8 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/cuando-no-sabes-que-decirle-a-dios.webp",
+    "shortDescription": "There are moments when prayer runs out of words. Weariness, sadness, confusion, or even guilt can make approaching God feel difficult. This five-day journey will help you discover that prayer does not always mean saying a lot: it can also mean remaining, sighing, reading a biblical prayer, being silent, and allowing the Spirit to sustain what you do not know how to express.",
+    "detailPath": "/data/en/plans/when-you-dont-know-what-to-say-to-god.json",
+    "updatedAtMs": 1787777924280
+  },
+  {
     "id": "plan-1787777152030",
     "title": "Faith to Face the Unknown",
     "slug": "faith-to-face-the-unknown",
