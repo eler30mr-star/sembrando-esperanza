@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787866496488",
+    "title": "Learn to Give Thanks in Everything",
+    "slug": "learn-to-give-thanks-in-everything",
+    "category": "Gratitud",
+    "status": "published",
+    "language": "en",
+    "dayCount": 10,
+    "duration": "10 days",
+    "time": "9 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/aprende-a-dar-gracias-en-todo.webp",
+    "shortDescription": "Giving thanks in everything does not mean calling every pain good or pretending that nothing affects us. Biblical gratitude learns to recognize God's faithfulness within very different circumstances: abundance, waiting, disappointment, weakness, difficult relationships, and answers that have not yet come. Over ten days, you will discover how to give thanks truthfully, without denying what hurts, and how to turn gratitude into a steady way of looking at life before God.",
+    "detailPath": "/data/en/plans/learn-to-give-thanks-in-everything.json",
+    "updatedAtMs": 1787866496488
+  },
+  {
     "id": "plan-1787865463815",
     "title": "7 Days to Cultivate Gratitude",
     "slug": "7-days-to-cultivate-gratitude",

@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787866496488",
+    "title": "Aprende a Dar Gracias en Todo",
+    "slug": "aprende-a-dar-gracias-en-todo",
+    "category": "Gratitud",
+    "status": "published",
+    "language": "es",
+    "dayCount": 10,
+    "duration": "10 días",
+    "time": "9 min al día",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/aprende-a-dar-gracias-en-todo.webp",
+    "shortDescription": "Dar gracias en todo no significa llamar bueno a cada dolor ni fingir que nada nos afecta. La gratitud bíblica aprende a reconocer la fidelidad de Dios dentro de circunstancias muy distintas: abundancia, espera, decepción, debilidad, relaciones difíciles y respuestas que aún no llegan. Durante diez días descubrirás cómo agradecer con verdad, sin negar lo que duele, y cómo convertir la gratitud en una forma estable de mirar la vida delante de Dios.",
+    "detailPath": "/data/es/plans/aprende-a-dar-gracias-en-todo.json",
+    "updatedAtMs": 1787866496488
+  },
+  {
     "id": "plan-1787865463815",
     "title": "7 Días para Cultivar Gratitud",
     "slug": "7-dias-para-cultivar-gratitud",
