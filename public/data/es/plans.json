@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787870160874",
+    "title": "Aprende a Poner Límites",
+    "slug": "aprende-a-poner-limites",
+    "category": "Jóvenes",
+    "status": "published",
+    "language": "es",
+    "dayCount": 5,
+    "duration": "5 días",
+    "time": "8 min al día",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/aprende-a-poner-limites.webp",
+    "shortDescription": "Poner límites no significa volverte frío, egoísta o distante. Significa aprender a cuidar tu tiempo, tus emociones, tus convicciones y tus relaciones con sabiduría. Durante cinco días descubrirás cómo reconocer cuándo algo te está desgastando, decir no sin culpa, diferenciar amor de permisividad y sostener límites con respeto, firmeza y paz.",
+    "detailPath": "/data/es/plans/aprende-a-poner-limites.json",
+    "updatedAtMs": 1787870160874
+  },
+  {
     "id": "plan-1787869350167",
     "title": "Cómo Tomar Buenas Decisiones",
     "slug": "como-tomar-buenas-decisiones",

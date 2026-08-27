@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787870160874",
+    "title": "Aprenda a Estabelecer Limites",
+    "slug": "aprenda-a-estabelecer-limites",
+    "category": "Jóvenes",
+    "status": "published",
+    "language": "pt",
+    "dayCount": 5,
+    "duration": "5 dias",
+    "time": "8 min por dia",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/aprende-a-poner-limites.webp",
+    "shortDescription": "Estabelecer limites não significa se tornar frio, egoísta ou distante. Significa aprender a cuidar do seu tempo, das suas emoções, das suas convicções e dos seus relacionamentos com sabedoria. Durante cinco dias, você descobrirá como reconhecer quando algo está desgastando você, dizer não sem culpa, diferenciar amor de permissividade e manter limites com respeito, firmeza e paz.",
+    "detailPath": "/data/pt/plans/aprenda-a-estabelecer-limites.json",
+    "updatedAtMs": 1787870160874
+  },
+  {
     "id": "plan-1787869350167",
     "title": "Como Tomar Boas Decisões",
     "slug": "como-tomar-boas-decisoes",

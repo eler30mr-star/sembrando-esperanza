@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787870160874",
+    "title": "Learn to Set Boundaries",
+    "slug": "learn-to-set-boundaries",
+    "category": "Jóvenes",
+    "status": "published",
+    "language": "en",
+    "dayCount": 5,
+    "duration": "5 days",
+    "time": "8 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/aprende-a-poner-limites.webp",
+    "shortDescription": "Setting boundaries does not mean becoming cold, selfish, or distant. It means learning to care for your time, emotions, convictions, and relationships wisely. Over five days, you will discover how to recognize when something is wearing you down, say no without guilt, distinguish love from permissiveness, and maintain boundaries with respect, firmness, and peace.",
+    "detailPath": "/data/en/plans/learn-to-set-boundaries.json",
+    "updatedAtMs": 1787870160874
+  },
+  {
     "id": "plan-1787869350167",
     "title": "How to Make Good Decisions",
     "slug": "how-to-make-good-decisions",
