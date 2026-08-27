@@ -2,17 +2,17 @@
   {
     "id": "plan-1787858772995",
     "title": "When You Don't Know What to Do with Your Life",
-    "slug": "when-you-dont-know-what-to-do-with-your-life",
-    "category": "Gratitud",
+    "slug": "when-you-dont-know-what-to-do-with-your-life-purpose",
+    "category": "Propósito",
     "status": "published",
     "language": "en",
     "dayCount": 10,
     "duration": "10 days",
     "time": "9 min a day",
-    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/cuando-no-sabes-que-hacer-con-tu-vida.webp",
-    "shortDescription": "Not knowing what to do with your life can feel like standing still while everyone else moves forward. This ten-day journey will help you lower the pressure to have everything figured out, recognize what is already clear, examine desires and responsibilities, ask for wisdom, listen to counsel, and make decisions without demanding absolute certainty. Through gratitude, you will learn to value your present season and walk faithfully toward the next step, even when you still cannot see the whole map.",
-    "detailPath": "/data/en/plans/when-you-dont-know-what-to-do-with-your-life.json",
-    "updatedAtMs": 1787858772995
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/cuando-no-sabes-que-hacer-con-tu-vida-proposito.webp",
+    "shortDescription": "There are seasons when the question about the future becomes deeper: you do not only want to know what decision to make, but what you are living for. This ten-day journey will help you understand purpose from a biblical perspective: identity before function, character before platform, gifts in service to others, seasons that shape you, doors that provide direction, and a mission that is discovered as you walk with God. You do not need to have your entire life defined in order to begin living with purpose today.",
+    "detailPath": "/data/en/plans/when-you-dont-know-what-to-do-with-your-life-purpose.json",
+    "updatedAtMs": 1787860742570
   },
   {
     "id": "plan-1787858151633",
