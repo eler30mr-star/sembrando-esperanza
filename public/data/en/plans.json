@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787868404875",
+    "title": "Live Gratefully",
+    "slug": "live-gratefully",
+    "category": "Gratitud",
+    "status": "published",
+    "language": "en",
+    "dayCount": 5,
+    "duration": "5 days",
+    "time": "8 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/vive-agradecido.webp",
+    "shortDescription": "Living gratefully is more than saying “thank you” on special occasions. It is learning to receive each day as a gift, recognize God's goodness in the midst of everyday life, resist comparison, and express gratitude in the way you speak, relate to others, and serve. Over five days, you will develop simple practices so that gratitude stops being an isolated moment and becomes a more intentional way of living before God.",
+    "detailPath": "/data/en/plans/live-gratefully.json",
+    "updatedAtMs": 1787868404876
+  },
+  {
     "id": "plan-1787867358937",
     "title": "Remembering God's Faithfulness",
     "slug": "remembering-gods-faithfulness",

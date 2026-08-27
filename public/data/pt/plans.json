@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787868404875",
+    "title": "Viva com Gratidão",
+    "slug": "viva-com-gratidao",
+    "category": "Gratitud",
+    "status": "published",
+    "language": "pt",
+    "dayCount": 5,
+    "duration": "5 dias",
+    "time": "8 min por dia",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/vive-agradecido.webp",
+    "shortDescription": "Viver com gratidão é mais do que dizer “obrigado” em momentos especiais. É aprender a receber cada dia como um presente, reconhecer a bondade de Deus em meio ao cotidiano, resistir à comparação e expressar gratidão na maneira de falar, se relacionar e servir. Durante cinco dias, você desenvolverá práticas simples para que a gratidão deixe de ser um momento isolado e se transforme em uma maneira mais consciente de viver diante de Deus.",
+    "detailPath": "/data/pt/plans/viva-com-gratidao.json",
+    "updatedAtMs": 1787868404876
+  },
+  {
     "id": "plan-1787867358937",
     "title": "Lembrando a Fidelidade de Deus",
     "slug": "lembrando-a-fidelidade-de-deus",
