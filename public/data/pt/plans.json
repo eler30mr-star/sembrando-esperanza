@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787852628030",
+    "title": "Curando Feridas do Passado",
+    "slug": "curando-feridas-do-passado",
+    "category": "Sanidad Interior",
+    "status": "published",
+    "language": "pt",
+    "dayCount": 5,
+    "duration": "5 dias",
+    "time": "9 min por dia",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/sanando-heridas-del-pasado.webp",
+    "shortDescription": "Há feridas que pertencem ao passado, mas ainda influenciam a maneira como pensamos, reagimos e nos relacionamos hoje. Este percurso de cinco dias ajudará você a reconhecer o que ainda dói, entender como essas experiências continuam afetando seu presente, levá-las com honestidade diante de Deus, renovar interpretações nascidas do medo e começar a caminhar com maior liberdade sem negar o que viveu.",
+    "detailPath": "/data/pt/plans/curando-feridas-do-passado.json",
+    "updatedAtMs": 1787852628030
+  },
+  {
     "id": "plan-1787851072697",
     "title": "Aprender a Perdoar de Verdade",
     "slug": "aprender-a-perdoar-de-verdade",

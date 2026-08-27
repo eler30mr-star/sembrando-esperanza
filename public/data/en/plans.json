@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787852628030",
+    "title": "Healing Wounds from the Past",
+    "slug": "healing-wounds-from-the-past",
+    "category": "Sanidad Interior",
+    "status": "published",
+    "language": "en",
+    "dayCount": 5,
+    "duration": "5 days",
+    "time": "9 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/sanando-heridas-del-pasado.webp",
+    "shortDescription": "Some wounds belong to the past, yet they still influence the way we think, react, and relate to others today. This five-day journey will help you recognize what still hurts, understand how those experiences continue to affect your present, bring them honestly before God, renew interpretations born from fear, and begin to walk with greater freedom without denying what you lived through.",
+    "detailPath": "/data/en/plans/healing-wounds-from-the-past.json",
+    "updatedAtMs": 1787852628030
+  },
+  {
     "id": "plan-1787851072697",
     "title": "Learning to Truly Forgive",
     "slug": "learning-to-truly-forgive",
