@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787848029157",
+    "title": "Cómo Dejar Atrás la Culpa",
+    "slug": "como-dejar-atras-la-culpa",
+    "category": "Sanidad Interior",
+    "status": "published",
+    "language": "es",
+    "dayCount": 8,
+    "duration": "8 días",
+    "time": "9 min al día",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/como-dejar-atras-la-culpa.webp",
+    "shortDescription": "La culpa puede ayudarte a reconocer una falta, pero también puede quedarse demasiado tiempo y convertirse en una voz que te acusa, te paraliza y te hace pensar que siempre serás definido por lo que hiciste. Durante ocho días aprenderás a distinguir convicción de condenación, asumir responsabilidad sin destruir tu identidad, confesar con honestidad, recibir el perdón de Dios, reparar cuando sea posible y caminar hacia una libertad interior que no niega el pasado, pero tampoco vive encadenada a él.",
+    "detailPath": "/data/es/plans/como-dejar-atras-la-culpa.json",
+    "updatedAtMs": 1787848029158
+  },
+  {
     "id": "plan-1787785991345",
     "title": "Cuando el Miedo Quiere Robarte la Paz",
     "slug": "cuando-el-miedo-quiere-robarte-la-paz",

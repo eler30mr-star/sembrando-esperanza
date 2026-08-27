@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787848029157",
+    "title": "How to Leave Guilt Behind",
+    "slug": "how-to-leave-guilt-behind",
+    "category": "Sanidad Interior",
+    "status": "published",
+    "language": "en",
+    "dayCount": 8,
+    "duration": "8 days",
+    "time": "9 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/como-dejar-atras-la-culpa.webp",
+    "shortDescription": "Guilt can help you recognize wrongdoing, but it can also remain too long and become a voice that accuses you, paralyzes you, and makes you think you will always be defined by what you did. Over eight days, you will learn to distinguish conviction from condemnation, take responsibility without destroying your identity, confess honestly, receive God's forgiveness, make amends when possible, and walk toward an inner freedom that does not deny the past but is no longer chained to it.",
+    "detailPath": "/data/en/plans/how-to-leave-guilt-behind.json",
+    "updatedAtMs": 1787848029158
+  },
+  {
     "id": "plan-1787785991345",
     "title": "When Fear Wants to Steal Your Peace",
     "slug": "when-fear-wants-to-steal-your-peace",
