@@ -17,17 +17,17 @@
   {
     "id": "plan-1787858151633",
     "title": "¿Para Qué Me Creó Dios?",
-    "slug": "para-que-me-creo-dios",
-    "category": "Gratitud",
+    "slug": "para-que-me-creo-dios-proposito",
+    "category": "Propósito",
     "status": "published",
     "language": "es",
     "dayCount": 7,
     "duration": "7 días",
     "time": "9 min al día",
-    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/para-que-me-creo-dios.webp",
-    "shortDescription": "Preguntarse para qué fuimos creados no siempre nace de curiosidad; muchas veces surge en temporadas de comparación, cansancio o falta de dirección. Este recorrido de siete días te ayudará a mirar tu existencia desde la gratitud, recordar que tu identidad precede a cualquier tarea, comprender el propósito como una vida orientada hacia Dios y descubrir cómo tus dones, decisiones y responsabilidades cotidianas pueden convertirse en una respuesta agradecida al hecho de haber sido creado con intención.",
-    "detailPath": "/data/es/plans/para-que-me-creo-dios.json",
-    "updatedAtMs": 1787858151633
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/para-que-me-creo-dios-proposito.webp",
+    "shortDescription": "La pregunta por el propósito no se responde solamente encontrando una profesión, un ministerio o una meta personal. La Biblia presenta una visión más profunda: fuimos creados para conocer a Dios, reflejar su carácter, caminar en las obras que Él prepara y convertir nuestra vida en una expresión de su gracia en el mundo. Durante siete días explorarás identidad, comunión, carácter, servicio, influencia y perseverancia para comprender que el propósito no es una sola tarea, sino una vida entera orientada hacia Dios.",
+    "detailPath": "/data/es/plans/para-que-me-creo-dios-proposito.json",
+    "updatedAtMs": 1787861767110
   },
   {
     "id": "plan-1787854177954",

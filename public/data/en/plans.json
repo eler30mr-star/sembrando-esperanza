@@ -17,17 +17,17 @@
   {
     "id": "plan-1787858151633",
     "title": "What Did God Create Me For?",
-    "slug": "what-did-god-create-me-for",
-    "category": "Gratitud",
+    "slug": "what-did-god-create-me-for-purpose",
+    "category": "Propósito",
     "status": "published",
     "language": "en",
     "dayCount": 7,
     "duration": "7 days",
     "time": "9 min a day",
-    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/para-que-me-creo-dios.webp",
-    "shortDescription": "Wondering why we were created does not always come from curiosity; often it arises during seasons of comparison, weariness, or lack of direction. This seven-day journey will help you view your existence through gratitude, remember that your identity comes before any task, understand purpose as a life oriented toward God, and discover how your gifts, decisions, and everyday responsibilities can become a grateful response to the fact that you were created with intention.",
-    "detailPath": "/data/en/plans/what-did-god-create-me-for.json",
-    "updatedAtMs": 1787858151633
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/para-que-me-creo-dios-proposito.webp",
+    "shortDescription": "The question of purpose is not answered simply by finding a profession, a ministry, or a personal goal. The Bible presents a deeper vision: we were created to know God, reflect his character, walk in the works he prepares, and make our lives an expression of his grace in the world. Over seven days, you will explore identity, fellowship, character, service, influence, and perseverance to understand that purpose is not a single task, but an entire life oriented toward God.",
+    "detailPath": "/data/en/plans/what-did-god-create-me-for-purpose.json",
+    "updatedAtMs": 1787861767110
   },
   {
     "id": "plan-1787854177954",
