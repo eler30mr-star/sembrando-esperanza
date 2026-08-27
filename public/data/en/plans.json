@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787851072697",
+    "title": "Learning to Truly Forgive",
+    "slug": "learning-to-truly-forgive",
+    "category": "Sanidad Interior",
+    "status": "published",
+    "language": "en",
+    "dayCount": 7,
+    "duration": "7 days",
+    "time": "9 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/aprender-a-perdonar-de-verdad.webp",
+    "shortDescription": "Truly forgiving does not mean forgetting, justifying what happened, or returning to a harmful relationship. It is a spiritual process in which we acknowledge the wound, surrender to God the debt we cannot collect in a healthy way, and learn to live without allowing resentment to keep ruling the heart. Over seven days, you will walk through biblical principles for forgiving with truth, grace, boundaries, and freedom.",
+    "detailPath": "/data/en/plans/learning-to-truly-forgive.json",
+    "updatedAtMs": 1787851072697
+  },
+  {
     "id": "plan-1787848029157",
     "title": "How to Leave Guilt Behind",
     "slug": "how-to-leave-guilt-behind",

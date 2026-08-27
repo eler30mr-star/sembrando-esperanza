@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787851072697",
+    "title": "Aprender a Perdonar de Verdad",
+    "slug": "aprender-a-perdonar-de-verdad",
+    "category": "Sanidad Interior",
+    "status": "published",
+    "language": "es",
+    "dayCount": 7,
+    "duration": "7 días",
+    "time": "9 min al día",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/aprender-a-perdonar-de-verdad.webp",
+    "shortDescription": "Perdonar de verdad no significa olvidar, justificar lo ocurrido ni regresar a una relación dañina. Es un proceso espiritual en el que reconocemos la herida, entregamos a Dios la deuda que no podemos cobrar sanamente y aprendemos a vivir sin permitir que el resentimiento siga gobernando el corazón. Durante siete días recorrerás principios bíblicos para perdonar con verdad, gracia, límites y libertad.",
+    "detailPath": "/data/es/plans/aprender-a-perdonar-de-verdad.json",
+    "updatedAtMs": 1787851072697
+  },
+  {
     "id": "plan-1787848029157",
     "title": "Cómo Dejar Atrás la Culpa",
     "slug": "como-dejar-atras-la-culpa",
