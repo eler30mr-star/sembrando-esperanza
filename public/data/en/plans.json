@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787869350167",
+    "title": "How to Make Good Decisions",
+    "slug": "how-to-make-good-decisions",
+    "category": "Jóvenes",
+    "status": "published",
+    "language": "en",
+    "dayCount": 8,
+    "duration": "8 days",
+    "time": "9 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/como-tomar-buenas-decisiones.webp",
+    "shortDescription": "Making decisions can feel complicated when there is pressure, intense emotions, many opinions, and fear of making a mistake. This eight-day journey will help you develop a biblical framework for making better decisions: remembering who you are, thinking about consequences, listening to counsel, distinguishing emotion from conviction, and learning to move forward without demanding absolute certainty. The goal is not to make perfect decisions, but to grow in wisdom, responsibility, and trust in God.",
+    "detailPath": "/data/en/plans/how-to-make-good-decisions.json",
+    "updatedAtMs": 1787869350167
+  },
+  {
     "id": "plan-1787868404875",
     "title": "Live Gratefully",
     "slug": "live-gratefully",

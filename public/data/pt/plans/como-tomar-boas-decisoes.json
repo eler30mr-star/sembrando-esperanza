@@ -1,0 +1,188 @@
+{
+  "id": "plan-1787869350167",
+  "title": "Como Tomar Boas Decisões",
+  "slug": "como-tomar-boas-decisoes",
+  "category": "Jóvenes",
+  "status": "published",
+  "language": "pt",
+  "dayCount": 8,
+  "duration": "8 dias",
+  "time": "9 min por dia",
+  "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/como-tomar-buenas-decisiones.webp",
+  "shortDescription": "Tomar decisões pode parecer complicado quando há pressão, emoções intensas, muitas opiniões e medo de errar. Este percurso de oito dias ajudará você a desenvolver um critério bíblico para decidir melhor: lembrar quem você é, pensar nas consequências, ouvir conselhos, distinguir emoção de convicção e aprender a avançar sem exigir certeza absoluta. A meta não é tomar decisões perfeitas, mas crescer em sabedoria, responsabilidade e confiança em Deus.",
+  "learning": [
+    "Reconhecer como a pressão social e o desejo de aprovação podem influenciar as decisões",
+    "Compreender por que a identidade em Deus deve vir antes das escolhas importantes",
+    "Aprender a avaliar decisões à luz de princípios bíblicos e consequências reais",
+    "Distinguir entre emoções intensas e convicções que permanecem",
+    "Valorizar o conselho de pessoas maduras sem depender completamente de suas opiniões",
+    "Identificar quando uma oportunidade conveniente não é necessariamente uma boa decisão",
+    "Aprender a decidir com responsabilidade mesmo quando não existe certeza total",
+    "Desenvolver uma forma mais madura de aprender com erros passados"
+  ],
+  "gains": [
+    "Maior clareza para tomar decisões em meio à pressão ou confusão",
+    "Menor dependência da aprovação de amigos, redes sociais ou tendências",
+    "Maior capacidade de antecipar consequências antes de agir",
+    "Maior discernimento para ouvir as emoções sem obedecê-las automaticamente",
+    "Maior abertura ao conselho sábio",
+    "Uma visão mais realista sobre oportunidades, riscos e limites",
+    "Mais confiança para decidir sem ficar paralisado pelo medo de errar",
+    "Uma atitude mais responsável diante de erros e aprendizados"
+  ],
+  "days": [
+    {
+      "dayNumber": 1,
+      "title": "Não decida apenas para se encaixar",
+      "verse": "Romanos 12:2",
+      "verses": [
+        "Romanos 12:2",
+        "Provérbios 29:25",
+        "Gálatas 1:10"
+      ],
+      "references": [
+        "Romanos 12:2",
+        "Provérbios 29:25",
+        "Gálatas 1:10"
+      ],
+      "text": "Uma das forças mais poderosas em muitas decisões dos jovens é a necessidade de pertencer. Ela pode aparecer nas amizades, nos relacionamentos, nos estudos, nas redes sociais, nas festas ou até na maneira de falar. Às vezes sabemos que algo não nos faz bem, mas temos medo de ficar de fora.\n\nA Bíblia adverte sobre o medo das pessoas porque ele pode se tornar uma armadilha. Paulo também pergunta se procura agradar às pessoas ou a Deus. Isso não significa viver desprezando o que os outros pensam, mas evitar que a aprovação alheia governe decisões que afetam seu caráter e seu futuro.\n\nUma boa decisão pode parecer desconfortável quando vai contra a maioria. Mas se encaixar por um momento nem sempre vale o custo de trair suas convicções. A maturidade começa quando você aprende a suportar certo desconforto sem abandonar aquilo que sabe que é correto.",
+      "internalize": "Complete esta frase: “Se ninguém fosse me julgar nem me elogiar, provavelmente eu escolheria…”. Observe quanto a opinião dos outros influencia sua resposta.",
+      "prayer": "Senhor, dá-me firmeza para não viver buscando aprovação a qualquer preço. Ajuda-me a ouvir conselhos sem me tornar escravo da opinião dos outros e a escolher aquilo que honra tua verdade. Amém.",
+      "action": "Identifique uma decisão recente em que você sentiu pressão para se encaixar. Escreva o que teria escolhido se não tivesse medo de desagradar alguém."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Lembre-se de quem você é antes de escolher",
+      "verse": "1 Pedro 2:9",
+      "verses": [
+        "1 Pedro 2:9",
+        "Efésios 2:10",
+        "Colossenses 3:1-3"
+      ],
+      "references": [
+        "1 Pedro 2:9",
+        "Efésios 2:10",
+        "Colossenses 3:1-3"
+      ],
+      "text": "Muitas decisões nascem de perguntas de identidade. Buscamos um relacionamento para nos sentirmos valiosos, aceitamos algo para provar que somos capazes ou imitamos outras pessoas porque ainda não sabemos bem quem queremos ser.\n\nA Bíblia coloca a identidade em Deus antes de qualquer conquista ou aprovação. Pedro fala de um povo chamado por Deus. Efésios lembra que somos obra sua. Essa segurança muda o ponto de partida de uma decisão.\n\nQuando você sabe que seu valor não depende de uma resposta, de um relacionamento ou de um resultado, pode escolher com mais liberdade. Você já não precisa usar cada decisão para provar algo sobre si mesmo. Pode perguntar o que é sábio, saudável e coerente com a pessoa que Deus está formando.",
+      "internalize": "Antes de uma decisão importante, diga: “Não preciso que esta escolha prove quanto eu valho. Meu valor não está em jogo”.",
+      "prayer": "Pai, firma minha identidade em Ti. Livra-me de tomar decisões apenas para me sentir importante, aceito ou suficiente. Ensina-me a escolher a partir da segurança de saber que pertenço a Ti. Amém.",
+      "action": "Escreva uma decisão que você está considerando e responda: “Estou tentando resolver, com esta escolha, uma insegurança sobre quem eu sou?”"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Uma boa decisão precisa de mais do que boas intenções",
+      "verse": "Provérbios 14:15",
+      "verses": [
+        "Provérbios 14:15",
+        "Lucas 14:28",
+        "Provérbios 22:3"
+      ],
+      "references": [
+        "Provérbios 14:15",
+        "Lucas 14:28",
+        "Provérbios 22:3"
+      ],
+      "text": "É possível querer algo bom e ainda assim decidir mal a maneira de consegui-lo. Boas intenções não substituem a prudência. Um relacionamento pode parecer empolgante, uma compra pode parecer merecida ou uma oportunidade pode soar perfeita, mas toda decisão precisa ser avaliada.\n\nJesus falou sobre calcular o custo antes de construir. Provérbios contrasta o ingênuo, que acredita em tudo, com aquele que considera cuidadosamente seus passos. A sabedoria pergunta pelas consequências antes que elas cheguem.\n\nPensar antes de agir não torna você frio nem medroso. Ajuda a reconhecer o que uma decisão pode exigir do seu tempo, dinheiro, emoções, relacionamentos ou futuro. Uma boa escolha não é apenas aquela de que você gosta agora, mas aquela que poderá sustentar com responsabilidade depois.",
+      "internalize": "Use quatro perguntas: “O que eu ganho? O que eu perco? Que risco assumo? Que consequência pode aparecer depois?”",
+      "prayer": "Deus, dá-me prudência para não confundir entusiasmo com sabedoria. Ajuda-me a considerar as consequências e a escolher com responsabilidade, não apenas com boas intenções. Amém.",
+      "action": "Pegue uma decisão pendente e responda por escrito às quatro perguntas do exercício de hoje antes de avançar."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Suas emoções importam, mas não precisam mandar",
+      "verse": "Provérbios 4:23",
+      "verses": [
+        "Provérbios 4:23",
+        "Jeremias 17:9",
+        "Salmos 42:5"
+      ],
+      "references": [
+        "Provérbios 4:23",
+        "Jeremias 17:9",
+        "Salmos 42:5"
+      ],
+      "text": "As emoções podem fornecer informações valiosas. O medo pode indicar risco, a tristeza pode mostrar uma perda e a alegria pode indicar algo que você valoriza. O problema surge quando uma emoção passageira se transforma na única razão para decidir.\n\nO salmista fala consigo mesmo quando está abatido. Ele não ignora o que sente, mas também não permite que esse estado defina toda a realidade. Provérbios nos convida a guardar o coração porque dele procedem as fontes da vida.\n\nUma boa decisão escuta a emoção e depois a examina. Se você estiver muito irritado, eufórico, ferido ou desesperado, talvez precise esperar antes de responder. Algumas decisões melhoram muito depois de dormir, orar e deixar a intensidade diminuir.",
+      "internalize": "Dê nome à principal emoção que acompanha sua decisão e termine esta frase: “Sinto isto, mas ainda preciso avaliar…”.",
+      "prayer": "Senhor, obrigado porque posso sentir profundamente. Dá-me domínio próprio para não reagir por impulso e sabedoria para ouvir minhas emoções sem permitir que governem cada escolha. Amém.",
+      "action": "Se uma decisão não for urgente e você estiver emocionalmente carregado, adie a resposta até amanhã. Depois, reveja se a mesma opção ainda parece sábia."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Aprenda a pedir conselho sem entregar sua vida aos outros",
+      "verse": "Provérbios 15:22",
+      "verses": [
+        "Provérbios 15:22",
+        "Provérbios 13:20",
+        "Êxodo 18:17-24"
+      ],
+      "references": [
+        "Provérbios 15:22",
+        "Provérbios 13:20",
+        "Êxodo 18:17-24"
+      ],
+      "text": "Tomar decisões completamente sozinho pode parecer independência, mas muitas vezes nos deixa presos aos nossos pontos cegos. Uma pessoa madura pode perceber algo que não estamos enxergando.\n\nA Bíblia valoriza o conselho. Jetro ajudou Moisés a reconhecer que sua maneira de trabalhar não era sustentável. Provérbios ensina que andar com os sábios produz sabedoria. No entanto, ouvir conselhos não significa permitir que outras pessoas decidam por você.\n\nVocê precisa aprender a distinguir entre uma pessoa que ajuda você a pensar e uma pessoa que tenta controlar. Um bom conselho faz perguntas, aponta riscos, oferece experiência e respeita sua responsabilidade. A decisão final continua exigindo oração, reflexão e maturidade pessoal.",
+      "internalize": "Um bom conselheiro não precisa viver sua vida por você; ele ajuda você a enxergar com mais clareza a vida que você terá de viver.",
+      "prayer": "Pai, cerca-me de pessoas sábias e sinceras. Dá-me humildade para ouvir e maturidade para assumir a responsabilidade pelas minhas próprias decisões. Amém.",
+      "action": "Converse com uma pessoa madura sobre uma decisão importante. Em vez de perguntar “o que eu faço?”, pergunte: “Que risco ou ponto cego você acha que eu não estou enxergando?”"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Nem toda oportunidade merece um sim",
+      "verse": "1 Coríntios 6:12",
+      "verses": [
+        "1 Coríntios 6:12",
+        "1 Coríntios 10:23",
+        "Provérbios 4:26-27"
+      ],
+      "references": [
+        "1 Coríntios 6:12",
+        "1 Coríntios 10:23",
+        "Provérbios 4:26-27"
+      ],
+      "text": "Uma oportunidade pode ser possível, atraente e até permitida e, ainda assim, não ser conveniente. Paulo reconhece que nem tudo o que é lícito edifica. Essa distinção é muito importante quando começam a surgir mais opções na vida.\n\nVocê pode ter a oportunidade de entrar em um relacionamento, aceitar um trabalho, participar de uma atividade ou gastar dinheiro em algo que deseja. A pergunta não é apenas “posso?”, mas “que efeito isso terá em mim?”.\n\nUma boa decisão considera se a oportunidade fortalece ou enfraquece suas prioridades. Algumas opções consomem mais do que oferecem. Outras chegam no momento errado. Dizer não também pode ser uma decisão sábia, mesmo quando ninguém poderia acusar você de estar fazendo algo errado.",
+      "internalize": "Acrescente uma nova pergunta às suas decisões: “Mesmo que eu possa fazer isso, é conveniente para mim e me ajuda a crescer?”",
+      "prayer": "Senhor, dá-me discernimento para não dizer sim a tudo o que aparece. Ajuda-me a reconhecer quais oportunidades contribuem para meu crescimento e quais podem me desviar daquilo que realmente importa. Amém.",
+      "action": "Faça uma lista das suas três principais prioridades nesta fase. Avalie uma oportunidade atual perguntando se ela fortalece essas prioridades ou compete com elas."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Você não precisa de certeza total para decidir",
+      "verse": "Tiago 1:5",
+      "verses": [
+        "Tiago 1:5",
+        "Provérbios 16:9",
+        "2 Coríntios 5:7"
+      ],
+      "references": [
+        "Tiago 1:5",
+        "Provérbios 16:9",
+        "2 Coríntios 5:7"
+      ],
+      "text": "O medo de errar pode paralisar. Queremos ter cem por cento de certeza antes de escolher uma carreira, uma oportunidade, um relacionamento ou uma mudança. Mas muitas decisões importantes chegam sem garantias completas.\n\nTiago nos convida a pedir sabedoria. Provérbios lembra que fazemos planos enquanto Deus dirige nossos passos. Andar pela fé implica aceitar que não podemos controlar todos os resultados.\n\nDepois de buscar princípios bíblicos, considerar consequências, ouvir conselhos e revisar suas motivações, talvez ainda exista incerteza. Isso não significa que você deva permanecer imóvel. Pode escolher a opção que parece mais sábia com as informações disponíveis e manter humildade para corrigir o rumo se surgirem novos dados.\n\nAmadurecer também é aprender que uma decisão responsável nem sempre parece totalmente segura.",
+      "internalize": "A meta não é obter uma garantia impossível, mas alcançar clareza suficiente para agir com responsabilidade.",
+      "prayer": "Deus, dá-me sabedoria para decidir e coragem para avançar quando eu já tiver feito o que me cabe. Ajuda-me a confiar que Tu podes dirigir e corrigir meus passos. Amém.",
+      "action": "Identifique uma decisão que você adiou por buscar certeza absoluta. Defina que informação razoável ainda precisa e que parte simplesmente terá de assumir com fé."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Uma decisão ruim não precisa definir seu futuro",
+      "verse": "Provérbios 24:16",
+      "verses": [
+        "Provérbios 24:16",
+        "1 João 1:9",
+        "Filipenses 3:13-14"
+      ],
+      "references": [
+        "Provérbios 24:16",
+        "1 João 1:9",
+        "Filipenses 3:13-14"
+      ],
+      "text": "Aprender a decidir bem também implica aceitar que algumas vezes você vai errar. Pode ignorar um conselho, agir impulsivamente ou descobrir depois que uma opção não era tão boa quanto parecia. O erro faz parte do processo de amadurecimento, mas não precisa se transformar em identidade.\n\nA Bíblia apresenta um caminho de confissão, aprendizado e avanço. Provérbios fala do justo que volta a se levantar. João lembra a possibilidade do perdão. Paulo se recusa a permanecer preso ao que ficou para trás.\n\nUma decisão ruim pode ter consequências reais e talvez exija reparação. Mas se castigar indefinidamente não muda o passado. A resposta mais madura é reconhecer, corrigir o que for possível, aprender e ajustar seus critérios para o futuro.\n\nO objetivo deste plano não é transformar você em alguém que nunca falha, mas em alguém que decide com cada vez mais sabedoria e responde melhor quando erra.",
+      "internalize": "Encerre este percurso com uma convicção: “Posso aprender com uma decisão errada sem permitir que ela se torne a definição de toda a minha vida”.",
+      "prayer": "Pai, dá-me humildade para reconhecer meus erros e graça para não ficar preso a eles. Ensina-me a aprender, reparar e continuar crescendo em sabedoria. Amém.",
+      "action": "Pense em uma decisão passada com a qual você aprendeu. Escreva que critério diferente usaria hoje e transforme-o em uma regra prática para suas próximas decisões."
+    }
+  ],
+  "updatedAtMs": 1787869350167
+}\n

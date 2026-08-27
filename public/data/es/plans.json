@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787869350167",
+    "title": "Cómo Tomar Buenas Decisiones",
+    "slug": "como-tomar-buenas-decisiones",
+    "category": "Jóvenes",
+    "status": "published",
+    "language": "es",
+    "dayCount": 8,
+    "duration": "8 días",
+    "time": "9 min al día",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/como-tomar-buenas-decisiones.webp",
+    "shortDescription": "Tomar decisiones puede sentirse complicado cuando hay presión, emociones intensas, muchas opiniones y miedo a equivocarse. Este recorrido de ocho días te ayudará a desarrollar un criterio bíblico para decidir mejor: recordar quién eres, pensar en consecuencias, escuchar consejo, distinguir emoción de convicción y aprender a avanzar sin exigir certeza absoluta. La meta no es tomar decisiones perfectas, sino crecer en sabiduría, responsabilidad y confianza en Dios.",
+    "detailPath": "/data/es/plans/como-tomar-buenas-decisiones.json",
+    "updatedAtMs": 1787869350167
+  },
+  {
     "id": "plan-1787868404875",
     "title": "Vive Agradecido",
     "slug": "vive-agradecido",
