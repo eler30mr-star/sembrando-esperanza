@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787865463815",
+    "title": "7 Days to Cultivate Gratitude",
+    "slug": "7-days-to-cultivate-gratitude",
+    "category": "Gratitud",
+    "status": "published",
+    "language": "en",
+    "dayCount": 7,
+    "duration": "7 days",
+    "time": "8 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/7-dias-para-cultivar-gratitud.webp",
+    "shortDescription": "Gratitude does not appear only when everything goes well; it is also cultivated by learning to recognize God's presence, provision, and faithfulness in the midst of real life. Over seven days, you will practice a biblical gratitude that notices everyday things, remembers what has been received, finds reasons to give thanks even in incomplete seasons, and turns gratitude into words, generosity, and a different way of living.",
+    "detailPath": "/data/en/plans/7-days-to-cultivate-gratitude.json",
+    "updatedAtMs": 1787865463815
+  },
+  {
     "id": "plan-1787862825713",
     "title": "What God Has Placed in Your Hands",
     "slug": "what-god-has-placed-in-your-hands",

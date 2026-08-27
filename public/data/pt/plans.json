@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787865463815",
+    "title": "7 Dias para Cultivar Gratidão",
+    "slug": "7-dias-para-cultivar-gratidao",
+    "category": "Gratitud",
+    "status": "published",
+    "language": "pt",
+    "dayCount": 7,
+    "duration": "7 dias",
+    "time": "8 min por dia",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/7-dias-para-cultivar-gratitud.webp",
+    "shortDescription": "A gratidão não aparece apenas quando tudo dá certo; ela também é cultivada quando aprendemos a reconhecer a presença, a provisão e a fidelidade de Deus em meio à vida real. Durante sete dias, você praticará uma gratidão bíblica que observa o cotidiano, lembra o que recebeu, encontra razões para agradecer mesmo em períodos incompletos e transforma o agradecimento em palavras, generosidade e uma maneira diferente de viver.",
+    "detailPath": "/data/pt/plans/7-dias-para-cultivar-gratidao.json",
+    "updatedAtMs": 1787865463815
+  },
+  {
     "id": "plan-1787862825713",
     "title": "O Que Deus Colocou em Suas Mãos",
     "slug": "o-que-deus-colocou-em-suas-maos",
