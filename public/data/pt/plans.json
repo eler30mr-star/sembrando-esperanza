@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787870575420",
+    "title": "Como Lidar com Relacionamentos e Amizades",
+    "slug": "como-lidar-com-relacionamentos-e-amizades",
+    "category": "Jóvenes",
+    "status": "published",
+    "language": "pt",
+    "dayCount": 14,
+    "duration": "14 dias",
+    "time": "9 min por dia",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/como-manejar-relaciones-y-amistades.webp",
+    "shortDescription": "Os relacionamentos podem se tornar uma das maiores fontes de alegria, crescimento e apoio, mas também de pressão, conflito, decepção e confusão. Durante catorze dias, você aprenderá princípios bíblicos para escolher melhor suas amizades, comunicar-se com honestidade, resolver conflitos, perdoar sem perder a sabedoria, estabelecer limites e reconhecer relacionamentos que precisam mudar. A meta não é ter vínculos perfeitos, mas aprender a se relacionar com verdade, graça, discernimento e maturidade.",
+    "detailPath": "/data/pt/plans/como-lidar-com-relacionamentos-e-amizades.json",
+    "updatedAtMs": 1787870575420
+  },
+  {
     "id": "plan-1787870160874",
     "title": "Aprenda a Estabelecer Limites",
     "slug": "aprenda-a-estabelecer-limites",

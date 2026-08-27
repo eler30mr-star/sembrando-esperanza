@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787870575420",
+    "title": "How to Handle Relationships and Friendships",
+    "slug": "how-to-handle-relationships-and-friendships",
+    "category": "Jóvenes",
+    "status": "published",
+    "language": "en",
+    "dayCount": 14,
+    "duration": "14 days",
+    "time": "9 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/como-manejar-relaciones-y-amistades.webp",
+    "shortDescription": "Relationships can become one of the greatest sources of joy, growth, and support, but also of pressure, conflict, disappointment, and confusion. Over fourteen days, you will learn biblical principles for choosing friendships wisely, communicating honestly, resolving conflict, forgiving without losing wisdom, setting boundaries, and recognizing relationships that need to change. The goal is not to have perfect relationships, but to learn to relate with truth, grace, discernment, and maturity.",
+    "detailPath": "/data/en/plans/how-to-handle-relationships-and-friendships.json",
+    "updatedAtMs": 1787870575420
+  },
+  {
     "id": "plan-1787870160874",
     "title": "Learn to Set Boundaries",
     "slug": "learn-to-set-boundaries",

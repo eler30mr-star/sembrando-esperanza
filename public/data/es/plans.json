@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787870575420",
+    "title": "Cómo Manejar Relaciones y Amistades",
+    "slug": "como-manejar-relaciones-y-amistades",
+    "category": "Jóvenes",
+    "status": "published",
+    "language": "es",
+    "dayCount": 14,
+    "duration": "14 días",
+    "time": "9 min al día",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/como-manejar-relaciones-y-amistades.webp",
+    "shortDescription": "Las relaciones pueden convertirse en una de las mayores fuentes de alegría, crecimiento y apoyo, pero también de presión, conflicto, decepción y confusión. Durante catorce días aprenderás principios bíblicos para elegir mejor tus amistades, comunicarte con honestidad, resolver conflictos, perdonar sin perder sabiduría, establecer límites y reconocer relaciones que necesitan cambiar. La meta no es tener vínculos perfectos, sino aprender a relacionarte con verdad, gracia, discernimiento y madurez.",
+    "detailPath": "/data/es/plans/como-manejar-relaciones-y-amistades.json",
+    "updatedAtMs": 1787870575420
+  },
+  {
     "id": "plan-1787870160874",
     "title": "Aprende a Poner Límites",
     "slug": "aprende-a-poner-limites",
