@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787862533775",
+    "title": "How to Find Direction in God",
+    "slug": "how-to-find-direction-in-god-purpose",
+    "category": "Propósito",
+    "status": "published",
+    "language": "en",
+    "dayCount": 6,
+    "duration": "6 days",
+    "time": "9 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/como-encontrar-direccion-en-dios-proposito.webp",
+    "shortDescription": "Finding direction in God is not only about knowing what decision to make, but discerning where He is shaping and sending your life. Over six days, you will explore how identity, the Word, desires, gifts, character, community, and obedience work together to shape a calling. This plan will help you seek direction without superstition, without anxiety, and without waiting for absolute certainty before moving forward.",
+    "detailPath": "/data/en/plans/how-to-find-direction-in-god-purpose.json",
+    "updatedAtMs": 1787862533775
+  },
+  {
     "id": "plan-1787858772995",
     "title": "When You Don't Know What to Do with Your Life",
     "slug": "when-you-dont-know-what-to-do-with-your-life-purpose",

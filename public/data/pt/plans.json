@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787862533775",
+    "title": "Como Encontrar Direção em Deus",
+    "slug": "como-encontrar-direcao-em-deus-proposito",
+    "category": "Propósito",
+    "status": "published",
+    "language": "pt",
+    "dayCount": 6,
+    "duration": "6 dias",
+    "time": "9 min por dia",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/como-encontrar-direccion-en-dios-proposito.webp",
+    "shortDescription": "Encontrar direção em Deus não consiste apenas em saber que decisão tomar, mas em discernir para onde Ele está formando e enviando sua vida. Durante seis dias, você explorará como identidade, Palavra, desejos, dons, caráter, comunidade e obediência se combinam para dar forma a um chamado. Este plano ajudará você a buscar direção sem superstição, sem ansiedade e sem esperar uma certeza absoluta antes de caminhar.",
+    "detailPath": "/data/pt/plans/como-encontrar-direcao-em-deus-proposito.json",
+    "updatedAtMs": 1787862533775
+  },
+  {
     "id": "plan-1787858772995",
     "title": "Quando Você Não Sabe o Que Fazer com Sua Vida",
     "slug": "quando-voce-nao-sabe-o-que-fazer-com-sua-vida-proposito",
