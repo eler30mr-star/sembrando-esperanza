@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787862825713",
+    "title": "O Que Deus Colocou em Suas Mãos",
+    "slug": "o-que-deus-colocou-em-suas-maos",
+    "category": "Propósito",
+    "status": "published",
+    "language": "pt",
+    "dayCount": 5,
+    "duration": "5 dias",
+    "time": "9 min por dia",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/lo-que-dios-puso-en-tus-manos.webp",
+    "shortDescription": "Muitas vezes buscamos propósito olhando para aquilo que ainda não temos, quando uma parte importante do chamado começa com o que Deus já colocou em nossas mãos. Este percurso de cinco dias ajudará você a reconhecer dons, tempo, relacionamentos, recursos e oportunidades como responsabilidades que podem ser administradas com fidelidade. Você aprenderá a deixar a comparação de lado, valorizar os pequenos começos, servir com o que tem e transformar a responsabilidade cotidiana em uma expressão concreta de propósito.",
+    "detailPath": "/data/pt/plans/o-que-deus-colocou-em-suas-maos.json",
+    "updatedAtMs": 1787862825713
+  },
+  {
     "id": "plan-1787862533775",
     "title": "Como Encontrar Direção em Deus",
     "slug": "como-encontrar-direcao-em-deus-proposito",

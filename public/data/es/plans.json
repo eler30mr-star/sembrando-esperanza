@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787862825713",
+    "title": "Lo que Dios Puso en Tus Manos",
+    "slug": "lo-que-dios-puso-en-tus-manos",
+    "category": "Propósito",
+    "status": "published",
+    "language": "es",
+    "dayCount": 5,
+    "duration": "5 días",
+    "time": "9 min al día",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/lo-que-dios-puso-en-tus-manos.webp",
+    "shortDescription": "Muchas veces buscamos propósito mirando lo que todavía no tenemos, cuando una parte importante del llamado comienza con lo que Dios ya puso en nuestras manos. Este recorrido de cinco días te ayudará a reconocer dones, tiempo, relaciones, recursos y oportunidades como encargos que pueden ser administrados con fidelidad. Aprenderás a dejar la comparación, valorar los comienzos pequeños, servir con lo que tienes y convertir la responsabilidad cotidiana en una expresión concreta de propósito.",
+    "detailPath": "/data/es/plans/lo-que-dios-puso-en-tus-manos.json",
+    "updatedAtMs": 1787862825713
+  },
+  {
     "id": "plan-1787862533775",
     "title": "Cómo Encontrar Dirección en Dios",
     "slug": "como-encontrar-direccion-en-dios-proposito",

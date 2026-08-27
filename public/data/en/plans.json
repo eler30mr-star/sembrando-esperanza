@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787862825713",
+    "title": "What God Has Placed in Your Hands",
+    "slug": "what-god-has-placed-in-your-hands",
+    "category": "Propósito",
+    "status": "published",
+    "language": "en",
+    "dayCount": 5,
+    "duration": "5 days",
+    "time": "9 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/lo-que-dios-puso-en-tus-manos.webp",
+    "shortDescription": "Many times we search for purpose by looking at what we still do not have, when an important part of our calling begins with what God has already placed in our hands. This five-day journey will help you recognize gifts, time, relationships, resources, and opportunities as things entrusted to you that can be stewarded faithfully. You will learn to let go of comparison, value small beginnings, serve with what you have, and turn everyday responsibility into a concrete expression of purpose.",
+    "detailPath": "/data/en/plans/what-god-has-placed-in-your-hands.json",
+    "updatedAtMs": 1787862825713
+  },
+  {
     "id": "plan-1787862533775",
     "title": "How to Find Direction in God",
     "slug": "how-to-find-direction-in-god-purpose",
