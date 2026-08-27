@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787871179262",
+    "title": "Quando Todos Parecem Ir Mais Rápido que Você",
+    "slug": "quando-todos-parecem-ir-mais-rapido-que-voce",
+    "category": "Jóvenes",
+    "status": "published",
+    "language": "pt",
+    "dayCount": 10,
+    "duration": "10 dias",
+    "time": "9 min por dia",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/cuando-todos-parecen-ir-mas-rapido-que-tu.webp",
+    "shortDescription": "Há fases em que parece que todos avançam mais rápido: estudam, trabalham, empreendem, viajam, ficam noivos, alcançam metas ou encontram direção enquanto você sente que continua esperando. Este percurso de dez dias ajudará você a enfrentar a comparação, reconhecer seu próprio ritmo, valorizar processos invisíveis e aprender a caminhar com fidelidade sem medir sua vida pela velocidade dos outros. A meta não é correr mais, mas avançar de uma maneira saudável, consciente e confiante em Deus.",
+    "detailPath": "/data/pt/plans/quando-todos-parecem-ir-mais-rapido-que-voce.json",
+    "updatedAtMs": 1787871179263
+  },
+  {
     "id": "plan-1787870575420",
     "title": "Como Lidar com Relacionamentos e Amizades",
     "slug": "como-lidar-com-relacionamentos-e-amizades",

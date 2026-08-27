@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787871179262",
+    "title": "When Everyone Seems to Be Moving Faster Than You",
+    "slug": "when-everyone-seems-to-be-moving-faster-than-you",
+    "category": "Jóvenes",
+    "status": "published",
+    "language": "en",
+    "dayCount": 10,
+    "duration": "10 days",
+    "time": "9 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/cuando-todos-parecen-ir-mas-rapido-que-tu.webp",
+    "shortDescription": "There are seasons when it seems like everyone is moving faster: studying, working, starting businesses, traveling, getting engaged, reaching goals, or finding direction while you feel like you are still waiting. This ten-day journey will help you face comparison, recognize your own pace, value invisible processes, and learn to walk faithfully without measuring your life by someone else's speed. The goal is not to run faster, but to move forward in a healthy, intentional, and God-trusting way.",
+    "detailPath": "/data/en/plans/when-everyone-seems-to-be-moving-faster-than-you.json",
+    "updatedAtMs": 1787871179263
+  },
+  {
     "id": "plan-1787870575420",
     "title": "How to Handle Relationships and Friendships",
     "slug": "how-to-handle-relationships-and-friendships",
