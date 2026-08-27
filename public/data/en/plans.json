@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787858772995",
+    "title": "When You Don't Know What to Do with Your Life",
+    "slug": "when-you-dont-know-what-to-do-with-your-life",
+    "category": "Gratitud",
+    "status": "published",
+    "language": "en",
+    "dayCount": 10,
+    "duration": "10 days",
+    "time": "9 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/cuando-no-sabes-que-hacer-con-tu-vida.webp",
+    "shortDescription": "Not knowing what to do with your life can feel like standing still while everyone else moves forward. This ten-day journey will help you lower the pressure to have everything figured out, recognize what is already clear, examine desires and responsibilities, ask for wisdom, listen to counsel, and make decisions without demanding absolute certainty. Through gratitude, you will learn to value your present season and walk faithfully toward the next step, even when you still cannot see the whole map.",
+    "detailPath": "/data/en/plans/when-you-dont-know-what-to-do-with-your-life.json",
+    "updatedAtMs": 1787858772995
+  },
+  {
     "id": "plan-1787858151633",
     "title": "What Did God Create Me For?",
     "slug": "what-did-god-create-me-for",

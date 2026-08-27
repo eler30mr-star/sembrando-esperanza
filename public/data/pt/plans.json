@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787858772995",
+    "title": "Quando Você Não Sabe o Que Fazer com Sua Vida",
+    "slug": "quando-voce-nao-sabe-o-que-fazer-com-sua-vida",
+    "category": "Gratitud",
+    "status": "published",
+    "language": "pt",
+    "dayCount": 10,
+    "duration": "10 dias",
+    "time": "9 min por dia",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/cuando-no-sabes-que-hacer-con-tu-vida.webp",
+    "shortDescription": "Não saber o que fazer com a vida pode dar a sensação de estar parado enquanto todos os outros avançam. Este percurso de dez dias ajudará você a diminuir a pressão de ter tudo resolvido, reconhecer o que já está claro, revisar desejos e responsabilidades, pedir sabedoria, ouvir conselhos e tomar decisões sem exigir certeza absoluta. A partir da gratidão, você aprenderá a valorizar a fase presente e a caminhar com fidelidade em direção ao próximo passo, mesmo quando ainda não consegue ver o mapa completo.",
+    "detailPath": "/data/pt/plans/quando-voce-nao-sabe-o-que-fazer-com-sua-vida.json",
+    "updatedAtMs": 1787858772995
+  },
+  {
     "id": "plan-1787858151633",
     "title": "Para Que Deus Me Criou?",
     "slug": "para-que-deus-me-criou",

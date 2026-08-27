@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787858772995",
+    "title": "Cuando No Sabes Qué Hacer con Tu Vida",
+    "slug": "cuando-no-sabes-que-hacer-con-tu-vida",
+    "category": "Gratitud",
+    "status": "published",
+    "language": "es",
+    "dayCount": 10,
+    "duration": "10 días",
+    "time": "9 min al día",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/cuando-no-sabes-que-hacer-con-tu-vida.webp",
+    "shortDescription": "No saber qué hacer con la vida puede sentirse como estar detenido mientras todos los demás avanzan. Este recorrido de diez días te ayudará a bajar la presión por tener todo resuelto, reconocer lo que ya está claro, revisar deseos y responsabilidades, pedir sabiduría, escuchar consejo y tomar decisiones sin exigir certeza absoluta. Desde la gratitud, aprenderás a valorar la etapa presente y a caminar con fidelidad hacia el siguiente paso, incluso cuando todavía no veas el mapa completo.",
+    "detailPath": "/data/es/plans/cuando-no-sabes-que-hacer-con-tu-vida.json",
+    "updatedAtMs": 1787858772995
+  },
+  {
     "id": "plan-1787858151633",
     "title": "¿Para Qué Me Creó Dios?",
     "slug": "para-que-me-creo-dios",
