@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787858151633",
+    "title": "Para Que Deus Me Criou?",
+    "slug": "para-que-deus-me-criou",
+    "category": "Gratitud",
+    "status": "published",
+    "language": "pt",
+    "dayCount": 7,
+    "duration": "7 dias",
+    "time": "9 min por dia",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/para-que-me-creo-dios.webp",
+    "shortDescription": "Perguntar para que fomos criados nem sempre nasce da curiosidade; muitas vezes surge em períodos de comparação, cansaço ou falta de direção. Este percurso de sete dias ajudará você a olhar para sua existência a partir da gratidão, lembrar que sua identidade vem antes de qualquer tarefa, compreender o propósito como uma vida orientada para Deus e descobrir como seus dons, decisões e responsabilidades cotidianas podem se transformar em uma resposta agradecida ao fato de ter sido criado com intenção.",
+    "detailPath": "/data/pt/plans/para-que-deus-me-criou.json",
+    "updatedAtMs": 1787858151633
+  },
+  {
     "id": "plan-1787854177954",
     "title": "Deus Restaura Corações Quebrantados",
     "slug": "deus-restaura-coracoes-quebrantados",

@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787858151633",
+    "title": "What Did God Create Me For?",
+    "slug": "what-did-god-create-me-for",
+    "category": "Gratitud",
+    "status": "published",
+    "language": "en",
+    "dayCount": 7,
+    "duration": "7 days",
+    "time": "9 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/para-que-me-creo-dios.webp",
+    "shortDescription": "Wondering why we were created does not always come from curiosity; often it arises during seasons of comparison, weariness, or lack of direction. This seven-day journey will help you view your existence through gratitude, remember that your identity comes before any task, understand purpose as a life oriented toward God, and discover how your gifts, decisions, and everyday responsibilities can become a grateful response to the fact that you were created with intention.",
+    "detailPath": "/data/en/plans/what-did-god-create-me-for.json",
+    "updatedAtMs": 1787858151633
+  },
+  {
     "id": "plan-1787854177954",
     "title": "God Restores Broken Hearts",
     "slug": "god-restores-broken-hearts",
