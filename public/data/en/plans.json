@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787867358937",
+    "title": "Remembering God's Faithfulness",
+    "slug": "remembering-gods-faithfulness",
+    "category": "Gratitud",
+    "status": "published",
+    "language": "en",
+    "dayCount": 3,
+    "duration": "3 days",
+    "time": "8 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/recordando-la-fidelidad-de-dios.webp",
+    "shortDescription": "In the midst of new concerns, it is easy to forget how many times God has already sustained, provided for, corrected, and accompanied us along the way. This three-day journey will help you pause, look back carefully, and recognize concrete traces of God's faithfulness. Remembering is not about living trapped in the past, but about recovering reasons for gratitude and strengthening the trust with which you face the present.",
+    "detailPath": "/data/en/plans/remembering-gods-faithfulness.json",
+    "updatedAtMs": 1787867358937
+  },
+  {
     "id": "plan-1787866496488",
     "title": "Learn to Give Thanks in Everything",
     "slug": "learn-to-give-thanks-in-everything",

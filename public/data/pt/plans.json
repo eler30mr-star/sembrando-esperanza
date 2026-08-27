@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787867358937",
+    "title": "Lembrando a Fidelidade de Deus",
+    "slug": "lembrando-a-fidelidade-de-deus",
+    "category": "Gratitud",
+    "status": "published",
+    "language": "pt",
+    "dayCount": 3,
+    "duration": "3 dias",
+    "time": "8 min por dia",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/recordando-la-fidelidad-de-dios.webp",
+    "shortDescription": "Em meio a novas preocupações, é fácil esquecer quantas vezes Deus já sustentou, proveu, corrigiu e acompanhou nosso caminho. Este percurso de três dias ajudará você a parar, olhar para trás com atenção e reconhecer marcas concretas da fidelidade de Deus. Lembrar não é viver preso ao passado, mas recuperar razões para agradecer e fortalecer a confiança com que você enfrenta o presente.",
+    "detailPath": "/data/pt/plans/lembrando-a-fidelidade-de-deus.json",
+    "updatedAtMs": 1787867358937
+  },
+  {
     "id": "plan-1787866496488",
     "title": "Aprenda a Dar Graças em Tudo",
     "slug": "aprenda-a-dar-gracas-em-tudo",
