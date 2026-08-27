@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787854177954",
+    "title": "Dios Restaura Corazones Quebrantados",
+    "slug": "dios-restaura-corazones-quebrantados",
+    "category": "Sanidad Interior",
+    "status": "published",
+    "language": "es",
+    "dayCount": 10,
+    "duration": "10 días",
+    "time": "9 min al día",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/dios-restaura-corazones-quebrantados.webp",
+    "shortDescription": "Un corazón quebrantado no siempre necesita respuestas rápidas; muchas veces necesita presencia, verdad, tiempo y esperanza. Durante diez días recorrerás pasajes bíblicos que muestran a un Dios que se acerca al dolor, sostiene en la pérdida, restaura la identidad, renueva la esperanza y forma algo nuevo sin exigir que olvides lo vivido. Este plan no promete que todo volverá a ser como antes, sino que Dios puede obrar profundamente en ti aun después de una temporada de quebranto.",
+    "detailPath": "/data/es/plans/dios-restaura-corazones-quebrantados.json",
+    "updatedAtMs": 1787854177955
+  },
+  {
     "id": "plan-1787852628030",
     "title": "Sanando Heridas del Pasado",
     "slug": "sanando-heridas-del-pasado",

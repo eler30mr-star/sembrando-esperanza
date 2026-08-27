@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787854177954",
+    "title": "God Restores Broken Hearts",
+    "slug": "god-restores-broken-hearts",
+    "category": "Sanidad Interior",
+    "status": "published",
+    "language": "en",
+    "dayCount": 10,
+    "duration": "10 days",
+    "time": "9 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/dios-restaura-corazones-quebrantados.webp",
+    "shortDescription": "A broken heart does not always need quick answers; often it needs presence, truth, time, and hope. Over ten days, you will walk through biblical passages that reveal a God who draws near to pain, sustains us in loss, restores identity, renews hope, and creates something new without requiring you to forget what you have lived through. This plan does not promise that everything will return to the way it was before, but that God can work deeply in you even after a season of brokenness.",
+    "detailPath": "/data/en/plans/god-restores-broken-hearts.json",
+    "updatedAtMs": 1787854177955
+  },
+  {
     "id": "plan-1787852628030",
     "title": "Healing Wounds from the Past",
     "slug": "healing-wounds-from-the-past",
