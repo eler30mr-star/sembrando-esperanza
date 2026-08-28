@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787928811249",
+    "title": "How to Raise Children with Faith and Wisdom",
+    "slug": "how-to-raise-children-with-faith-and-wisdom",
+    "category": "Familia",
+    "status": "published",
+    "language": "en",
+    "dayCount": 14,
+    "duration": "14 days",
+    "time": "10 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/como-criar-hijos-con-fe-y-sabiduria.webp",
+    "shortDescription": "Raising children with faith and wisdom is not about controlling every decision or building a perfect family. It is about learning to model a real relationship with God, know each child's heart, teach consistently, correct with love, develop discernment, and accompany every stage with prayer and wisdom. Over fourteen days, you will explore biblical principles and practical ways to parent from grace, truth, and a growing trust in God.",
+    "detailPath": "/data/en/plans/how-to-raise-children-with-faith-and-wisdom.json",
+    "updatedAtMs": 1787928811249
+  },
+  {
     "id": "plan-1787871179262",
     "title": "When Everyone Seems to Be Moving Faster Than You",
     "slug": "when-everyone-seems-to-be-moving-faster-than-you",

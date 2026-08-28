@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787928811249",
+    "title": "Cómo Criar Hijos con Fe y Sabiduría",
+    "slug": "como-criar-hijos-con-fe-y-sabiduria",
+    "category": "Familia",
+    "status": "published",
+    "language": "es",
+    "dayCount": 14,
+    "duration": "14 días",
+    "time": "10 min al día",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/como-criar-hijos-con-fe-y-sabiduria.webp",
+    "shortDescription": "Criar hijos con fe y sabiduría no consiste en controlar cada decisión ni en construir una familia perfecta. Es aprender a modelar una relación real con Dios, conocer el corazón de cada hijo, enseñar con constancia, corregir con amor, formar criterio y acompañar cada etapa con oración y discernimiento. Durante catorce días explorarás principios bíblicos y prácticas concretas para criar desde la gracia, la verdad y una confianza creciente en Dios.",
+    "detailPath": "/data/es/plans/como-criar-hijos-con-fe-y-sabiduria.json",
+    "updatedAtMs": 1787928811249
+  },
+  {
     "id": "plan-1787871179262",
     "title": "Cuando Todos Parecen Ir Más Rápido que Tú",
     "slug": "cuando-todos-parecen-ir-mas-rapido-que-tu",
