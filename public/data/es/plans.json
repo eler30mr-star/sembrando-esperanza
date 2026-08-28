@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787930034476",
+    "title": "Una Familia Guiada por Dios",
+    "slug": "una-familia-guiada-por-dios",
+    "category": "Familia",
+    "status": "published",
+    "language": "es",
+    "dayCount": 7,
+    "duration": "7 días",
+    "time": "9 min al día",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/una-familia-guiada-por-dios.webp",
+    "shortDescription": "Una familia guiada por Dios no es una familia sin problemas, sino un hogar que aprende a buscar dirección antes de reaccionar, a volver a la Palabra cuando hay confusión y a tomar decisiones que reflejen fe, amor y sabiduría. Durante siete días explorarás cómo colocar a Dios en el centro de la vida familiar, discernir juntos, manejar diferencias, servir con propósito y construir hábitos espirituales capaces de dejar un legado.",
+    "detailPath": "/data/es/plans/una-familia-guiada-por-dios.json",
+    "updatedAtMs": 1787930034476
+  },
+  {
     "id": "plan-1787929392976",
     "title": "Cómo Cuidar Tu Matrimonio en Tiempos Difíciles",
     "slug": "como-cuidar-tu-matrimonio-en-tiempos-dificiles",

@@ -1,0 +1,167 @@
+{
+  "id": "plan-1787930034476",
+  "title": "Una Familia Guiada por Dios",
+  "slug": "una-familia-guiada-por-dios",
+  "category": "Familia",
+  "status": "published",
+  "language": "es",
+  "dayCount": 7,
+  "duration": "7 días",
+  "time": "9 min al día",
+  "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/una-familia-guiada-por-dios.webp",
+  "shortDescription": "Una familia guiada por Dios no es una familia sin problemas, sino un hogar que aprende a buscar dirección antes de reaccionar, a volver a la Palabra cuando hay confusión y a tomar decisiones que reflejen fe, amor y sabiduría. Durante siete días explorarás cómo colocar a Dios en el centro de la vida familiar, discernir juntos, manejar diferencias, servir con propósito y construir hábitos espirituales capaces de dejar un legado.",
+  "learning": [
+    "Comprender qué significa realmente que Dios guíe la vida familiar",
+    "Aprender a usar la Palabra de Dios como referencia para decisiones y prioridades",
+    "Desarrollar conversaciones familiares donde haya oración, escucha y discernimiento",
+    "Manejar diferencias sin perder de vista la unidad y el respeto",
+    "Reconocer el servicio como parte de la misión espiritual del hogar",
+    "Construir hábitos de fe sostenibles dentro de la rutina familiar",
+    "Definir valores y convicciones que puedan convertirse en un legado para la siguiente generación"
+  ],
+  "gains": [
+    "Mayor claridad sobre las prioridades espirituales del hogar",
+    "Más intención al tomar decisiones familiares",
+    "Mejor disposición para buscar a Dios juntos en momentos de incertidumbre",
+    "Más unidad al enfrentar diferencias y cambios",
+    "Una visión más práctica del servicio como familia",
+    "Hábitos espirituales que pueden integrarse a la vida cotidiana",
+    "Mayor conciencia del legado de fe que la familia está construyendo"
+  ],
+  "days": [
+    {
+      "dayNumber": 1,
+      "title": "Dios no quiere ser un invitado en tu hogar",
+      "verse": "Josué 24:15",
+      "verses": [
+        "Josué 24:15",
+        "Salmos 127:1",
+        "Deuteronomio 6:5-7"
+      ],
+      "references": [
+        "Josué 24:15",
+        "Salmos 127:1",
+        "Deuteronomio 6:5-7"
+      ],
+      "text": "Es posible hablar de Dios en casa y, aun así, tomar casi todas las decisiones sin considerarlo. Podemos acudir a Él cuando aparece una crisis, pero dejarlo fuera de horarios, prioridades, conversaciones, gastos y planes familiares.\n\nJosué expresó una decisión clara respecto a su casa: servir al Señor. El Salmo 127 recuerda que construir sin Dios produce esfuerzo vacío. Deuteronomio muestra una fe integrada a la vida diaria, no reservada para momentos religiosos.\n\nPoner a Dios en el centro no significa convertir cada comida en un sermón. Significa preguntarse qué lugar ocupa su verdad en la manera de tratarse, decidir y organizar la vida. Una familia guiada por Dios comienza cuando deja de consultarlo únicamente en emergencias y aprende a reconocerlo en lo cotidiano.",
+      "internalize": "Completen esta frase con honestidad: “En nuestra familia solemos buscar a Dios especialmente cuando…, pero necesitamos aprender a incluirlo también en…”.",
+      "prayer": "Señor, queremos que seas más que una presencia ocasional en nuestro hogar. Enséñanos a reconocerte en nuestras decisiones, conversaciones y prioridades. Dirige nuestra casa con tu verdad y tu gracia. Amén.",
+      "action": "Identifiquen un área familiar que normalmente manejan sin detenerse a orar o reflexionar. Esta semana, incluyan a Dios conscientemente antes de tomar una decisión en esa área."
+    },
+    {
+      "dayNumber": 2,
+      "title": "La Palabra ayuda a decidir cuando las opiniones se dividen",
+      "verse": "Salmos 119:24",
+      "verses": [
+        "Salmos 119:24",
+        "2 Timoteo 3:16-17",
+        "Proverbios 30:5"
+      ],
+      "references": [
+        "Salmos 119:24",
+        "2 Timoteo 3:16-17",
+        "Proverbios 30:5"
+      ],
+      "text": "Cada miembro de una familia puede tener opiniones fuertes. Eso es normal. El problema aparece cuando la decisión final depende únicamente de quién habla más alto, quién tiene más experiencia o quién logra imponer su preferencia.\n\nEl salmista llama a los testimonios de Dios sus consejeros. Pablo enseña que la Escritura instruye, corrige y prepara para toda buena obra. La Palabra no responde con detalle cada situación moderna, pero sí ofrece principios para evaluar motivaciones, prioridades, justicia, verdad, fidelidad y amor.\n\nUna familia guiada por Dios aprende a preguntar no solo “¿qué queremos hacer?”, sino también “¿qué principios bíblicos deberían orientar esta decisión?”. Esa pregunta puede cambiar el tono de una conversación y llevarla desde la preferencia personal hacia el discernimiento.",
+      "internalize": "Cuando haya opiniones distintas, hagan una pausa y distingan entre tres cosas: preferencia personal, principio bíblico y consecuencia práctica.",
+      "prayer": "Padre, danos amor por tu Palabra y humildad para someternos a su verdad. Ayúdanos a no usar la Biblia para ganar discusiones, sino para permitir que Tú formes nuestras decisiones. Amén.",
+      "action": "Elijan una decisión familiar pendiente y busquen juntos uno o dos principios bíblicos que puedan orientar la conversación antes de definir una respuesta."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Buscar dirección juntos también forma unidad",
+      "verse": "Santiago 1:5",
+      "verses": [
+        "Santiago 1:5",
+        "Hechos 13:2-3",
+        "Proverbios 15:22"
+      ],
+      "references": [
+        "Santiago 1:5",
+        "Hechos 13:2-3",
+        "Proverbios 15:22"
+      ],
+      "text": "Cuando una familia enfrenta un cambio importante, cada persona puede procesarlo de manera diferente. Algunos quieren decidir rápido; otros necesitan más tiempo. Unos sienten entusiasmo; otros temor. Buscar dirección juntos ayuda a que el proceso no quede reducido a una sola voz.\n\nSantiago invita a pedir sabiduría. En Hechos, la comunidad oró antes de enviar a Bernabé y Saulo. Proverbios destaca el valor del consejo. Estos textos muestran que la dirección puede incluir oración, conversación, escucha y evaluación.\n\nBuscar a Dios juntos no garantiza que todos sentirán exactamente lo mismo. Tampoco significa esperar una señal extraordinaria para cada decisión. Significa crear espacio para que la familia ore, escuche, considere consejo y avance con una conciencia compartida de dependencia de Dios.",
+      "internalize": "No intenten solamente llegar rápido a una respuesta. Pregúntense también: “¿Estamos aprendiendo a buscar a Dios juntos mientras decidimos?”.",
+      "prayer": "Señor, danos sabiduría cuando no sepamos qué hacer. Enséñanos a escucharte, a escucharnos y a caminar con humildad cuando debamos tomar decisiones importantes. Amén.",
+      "action": "Reserven un momento esta semana para orar juntos por una decisión familiar concreta. Después, cada persona puede compartir qué considera importante tener en cuenta."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Una familia puede pensar distinto sin dejar de caminar unida",
+      "verse": "Romanos 12:16",
+      "verses": [
+        "Romanos 12:16",
+        "Efesios 4:2-3",
+        "Proverbios 15:22"
+      ],
+      "references": [
+        "Romanos 12:16",
+        "Efesios 4:2-3",
+        "Proverbios 15:22"
+      ],
+      "text": "La unidad familiar no significa que todos tengan la misma personalidad, opinión o forma de hacer las cosas. Intentar eliminar toda diferencia puede producir más tensión que paz.\n\nPablo llama a vivir con humildad, paciencia y disposición para conservar la unidad. Esas cualidades son necesarias precisamente porque convivimos con personas distintas. La unidad bíblica no es uniformidad; es aprender a mantenerse vinculados sin convertir cada diferencia en una amenaza.\n\nUna familia guiada por Dios puede decir: “No pensamos igual en esto, pero vamos a tratarnos con respeto y buscar una salida sabia”. Algunas diferencias necesitan una decisión final; otras simplemente necesitan espacio. La madurez consiste en saber distinguirlas.",
+      "internalize": "Clasifiquen una diferencia reciente: ¿requiere una decisión común, una conversación pendiente o simplemente aceptar que pueden pensar distinto?",
+      "prayer": "Padre, danos humildad para convivir con nuestras diferencias. Ayúdanos a no confundir unidad con control y a tratarnos con paciencia, respeto y amor. Amén.",
+      "action": "Elijan una diferencia recurrente que no sea moral ni peligrosa y practiquen aceptar dos maneras distintas de hacer las cosas sin intentar corregirse mutuamente."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Una familia guiada por Dios mira más allá de sí misma",
+      "verse": "Josué 2:12-14",
+      "verses": [
+        "Josué 2:12-14",
+        "Hebreos 13:16",
+        "Gálatas 6:10"
+      ],
+      "references": [
+        "Josué 2:12-14",
+        "Hebreos 13:16",
+        "Gálatas 6:10"
+      ],
+      "text": "Es posible que una familia se vuelva tan concentrada en sus propias necesidades que olvide que también puede convertirse en bendición para otros. El hogar no solo existe para proteger a quienes están dentro; también puede ser un lugar desde donde nace servicio.\n\nLa Escritura anima a hacer el bien, compartir y cuidar a otros. Una familia puede servir con recursos, tiempo, hospitalidad, escucha o ayuda práctica. No necesita tener mucho para comenzar.\n\nServir juntos también forma carácter. Los hijos aprenden que la fe no se reduce a lo que creemos, sino que toca la manera en que tratamos a personas necesitadas, vecinos, familiares y miembros de la comunidad.\n\nUna familia guiada por Dios pregunta no solo “¿qué necesitamos?”, sino también “¿a quién podemos bendecir con lo que ya tenemos?”.",
+      "internalize": "Miren sus recursos familiares —tiempo, comida, habilidades, transporte, contactos— y pregúntense cuál de ellos podría convertirse en servicio.",
+      "prayer": "Señor, gracias por lo que has puesto en nuestras manos. Evita que vivamos encerrados únicamente en nuestras propias necesidades y muéstranos cómo servir juntos con alegría y sabiduría. Amén.",
+      "action": "Elijan una acción de servicio familiar para esta semana: ayudar a alguien, llevar comida, visitar, colaborar con una necesidad o apoyar una obra de servicio."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Los hábitos pequeños construyen la cultura espiritual del hogar",
+      "verse": "Daniel 6:10",
+      "verses": [
+        "Daniel 6:10",
+        "Colosenses 3:16",
+        "Salmos 92:1-2"
+      ],
+      "references": [
+        "Daniel 6:10",
+        "Colosenses 3:16",
+        "Salmos 92:1-2"
+      ],
+      "text": "Una familia puede tener buenas intenciones espirituales y, aun así, vivir semanas enteras sin un espacio compartido para orar, agradecer o hablar de Dios. No siempre es falta de fe; muchas veces es falta de ritmo.\n\nDaniel tenía prácticas constantes. Pablo anima a que la palabra de Cristo habite abundantemente en la comunidad. Los salmos muestran ritmos de gratitud y memoria. La vida espiritual se fortalece cuando encuentra espacios repetibles.\n\nNo todas las familias pueden sostener una larga reunión devocional diaria. Lo importante es diseñar hábitos que realmente funcionen: una oración breve antes de salir, un versículo semanal, una conversación durante una comida o un momento para agradecer antes de dormir.\n\nLa constancia sencilla suele transformar más que los esfuerzos intensos que duran pocos días.",
+      "internalize": "No busquen el hábito espiritual más impresionante. Busquen el que su familia realmente pueda mantener.",
+      "prayer": "Padre, ayúdanos a construir hábitos que mantengan nuestra atención cerca de Ti. Danos constancia para buscarte de una manera sencilla, real y sostenible. Amén.",
+      "action": "Elijan un hábito espiritual familiar para practicar durante los próximos 30 días y definan cuándo, dónde y cuánto durará."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Decidan qué legado quieren dejar",
+      "verse": "Salmos 78:5-7",
+      "verses": [
+        "Salmos 78:5-7",
+        "Josué 4:21-24",
+        "3 Juan 1:4"
+      ],
+      "references": [
+        "Salmos 78:5-7",
+        "Josué 4:21-24",
+        "3 Juan 1:4"
+      ],
+      "text": "Toda familia está dejando un legado, incluso cuando nunca se ha detenido a definirlo. Las palabras que se repiten, la manera de resolver conflictos, las prioridades y los hábitos terminan enseñando qué es importante.\n\nEl Salmo 78 habla de contar a la siguiente generación las obras de Dios para que pongan su confianza en Él. En Josué, las piedras de memoria servían para que los hijos preguntaran y escucharan la historia de lo que Dios había hecho. La fe también se transmite mediante relatos y prácticas familiares.\n\nUn legado espiritual no consiste en garantizar que todos los hijos tomarán las mismas decisiones. Eso no está completamente en manos de los padres. Consiste en construir un hogar donde puedan conocer quién es Dios, ver una fe sincera, aprender a pedir perdón, escuchar testimonios de fidelidad y recibir herramientas para elegir con sabiduría.\n\nUna familia guiada por Dios vive el presente pensando también en lo que quiere dejar en el corazón de quienes vienen después.",
+      "internalize": "Terminen esta frase juntos: “Queremos que nuestra familia sea recordada como un hogar donde…”.",
+      "prayer": "Señor, guía nuestra familia y ayúdanos a construir un legado de fe, verdad, amor y servicio. Que quienes vienen después puedan recordar tu fidelidad y encontrar razones para confiar en Ti. Amén.",
+      "action": "Escriban una declaración familiar de tres a cinco valores que quieran cultivar durante el próximo año. Colóquenla en un lugar visible y revísenla una vez al mes."
+    }
+  ],
+  "updatedAtMs": 1787930034476
+}\n

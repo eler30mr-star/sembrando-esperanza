@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787930034476",
+    "title": "A Family Guided by God",
+    "slug": "a-family-guided-by-god",
+    "category": "Familia",
+    "status": "published",
+    "language": "en",
+    "dayCount": 7,
+    "duration": "7 days",
+    "time": "9 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/una-familia-guiada-por-dios.webp",
+    "shortDescription": "A family guided by God is not a family without problems, but a home that learns to seek direction before reacting, return to the Word when there is confusion, and make decisions that reflect faith, love, and wisdom. Over seven days, you will explore how to place God at the center of family life, discern together, handle differences, serve with purpose, and build spiritual habits capable of leaving a legacy.",
+    "detailPath": "/data/en/plans/a-family-guided-by-god.json",
+    "updatedAtMs": 1787930034476
+  },
+  {
     "id": "plan-1787929392976",
     "title": "How to Care for Your Marriage in Difficult Times",
     "slug": "how-to-care-for-your-marriage-in-difficult-times",
