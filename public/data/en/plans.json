@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787929392976",
+    "title": "How to Care for Your Marriage in Difficult Times",
+    "slug": "how-to-care-for-your-marriage-in-difficult-times",
+    "category": "Familia",
+    "status": "published",
+    "language": "en",
+    "dayCount": 10,
+    "duration": "10 days",
+    "time": "10 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/como-cuidar-tu-matrimonio-en-tiempos-dificiles.webp",
+    "shortDescription": "Difficult seasons can turn marriage into another place of tension if exhaustion, worries, and conflicts begin to separate those who should be walking as a team. Over ten days, you will explore biblical principles and practical actions to care for communication, protect trust, manage outside pressures, restore closeness, forgive with truth, and renew commitment. The goal is not to pretend that everything is fine, but to learn how to walk through difficulty without neglecting the bond.",
+    "detailPath": "/data/en/plans/how-to-care-for-your-marriage-in-difficult-times.json",
+    "updatedAtMs": 1787929392976
+  },
+  {
     "id": "plan-1787928811249",
     "title": "How to Raise Children with Faith and Wisdom",
     "slug": "how-to-raise-children-with-faith-and-wisdom",

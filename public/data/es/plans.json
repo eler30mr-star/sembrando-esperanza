@@ -1,5 +1,20 @@
 [
   {
+    "id": "plan-1787929392976",
+    "title": "Cómo Cuidar Tu Matrimonio en Tiempos Difíciles",
+    "slug": "como-cuidar-tu-matrimonio-en-tiempos-dificiles",
+    "category": "Familia",
+    "status": "published",
+    "language": "es",
+    "dayCount": 10,
+    "duration": "10 días",
+    "time": "10 min al día",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/como-cuidar-tu-matrimonio-en-tiempos-dificiles.webp",
+    "shortDescription": "Las temporadas difíciles pueden convertir al matrimonio en otro lugar de tensión si el cansancio, las preocupaciones y los conflictos empiezan a separar a quienes deberían caminar como equipo. Durante diez días explorarás principios bíblicos y acciones concretas para cuidar la comunicación, proteger la confianza, manejar presiones externas, recuperar cercanía, perdonar con verdad y renovar el compromiso. La meta no es fingir que todo está bien, sino aprender a atravesar lo difícil sin dejar de proteger el vínculo.",
+    "detailPath": "/data/es/plans/como-cuidar-tu-matrimonio-en-tiempos-dificiles.json",
+    "updatedAtMs": 1787929392976
+  },
+  {
     "id": "plan-1787928811249",
     "title": "Cómo Criar Hijos con Fe y Sabiduría",
     "slug": "como-criar-hijos-con-fe-y-sabiduria",
