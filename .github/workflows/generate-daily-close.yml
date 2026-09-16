@@ -1,0 +1,52 @@
+name: Generate daily close
+
+on:
+  schedule:
+    - cron: "20 5 * * *"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Fecha YYYY-MM-DD. Vacio usa America/Lima hoy."
+        required: false
+        type: string
+      force:
+        description: "Regenerar aunque ya exista cierre para esa fecha"
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate daily close JSON
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-flash' }}
+          DAILY_CLOSE_DATE: ${{ github.event.inputs.date || '' }}
+          FORCE_DAILY_CLOSE: ${{ github.event.inputs.force || 'false' }}
+        run: node scripts/generate-daily-close.mjs
+
+      - name: Commit generated content
+        run: |
+          if git diff --quiet -- public/data/es/daily-close/index.json; then
+            echo "No hay cambios para publicar."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/es/daily-close/index.json
+          git commit -m "Generate daily close content"
+          git push

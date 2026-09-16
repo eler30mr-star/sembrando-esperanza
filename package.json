@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "generate:daily-close": "node scripts/generate-daily-close.mjs"
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",
