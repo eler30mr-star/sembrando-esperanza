@@ -21,9 +21,10 @@ if (!API_KEY) {
 
 const feed = readFeed();
 const reflections = Array.isArray(feed.reflections) ? feed.reflections : [];
+const existingToday = reflections.find((item) => item?.date === TODAY && item?.status !== "draft");
 
-if (!FORCE && reflections.some((item) => item?.date === TODAY && item?.status !== "draft")) {
-  console.log(`El cierre diario ${TODAY} ya existe. No se genera otro.`);
+if (!FORCE && existingToday?.generatedBy === "gemini") {
+  console.log(`El cierre diario ${TODAY} ya fue generado por Gemini. No se genera otro.`);
   process.exit(0);
 }
 
@@ -146,6 +147,8 @@ function normalizeReflection(value) {
   return {
     date: TODAY,
     status: "published",
+    generatedBy: "gemini",
+    generatedAt: new Date().toISOString(),
     question: localized(value.question),
     options
   };
