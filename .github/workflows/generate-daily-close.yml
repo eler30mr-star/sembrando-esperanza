@@ -37,11 +37,6 @@ jobs:
 
       - name: Commit changes
         run: |
-          if git diff --quiet; then
-            echo "No hay cambios para publicar."
-            exit 0
-          fi
-
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
@@ -49,6 +44,11 @@ jobs:
           git add public/data/en/daily-close/index.json
           git add public/data/pt/daily-close/index.json
           git add public/data/fr/daily-close/index.json
+
+          if git diff --cached --quiet; then
+            echo "No hay cambios para publicar."
+            exit 0
+          fi
 
           git commit -m "chore(daily-close): publish $(TZ=America/Lima date +%F)"
           git push
