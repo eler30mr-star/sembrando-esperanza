@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-16",
+  "reflections": [
+    {
+      "date": "2026-09-16",
+      "status": "published",
+      "question": {
+        "es": "¿Cómo estuvo tu corazón hoy antes de descansar?"
+      },
+      "options": [
+        {
+          "id": "gratitud",
+          "label": {
+            "es": "Lleno de gratitud"
+          },
+          "responseTitle": {
+            "es": "Guarda esta paz"
+          },
+          "responseText": {
+            "es": "La gratitud acomoda el alma antes del descanso. Reconocer la bondad de Dios en medio de lo sencillo te ayuda a cerrar el día sin perder de vista su fidelidad."
+          },
+          "verses": [
+            "Salmos 103:2"
+          ],
+          "reflectionHeader": {
+            "es": "Un descanso bendecido"
+          },
+          "reflection": {
+            "es": "Antes de dormir, trae a tu memoria los detalles en los que viste cuidado, provisión o consuelo. No necesitas que todo haya sido perfecto para agradecer; basta reconocer que Dios estuvo presente. Su bondad no termina con este día, y su misericordia te espera también mañana. Descansa con un corazón sencillo, confiando en que el Señor sostiene lo que tú ya no puedes sostener esta noche."
+          }
+        },
+        {
+          "id": "dificultad",
+          "label": {
+            "es": "Fue un día difícil"
+          },
+          "responseTitle": {
+            "es": "Dios estuvo cerca"
+          },
+          "responseText": {
+            "es": "Hay días que pesan más de lo que se puede explicar. Aun así, Dios no se aparta del corazón quebrantado; se acerca con ternura y sostiene en silencio."
+          },
+          "verses": [
+            "Salmos 34:18"
+          ],
+          "reflectionHeader": {
+            "es": "Cerca de tu cansancio"
+          },
+          "reflection": {
+            "es": "No minimices lo que dolió hoy. Puedes nombrarlo delante de Dios sin fingir fortaleza. Él entiende los silencios, las lágrimas retenidas y las cargas que nadie vio. Esta noche no tienes que resolver todo; solo permite que su presencia sea refugio. Entrégale el peso del día y recibe el descanso que viene de saber que no atravesaste esta jornada sin compañía divina."
+          }
+        },
+        {
+          "id": "preocupacion",
+          "label": {
+            "es": "Estoy preocupado"
+          },
+          "responseTitle": {
+            "es": "Suelta el mañana"
+          },
+          "responseText": {
+            "es": "La preocupación intenta mantener despierto lo que Dios te invita a entregar. Esta noche, tu tarea no es controlar el futuro, sino confiarlo a sus manos."
+          },
+          "verses": [
+            "1 Pedro 5:7"
+          ],
+          "reflectionHeader": {
+            "es": "Dios cuida de ti"
+          },
+          "reflection": {
+            "es": "Respira con calma y reconoce que no todo depende de ti. Hay asuntos que necesitan orden, decisiones que vendrán a su tiempo y respuestas que todavía no ves. Pero ninguna de esas cosas está fuera del cuidado de Dios. Pon nombre a tus preocupaciones, entrégalas una por una, y deja que tu mente descanse bajo la certeza de que el Señor cuida de ti con amor constante."
+          }
+        },
+        {
+          "id": "paz",
+          "label": {
+            "es": "Estoy en paz"
+          },
+          "responseTitle": {
+            "es": "Permanece en esa paz"
+          },
+          "responseText": {
+            "es": "La paz de Dios no siempre significa ausencia de problemas; muchas veces es su presencia guardando tu interior en medio de todo."
+          },
+          "verses": [
+            "Filipenses 4:7"
+          ],
+          "reflectionHeader": {
+            "es": "Noche serena"
+          },
+          "reflection": {
+            "es": "Recibe esta paz como un regalo, no como algo que tienes que fabricar. Si tu corazón está tranquilo, protégelo de cargas innecesarias y pensamientos que no pertenecen a esta noche. Dios te permite descansar porque su presencia guarda tu mente y tu corazón. Permanece en gratitud, cierra el día con confianza y permite que la serenidad de Cristo acompañe tu sueño."
+          }
+        },
+        {
+          "id": "cansancio",
+          "label": {
+            "es": "Estoy agotado"
+          },
+          "responseTitle": {
+            "es": "Ven al descanso"
+          },
+          "responseText": {
+            "es": "El cansancio también puede ser una invitación a recordar tus límites. Dios no te pide cargar más de lo que hoy puedes entregar en sus manos."
+          },
+          "verses": [
+            "Mateo 11:28"
+          ],
+          "reflectionHeader": {
+            "es": "Reposo para tu alma"
+          },
+          "reflection": {
+            "es": "Permítete bajar el ritmo. Tu valor no se mide por todo lo que lograste hoy ni por lo que quedó pendiente. Jesús llama a los cansados no para exigirles más, sino para darles descanso verdadero. Esta noche, entrega tu cuerpo, tu mente y tus emociones al cuidado del Padre. Que cada respiración sea una forma de soltar y cada minuto de sueño sea recibido como restauración."
+          }
+        },
+        {
+          "id": "fe",
+          "label": {
+            "es": "Necesito renovar mi fe"
+          },
+          "responseTitle": {
+            "es": "La fe vuelve a levantarse"
+          },
+          "responseText": {
+            "es": "Cuando la fe se siente débil, no significa que Dios esté lejos. A veces la fe se renueva en una oración sencilla y honesta al final del día."
+          },
+          "verses": [
+            "2 Corintios 4:8"
+          ],
+          "reflectionHeader": {
+            "es": "Sostenido por gracia"
+          },
+          "reflection": {
+            "es": "Dios no desprecia una fe pequeña ni una oración cansada. Si hoy hubo dudas, preguntas o momentos de debilidad, puedes traerlos sin vergüenza. La fe no siempre se siente fuerte; muchas veces permanece como una llama pequeña que Dios mismo protege. Descansa sabiendo que su gracia te sostiene incluso cuando tus fuerzas no alcanzan. Mañana habrá nueva misericordia, nueva claridad y una oportunidad más para caminar con Él."
+          }
+        }
+      ]
+    }
+  ]
+}
