@@ -3,6 +3,12 @@ name: Generate daily close
 on:
   schedule:
     - cron: "20 5 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/generate-daily-close.yml"
+      - "scripts/generate-daily-close.mjs"
   workflow_dispatch:
     inputs:
       date:
