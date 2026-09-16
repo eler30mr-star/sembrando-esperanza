@@ -2,57 +2,53 @@ name: Generate daily close
 
 on:
   schedule:
-    - cron: "20 5 * * *"
-  push:
-    branches:
-      - main
-    paths:
-      - ".github/workflows/generate-daily-close.yml"
-      - "scripts/generate-daily-close.mjs"
+    # 05:10 UTC = 00:10 en Perú
+    - cron: "10 5 * * *"
   workflow_dispatch:
-    inputs:
-      date:
-        description: "Fecha YYYY-MM-DD. Vacio usa America/Lima hoy."
-        required: false
-        type: string
-      force:
-        description: "Regenerar aunque ya exista cierre para esa fecha"
-        required: false
-        default: false
-        type: boolean
 
 permissions:
   contents: write
 
+concurrency:
+  group: generate-daily-close
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Setup Node
-        uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          fetch-depth: 0
 
-      - name: Generate daily close JSON
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate daily close
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-flash' }}
-          DAILY_CLOSE_DATE: ${{ github.event.inputs.date || '' }}
-          FORCE_DAILY_CLOSE: ${{ github.event.inputs.force || 'false' }}
-        run: node scripts/generate-daily-close.mjs
+          GEMINI_MODEL: gemini-2.5-flash-lite
+        run: python scripts/generate_daily_close.py
 
-      - name: Commit generated content
+      - name: Commit changes
         run: |
-          if git diff --quiet -- public/data/es/daily-close/index.json; then
+          if git diff --quiet; then
             echo "No hay cambios para publicar."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add public/data/es/daily-close/index.json
-          git commit -m "Generate daily close content"
+          git add public/data/en/daily-close/index.json
+          git add public/data/pt/daily-close/index.json
+          git add public/data/fr/daily-close/index.json
+
+          git commit -m "chore(daily-close): publish $(TZ=America/Lima date +%F)"
           git push
