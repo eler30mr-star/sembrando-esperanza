@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Genera o completa el cierre diario multilingüe sin duplicarlo."""
+"""Genera el cierre diario con Gemini y nunca usa la plantilla local de la app como fuente."""
 
 from __future__ import annotations
 
@@ -17,7 +17,7 @@ LANGUAGES = ("es", "en", "pt", "fr")
 OPTION_IDS = ("gratitud", "dificultad", "preocupacion", "paz", "cansancio", "fe")
 TZ = ZoneInfo("America/Lima")
 
-# Modelo principal + respaldo
+# Principal + respaldo
 MODELS = (
     "gemini-3.6-flash",
     "gemini-3-flash-preview",
@@ -45,11 +45,8 @@ def load_document(lang: str) -> dict:
     with path.open("r", encoding="utf-8") as f:
         document = json.load(f)
 
-    if not isinstance(document, dict):
-        raise ValueError(f"Plantilla inválida en {path}")
-
-    if not isinstance(document.get("reflections"), list):
-        raise ValueError(f"reflections debe ser una lista en {path}")
+    if not isinstance(document, dict) or not isinstance(document.get("reflections"), list):
+        raise ValueError(f"Plantilla JSON inválida en {path}")
 
     document.setdefault("version", 1)
     document.setdefault("updatedAt", "")
@@ -72,63 +69,15 @@ def find_today(document: dict, date: str) -> dict | None:
     return None
 
 
-def localized_complete(value: object) -> bool:
-    return (
-        isinstance(value, dict)
-        and set(value.keys()) == set(LANGUAGES)
-        and all(
-            isinstance(value.get(lang), str) and value[lang].strip()
-            for lang in LANGUAGES
-        )
-    )
-
-
-def reflection_complete(reflection: dict) -> bool:
-    if not isinstance(reflection, dict):
-        return False
-
-    if not localized_complete(reflection.get("question")):
-        return False
-
-    options = reflection.get("options")
-    if not isinstance(options, list) or len(options) != 6:
-        return False
-
-    ids = tuple(
-        o.get("id") if isinstance(o, dict) else None
-        for o in options
-    )
-    if ids != OPTION_IDS:
-        return False
-
-    for option in options:
-        for field in (
-            "label",
-            "responseTitle",
-            "responseText",
-            "reflectionHeader",
-            "reflection",
-        ):
-            if not localized_complete(option.get(field)):
-                return False
-
-        verses = option.get("verses")
-        if (
-            not isinstance(verses, list)
-            or len(verses) != 1
-            or not isinstance(verses[0], str)
-            or not verses[0].strip()
-        ):
-            return False
-
-    return True
-
-
 def recent_history(document: dict) -> list[dict]:
     history = []
 
     for item in document.get("reflections", [])[-14:]:
         if not isinstance(item, dict):
+            continue
+
+        # manual_seed no se usa como inspiración ni como contenido fuente.
+        if item.get("generatedBy") == "manual_seed":
             continue
 
         history.append(
@@ -159,36 +108,38 @@ def api_key() -> str:
 
 def prompt_generate(date: str, history: list[dict]) -> str:
     return f"""
-Genera un único cierre diario cristiano para la fecha {date}.
+Genera un cierre diario cristiano NUEVO para la fecha {date}.
 
-Devuelve SOLO JSON válido.
-No uses Markdown.
-No agregues campos.
-No cambies la plantilla.
+IMPORTANTE:
+- Este contenido debe ser creado por IA desde cero.
+- NO copies ni adaptes ninguna plantilla local.
+- NO uses contenido manual_seed como base.
+- Devuelve SOLO JSON válido.
+- No uses Markdown.
+- No agregues campos.
+- No cambies la estructura indicada.
 
-Debe contener el mismo cierre en:
-- español: es
-- inglés: en
-- portugués: pt
-- francés: fr
+Debe ser UN MISMO cierre diario en cuatro idiomas:
+español (es), inglés (en), portugués (pt) y francés (fr).
 
-Cada texto localizado debe contener exactamente:
+Cada texto localizado debe contener exactamente las claves:
 es, en, pt, fr.
 
-Usa exactamente estas 6 opciones y en este orden:
+Usa exactamente estas seis opciones, en este orden y con estos IDs:
 {json.dumps(OPTION_IDS, ensure_ascii=False)}
 
-Tono:
+El tono debe ser:
 - tranquilo
 - pastoral
 - esperanzador
 - bíblico
 - apropiado para antes de dormir
+- diferente de días anteriores
 
 En "verses":
-- usa exactamente una referencia bíblica real;
+- usa exactamente una referencia bíblica real por opción;
 - no copies el texto completo del versículo;
-- usa el nombre del libro en español.
+- usa el nombre del libro en español para que la app pueda abrirlo.
 
 Estructura exacta:
 
@@ -237,54 +188,25 @@ Estructura exacta:
   ]
 }}
 
-Incluye las 6 opciones completas.
+Incluye las seis opciones completas.
 
-Historial reciente para evitar repeticiones:
+Historial reciente generado por IA, solo para evitar repeticiones:
 {json.dumps(history, ensure_ascii=False)}
 """.strip()
 
 
-def prompt_complete_existing(existing: dict) -> str:
-    return f"""
-Completa las traducciones faltantes de este cierre diario cristiano.
-
-REGLAS OBLIGATORIAS:
-- NO crees otro cierre.
-- NO cambies ningún texto en español.
-- NO cambies date.
-- NO cambies status.
-- NO cambies generatedBy.
-- NO cambies IDs.
-- NO cambies verses.
-- Conserva exactamente todo lo que ya existe.
-- Solo completa inglés, portugués y francés.
-- Cada texto localizado debe quedar con exactamente es, en, pt y fr.
-- Devuelve SOLO el objeto JSON completo.
-- No uses Markdown.
-
-Cierre existente:
-{json.dumps(existing, ensure_ascii=False)}
-""".strip()
-
-
 def request_model(model: str, prompt: str) -> dict:
-    key = api_key()
     encoded_model = urllib.parse.quote(model, safe="-._")
+
     url = (
         "https://generativelanguage.googleapis.com/v1beta/models/"
         f"{encoded_model}:generateContent"
     )
 
     payload = {
-        "contents": [
-            {
-                "parts": [
-                    {"text": prompt}
-                ]
-            }
-        ],
+        "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
-            "temperature": 0.6,
+            "temperature": 0.8,
             "responseMimeType": "application/json",
         },
     }
@@ -295,7 +217,7 @@ def request_model(model: str, prompt: str) -> dict:
         method="POST",
         headers={
             "Content-Type": "application/json",
-            "x-goog-api-key": key,
+            "x-goog-api-key": api_key(),
         },
     )
 
@@ -304,68 +226,61 @@ def request_model(model: str, prompt: str) -> dict:
             body = json.loads(response.read().decode("utf-8"))
     except urllib.error.HTTPError as exc:
         detail = exc.read().decode("utf-8", errors="replace")
-        raise RuntimeError(
-            f"{model} HTTP {exc.code}: {detail[:1200]}"
-        ) from exc
+        raise RuntimeError(f"{model} HTTP {exc.code}: {detail[:1200]}") from exc
 
     try:
         text = body["candidates"][0]["content"]["parts"][0]["text"]
         return json.loads(text)
     except (KeyError, IndexError, TypeError, json.JSONDecodeError) as exc:
-        raise RuntimeError(
-            f"{model} no devolvió el JSON esperado"
-        ) from exc
+        raise RuntimeError(f"{model} no devolvió el JSON esperado") from exc
 
 
 def call_gemini(prompt: str) -> dict:
-    errors = []
+    failures = []
 
     for model in MODELS:
         print(f"Gemini: intentando {model}...")
 
         try:
-            result = request_model(model, prompt)
+            data = request_model(model, prompt)
             print(f"Gemini: generación correcta con {model}")
-            return result
+            return data
         except Exception as exc:
-            errors.append(f"{model}: {exc}")
-            print(f"Gemini: {model} falló. Probando respaldo...")
+            failures.append(f"{model}: {exc}")
+            print(f"Gemini: {model} falló; probando respaldo.")
 
-    raise RuntimeError(
-        "Todos los modelos Gemini fallaron:\n" + "\n".join(errors)
+    raise RuntimeError("Todos los modelos fallaron:\n" + "\n".join(failures))
+
+
+def localized_complete(value: object) -> bool:
+    return (
+        isinstance(value, dict)
+        and set(value.keys()) == set(LANGUAGES)
+        and all(isinstance(value.get(lang), str) and value[lang].strip() for lang in LANGUAGES)
     )
 
 
-def validate_localized(value: object, name: str) -> None:
-    if not localized_complete(value):
-        raise ValueError(
-            f"{name} debe contener exactamente es/en/pt/fr"
-        )
+def validate_generated(data: dict) -> None:
+    if not isinstance(data, dict) or set(data.keys()) != {"question", "options"}:
+        raise ValueError("Gemini cambió la plantilla raíz")
 
-
-def validate_content(data: dict) -> None:
-    if not isinstance(data, dict):
-        raise ValueError("La IA no devolvió un objeto JSON")
-
-    if set(data.keys()) != {"question", "options"}:
-        raise ValueError("La IA cambió la plantilla raíz")
-
-    validate_localized(data["question"], "question")
+    if not localized_complete(data["question"]):
+        raise ValueError("question debe contener exactamente es/en/pt/fr")
 
     options = data["options"]
 
     if not isinstance(options, list) or len(options) != 6:
-        raise ValueError("Deben existir exactamente 6 opciones")
+        raise ValueError("Deben existir exactamente seis opciones")
 
     ids = tuple(
-        o.get("id") if isinstance(o, dict) else None
-        for o in options
+        option.get("id") if isinstance(option, dict) else None
+        for option in options
     )
 
     if ids != OPTION_IDS:
         raise ValueError(f"IDs u orden incorrectos: {ids}")
 
-    expected = {
+    expected_keys = {
         "id",
         "label",
         "responseTitle",
@@ -376,13 +291,8 @@ def validate_content(data: dict) -> None:
     }
 
     for option in options:
-        if not isinstance(option, dict):
-            raise ValueError("Cada opción debe ser un objeto")
-
-        if set(option.keys()) != expected:
-            raise ValueError(
-                f"La IA cambió la plantilla de {option.get('id')}"
-            )
+        if not isinstance(option, dict) or set(option.keys()) != expected_keys:
+            raise ValueError(f"Plantilla inválida en opción {option.get('id')}")
 
         for field in (
             "label",
@@ -391,10 +301,8 @@ def validate_content(data: dict) -> None:
             "reflectionHeader",
             "reflection",
         ):
-            validate_localized(
-                option[field],
-                f"{option['id']}.{field}"
-            )
+            if not localized_complete(option[field]):
+                raise ValueError(f"{option['id']}.{field} debe contener es/en/pt/fr")
 
         verses = option["verses"]
 
@@ -404,83 +312,13 @@ def validate_content(data: dict) -> None:
             or not isinstance(verses[0], str)
             or not verses[0].strip()
         ):
-            raise ValueError(
-                f"{option['id']}.verses debe contener una referencia"
-            )
+            raise ValueError(f"{option['id']}.verses debe tener una referencia")
 
 
-def validate_completion(original: dict, completed: dict) -> None:
-    required = {
-        "date",
-        "status",
-        "generatedBy",
-        "question",
-        "options",
-    }
-
-    if not isinstance(completed, dict):
-        raise ValueError("La IA no devolvió el cierre completo")
-
-    if set(completed.keys()) != required:
-        raise ValueError(
-            "La IA cambió la plantilla del cierre existente"
-        )
-
-    for key in ("date", "status", "generatedBy"):
-        if completed.get(key) != original.get(key):
-            raise ValueError(f"La IA cambió {key}")
-
-    validate_content(
-        {
-            "question": completed["question"],
-            "options": completed["options"],
-        }
-    )
-
-    if (
-        completed["question"]["es"]
-        != original.get("question", {}).get("es")
-    ):
-        raise ValueError("La IA cambió question.es")
-
-    original_options = original.get("options", [])
-
-    if len(original_options) != len(completed["options"]):
-        raise ValueError("La IA cambió la cantidad de opciones")
-
-    for i, option in enumerate(completed["options"]):
-        old = original_options[i]
-
-        if option["id"] != old.get("id"):
-            raise ValueError("La IA cambió un ID")
-
-        if option["verses"] != old.get("verses"):
-            raise ValueError("La IA cambió un versículo")
-
-        for field in (
-            "label",
-            "responseTitle",
-            "responseText",
-            "reflectionHeader",
-            "reflection",
-        ):
-            if (
-                option[field]["es"]
-                != old.get(field, {}).get("es")
-            ):
-                raise ValueError(
-                    f"La IA cambió {option['id']}.{field}.es"
-                )
-
-
-def replace_today(
-    document: dict,
-    reflection: dict,
-    date: str,
-) -> None:
-    for i, item in enumerate(document.get("reflections", [])):
+def replace_today(document: dict, reflection: dict, date: str) -> None:
+    for index, item in enumerate(document.get("reflections", [])):
         if isinstance(item, dict) and item.get("date") == date:
-            document["reflections"][i] = deepcopy(reflection)
+            document["reflections"][index] = deepcopy(reflection)
             document["updatedAt"] = date
             return
 
@@ -490,53 +328,41 @@ def replace_today(
 
 def main() -> None:
     date = today()
-    documents = {
-        lang: load_document(lang)
-        for lang in LANGUAGES
-    }
+    documents = {lang: load_document(lang) for lang in LANGUAGES}
 
-    existing = None
+    # Solo un cierre generado realmente por IA bloquea una nueva generación.
+    existing_gemini = None
 
     for document in documents.values():
-        found = find_today(document, date)
+        existing = find_today(document, date)
 
-        if found is not None:
-            existing = found
+        if existing is not None and existing.get("generatedBy") == "gemini":
+            existing_gemini = existing
             break
 
-    if existing is not None:
-        if reflection_complete(existing):
-            reflection = existing
-            print(
-                f"{date}: el cierre ya existe completo. "
-                "No se usa Gemini."
-            )
-        else:
-            print(
-                f"{date}: el cierre ya existe pero faltan traducciones. "
-                "Se conserva el español y solo se completan idiomas."
-            )
+    if existing_gemini is not None:
+        print(
+            f"{date}: ya existe un cierre generado por Gemini. "
+            "No se genera nuevamente."
+        )
 
-            reflection = call_gemini(
-                prompt_complete_existing(existing)
-            )
-
-            validate_completion(existing, reflection)
-
+        # Sincroniza cualquier ruta que falte, sin llamar a Gemini.
         for lang, document in documents.items():
-            replace_today(
-                document,
-                reflection,
-                date,
-            )
+            current = find_today(document, date)
 
-            save_document(lang, document)
-
-            print(
-                f"{lang}: cierre {date} sincronizado."
-            )
+            if current is None or current.get("generatedBy") != "gemini":
+                replace_today(document, existing_gemini, date)
+                save_document(lang, document)
+                print(f"{lang}: sincronizado desde el cierre Gemini existente.")
 
         return
+
+    # Si solo existe manual_seed, NO se usa como fuente:
+    # Gemini genera el cierre real y lo reemplaza en las cuatro rutas.
+    print(
+        f"{date}: no existe un cierre generado por Gemini. "
+        "Generando uno nuevo desde cero."
+    )
 
     generated = call_gemini(
         prompt_generate(
@@ -545,7 +371,7 @@ def main() -> None:
         )
     )
 
-    validate_content(generated)
+    validate_generated(generated)
 
     reflection = {
         "date": date,
@@ -556,17 +382,9 @@ def main() -> None:
     }
 
     for lang, document in documents.items():
-        replace_today(
-            document,
-            reflection,
-            date,
-        )
-
+        replace_today(document, reflection, date)
         save_document(lang, document)
-
-        print(
-            f"{lang}: cierre {date} generado y guardado."
-        )
+        print(f"{lang}: cierre Gemini {date} guardado.")
 
 
 if __name__ == "__main__":
