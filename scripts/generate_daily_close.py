@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
-"""Genera el cierre diario con Gemini y nunca usa la plantilla local de la app como fuente."""
+"""Genera el cierre diario completo con Gemini, sin usar opciones prefijadas como contenido."""
 
 from __future__ import annotations
 
 import json
 import os
+import re
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -14,14 +15,22 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 LANGUAGES = ("es", "en", "pt", "fr")
-OPTION_IDS = ("gratitud", "dificultad", "preocupacion", "paz", "cansancio", "fe")
 TZ = ZoneInfo("America/Lima")
+
+# Incrementar cuando cambie de forma importante la lógica de generación.
+GENERATOR_VERSION = 2
 
 # Principal + respaldo
 MODELS = (
     "gemini-3.6-flash",
     "gemini-3-flash-preview",
 )
+
+# Límites pensados para que las opciones entren bien en los botones.
+MAX_QUESTION_CHARS = 100
+MAX_LABEL_CHARS = 24
+MAX_RESPONSE_TITLE_CHARS = 48
+MAX_REFLECTION_HEADER_CHARS = 48
 
 
 def today() -> str:
@@ -46,7 +55,7 @@ def load_document(lang: str) -> dict:
         document = json.load(f)
 
     if not isinstance(document, dict) or not isinstance(document.get("reflections"), list):
-        raise ValueError(f"Plantilla JSON inválida en {path}")
+        raise ValueError(f"JSON inválido en {path}")
 
     document.setdefault("version", 1)
     document.setdefault("updatedAt", "")
@@ -76,21 +85,32 @@ def recent_history(document: dict) -> list[dict]:
         if not isinstance(item, dict):
             continue
 
-        # manual_seed no se usa como inspiración ni como contenido fuente.
         if item.get("generatedBy") == "manual_seed":
             continue
+
+        labels = []
+        verses = []
+
+        for option in item.get("options", []):
+            if not isinstance(option, dict):
+                continue
+
+            label = option.get("label")
+            if isinstance(label, dict):
+                es_label = label.get("es")
+                if isinstance(es_label, str) and es_label.strip():
+                    labels.append(es_label.strip())
+
+            for verse in option.get("verses", []):
+                if isinstance(verse, str) and verse.strip():
+                    verses.append(verse.strip())
 
         history.append(
             {
                 "date": item.get("date"),
                 "question": item.get("question"),
-                "verses": [
-                    verse
-                    for option in item.get("options", [])
-                    if isinstance(option, dict)
-                    for verse in option.get("verses", [])
-                    if isinstance(verse, str)
-                ],
+                "labels_es": labels,
+                "verses": verses,
             }
         )
 
@@ -108,40 +128,73 @@ def api_key() -> str:
 
 def prompt_generate(date: str, history: list[dict]) -> str:
     return f"""
-Genera un cierre diario cristiano NUEVO para la fecha {date}.
+Genera un cierre diario cristiano COMPLETAMENTE NUEVO para la fecha {date}.
+
+REGLA PRINCIPAL:
+TÚ debes crear desde cero:
+1. la pregunta principal;
+2. las seis opciones de respuesta;
+3. el tema de cada opción;
+4. el texto visible de cada opción;
+5. el título de respuesta;
+6. el texto de respuesta;
+7. la referencia bíblica;
+8. el encabezado de reflexión;
+9. la reflexión completa.
+
+NO existen categorías predefinidas.
+NO uses como plantilla fija palabras o temas como gratitud, dificultad, preocupación, paz, cansancio o fe.
+Puedes usarlos solo si surgen naturalmente ese día, pero NO estás obligado a incluirlos.
+Las seis opciones deben variar de un día a otro y responder de forma natural a la pregunta creada.
 
 IMPORTANTE:
-- Este contenido debe ser creado por IA desde cero.
+- Todo el contenido debe ser creado por IA desde cero.
 - NO copies ni adaptes ninguna plantilla local.
 - NO uses contenido manual_seed como base.
+- NO repitas mecánicamente el contenido de días anteriores.
 - Devuelve SOLO JSON válido.
 - No uses Markdown.
-- No agregues campos.
-- No cambies la estructura indicada.
+- No agregues campos fuera de la estructura indicada.
+- Deben existir exactamente 6 opciones.
+- Cada opción debe representar una respuesta distinta y útil a la pregunta del día.
 
-Debe ser UN MISMO cierre diario en cuatro idiomas:
+LONGITUD PARA LA INTERFAZ:
+- "question": máximo {MAX_QUESTION_CHARS} caracteres por idioma.
+- "label": MUY CORTO, de 1 a 4 palabras y máximo {MAX_LABEL_CHARS} caracteres por idioma.
+  Este texto aparece dentro de un botón. Debe verse completo.
+- "responseTitle": máximo {MAX_RESPONSE_TITLE_CHARS} caracteres por idioma.
+- "reflectionHeader": máximo {MAX_REFLECTION_HEADER_CHARS} caracteres por idioma.
+- "responseText" y "reflection" pueden ser más desarrollados, pero claros y naturales.
+
+IDIOMAS:
+Debe ser el mismo cierre diario localizado en:
 español (es), inglés (en), portugués (pt) y francés (fr).
 
-Cada texto localizado debe contener exactamente las claves:
+Cada texto localizado debe contener exactamente:
 es, en, pt, fr.
 
-Usa exactamente estas seis opciones, en este orden y con estos IDs:
-{json.dumps(OPTION_IDS, ensure_ascii=False)}
+IDs:
+- Crea tú también un "id" distinto para cada opción.
+- Debe ser un slug técnico corto en minúsculas, sin espacios, sin tildes y solo con letras, números o guion bajo.
+- No reutilices una lista fija de IDs.
+- Los 6 IDs deben ser únicos.
 
-El tono debe ser:
-- tranquilo
-- pastoral
-- esperanzador
-- bíblico
-- apropiado para antes de dormir
-- diferente de días anteriores
+TONO:
+- tranquilo;
+- pastoral;
+- cercano;
+- esperanzador;
+- bíblico;
+- apropiado para cerrar el día;
+- natural, no robótico.
 
-En "verses":
-- usa exactamente una referencia bíblica real por opción;
+VERSÍCULOS:
+- exactamente una referencia bíblica real por opción;
 - no copies el texto completo del versículo;
-- usa el nombre del libro en español para que la app pueda abrirlo.
+- usa el nombre del libro en español para que la app pueda abrirlo;
+- el versículo debe relacionarse con esa opción específica.
 
-Estructura exacta:
+ESTRUCTURA EXACTA:
 
 {{
   "question": {{
@@ -152,7 +205,7 @@ Estructura exacta:
   }},
   "options": [
     {{
-      "id": "gratitud",
+      "id": "id_creado_por_la_ia",
       "label": {{
         "es": "...",
         "en": "...",
@@ -171,7 +224,7 @@ Estructura exacta:
         "pt": "...",
         "fr": "..."
       }},
-      "verses": ["Salmos 1:1"],
+      "verses": ["Salmos 23:1"],
       "reflectionHeader": {{
         "es": "...",
         "en": "...",
@@ -188,9 +241,9 @@ Estructura exacta:
   ]
 }}
 
-Incluye las seis opciones completas.
+Incluye exactamente seis opciones completas.
 
-Historial reciente generado por IA, solo para evitar repeticiones:
+Historial reciente generado por IA, SOLO para evitar repetir preguntas, opciones y versículos:
 {json.dumps(history, ensure_ascii=False)}
 """.strip()
 
@@ -206,7 +259,7 @@ def request_model(model: str, prompt: str) -> dict:
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
-            "temperature": 0.8,
+            "temperature": 0.95,
             "responseMimeType": "application/json",
         },
     }
@@ -260,25 +313,28 @@ def localized_complete(value: object) -> bool:
     )
 
 
+def validate_max_length(field_name: str, value: dict, max_chars: int) -> None:
+    for lang in LANGUAGES:
+        text = value[lang].strip()
+        if len(text) > max_chars:
+            raise ValueError(
+                f"{field_name}.{lang} supera {max_chars} caracteres: {len(text)}"
+            )
+
+
 def validate_generated(data: dict) -> None:
     if not isinstance(data, dict) or set(data.keys()) != {"question", "options"}:
-        raise ValueError("Gemini cambió la plantilla raíz")
+        raise ValueError("Gemini cambió la estructura raíz")
 
     if not localized_complete(data["question"]):
         raise ValueError("question debe contener exactamente es/en/pt/fr")
+
+    validate_max_length("question", data["question"], MAX_QUESTION_CHARS)
 
     options = data["options"]
 
     if not isinstance(options, list) or len(options) != 6:
         raise ValueError("Deben existir exactamente seis opciones")
-
-    ids = tuple(
-        option.get("id") if isinstance(option, dict) else None
-        for option in options
-    )
-
-    if ids != OPTION_IDS:
-        raise ValueError(f"IDs u orden incorrectos: {ids}")
 
     expected_keys = {
         "id",
@@ -290,9 +346,24 @@ def validate_generated(data: dict) -> None:
         "reflection",
     }
 
+    seen_ids = set()
+
     for option in options:
         if not isinstance(option, dict) or set(option.keys()) != expected_keys:
-            raise ValueError(f"Plantilla inválida en opción {option.get('id')}")
+            raise ValueError("Estructura inválida en una opción")
+
+        option_id = option.get("id")
+
+        if (
+            not isinstance(option_id, str)
+            or not re.fullmatch(r"[a-z0-9_]{2,32}", option_id)
+        ):
+            raise ValueError(f"ID inválido: {option_id!r}")
+
+        if option_id in seen_ids:
+            raise ValueError(f"ID repetido: {option_id}")
+
+        seen_ids.add(option_id)
 
         for field in (
             "label",
@@ -302,7 +373,25 @@ def validate_generated(data: dict) -> None:
             "reflection",
         ):
             if not localized_complete(option[field]):
-                raise ValueError(f"{option['id']}.{field} debe contener es/en/pt/fr")
+                raise ValueError(
+                    f"{option_id}.{field} debe contener exactamente es/en/pt/fr"
+                )
+
+        validate_max_length(
+            f"{option_id}.label",
+            option["label"],
+            MAX_LABEL_CHARS,
+        )
+        validate_max_length(
+            f"{option_id}.responseTitle",
+            option["responseTitle"],
+            MAX_RESPONSE_TITLE_CHARS,
+        )
+        validate_max_length(
+            f"{option_id}.reflectionHeader",
+            option["reflectionHeader"],
+            MAX_REFLECTION_HEADER_CHARS,
+        )
 
         verses = option["verses"]
 
@@ -312,7 +401,7 @@ def validate_generated(data: dict) -> None:
             or not isinstance(verses[0], str)
             or not verses[0].strip()
         ):
-            raise ValueError(f"{option['id']}.verses debe tener una referencia")
+            raise ValueError(f"{option_id}.verses debe tener una referencia")
 
 
 def replace_today(document: dict, reflection: dict, date: str) -> None:
@@ -326,42 +415,48 @@ def replace_today(document: dict, reflection: dict, date: str) -> None:
     document["updatedAt"] = date
 
 
+def is_current_ai_close(item: dict | None) -> bool:
+    return (
+        isinstance(item, dict)
+        and item.get("generatedBy") == "gemini"
+        and item.get("generatorVersion") == GENERATOR_VERSION
+    )
+
+
 def main() -> None:
     date = today()
     documents = {lang: load_document(lang) for lang in LANGUAGES}
 
-    # Solo un cierre generado realmente por IA bloquea una nueva generación.
+    # Solo un cierre Gemini creado con la versión ACTUAL bloquea una nueva generación.
     existing_gemini = None
 
     for document in documents.values():
         existing = find_today(document, date)
 
-        if existing is not None and existing.get("generatedBy") == "gemini":
+        if is_current_ai_close(existing):
             existing_gemini = existing
             break
 
     if existing_gemini is not None:
         print(
-            f"{date}: ya existe un cierre generado por Gemini. "
+            f"{date}: ya existe un cierre Gemini v{GENERATOR_VERSION}. "
             "No se genera nuevamente."
         )
 
-        # Sincroniza cualquier ruta que falte, sin llamar a Gemini.
         for lang, document in documents.items():
             current = find_today(document, date)
 
-            if current is None or current.get("generatedBy") != "gemini":
+            if not is_current_ai_close(current):
                 replace_today(document, existing_gemini, date)
                 save_document(lang, document)
                 print(f"{lang}: sincronizado desde el cierre Gemini existente.")
 
         return
 
-    # Si solo existe manual_seed, NO se usa como fuente:
-    # Gemini genera el cierre real y lo reemplaza en las cuatro rutas.
+    # manual_seed o cierres Gemini de una versión anterior NO bloquean la regeneración.
     print(
-        f"{date}: no existe un cierre generado por Gemini. "
-        "Generando uno nuevo desde cero."
+        f"{date}: no existe un cierre Gemini v{GENERATOR_VERSION}. "
+        "Generando pregunta, opciones y contenido completamente nuevos."
     )
 
     generated = call_gemini(
@@ -377,6 +472,7 @@ def main() -> None:
         "date": date,
         "status": "published",
         "generatedBy": "gemini",
+        "generatorVersion": GENERATOR_VERSION,
         "question": generated["question"],
         "options": generated["options"],
     }
@@ -384,7 +480,7 @@ def main() -> None:
     for lang, document in documents.items():
         replace_today(document, reflection, date)
         save_document(lang, document)
-        print(f"{lang}: cierre Gemini {date} guardado.")
+        print(f"{lang}: cierre Gemini v{GENERATOR_VERSION} {date} guardado.")
 
 
 if __name__ == "__main__":
