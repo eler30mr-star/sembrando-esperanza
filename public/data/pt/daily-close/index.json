@@ -5,228 +5,228 @@
     {
       "date": "2026-09-16",
       "status": "published",
-      "generatedBy": "manual_seed",
+      "generatedBy": "gemini",
       "question": {
-        "es": "¿Cómo estuvo tu corazón hoy antes de descansar?",
-        "en": "How was your heart today before resting?",
-        "pt": "Como estava o seu coração hoje antes de descansar?",
-        "fr": "Comment était votre cœur aujourd'hui avant de vous reposer ?"
+        "es": "¿Qué resuena más en tu corazón al reflexionar sobre este día que termina?",
+        "en": "What resonates most in your heart as you reflect on this day that is ending?",
+        "pt": "O que mais ressoa em seu coração ao refletir sobre este dia que termina?",
+        "fr": "Qu'est-ce qui résonne le plus dans votre cœur en réfléchissant à cette journée qui s'achève ?"
       },
       "options": [
         {
           "id": "gratitud",
           "label": {
-            "es": "Lleno de gratitud",
-            "en": "Full of gratitude",
-            "pt": "Cheio de gratidão",
-            "fr": "Rempli de gratitude"
+            "es": "Gratitud por la fidelidad de Dios",
+            "en": "Gratitude for God's faithfulness",
+            "pt": "Gratidão pela fidelidade de Deus",
+            "fr": "Gratitude pour la fidélité de Dieu"
           },
           "responseTitle": {
-            "es": "Guarda esta paz",
-            "en": "Keep this peace",
-            "pt": "Guarde esta paz",
-            "fr": "Garde cette paix"
+            "es": "Un corazón agradecido descansa",
+            "en": "A grateful heart rests",
+            "pt": "Um coração grato descansa",
+            "fr": "Un cœur reconnaissant se repose"
           },
           "responseText": {
-            "es": "La gratitud acomoda el alma antes del descanso. Reconocer la bondad de Dios en medio de lo sencillo te ayuda a cerrar el día sin perder de vista su fidelidad.",
-            "en": "Gratitude settles the soul before rest. Recognizing God's goodness in the simple things helps you close the day without losing sight of His faithfulness.",
-            "pt": "A gratidão acomoda a alma antes do descanso. Reconhecer a bondade de Deus no meio do que é simples ajuda você a fechar o dia sem perder de vista a Sua fidelidade.",
-            "fr": "La gratitude apaise l'âme avant le repos. Reconnaître la bonté de Dieu au milieu des choses simples vous aide à clore la journée sans perdre de vue sa fidélité."
+            "es": "Reconocer la mano de Dios al final del día trae una paz profunda a nuestra alma.",
+            "en": "Recognizing God's hand at the end of the day brings deep peace to our soul.",
+            "pt": "Reconhecer a mão de Deus no final do dia traz uma paz profunda à nossa alma.",
+            "fr": "Reconnaître la main de Dieu à la fin de la journée apporte une paix profonde à notre âme."
           },
           "verses": [
             "Salmos 103:2"
           ],
           "reflectionHeader": {
-            "es": "Un descanso bendecido",
-            "en": "A blessed rest",
-            "pt": "Um descanso abençoado",
-            "fr": "Un repos béni"
+            "es": "Guardando las bendiciones del día",
+            "en": "Treasuring the day's blessings",
+            "pt": "Guardando as bênçãos do dia",
+            "fr": "Garder en mémoire les bénédictions du jour"
           },
           "reflection": {
-            "es": "Antes de dormir, trae a tu memoria los detalles en los que viste cuidado, provisión o consuelo. No necesitas que todo haya sido perfecto para agradecer; basta reconocer que Dios estuvo presente. Su bondad no termina con este día, y su misericordia te espera también mañana. Descansa con un corazón sencillo, confiando en que el Señor sostiene lo que tú ya no puedes sostener esta noche.",
-            "en": "Before going to sleep, bring to mind the details where you saw care, provision, or comfort. You don't need everything to have been perfect to be grateful; it is enough to recognize that God was present. His goodness does not end with this day, and His mercy awaits you tomorrow as well. Rest with a simple heart, trusting that the Lord sustains what you can no longer hold tonight.",
-            "pt": "Antes de dormir, traga à memória os detalhes em que você viu cuidado, provisão ou consolo. Você não precisa que tudo tenha sido perfeito para agradecer; basta reconhecer que Deus esteve presente. Sua bondade não termina com este dia, e Sua misericórdia o espera também amanhã. Descanse com um coração simples, confiando que o Senhor sustenta o que você já não pode sustentar esta noite.",
-            "fr": "Avant de dormir, rappelez-vous les détails où vous avez vu soin, pourvoyance ou réconfort. Il n'est pas nécessaire que tout ait été parfait pour rendre grâce ; il suffit de reconnaître que Dieu était présent. Sa bonté ne s'arrête pas avec cette journée, et sa miséricorde vous attend demain aussi. Reposez-vous avec un cœur simple, confiant que le Seigneur soutient ce que vous ne pouvez plus porter ce soir."
+            "es": "Al cerrar los ojos, recuerda que cada detalle bueno recibido hoy es una muestra del amor divino. Descansa sabiendo que el mismo Dios que cuidó de ti hoy, velará por ti mañana.",
+            "en": "As you close your eyes, remember that every good detail received today is a sign of divine love. Rest knowing that the same God who cared for you today will watch over you tomorrow.",
+            "pt": "Ao fechar os olhos, lembre-se de que cada bom detalhe recebido hoje é um sinal do amor divino. Descanse sabendo que o mesmo Deus que cuidou de você hoje, cuidará de você amanhã.",
+            "fr": "En fermant les yeux, rappelez-vous que chaque bon détail reçu aujourd'hui est une marque de l'amour divin. Reposez-vous en sachant que le même Dieu qui a pris soin de vous aujourd'hui veillera sur vous demain."
           }
         },
         {
           "id": "dificultad",
           "label": {
-            "es": "Fue un día difícil",
-            "en": "It was a difficult day",
-            "pt": "Foi um dia difícil",
-            "fr": "Ce fut une journée difficile"
+            "es": "El peso de las dificultades",
+            "en": "The weight of difficulties",
+            "pt": "O peso das dificuldades",
+            "fr": "Le poids des difficultés"
           },
           "responseTitle": {
-            "es": "Dios estuvo cerca",
-            "en": "God was near",
-            "pt": "Deus esteve perto",
-            "fr": "Dieu était proche"
+            "es": "Dios está cerca de ti",
+            "en": "God is near to you",
+            "pt": "Deus está perto de você",
+            "fr": "Dieu est proche de vous"
           },
           "responseText": {
-            "es": "Hay días que pesan más de lo que se puede explicar. Aun así, Dios no se aparta del corazón quebrantado; se acerca con ternura y sostiene en silencio.",
-            "en": "There are days that weigh heavier than can be explained. Even so, God does not turn away from the broken heart; He comes close with tenderness and sustains in silence.",
-            "pt": "Há dias que pesam mais do que se pode explicar. Mesmo assim, Deus não se afasta do coração quebrantado; Ele se aproxima com ternura e sustenta em silêncio.",
-            "fr": "Il y a des jours qui pèsent plus qu'on ne peut l'expliquer. Pourtant, Dieu ne s'éloigne pas du cœur brisé ; il s'approche avec tendresse et soutient en silence."
+            "es": "Los momentos difíciles no duran para siempre, pero el cuidado del Señor permanece firme.",
+            "en": "Difficult moments do not last forever, but the Lord's care remains steadfast.",
+            "pt": "Os momentos difíceis não duram para sempre, mas o cuidado do Senhor permanece firme.",
+            "fr": "Les moments difficiles ne durent pas toujours, mais le soin du Seigneur demeure ferme."
           },
           "verses": [
             "Salmos 34:18"
           ],
           "reflectionHeader": {
-            "es": "Cerca de tu cansancio",
-            "en": "Near your weariness",
-            "pt": "Perto do seu cansaço",
-            "fr": "Près de votre fatigue"
+            "es": "Entregando las cargas de hoy",
+            "en": "Surrendering today's burdens",
+            "pt": "Entregando os fardos de hoje",
+            "fr": "Déposer les fardeaux d'aujourd'hui"
           },
           "reflection": {
-            "es": "No minimices lo que dolió hoy. Puedes nombrarlo delante de Dios sin fingir fortaleza. Él entiende los silencios, las lágrimas retenidas y las cargas que nadie vio. Esta noche no tienes que resolver todo; solo permite que su presencia sea refugio. Entrégale el peso del día y recibe el descanso que viene de saber que no atravesaste esta jornada sin compañía divina.",
-            "en": "Do not minimize what hurt today. You can name it before God without pretending to be strong. He understands the silences, held-back tears, and burdens that no one saw. Tonight you don't have to resolve everything; just allow His presence to be your refuge. Hand over the weight of the day and receive the rest that comes from knowing you didn't walk this day without divine companionship.",
-            "pt": "Não minimize o que doeu hoje. Você pode nomear isso diante de Deus sem fingir fortaleza. Ele entende os silêncios, as lágrimas guardadas e os fardos que ninguém viu. Esta noite você não precisa resolver tudo; apenas permita que a presença Dele seja o seu refúgio. Entregue a Ele o peso do dia e receba o descanso que vem de saber que você não atravessou esta jornada sem a companhia divina.",
-            "fr": "Ne minimisez pas ce qui a fait mal aujourd'hui. Vous pouvez le nommer devant Dieu sans feindre la force. Il comprend les silences, les larmes retenues et les fardeaux que personne n'a vus. Ce soir, vous n'avez pas à tout résoudre ; permettez simplement à sa présence d'être votre refuge. Remettez-lui le poids de la journée et recevez le repos qui vient du fait de savoir que vous n'avez pas traversé cette journée sans compagnie divine."
+            "es": "No tienes que resolver todo esta noche. Permite que el Señor sostenga la aflicción de hoy mientras tú te dispones a dormir. En su presencia hay refugio para las batallas vividas.",
+            "en": "You don't have to solve everything tonight. Allow the Lord to hold today's affliction while you prepare to sleep. In His presence, there is refuge for the battles fought.",
+            "pt": "Você não precisa resolver tudo esta noite. Permita que o Senhor sustente a aflição de hoje enquanto você se dispõe a dormir. Em sua presença há refúgio para as batalhas vividas.",
+            "fr": "Vous n'avez pas à tout résoudre ce soir. Laissez le Seigneur porter l'affliction d'aujourd'hui pendant que vous vous préparez à dormir. En sa présence, il y a un refuge pour les combats menés."
           }
         },
         {
           "id": "preocupacion",
           "label": {
-            "es": "Estoy preocupado",
-            "en": "I am worried",
-            "pt": "Estou preocupado",
-            "fr": "Je suis inquiet"
+            "es": "Inquietud por el mañana",
+            "en": "Anxiety about tomorrow",
+            "pt": "Inquietação pelo amanhã",
+            "fr": "Inquiétude pour demain"
           },
           "responseTitle": {
-            "es": "Suelta el mañana",
-            "en": "Let go of tomorrow",
-            "pt": "Solte o amanhã",
-            "fr": "Lâche le lendemain"
+            "es": "Confía tu mañana al Señor",
+            "en": "Entrust your tomorrow to the Lord",
+            "pt": "Confie o seu amanhã ao Senhor",
+            "fr": "Confiez votre lendemain au Seigneur"
           },
           "responseText": {
-            "es": "La preocupación intenta mantener despierto lo que Dios te invita a entregar. Esta noche, tu tarea no es controlar el futuro, sino confiarlo a sus manos.",
-            "en": "Worry tries to keep awake what God invites you to surrender. Tonight, your task is not to control the future, but to trust it into His hands.",
-            "pt": "A preocupação tenta manter acordado aquilo que Deus convida você a entregar. Esta noite, sua tarefa não é controlar o futuro, mas confiá-lo nas mãos Dele.",
-            "fr": "L'inquiétude tente de garder éveillé ce que Dieu vous invite à remettre. Ce soir, votre tâche n'est pas de contrôler l'avenir, mais de le confier entre ses mains."
+            "es": "Las dudas sobre el futuro suelen robarnos el descanso, pero Dios ya está en tu mañana.",
+            "en": "Doubts about the future often rob us of rest, but God is already in your tomorrow.",
+            "pt": "As dúvidas sobre o futuro costumam nos roubar o descanso, mas Deus já está no seu amanhã.",
+            "fr": "Les doutes sur l'avenir nous volent souvent notre repos, mais Dieu est déjà dans votre lendemain."
           },
           "verses": [
             "1 Pedro 5:7"
           ],
           "reflectionHeader": {
-            "es": "Dios cuida de ti",
-            "en": "God cares for you",
-            "pt": "Deus cuida de você",
-            "fr": "Dieu prend soin de vous"
+            "es": "Soltando el control de lo incierto",
+            "en": "Releasing control of the uncertain",
+            "pt": "Soltando o controle do incerto",
+            "fr": "Lâcher prise sur l'incertain"
           },
           "reflection": {
-            "es": "Respira con calma y reconoce que no todo depende de ti. Hay asuntos que necesitan orden, decisiones que vendrán a su tiempo y respuestas que todavía no ves. Pero ninguna de esas cosas está fuera del cuidado de Dios. Pon nombre a tus preocupaciones, entrégalas una por una, y deja que tu mente descanse bajo la certeza de que el Señor cuida de ti con amor constante.",
-            "en": "Breathe calmly and recognize that not everything depends on you. There are matters that need order, decisions that will come in due time, and answers you don't see yet. But none of those things are outside of God's care. Name your worries, surrender them one by one, and let your mind rest under the certainty that the Lord cares for you with constant love.",
-            "pt": "Respire com calma e reconheça que nem tudo depende de você. Há assuntos que precisam de ordem, decisões que virão a seu tempo e respostas que você ainda não vê. Mas nenhuma dessas coisas está fora do cuidado de Deus. Dê nome às suas preocupações, entregue-as uma a uma e deixe sua mente descansar sob a certeza de que o Senhor cuida de você com amor constante.",
-            "fr": "Respirez calmement et reconnaissez que tout ne dépend pas de vous. Il y a des sujets qui nécessitent de l'ordre, des décisions qui viendront en leur temps et des réponses que vous ne voyez pas encore. Mais aucune de ces choses n'est hors du soin de Dieu. Nommez vos inquiétudes, remettez-les une à une, et laissez votre esprit se reposer sous la certitude que le Seigneur prend soin de vous avec un amour constant."
+            "es": "Antes de dormir, deposita cada pensamiento ansioso en las manos del Padre. Él promete cuidar de ti y de tus seres queridos. Entrégale la noche y duerme confiado.",
+            "en": "Before sleeping, place every anxious thought in the Father's hands. He promises to take care of you and your loved ones. Hand the night over to Him and sleep securely.",
+            "pt": "Antes de dormir, deposite cada pensamento ansioso nas mãos do Pai. Ele promete cuidar de você e de seus entes queridos. Entregue-lhe a noite e durma confiante.",
+            "fr": "Avant de vous endormir, déposez chaque pensée anxieuse entre les mains du Père. Il promet de prendre soin de vous et de vos proches. Confiez-lui la nuit et dormez en paix."
           }
         },
         {
           "id": "paz",
           "label": {
-            "es": "Estoy en paz",
-            "en": "I am at peace",
-            "pt": "Estou em paz",
-            "fr": "Je suis en paix"
+            "es": "La serenidad del alma",
+            "en": "Serenity of the soul",
+            "pt": "A serenidade da alma",
+            "fr": "La sérénité de l'âme"
           },
           "responseTitle": {
-            "es": "Permanece en esa paz",
-            "en": "Remain in that peace",
-            "pt": "Permaneça nessa paz",
-            "fr": "Demeure dans cette paix"
+            "es": "La paz que sobrepasa entendimiento",
+            "en": "Peace that surpasses understanding",
+            "pt": "A paz que excede o entendimento",
+            "fr": "La paix qui surpasse toute intelligence"
           },
           "responseText": {
-            "es": "La paz de Dios no siempre significa ausencia de problemas; muchas veces es su presencia guardando tu interior en medio de todo.",
-            "en": "God's peace doesn't always mean the absence of trouble; often it is His presence guarding your inner self in the midst of everything.",
-            "pt": "A paz de Deus nem sempre significa ausência de problemas; muitas vezes é a Sua presença guardando o seu interior no meio de tudo.",
-            "fr": "La paix de Dieu ne signifie pas toujours l'absence de problèmes ; c'est souvent sa présence qui garde votre cœur au milieu de tout."
+            "es": "Experimentar calma en el espíritu es un hermoso regalo que renueva nuestras fuerzas.",
+            "en": "Experiencing calm in the spirit is a beautiful gift that renews our strength.",
+            "pt": "Experimentar calma no espírito é um belo presente que renova nossas forças.",
+            "fr": "Faire l'expérience du calme dans l'esprit est un beau cadeau qui renouvelle nos forces."
           },
           "verses": [
-            "Filipenses 4:7"
+            "Salmos 4:8"
           ],
           "reflectionHeader": {
-            "es": "Noche serena",
-            "en": "Serene night",
-            "pt": "Noite serena",
-            "fr": "Nuit sereine"
+            "es": "Morando en la quietud divina",
+            "en": "Dwelling in divine quietness",
+            "pt": "Habitando na quietude divina",
+            "fr": "Demeurer dans le calme divin"
           },
           "reflection": {
-            "es": "Recibe esta paz como un regalo, no como algo que tienes que fabricar. Si tu corazón está tranquilo, protégelo de cargas innecesarias y pensamientos que no pertenecen a esta noche. Dios te permite descansar porque su presencia guarda tu mente y tu corazón. Permanece en gratitud, cierra el día con confianza y permite que la serenidad de Cristo acompañe tu sueño.",
-            "en": "Receive this peace as a gift, not as something you have to manufacture. If your heart is calm, protect it from unnecessary burdens and thoughts that do not belong to tonight. God allows you to rest because His presence guards your mind and heart. Remain in gratitude, close the day with confidence, and let the serenity of Christ accompany your sleep.",
-            "pt": "Receba esta paz como um presente, não como algo que você precisa fabricar. Se o seu coração está tranquilo, proteja-o de fardos desnecessários e pensamentos que não pertencem a esta noite. Deus permite que você descanse porque a Sua presença guarda a sua mente e o seu coração. Permaneça em gratidão, feche o dia com confiança e permita que a serenidade de Cristo acompanhe o seu sono.",
-            "fr": "Recevez cette paix comme un cadeau, non comme quelque chose que vous devez fabriquer. Si votre cœur est paisible, protégez-le des fardeaux inutiles et des pensées qui n'appartiennent pas à cette nuit. Dieu vous permet de vous reposer parce que sa présence garde votre esprit et votre cœur. Demeurez dans la gratitude, concluez la journée avec confiance et laissez la sérénité du Christ accompagner votre sommeil."
+            "es": "Agradece por esta quietud y permite que reconforte todo tu ser. La paz del Señor es un escudo protector durante la noche. Descansa bajo su dulce sombra.",
+            "en": "Give thanks for this quietness and allow it to comfort your whole being. The Lord's peace is a protective shield through the night. Rest under His sweet shadow.",
+            "pt": "Agradeça por esta quietude e permita que ela reconforte todo o seu ser. A paz do Senhor é um escudo protetor durante a noite. Descanse sob a sua doce sombra.",
+            "fr": "Rendez grâce pour ce calme et laissez-le réconforter tout votre être. La paix du Seigneur est un bouclier protecteur pendant la nuit. Reposez-vous sous son ombre douce."
           }
         },
         {
           "id": "cansancio",
           "label": {
-            "es": "Estoy agotado",
-            "en": "I am exhausted",
-            "pt": "Estou exausto",
-            "fr": "Je suis épuisé"
+            "es": "Agotamiento físico y mental",
+            "en": "Physical and mental exhaustion",
+            "pt": "Esgotamento físico e mental",
+            "fr": "Épuisement physique et mental"
           },
           "responseTitle": {
-            "es": "Ven al descanso",
-            "en": "Come to rest",
-            "pt": "Venha ao descanso",
-            "fr": "Viens au repos"
+            "es": "Un llamado al descanso en Jesús",
+            "en": "A call to rest in Jesus",
+            "pt": "Um chamado ao descanso em Jesus",
+            "fr": "Un appel au repos en Jésus"
           },
           "responseText": {
-            "es": "El cansancio también puede ser una invitación a recordar tus límites. Dios no te pide cargar más de lo que hoy puedes entregar en sus manos.",
-            "en": "Tiredness can also be an invitation to remember your limits. God does not ask you to carry more than you can place in His hands today.",
-            "pt": "O cansaço também pode ser um convite para lembrar os seus limites. Deus não pede que você carregue mais do que pode entregar nas mãos Dele hoje.",
-            "fr": "La fatigue peut aussi être une invitation à vous rappeler vos limites. Dieu ne vous demande pas de porter plus que ce que vous pouvez remettre entre ses mains aujourd'hui."
+            "es": "El cansancio nos recuerda la belleza de nuestra fragilidad y la necesidad de renovación.",
+            "en": "Weariness reminds us of the beauty of our fragility and the need for renewal.",
+            "pt": "O cansaço nos lembra a beleza da nossa fragilidade e a necessidade de renovação.",
+            "fr": "La fatigue nous rappelle la beauté de notre fragilité et le besoin de renouvellement."
           },
           "verses": [
             "Mateo 11:28"
           ],
           "reflectionHeader": {
-            "es": "Reposo para tu alma",
-            "en": "Rest for your soul",
-            "pt": "Repouso para a sua alma",
-            "fr": "Repos pour votre âme"
+            "es": "Renovando las fuerzas agotadas",
+            "en": "Renewing depleted strength",
+            "pt": "Renovando as forças esgotadas",
+            "fr": "Renouveler les forces épuisées"
           },
           "reflection": {
-            "es": "Permítete bajar el ritmo. Tu valor no se mide por todo lo que lograste hoy ni por lo que quedó pendiente. Jesús llama a los cansados no para exigirles más, sino para darles descanso verdadero. Esta noche, entrega tu cuerpo, tu mente y tus emociones al cuidado del Padre. Que cada respiración sea una forma de soltar y cada minuto de sueño sea recibido como restauración.",
-            "en": "Allow yourself to slow down. Your worth is not measured by all you accomplished today nor by what was left pending. Jesus calls the weary not to demand more from them, but to give them true rest. Tonight, surrender your body, mind, and emotions to the Father's care. May every breath be a way of letting go and every minute of sleep be received as restoration.",
-            "pt": "Permita-se desacelerar. O seu valor não é medido por tudo o que você alcançou hoje nem pelo que ficou pendente. Jesus chama os cansados não para exigir mais deles, mas para lhes dar o descanso verdadeiro. Esta noite, entregue o seu corpo, a sua mente e as suas emoções ao cuidado do Pai. Que cada respiração seja uma forma de soltar e cada minuto de sono seja recebido como restauração.",
-            "fr": "Permettez-vous de ralentir. Votre valeur ne se mesure pas à tout ce que vous avez accompli aujourd'hui ni à ce qui est resté en attente. Jésus appelle les fatigués non pour exiger davantage d'eux, mais pour leur donner un repos véritable. Ce soir, remettez votre corps, votre esprit et vos émotions au soin du Père. Que chaque respiration soit une façon de lâcher prise et chaque minute de sommeil reçue comme une restauration."
+            "es": "No hay culpa en sentirse fatigado. Dios diseñó la noche para la restauración de tu cuerpo y mente. Entrega tus cargas al Señor y déjate sostener en su descanso restaurador.",
+            "en": "There is no guilt in feeling tired. God designed the night for the restoration of your body and mind. Hand your burdens to the Lord and let yourself be held in His restoring rest.",
+            "pt": "Não há culpa em se sentir cansado. Deus projetou a noite para a restauração do seu corpo e mente. Entregue seus fardos ao Senhor e deixe-se sustentar em seu descanso restaurador.",
+            "fr": "Il n'y a pas de culpabilité a se sentir fatigué. Dieu a conçu la nuit pour la restauration de votre corps et de votre esprit. Confiez vos fardeaux au Seigneur et laissez-vous soutenir dans son repos restaurateur."
           }
         },
         {
           "id": "fe",
           "label": {
-            "es": "Necesito renovar mi fe",
-            "en": "I need to renew my faith",
-            "pt": "Preciso renovar minha fé",
-            "fr": "J'ai besoin de renouveler ma foi"
+            "es": "Confianza firme en Dios",
+            "en": "Firm trust in God",
+            "pt": "Firme confiança em Deus",
+            "fr": "Confiance ferme en Dieu"
           },
           "responseTitle": {
-            "es": "La fe vuelve a levantarse",
-            "en": "Faith rises again",
-            "pt": "A fé volta a se levantar",
-            "fr": "La foi se relève"
+            "es": "Caminando con esperanza",
+            "en": "Walking with hope",
+            "pt": "Caminhando com esperança",
+            "fr": "Marcher avec espérance"
           },
           "responseText": {
-            "es": "Cuando la fe se siente débil, no significa que Dios esté lejos. A veces la fe se renueva en una oración sencilla y honesta al final del día.",
-            "en": "When faith feels weak, it doesn't mean God is far away. Sometimes faith is renewed in a simple and honest prayer at the end of the day.",
-            "pt": "Quando a fé parece fraca, não significa que Deus esteja longe. Às vezes, a fé se renova em uma oração simples e honesta ao final do dia.",
-            "fr": "Lorsque la foi semble faible, cela ne signifie pas que Dieu est loin. Parfois, la foi se renouvelle dans une prière simple et honnête à la fin de la journée."
+            "es": "Mantener viva la fe nos permite ver la mano de Dios actuando en cada detalle.",
+            "en": "Keeping faith alive allows us to see God's hand at work in every detail.",
+            "pt": "Manter viva a fé nos permite ver a mão de Deus atuando em cada detalhe.",
+            "fr": "Garder la foi vivante nous permet de voir la main de Dieu à l'œuvre dans chaque détail."
           },
           "verses": [
-            "2 Corintios 4:8"
+            "Hebreos 11:1"
           ],
           "reflectionHeader": {
-            "es": "Sostenido por gracia",
-            "en": "Sustained by grace",
-            "pt": "Sustentado pela graça",
-            "fr": "Soutenu par la grâce"
+            "es": "Creciendo en la certeza divina",
+            "en": "Growing in divine certainty",
+            "pt": "Crescendo na certeza divina",
+            "fr": "Grandir dans la certitude divine"
           },
           "reflection": {
-            "es": "Dios no desprecia una fe pequeña ni una oración cansada. Si hoy hubo dudas, preguntas o momentos de debilidad, puedes traerlos sin vergüenza. La fe no siempre se siente fuerte; muchas veces permanece como una llama pequeña que Dios mismo protege. Descansa sabiendo que su gracia te sostiene incluso cuando tus fuerzas no alcanzan. Mañana habrá nueva misericordia, nueva claridad y una oportunidad más para caminar con Él.",
-            "en": "God does not despise a small faith or a tired prayer. If today there were doubts, questions, or moments of weakness, you can bring them without shame. Faith doesn't always feel strong; often it remains like a small flame that God Himself protects. Rest knowing that His grace sustains you even when your strength falls short. Tomorrow there will be new mercy, new clarity, and another opportunity to walk with Him.",
-            "pt": "Deus não despreza uma fé pequena nem uma oração cansada. Se hoje houve dúvidas, perguntas ou momentos de fraqueza, você pode trazê-los sem vergonha. A fé nem sempre se sente forte; muitas vezes permanece como uma pequena chama que o próprio Deus protege. Descanse sabendo que a Sua graça o sustenta mesmo quando as suas forças não alcançam. Amanhã haverá nova misericórdia, nova clareza e mais uma oportunidade para caminhar com Ele.",
-            "fr": "Dieu ne méprise pas une petite foi ni une prière fatiguée. S'il y a eu aujourd'hui des doutes, des questions ou des moments de faiblesse, vous pouvez les apporter sans honte. La foi ne se sent pas toujours forte ; elle reste souvent comme une petite flamme que Dieu lui-même protège. Reposez-vous en sachant que sa grâce vous soutient même lorsque vos forces ne suffisent pas. Demain, il y aura une nouvelle miséricorde, une nouvelle clarté et une opportunité de plus de marcher avec Lui."
+            "es": "Tu fe honra al Padre y transforma tu perspectiva. Al dormir esta noche, mantén la certeza de que Dios sigue obrando a tu favor, aun cuando tus ojos no lo vean.",
+            "en": "Your faith honors the Father and transforms your perspective. As you sleep tonight, keep the certainty that God continues working on your behalf, even when your eyes cannot see it.",
+            "pt": "Sua fé honra o Pai e transforma sua perspectiva. Ao dormir esta noite, mantenha a certeza de que Deus continua agindo a seu favor, mesmo quando seus olhos não veem.",
+            "fr": "Votre foi honore le Père et transforme votre perspective. En vous endormant ce soir, gardez la certitude que Dieu continue d'agir en votre faveur, même lorsque vos yeux ne le voient pas."
           }
         }
       ]
