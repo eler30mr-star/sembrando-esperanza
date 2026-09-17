@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-17",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -228,6 +228,236 @@
             "en": "Maintaining the balance between truth and charity is a constant challenge. By doing so today, you reflected the maturity of a follower of Jesus. Rest knowing that the integrity of your heart has honored the God of all truth.",
             "pt": "Manter o equilíbrio entre a verdade e a caridade é um desafio constante. Ao fazer isso hoje, você refletiu a maturidade de um seguidor de Jesus. Descanse sabendo que a integridade do seu coração honrou o Deus de toda a verdade.",
             "fr": "Maintenir l'équilibre entre la vérité et la charité est un défi constant. En le faisant aujourd'hui, vous avez reflété la maturité d'un disciple de Jésus. Reposez-vous en sachant que l'intégrité de votre cœur a honoré le Dieu de toute vérité."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿En qué momento hoy sentiste más clara la guía de Dios?",
+        "en": "When did you feel God's guidance most clearly today?",
+        "pt": "Em qual momento hoje você sentiu a direção de Deus mais clara?",
+        "fr": "À quel moment aujourd'hui avez-vous senti le guide de Dieu ?"
+      },
+      "options": [
+        {
+          "id": "solitude_prayer_direction",
+          "label": {
+            "es": "En la oración a solas",
+            "en": "In quiet prayer",
+            "pt": "Na oração a sós",
+            "fr": "Pendant la prière"
+          },
+          "responseTitle": {
+            "es": "Buscando la luz divina en silencio",
+            "en": "Seeking divine light in silence",
+            "pt": "Buscando a luz divina em silêncio",
+            "fr": "Chercher la lumière dans le silence"
+          },
+          "responseText": {
+            "es": "Cuando apartas tiempo a solas con el Señor, tu mente se aclara y tu corazón reconoce su voz apacible.",
+            "en": "When you set aside time alone with the Lord, your mind clears and your heart recognizes His gentle voice.",
+            "pt": "Quando você reserva um tempo a sós com o Senhor, sua mente se clareia e seu coração reconhece Sua voz suave.",
+            "fr": "Lorsque vous prenez du temps seul avec le Seigneur, votre esprit s'éclaircit et votre cœur reconnaît sa douce voix."
+          },
+          "verses": [
+            "Salmos 143:8"
+          ],
+          "reflectionHeader": {
+            "es": "El descanso de la intimidad con Dios",
+            "en": "The rest of intimacy with God",
+            "pt": "O descanso da intimidade com Deus",
+            "fr": "Le repos de l'intimité avec Dieu"
+          },
+          "reflection": {
+            "es": "Al terminar este día, agradece por esos momentos de quietud donde Dios te mostró el camino. Que esta noche repenses tu confianza en Él, sabiendo que mañana seguirá guiando tus pasos.",
+            "en": "As this day ends, give thanks for those quiet moments where God showed you the way. Rest tonight knowing that tomorrow He will continue to lead your steps.",
+            "pt": "Ao terminar este dia, agradeça por aqueles momentos de quietude onde Deus lhe mostrou o caminho. Descanse esta noite sabendo que amanhã Ele continuará a guiar seus passos.",
+            "fr": "Alors que cette journée se termine, rendez grâce pour ces moments de calme où Dieu vous a montré la voie. Reposez-vous ce soir en sachant qu'il continuera à guider vos pas demain."
+          }
+        },
+        {
+          "id": "wise_godly_advice",
+          "label": {
+            "es": "En un consejo sabio",
+            "en": "Through wise advice",
+            "pt": "Em um conselho sábio",
+            "fr": "Dans un sage conseil"
+          },
+          "responseTitle": {
+            "es": "Escuchando a Dios a través de otros",
+            "en": "Listening to God through others",
+            "pt": "Ouvindo a Deus através dos outros",
+            "fr": "Écouter Dieu à travers les autres"
+          },
+          "responseText": {
+            "es": "Dios a menudo usa la sabiduría de personas cercanas para darte claridad en momentos de duda.",
+            "en": "God often uses the wisdom of people around you to bring clarity in moments of doubt.",
+            "pt": "Deus muitas vezes usa a sabedoria das pessoas ao seu redor para trazer clareza em momentos de dúvida.",
+            "fr": "Dieu utilise souvent la sagesse de ceux qui vous entourent pour apporter de la clarté dans les moments de doute."
+          },
+          "verses": [
+            "Proverbios 12:15"
+          ],
+          "reflectionHeader": {
+            "es": "Agradece por la comunidad sabia",
+            "en": "Grateful for a wise community",
+            "pt": "Agradeça pela comunidade sábia",
+            "fr": "Reconnaissant pour une communauté"
+          },
+          "reflection": {
+            "es": "Reconocer que no caminamos solos es un signo de humildad. Descansa hoy con la paz de saber que el Señor pone consejeros sabios a tu alrededor para cuidar tu caminar.",
+            "en": "Recognizing that we do not walk alone is a sign of humility. Rest today with the peace of knowing the Lord places wise counselors around you to guide your walk.",
+            "pt": "Reconhecer que não caminhamos sozinhos é um sinal de humildade. Descanse hoje com a paz de saber que o Senhor coloca conselheiros sábios ao seu redor para cuidar do seu caminhar.",
+            "fr": "Reconnaître que nous ne marchons pas seuls est un signe d'humilité. Reposez-vous aujourd'hui dans la paix de savoir que le Seigneur place des conseillers sages autour de vous."
+          }
+        },
+        {
+          "id": "unexpected_plan_change",
+          "label": {
+            "es": "En un cambio de planes",
+            "en": "In a change of plans",
+            "pt": "Na mudança de planos",
+            "fr": "Un changement de plan"
+          },
+          "responseTitle": {
+            "es": "La providencia en los desvíos",
+            "en": "Providence in unexpected detours",
+            "pt": "A providência nos desvios",
+            "fr": "La providence dans les détours"
+          },
+          "responseText": {
+            "es": "Un cambio inesperado de planes puede ser la forma en que Dios te protege o abre una nueva puerta.",
+            "en": "An unexpected change in plans can be God's way of protecting you or opening a new door.",
+            "pt": "Uma mudança inesperada de planos pode ser a maneira de Deus proteger você ou abrir uma nova porta.",
+            "fr": "Un changement de plan inattendu peut être la façon dont Dieu vous protège ou ouvre une nouvelle porte."
+          },
+          "verses": [
+            "Proverbios 16:9"
+          ],
+          "reflectionHeader": {
+            "es": "Confianza total en su soberanía",
+            "en": "Total trust in His sovereignty",
+            "pt": "Confiança total na sua soberania",
+            "fr": "Confiance en sa souveraineté"
+          },
+          "reflection": {
+            "es": "Aunque las interrupciones puedan parecer molestas al principio, Dios las utiliza para reorientar nuestras prioridades. Entrega tus planes de mañana en las manos de Aquel que gobierna todo.",
+            "en": "Although interruptions may seem frustrating at first, God uses them to realign our priorities. Entrust your plans for tomorrow into the hands of the One who rules all.",
+            "pt": "Embora as interrupções possam parecer incomodas no início, Deus as usa para reorientar nossas prioridades. Entregue seus planos de amanhã nas mãos Daquele que governa tudo.",
+            "fr": "Bien que les interruptions puissent sembler ennuyeuses au début, Dieu les utilise pour réorienter nos priorités. Confiez vos projets de demain entre les mains de Celui qui règne sur tout."
+          }
+        },
+        {
+          "id": "scripture_light_today",
+          "label": {
+            "es": "Al leer la Biblia",
+            "en": "Reading the Bible",
+            "pt": "Ao ler a Bíblia",
+            "fr": "En lisant la Bible"
+          },
+          "responseTitle": {
+            "es": "Iluminados por la Palabra viva",
+            "en": "Illuminated by the Living Word",
+            "pt": "Iluminados pela Palavra viva",
+            "fr": "Éclairés par la Parole vivante"
+          },
+          "responseText": {
+            "es": "Cuando buscas la guía de Dios en la Biblia, sus verdades disipan la incertidumbre de tu día.",
+            "en": "When you seek God's guidance in the Bible, His truths dispel the day's uncertainty.",
+            "pt": "Quando você busca a direção de Deus na Bíblia, as verdades dEle dissipam a incerteza do seu dia.",
+            "fr": "Lorsque vous cherchez le guide de Dieu dans la Bible, ses vérités dissipent l'incertitude de votre journée."
+          },
+          "verses": [
+            "Salmos 119:105"
+          ],
+          "reflectionHeader": {
+            "es": "La firmeza de la verdad bíblica",
+            "en": "The firmness of biblical truth",
+            "pt": "A firmeza da verdade bíblica",
+            "fr": "La fermeté de la vérité"
+          },
+          "reflection": {
+            "es": "Las Escrituras son una lámpara continua para tus pasos. Medita esta noche en lo que el Señor habló a tu corazón hoy y duerme afirmado en sus promesas eternas.",
+            "en": "Scripture is a constant lamp to your feet. Meditate tonight on what the Lord spoke to your heart today and sleep secure in His eternal promises.",
+            "pt": "As Escrituras são uma lâmpada constante para os seus passos. Medite esta noite no que o Senhor falou ao seu coração hoje e durma firmado em suas promessas eternas.",
+            "fr": "L'Écriture est une lampe constante pour vos pas. Méditez ce soir sur ce que le Seigneur a dit à votre cœur aujourd'hui et dormez affermi dans ses promesses éternelles."
+          }
+        },
+        {
+          "id": "decision_inner_peace",
+          "label": {
+            "es": "Al tomar una decisión",
+            "en": "Making a hard choice",
+            "pt": "Ao tomar uma decisão",
+            "fr": "En faisant un choix"
+          },
+          "responseTitle": {
+            "es": "Paz que confirma una decisión",
+            "en": "Peace confirming a decision",
+            "pt": "Paz que confirma uma decisão",
+            "fr": "La paix qui confirme un choix"
+          },
+          "responseText": {
+            "es": "Sentir la paz de Dios al tomar una postura muestra que estás alineando tu voluntad con la suya.",
+            "en": "Feeling God's peace as you make a choice shows that you are aligning your heart with His will.",
+            "pt": "Sentir a paz de Deus ao tomar uma decisão mostra que você está alinhando sua vontade com a dEle.",
+            "fr": "Ressentir la paix de Dieu en prenant une décision montre que vous alignez votre volonté sur la sienne."
+          },
+          "verses": [
+            "Filipenses 4:7"
+          ],
+          "reflectionHeader": {
+            "es": "El árbitro perfecto en tu alma",
+            "en": "The perfect umpire in your soul",
+            "pt": "O árbitro perfeito em sua alma",
+            "fr": "L'arbitre parfait dans votre âme"
+          },
+          "reflection": {
+            "es": "La paz de Cristo actúa como un guardián en tu mente y corazón. Cierra este día descansando en que las decisiones tomadas con la bendición de Dios traerán buen fruto.",
+            "en": "The peace of Christ acts as a guard over your mind and heart. Close this day resting assured that choices made under God's blessing will bear good fruit.",
+            "pt": "A paz de Cristo atua como um guardião em sua mente e coração. Termine este dia descansando com a certeza de que as decisões tomadas sob a bênção de Deus darão bons frutos.",
+            "fr": "La paix du Christ agit comme un gardien sur votre esprit et votre cœur. Terminez cette journée en vous reposant sur le fait que les choix faits avec la bénédiction de Dieu porteront de bons fruits."
+          }
+        },
+        {
+          "id": "patient_waiting_moment",
+          "label": {
+            "es": "Esperando con paciencia",
+            "en": "Waiting patiently",
+            "pt": "Esperando com paciência",
+            "fr": "En attendant patiemment"
+          },
+          "responseTitle": {
+            "es": "Escuchando en medio de la espera",
+            "en": "Listening in the midst of waiting",
+            "pt": "Ouvindo no meio da espera",
+            "fr": "Écouter au milieu de l'attente"
+          },
+          "responseText": {
+            "es": "Esperar a que Dios aclare las cosas es también un acto de obediencia guiado por su Espíritu.",
+            "en": "Waiting for God to bring clarity is itself an act of obedience guided by His Spirit.",
+            "pt": "Esperar que Deus esclareça as coisas é também um ato de obediência guiado pelo Seu Espírito.",
+            "fr": "Attendre que Dieu clarifie les choses est aussi un acte d'obéissance guidé par son Esprit."
+          },
+          "verses": [
+            "Isaías 30:21"
+          ],
+          "reflectionHeader": {
+            "es": "La firmeza de no apresurarse",
+            "en": "The strength of not rushing",
+            "pt": "A firmeza de não se apressar",
+            "fr": "La force de ne pas se hâter"
+          },
+          "reflection": {
+            "es": "Saber esperar el momento oportuno de Dios demuestra madurez espiritual. Descansa esta noche sabiendo que Él llegará a tiempo y que tu espera jamás será en vano.",
+            "en": "Knowing how to wait for God's timing displays spiritual maturity. Rest tonight knowing that He is never late and your waiting will not be in vain.",
+            "pt": "Saber esperar o tempo de Deus demonstra maturidade espiritual. Descanse esta noite sabendo que Ele nunca se atrasa e que sua espera não será em vão.",
+            "fr": "Savoir attendre le moment de Dieu fait preuve de maturité spirituelle. Reposez-vous ce soir en sachant qu'il n'est jamais en retard et que votre attente ne sera pas vaine."
           }
         }
       ]
