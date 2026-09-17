@@ -6,227 +6,228 @@
       "date": "2026-09-16",
       "status": "published",
       "generatedBy": "gemini",
+      "generatorVersion": 2,
       "question": {
-        "es": "¿Qué resuena más en tu corazón al reflexionar sobre este día que termina?",
-        "en": "What resonates most in your heart as you reflect on this day that is ending?",
-        "pt": "O que mais ressoa em seu coração ao refletir sobre este dia que termina?",
-        "fr": "Qu'est-ce qui résonne le plus dans votre cœur en réfléchissant à cette journée qui s'achève ?"
+        "es": "¿Cómo influyó tu comunicación en la paz de tu entorno hoy?",
+        "en": "How did your communication influence the peace around you today?",
+        "pt": "Como sua comunicação influenciou a paz ao seu redor hoje?",
+        "fr": "Comment votre communication a-t-elle influencé la paix autour de vous aujourd'hui ?"
       },
       "options": [
         {
-          "id": "gratitud",
+          "id": "kind_words_sown",
           "label": {
-            "es": "Gratitud por la fidelidad de Dios",
-            "en": "Gratitude for God's faithfulness",
-            "pt": "Gratidão pela fidelidade de Deus",
-            "fr": "Gratitude pour la fidélité de Dieu"
+            "es": "Palabras dulces",
+            "en": "Sweet words",
+            "pt": "Palavras doces",
+            "fr": "Paroles douces"
           },
           "responseTitle": {
-            "es": "Un corazón agradecido descansa",
-            "en": "A grateful heart rests",
-            "pt": "Um coração grato descansa",
-            "fr": "Un cœur reconnaissant se repose"
+            "es": "Un bálsamo para el alma",
+            "en": "A balm for the soul",
+            "pt": "Um bálsamo para a alma",
+            "fr": "Un baume pour l'âme"
           },
           "responseText": {
-            "es": "Reconocer la mano de Dios al final del día trae una paz profunda a nuestra alma.",
-            "en": "Recognizing God's hand at the end of the day brings deep peace to our soul.",
-            "pt": "Reconhecer a mão de Deus no final do dia traz uma paz profunda à nossa alma.",
-            "fr": "Reconnaître la main de Dieu à la fin de la journée apporte une paix profonde à notre âme."
+            "es": "Tus palabras trajeron dulzura a quienes te escucharon.",
+            "en": "Your words brought sweetness to those who heard you.",
+            "pt": "Suas palavras trouxeram doçura a quem o ouviu.",
+            "fr": "Vos paroles ont apporté de la douceur à ceux qui vous ont écouté."
           },
           "verses": [
-            "Salmos 103:2"
+            "Proverbios 16:24"
           ],
           "reflectionHeader": {
-            "es": "Guardando las bendiciones del día",
-            "en": "Treasuring the day's blessings",
-            "pt": "Guardando as bênçãos do dia",
-            "fr": "Garder en mémoire les bénédictions du jour"
+            "es": "Panal de miel",
+            "en": "Honeycomb of grace",
+            "pt": "Favo de mel",
+            "fr": "Rayon de miel"
           },
           "reflection": {
-            "es": "Al cerrar los ojos, recuerda que cada detalle bueno recibido hoy es una muestra del amor divino. Descansa sabiendo que el mismo Dios que cuidó de ti hoy, velará por ti mañana.",
-            "en": "As you close your eyes, remember that every good detail received today is a sign of divine love. Rest knowing that the same God who cared for you today will watch over you tomorrow.",
-            "pt": "Ao fechar os olhos, lembre-se de que cada bom detalhe recebido hoje é um sinal do amor divino. Descanse sabendo que o mesmo Deus que cuidou de você hoje, cuidará de você amanhã.",
-            "fr": "En fermant les yeux, rappelez-vous que chaque bon détail reçu aujourd'hui est une marque de l'amour divin. Reposez-vous en sachant que le même Dieu qui a pris soin de vous aujourd'hui veillera sur vous demain."
+            "es": "Hablar con amabilidad no es solo una norma de cortesía, es un reflejo del Espíritu Santo en ti. Al cerrar el día, agradece a Dios por permitirte ser un canal de consuelo y salud para los demás a través de tu hablar.",
+            "en": "Speaking with kindness is not just a rule of courtesy; it is a reflection of the Holy Spirit within you. As the day ends, thank God for allowing you to be a channel of comfort and health to others through your speech.",
+            "pt": "Falar com gentileza não é apenas uma regra de cortesia; é um reflexo do Espírito Santo em você. Ao encerrar o dia, agradeça a Deus por permitir que você seja um canal de conforto e saúde para os outros através da sua fala.",
+            "fr": "Parler avec gentillesse n'est pas seulement une règle de courtoisie ; c'est un reflet de l'Esprit Saint en vous. En terminant la journée, remerciez Dieu de vous avoir permis d'être un canal de réconfort et de santé pour les autres par votre parole."
           }
         },
         {
-          "id": "dificultad",
+          "id": "reconciliation_sought",
           "label": {
-            "es": "El peso de las dificultades",
-            "en": "The weight of difficulties",
-            "pt": "O peso das dificuldades",
-            "fr": "Le poids des difficultés"
+            "es": "Pedir perdón",
+            "en": "Seeking forgiveness",
+            "pt": "Pedir perdão",
+            "fr": "Demander pardon"
           },
           "responseTitle": {
-            "es": "Dios está cerca de ti",
-            "en": "God is near to you",
-            "pt": "Deus está perto de você",
-            "fr": "Dieu est proche de vous"
+            "es": "Puentes restaurados",
+            "en": "Restored bridges",
+            "pt": "Pontes restauradas",
+            "fr": "Ponts restaurés"
           },
           "responseText": {
-            "es": "Los momentos difíciles no duran para siempre, pero el cuidado del Señor permanece firme.",
-            "en": "Difficult moments do not last forever, but the Lord's care remains steadfast.",
-            "pt": "Os momentos difíceis não duram para sempre, mas o cuidado do Senhor permanece firme.",
-            "fr": "Les moments difficiles ne durent pas toujours, mais le soin du Seigneur demeure ferme."
+            "es": "Tuviste la humildad de sanar una relación herida.",
+            "en": "You had the humility to heal a wounded relationship.",
+            "pt": "Você teve a humildade de curar um relacionamento ferido.",
+            "fr": "Vous avez eu l'humilité de guérir une relation blessée."
           },
           "verses": [
-            "Salmos 34:18"
+            "Colosenses 3:13"
           ],
           "reflectionHeader": {
-            "es": "Entregando las cargas de hoy",
-            "en": "Surrendering today's burdens",
-            "pt": "Entregando os fardos de hoje",
-            "fr": "Déposer les fardeaux d'aujourd'hui"
+            "es": "El valor de la paz",
+            "en": "The value of peace",
+            "pt": "O valor da paz",
+            "fr": "La valeur de la paix"
           },
           "reflection": {
-            "es": "No tienes que resolver todo esta noche. Permite que el Señor sostenga la aflicción de hoy mientras tú te dispones a dormir. En su presencia hay refugio para las batallas vividas.",
-            "en": "You don't have to solve everything tonight. Allow the Lord to hold today's affliction while you prepare to sleep. In His presence, there is refuge for the battles fought.",
-            "pt": "Você não precisa resolver tudo esta noite. Permita que o Senhor sustente a aflição de hoje enquanto você se dispõe a dormir. Em sua presença há refúgio para as batalhas vividas.",
-            "fr": "Vous n'avez pas à tout résoudre ce soir. Laissez le Seigneur porter l'affliction d'aujourd'hui pendant que vous vous préparez à dormir. En sa présence, il y a un refuge pour les combats menés."
+            "es": "Reconocer un error o perdonar una ofensa es el acto más puro de amor cristiano. Esta noche, descansa en la libertad que trae la reconciliación, sabiendo que has actuado conforme al corazón perdonador de nuestro Padre.",
+            "en": "Admitting a mistake or forgiving an offense is the purest act of Christian love. Tonight, rest in the freedom that reconciliation brings, knowing you have acted according to the forgiving heart of our Father.",
+            "pt": "Reconhecer um erro ou perdoar uma ofensa é o ato mais puro de amor cristão. Esta noite, descanse na liberdade que a reconciliação traz, sabendo que você agiu de acordo com o coração perdoador de nosso Pai.",
+            "fr": "Reconnaître une erreur ou pardonner une offense est l'acte le plus pur de l'amour chrétien. Ce soir, reposez-vous dans la liberté qu'apporte la réconciliation, sachant que vous avez agi selon le cœur compatissant de notre Père."
           }
         },
         {
-          "id": "preocupacion",
+          "id": "holy_silence",
           "label": {
-            "es": "Inquietud por el mañana",
-            "en": "Anxiety about tomorrow",
-            "pt": "Inquietação pelo amanhã",
-            "fr": "Inquiétude pour demain"
+            "es": "Silencio sabio",
+            "en": "Wise silence",
+            "pt": "Silêncio sábio",
+            "fr": "Silence sage"
           },
           "responseTitle": {
-            "es": "Confía tu mañana al Señor",
-            "en": "Entrust your tomorrow to the Lord",
-            "pt": "Confie o seu amanhã ao Senhor",
-            "fr": "Confiez votre lendemain au Seigneur"
+            "es": "Prudencia que protege",
+            "en": "Prudence that protects",
+            "pt": "Prudência que protege",
+            "fr": "Prudence qui protège"
           },
           "responseText": {
-            "es": "Las dudas sobre el futuro suelen robarnos el descanso, pero Dios ya está en tu mañana.",
-            "en": "Doubts about the future often rob us of rest, but God is already in your tomorrow.",
-            "pt": "As dúvidas sobre o futuro costumam nos roubar o descanso, mas Deus já está no seu amanhã.",
-            "fr": "Les doutes sur l'avenir nous volent souvent notre repos, mais Dieu est déjà dans votre lendemain."
+            "es": "Elegiste callar antes de responder con ira.",
+            "en": "You chose to remain silent rather than respond in anger.",
+            "pt": "Você escolheu calar-se em vez de responder com ira.",
+            "fr": "Vous avez choisi de vous taire plutôt que de répondre avec colère."
           },
           "verses": [
-            "1 Pedro 5:7"
+            "Proverbios 17:28"
           ],
           "reflectionHeader": {
-            "es": "Soltando el control de lo incierto",
-            "en": "Releasing control of the uncertain",
-            "pt": "Soltando o controle do incerto",
-            "fr": "Lâcher prise sur l'incertain"
+            "es": "Dominio propio",
+            "en": "Self-control",
+            "pt": "Domínio próprio",
+            "fr": "Maîtrise de soi"
           },
           "reflection": {
-            "es": "Antes de dormir, deposita cada pensamiento ansioso en las manos del Padre. Él promete cuidar de ti y de tus seres queridos. Entrégale la noche y duerme confiado.",
-            "en": "Before sleeping, place every anxious thought in the Father's hands. He promises to take care of you and your loved ones. Hand the night over to Him and sleep securely.",
-            "pt": "Antes de dormir, deposite cada pensamento ansioso nas mãos do Pai. Ele promete cuidar de você e de seus entes queridos. Entregue-lhe a noite e durma confiante.",
-            "fr": "Avant de vous endormir, déposez chaque pensée anxieuse entre les mains du Père. Il promet de prendre soin de vous et de vos proches. Confiez-lui la nuit et dormez en paix."
+            "es": "A veces, la fe se manifiesta más en lo que no decimos. Tu silencio de hoy fue una victoria espiritual sobre el impulso. Dios honra tu esfuerzo por mantener la paz interior y exterior a través del control de tu lengua.",
+            "en": "Sometimes, faith is most evident in what we do not say. Your silence today was a spiritual victory over impulse. God honors your effort to maintain inner and outer peace through the control of your tongue.",
+            "pt": "Às vezes, a fé se manifesta mais naquilo que não dizemos. Seu silêncio hoje foi uma vitória espiritual sobre o impulso. Deus honra seu esforço para manter a paz interior e exterior através do controle da sua língua.",
+            "fr": "Parfois, la foi est plus évidente dans ce que nous ne disons pas. Votre silence d'aujourd'hui a été une victoire spirituelle sur l'impulsion. Dieu honore votre effort pour maintenir la paix intérieure et extérieure par la maîtrise de votre langue."
           }
         },
         {
-          "id": "paz",
+          "id": "attentive_listening",
           "label": {
-            "es": "La serenidad del alma",
-            "en": "Serenity of the soul",
-            "pt": "A serenidade da alma",
-            "fr": "La sérénité de l'âme"
+            "es": "Escucha activa",
+            "en": "Active listening",
+            "pt": "Escuta ativa",
+            "fr": "Écoute active"
           },
           "responseTitle": {
-            "es": "La paz que sobrepasa entendimiento",
-            "en": "Peace that surpasses understanding",
-            "pt": "A paz que excede o entendimento",
-            "fr": "La paix qui surpasse toute intelligence"
+            "es": "Presencia y atención",
+            "en": "Presence and attention",
+            "pt": "Presença e atenção",
+            "fr": "Présence et attention"
           },
           "responseText": {
-            "es": "Experimentar calma en el espíritu es un hermoso regalo que renueva nuestras fuerzas.",
-            "en": "Experiencing calm in the spirit is a beautiful gift that renews our strength.",
-            "pt": "Experimentar calma no espírito é um belo presente que renova nossas forças.",
-            "fr": "Faire l'expérience du calme dans l'esprit est un beau cadeau qui renouvelle nos forces."
+            "es": "Diste tu tiempo para escuchar el corazón de otro.",
+            "en": "You gave your time to listen to someone else's heart.",
+            "pt": "Você deu seu tempo para ouvir o coração de outra pessoa.",
+            "fr": "Vous avez donné de votre temps pour écouter le cœur d'un autre."
           },
           "verses": [
-            "Salmos 4:8"
+            "Santiago 1:19"
           ],
           "reflectionHeader": {
-            "es": "Morando en la quietud divina",
-            "en": "Dwelling in divine quietness",
-            "pt": "Habitando na quietude divina",
-            "fr": "Demeurer dans le calme divin"
+            "es": "Oídos que aman",
+            "en": "Ears that love",
+            "pt": "Ouvidos que amam",
+            "fr": "Des oreilles qui aiment"
           },
           "reflection": {
-            "es": "Agradece por esta quietud y permite que reconforte todo tu ser. La paz del Señor es un escudo protector durante la noche. Descansa bajo su dulce sombra.",
-            "en": "Give thanks for this quietness and allow it to comfort your whole being. The Lord's peace is a protective shield through the night. Rest under His sweet shadow.",
-            "pt": "Agradeça por esta quietude e permita que ela reconforte todo o seu ser. A paz do Senhor é um escudo protetor durante a noite. Descanse sob a sua doce sombra.",
-            "fr": "Rendez grâce pour ce calme et laissez-le réconforter tout votre être. La paix du Seigneur est un bouclier protecteur pendant la nuit. Reposez-vous sous son ombre douce."
+            "es": "Escuchar es una forma profunda de hospitalidad. Al prestar atención a los demás, les recordaste que son valiosos para Dios. Tu prontitud para oír hoy es una semilla de amor que dará frutos de confianza y sanidad.",
+            "en": "Listening is a profound form of hospitality. By paying attention to others, you reminded them that they are valuable to God. Your readiness to hear today is a seed of love that will bear fruit in trust and healing.",
+            "pt": "Ouvir é uma forma profunda de hospitalidade. Ao prestar atenção aos outros, você os lembrou de que são valiosos para Deus. Sua prontidão em ouvir hoje é uma semente de amor que dará frutos de confiança e cura.",
+            "fr": "L'écoute est une forme profonde d'hospitalité. En prêtant attention aux autres, vous leur avez rappelé qu'ils sont précieux pour Dieu. Votre empressement à écouter aujourd'hui est une semence d'amour qui portera des fruits de confiance et de guérison."
           }
         },
         {
-          "id": "cansancio",
+          "id": "uplifting_encouragement",
           "label": {
-            "es": "Agotamiento físico y mental",
-            "en": "Physical and mental exhaustion",
-            "pt": "Esgotamento físico e mental",
-            "fr": "Épuisement physique et mental"
+            "es": "Ánimo sincero",
+            "en": "Sincere encouragement",
+            "pt": "Ânimo sincero",
+            "fr": "Encouragement sincère"
           },
           "responseTitle": {
-            "es": "Un llamado al descanso en Jesús",
-            "en": "A call to rest in Jesus",
-            "pt": "Um chamado ao descanso em Jesus",
-            "fr": "Un appel au repos en Jésus"
+            "es": "Manos que levantan",
+            "en": "Hands that lift up",
+            "pt": "Mãos que levantam",
+            "fr": "Des mains qui relèvent"
           },
           "responseText": {
-            "es": "El cansancio nos recuerda la belleza de nuestra fragilidad y la necesidad de renovación.",
-            "en": "Weariness reminds us of the beauty of our fragility and the need for renewal.",
-            "pt": "O cansaço nos lembra a beleza da nossa fragilidade e a necessidade de renovação.",
-            "fr": "La fatigue nous rappelle la beauté de notre fragilité et le besoin de renouvellement."
+            "es": "Tus palabras fortalecieron a alguien cansado.",
+            "en": "Your words strengthened someone who was weary.",
+            "pt": "Suas palavras fortaleceram alguém que estava cansado.",
+            "fr": "Vos paroles ont fortifié quelqu'un de fatigué."
           },
           "verses": [
-            "Mateo 11:28"
+            "Efesios 4:29"
           ],
           "reflectionHeader": {
-            "es": "Renovando las fuerzas agotadas",
-            "en": "Renewing depleted strength",
-            "pt": "Renovando as forças esgotadas",
-            "fr": "Renouveler les forces épuisées"
+            "es": "Edificando esperanza",
+            "en": "Building hope",
+            "pt": "Edificando esperança",
+            "fr": "Bâtir l'espérance"
           },
           "reflection": {
-            "es": "No hay culpa en sentirse fatigado. Dios diseñó la noche para la restauración de tu cuerpo y mente. Entrega tus cargas al Señor y déjate sostener en su descanso restaurador.",
-            "en": "There is no guilt in feeling tired. God designed the night for the restoration of your body and mind. Hand your burdens to the Lord and let yourself be held in His restoring rest.",
-            "pt": "Não há culpa em se sentir cansado. Deus projetou a noite para a restauração do seu corpo e mente. Entregue seus fardos ao Senhor e deixe-se sustentar em seu descanso restaurador.",
-            "fr": "Il n'y a pas de culpabilité a se sentir fatigué. Dieu a conçu la nuit pour la restauration de votre corps et de votre esprit. Confiez vos fardeaux au Seigneur et laissez-vous soutenir dans son repos restaurateur."
+            "es": "Hoy decidiste usar tu voz para construir y no para destruir. Al animar a tu prójimo, te conviertes en un arquitecto de la esperanza divina. Que el Señor te renueve mientras descansas, pues diste de tu propia fuerza para levantar a otros.",
+            "en": "Today you chose to use your voice to build up rather than tear down. By encouraging your neighbor, you become an architect of divine hope. May the Lord renew you as you rest, for you gave of your own strength to lift others.",
+            "pt": "Hoje você decidiu usar sua voz para construir e não para destruir. Ao encorajar seu próximo, você se torna um arquiteto da esperança divina. Que o Senhor o renove enquanto você descansa, pois deu de sua própria força para levantar outros.",
+            "fr": "Aujourd'hui, vous avez choisi d'utiliser votre voix pour construire et non pour détruire. En encourageant votre prochain, vous devenez un architecte de l'espérance divine. Que le Seigneur vous renouvelle pendant que vous vous reposez, car vous avez donné de votre propre force pour relever les autres."
           }
         },
         {
-          "id": "fe",
+          "id": "truth_in_love",
           "label": {
-            "es": "Confianza firme en Dios",
-            "en": "Firm trust in God",
-            "pt": "Firme confiança em Deus",
-            "fr": "Confiance ferme en Dieu"
+            "es": "Verdad con amor",
+            "en": "Truth in love",
+            "pt": "Verdade com amor",
+            "fr": "Vérité avec amour"
           },
           "responseTitle": {
-            "es": "Caminando con esperanza",
-            "en": "Walking with hope",
-            "pt": "Caminhando com esperança",
-            "fr": "Marcher avec espérance"
+            "es": "Honestidad mansa",
+            "en": "Gentle honesty",
+            "pt": "Honestidade mansa",
+            "fr": "Honnêteté douce"
           },
           "responseText": {
-            "es": "Mantener viva la fe nos permite ver la mano de Dios actuando en cada detalle.",
-            "en": "Keeping faith alive allows us to see God's hand at work in every detail.",
-            "pt": "Manter viva a fé nos permite ver a mão de Deus atuando em cada detalhe.",
-            "fr": "Garder la foi vivante nous permet de voir la main de Dieu à l'œuvre dans chaque détail."
+            "es": "Hablaste con la verdad sin perder la ternura.",
+            "en": "You spoke the truth without losing tenderness.",
+            "pt": "Você falou a verdade sem perder a ternura.",
+            "fr": "Vous avez dit la vérité sans perdre votre tendresse."
           },
           "verses": [
-            "Hebreos 11:1"
+            "Efesios 4:15"
           ],
           "reflectionHeader": {
-            "es": "Creciendo en la certeza divina",
-            "en": "Growing in divine certainty",
-            "pt": "Crescendo na certeza divina",
-            "fr": "Grandir dans la certitude divine"
+            "es": "Creciendo en Cristo",
+            "en": "Growing in Christ",
+            "pt": "Crescendo em Cristo",
+            "fr": "Grandir en Christ"
           },
           "reflection": {
-            "es": "Tu fe honra al Padre y transforma tu perspectiva. Al dormir esta noche, mantén la certeza de que Dios sigue obrando a tu favor, aun cuando tus ojos no lo vean.",
-            "en": "Your faith honors the Father and transforms your perspective. As you sleep tonight, keep the certainty that God continues working on your behalf, even when your eyes cannot see it.",
-            "pt": "Sua fé honra o Pai e transforma sua perspectiva. Ao dormir esta noite, mantenha a certeza de que Deus continua agindo a seu favor, mesmo quando seus olhos não veem.",
-            "fr": "Votre foi honore le Père et transforme votre perspective. En vous endormant ce soir, gardez la certitude que Dieu continue d'agir en votre faveur, même lorsque vos yeux ne le voient pas."
+            "es": "Mantener el equilibrio entre la verdad y la caridad es un desafío constante. Al hacerlo hoy, reflejaste la madurez de un seguidor de Jesús. Descansa sabiendo que la integridad de tu corazón ha honrado al Dios de toda verdad.",
+            "en": "Maintaining the balance between truth and charity is a constant challenge. By doing so today, you reflected the maturity of a follower of Jesus. Rest knowing that the integrity of your heart has honored the God of all truth.",
+            "pt": "Manter o equilíbrio entre a verdade e a caridade é um desafio constante. Ao fazer isso hoje, você refletiu a maturidade de um seguidor de Jesus. Descanse sabendo que a integridade do seu coração honrou o Deus de toda a verdade.",
+            "fr": "Maintenir l'équilibre entre la vérité et la charité est un défi constant. En le faisant aujourd'hui, vous avez reflété la maturité d'un disciple de Jésus. Reposez-vous en sachant que l'intégrité de votre cœur a honoré le Dieu de toute vérité."
           }
         }
       ]
