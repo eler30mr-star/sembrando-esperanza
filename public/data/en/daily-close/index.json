@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-17",
+  "updatedAt": "2026-09-18",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -458,6 +458,236 @@
             "en": "Knowing how to wait for God's timing displays spiritual maturity. Rest tonight knowing that He is never late and your waiting will not be in vain.",
             "pt": "Saber esperar o tempo de Deus demonstra maturidade espiritual. Descanse esta noite sabendo que Ele nunca se atrasa e que sua espera não será em vão.",
             "fr": "Savoir attendre le moment de Dieu fait preuve de maturité spirituelle. Reposez-vous ce soir en sachant qu'il n'est jamais en retard et que votre attente ne sera pas vaine."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿Cómo pusiste tus dones al servicio de los demás hoy?",
+        "en": "How did you put your gifts to serve others today?",
+        "pt": "Como você colocou seus dons a serviço dos outros hoje?",
+        "fr": "Comment avez-vous mis vos dons au service des autres aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "dones_practicos",
+          "label": {
+            "es": "Usando mis dones",
+            "en": "Using my gifts",
+            "pt": "Usando meus dons",
+            "fr": "En utilisant mes dons"
+          },
+          "responseTitle": {
+            "es": "Dones en acción",
+            "en": "Gifts in action",
+            "pt": "Dons em ação",
+            "fr": "Dons en action"
+          },
+          "responseText": {
+            "es": "Has empleado tus habilidades naturales para bendecir a otros.",
+            "en": "You have used your natural abilities to bless others.",
+            "pt": "Você usou suas habilidades naturais para abençoar outros.",
+            "fr": "Vous avez utilisé vos capacités naturelles pour bénir les autres."
+          },
+          "verses": [
+            "1 Pedro 4:10"
+          ],
+          "reflectionHeader": {
+            "es": "Instrumentos de su gracia",
+            "en": "Instruments of His grace",
+            "pt": "Instrumentos de Sua graça",
+            "fr": "Instruments de Sa grâce"
+          },
+          "reflection": {
+            "es": "Dios te ha dotado de talentos específicos para edificar a Su iglesia y al mundo. Al cerrar este día, reconoce que cada habilidad que usaste hoy es un reflejo de la gracia de Dios fluyendo a través de ti para el bien común.",
+            "en": "God has endowed you with specific talents to build up His church and the world. As you close this day, recognize that every skill you used today is a reflection of God's grace flowing through you for the common good.",
+            "pt": "Deus o dotou de talentos específicos para edificar Sua igreja e o mundo. Ao encerrar este dia, reconheça que cada habilidade que você usou hoje é um reflexo da graça de Deus fluindo através de você para o bem comum.",
+            "fr": "Dieu vous a doté de talents spécifiques pour édifier Son Église et le monde. En terminant cette journée, reconnaissez que chaque compétence utilisée aujourd'hui est le reflet de la grâce de Dieu coulant à travers vous pour le bien commun."
+          }
+        },
+        {
+          "id": "tiempo_regalado",
+          "label": {
+            "es": "Brindando mi tiempo",
+            "en": "Giving my time",
+            "pt": "Dando meu tempo",
+            "fr": "En donnant mon temps"
+          },
+          "responseTitle": {
+            "es": "El valor del tiempo",
+            "en": "The value of time",
+            "pt": "O valor do tempo",
+            "fr": "La valeur du temps"
+          },
+          "responseText": {
+            "es": "Escuchar y acompañar es una de las mayores formas de amor.",
+            "en": "Listening and accompanying is one of the greatest forms of love.",
+            "pt": "Ouvir e acompanhar é uma das maiores formas de amor.",
+            "fr": "Écouter et accompagner est l'une des plus grandes formes d'amour."
+          },
+          "verses": [
+            "Gálatas 6:2"
+          ],
+          "reflectionHeader": {
+            "es": "Compañerismo fiel",
+            "en": "Faithful fellowship",
+            "pt": "Companheirismo fiel",
+            "fr": "Compagnonnage fidèle"
+          },
+          "reflection": {
+            "es": "En un mundo apresurado, detenerte para escuchar a alguien es un acto sagrado. Al llevar las cargas de otros hoy, has cumplido la ley de Cristo. Descansa sabiendo que tu presencia fue un regalo del cielo para alguien más.",
+            "en": "In a hurried world, stopping to listen to someone is a sacred act. By carrying others' burdens today, you have fulfilled the law of Christ. Rest knowing that your presence was a gift from heaven for someone else.",
+            "pt": "Em um mundo apressado, parar para ouvir alguém é um ato sagrado. Ao carregar os fardos dos outros hoje, você cumpriu a lei de Cristo. Descanse sabendo que sua presença foi um presente do céu para outra pessoa.",
+            "fr": "Dans un monde pressé, s'arrêter pour écouter quelqu'un est un acte sacré. En portant les fardeaux des autres aujourd'hui, vous avez accompli la loi du Christ. Reposez-vous en sachant que votre présence était un cadeau du ciel pour autrui."
+          }
+        },
+        {
+          "id": "generosidad_sincera",
+          "label": {
+            "es": "Dando con alegría",
+            "en": "Giving with joy",
+            "pt": "Dando com alegria",
+            "fr": "Donner avec joie"
+          },
+          "responseTitle": {
+            "es": "Corazón desprendido",
+            "en": "A detached heart",
+            "pt": "Coração desprendido",
+            "fr": "Un cœur détaché"
+          },
+          "responseText": {
+            "es": "Tu generosidad material o emocional ha sembrado esperanza.",
+            "en": "Your material or emotional generosity has sown hope.",
+            "pt": "Sua generosidade material ou emocional semeou esperança.",
+            "fr": "Votre générosité matérielle ou émotionnelle a semé l'espoir."
+          },
+          "verses": [
+            "2 Corintios 9:7"
+          ],
+          "reflectionHeader": {
+            "es": "Semillas de provisión",
+            "en": "Seeds of provision",
+            "pt": "Sementes de provisão",
+            "fr": "Semences de provision"
+          },
+          "reflection": {
+            "es": "Dios ama al dador alegre porque la generosidad refleja Su propio carácter. Al compartir lo que tienes, has demostrado que confías en que Dios es tu fuente. Esa semilla que plantaste hoy dará frutos de paz en tu propia vida.",
+            "en": "God loves a cheerful giver because generosity reflects His own character. By sharing what you have, you have shown that you trust God as your source. That seed you planted today will bear fruit of peace in your own life.",
+            "pt": "Deus ama quem dá com alegria porque a generosidade reflete Seu próprio caráter. Ao compartilhar o que você tem, você demonstrou que confia que Deus é sua fonte. Essa semente que você plantou hoje dará frutos de paz em sua própria vida.",
+            "fr": "Dieu aime celui qui donne avec joie car la générosité reflète Son propre caractère. En partageant ce que vous avez, vous avez montré que vous faites confiance à Dieu comme source. Cette graine plantée aujourd'hui portera des fruits de paix dans votre propre vie."
+          }
+        },
+        {
+          "id": "sabiduria_guiada",
+          "label": {
+            "es": "Guiando a otros",
+            "en": "Guiding others",
+            "pt": "Guiando outros",
+            "fr": "Guider les autres"
+          },
+          "responseTitle": {
+            "es": "Palabras de vida",
+            "en": "Words of life",
+            "pt": "Palavras de vida",
+            "fr": "Paroles de vie"
+          },
+          "responseText": {
+            "es": "Has compartido la verdad de Dios para iluminar el camino ajeno.",
+            "en": "You have shared God's truth to light someone else's path.",
+            "pt": "Você compartilhou a verdade de Deus para iluminar o caminho de outra pessoa.",
+            "fr": "Vous avez partagé la vérité de Dieu pour éclairer le chemin d'autrui."
+          },
+          "verses": [
+            "2 Timoteo 2:2"
+          ],
+          "reflectionHeader": {
+            "es": "Luz en la oscuridad",
+            "en": "Light in the darkness",
+            "pt": "Luz na escuridão",
+            "fr": "Lumière dans l'ombre"
+          },
+          "reflection": {
+            "es": "Instruir y guiar a otros es un servicio eterno. Al compartir tu sabiduría y fe hoy, has invertido en el reino de los cielos. Dios usó tu voz para traer claridad y ánimo a quien lo necesitaba.",
+            "en": "Instructing and guiding others is an eternal service. By sharing your wisdom and faith today, you have invested in the kingdom of heaven. God used your voice to bring clarity and encouragement to someone in need.",
+            "pt": "Instruir e guiar os outros é um serviço eterno. Ao compartilhar sua sabedoria e fé hoje, você investiu no reino dos céus. Deus usou sua voz para trazer clareza e encorajamento a quem precisava.",
+            "fr": "Instruire et guider les autres est un service éternel. En partageant votre sagesse et votre foi aujourd'hui, vous avez investi dans le royaume des cieux. Dieu a utilisé votre voix pour apporter clarté et encouragement à quelqu'un dans le besoin."
+          }
+        },
+        {
+          "id": "hospitalidad_cristiana",
+          "label": {
+            "es": "Siendo hospitalario",
+            "en": "Being hospitable",
+            "pt": "Sendo hospitaleiro",
+            "fr": "Être hospitalier"
+          },
+          "responseTitle": {
+            "es": "Puertas abiertas",
+            "en": "Open doors",
+            "pt": "Portas abertas",
+            "fr": "Portes ouvertes"
+          },
+          "responseText": {
+            "es": "Hacer sentir a alguien bienvenido es reflejar el hogar de Dios.",
+            "en": "Making someone feel welcome reflects God's home.",
+            "pt": "Fazer alguém se sentir bem-vindo é refletir o lar de Deus.",
+            "fr": "Faire en sorte que quelqu'un se sente le bienvenu reflète la maison de Dieu."
+          },
+          "verses": [
+            "Hebreos 13:2"
+          ],
+          "reflectionHeader": {
+            "es": "Acogida del alma",
+            "en": "Welcoming the soul",
+            "pt": "Acolhimento da alma",
+            "fr": "Accueil de l'âme"
+          },
+          "reflection": {
+            "es": "La hospitalidad va más allá de un espacio físico; es abrir el corazón. Hoy diste refugio y aceptación a otra persona. Recuerda que al servir al prójimo con amor, también estás sirviendo a Dios de manera especial.",
+            "en": "Hospitality goes beyond physical space; it is opening the heart. Today you gave refuge and acceptance to another person. Remember that by serving others with love, you are also serving God in a special way.",
+            "pt": "A hospitalidade vai além do espaço físico; é abrir o coração. Hoje você deu refúgio e aceitação a outra pessoa. Lembre-se que ao servir o próximo com amor, você também está servindo a Deus de forma especial.",
+            "fr": "L'hospitalité va au-delà de l'espace physique ; c'est ouvrir son cœur. Aujourd'hui, vous avez offert refuge et acceptation à une autre personne. Rappelez-vous qu'en servant les autres avec amour, vous servez aussi Dieu d'une manière spéciale."
+          }
+        },
+        {
+          "id": "intercesion_espiritual",
+          "label": {
+            "es": "Orando por alguien",
+            "en": "Praying for someone",
+            "pt": "Orando por alguém",
+            "fr": "Prier pour quelqu'un"
+          },
+          "responseTitle": {
+            "es": "Servicio invisible",
+            "en": "Invisible service",
+            "pt": "Serviço invisível",
+            "fr": "Service invisible"
+          },
+          "responseText": {
+            "es": "Tu oración secreta es un arma poderosa a favor de otros.",
+            "en": "Your secret prayer is a powerful weapon for others.",
+            "pt": "Sua oração secreta é uma arma poderosa em favor dos outros.",
+            "fr": "Votre prière secrète est une arme puissante en faveur des autres."
+          },
+          "verses": [
+            "Santiago 5:16"
+          ],
+          "reflectionHeader": {
+            "es": "Puente de fe",
+            "en": "Bridge of faith",
+            "pt": "Ponte de fé",
+            "fr": "Pont de foi"
+          },
+          "reflection": {
+            "es": "A veces, el mayor servicio que podemos ofrecer es llevar el nombre de alguien ante Dios. Aunque sea un acto invisible, tu intercesión ha movido la mano del Padre hoy. Duerme en paz, sabiendo que tus oraciones tienen propósito.",
+            "en": "Sometimes, the greatest service we can offer is to bring someone's name before God. Even as an invisible act, your intercession moved the Father's hand today. Sleep in peace, knowing that your prayers have purpose.",
+            "pt": "Às vezes, o maior serviço que podemos oferecer é levar o nome de alguém diante de Deus. Mesmo sendo um ato invisível, sua intercessão moveu a mão do Pai hoje. Durma em paz, sabendo que suas orações têm propósito.",
+            "fr": "Parfois, le plus grand service que nous puissions offrir est de porter le nom de quelqu'un devant Dieu. Bien qu'il s'agisse d'un acte invisible, votre intercession a fait bouger la main du Père aujourd'hui. Dormez en paix, sachant que vos prières ont un but."
           }
         }
       ]
