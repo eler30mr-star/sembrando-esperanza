@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-18",
+  "updatedAt": "2026-09-19",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -688,6 +688,236 @@
             "en": "Sometimes, the greatest service we can offer is to bring someone's name before God. Even as an invisible act, your intercession moved the Father's hand today. Sleep in peace, knowing that your prayers have purpose.",
             "pt": "Às vezes, o maior serviço que podemos oferecer é levar o nome de alguém diante de Deus. Mesmo sendo um ato invisível, sua intercessão moveu a mão do Pai hoje. Durma em paz, sabendo que suas orações têm propósito.",
             "fr": "Parfois, le plus grand service que nous puissions offrir est de porter le nom de quelqu'un devant Dieu. Bien qu'il s'agisse d'un acte invisible, votre intercession a fait bouger la main du Père aujourd'hui. Dormez en paix, sachant que vos prières ont un but."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿Cómo cuidaste la rectitud de tu corazón hoy?",
+        "en": "How did you guard your heart's integrity today?",
+        "pt": "Como você cuidou da integridade do seu coração hoje?",
+        "fr": "Comment as-tu veillé sur l'intégrité de ton cœur aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "integridad_honestidad",
+          "label": {
+            "es": "Siendo honesto",
+            "en": "Being honest",
+            "pt": "Sendo honesto",
+            "fr": "En étant honnête"
+          },
+          "responseTitle": {
+            "es": "La integridad nos guía",
+            "en": "Integrity guides us",
+            "pt": "A integridade nos guia",
+            "fr": "L'intégrité nous guide"
+          },
+          "responseText": {
+            "es": "Optar por la verdad, incluso en lo pequeño, refleja el carácter de Cristo en ti.",
+            "en": "Choosing truth, even in small things, reflects Christ's character in you.",
+            "pt": "Optar pela verdade, mesmo nas pequenas coisas, reflete o caráter de Cristo em você.",
+            "fr": "Choisir la vérité, même dans les petites choses, reflète le caractère de Christ en toi."
+          },
+          "verses": [
+            "Proverbios 11:3"
+          ],
+          "reflectionHeader": {
+            "es": "Caminando en la luz",
+            "en": "Walking in the light",
+            "pt": "Caminhando na luz",
+            "fr": "Marcher dans la lumière"
+          },
+          "reflection": {
+            "es": "Al cerrar el día, descansa en la paz que da una conciencia limpia ante Dios. La honestidad no solo es una acción, es un refugio para tu alma.",
+            "en": "As the day ends, rest in the peace of a clear conscience before God. Honesty is not just an action; it is a refuge for your soul.",
+            "pt": "Ao encerrar o dia, descanse na paz que uma consciência limpa diante de Deus proporciona. A honestidade não é apenas uma ação; é um refúgio para sua alma.",
+            "fr": "En fin de journée, repose-toi dans la paix d'une conscience pure devant Dieu. L'honnêteté n'est pas seulement une action, c'est un refuge pour ton âme."
+          }
+        },
+        {
+          "id": "integridad_comparacion",
+          "label": {
+            "es": "Sin compararme",
+            "en": "No comparison",
+            "pt": "Sem comparações",
+            "fr": "Sans comparaison"
+          },
+          "responseTitle": {
+            "es": "Corazón en calma",
+            "en": "A heart at peace",
+            "pt": "Coração em calma",
+            "fr": "Cœur apaisé"
+          },
+          "responseText": {
+            "es": "Valoraste tu propio camino sin mirar con envidia o deseo el progreso de los demás.",
+            "en": "You valued your own path without looking at others' progress with envy or desire.",
+            "pt": "Você valorizou seu próprio caminho sem olhar com inveja ou desejo para o progresso alheio.",
+            "fr": "Tu as valorisé ton propre chemin sans regarder le progrès des autres avec envie."
+          },
+          "verses": [
+            "Proverbios 14:30"
+          ],
+          "reflectionHeader": {
+            "es": "Tu identidad en Él",
+            "en": "Your identity in Him",
+            "pt": "Sua identidade n'Ele",
+            "fr": "Ton identité en Lui"
+          },
+          "reflection": {
+            "es": "Dios te ha dado una porción única; alégrate en lo que Él está haciendo en tu vida hoy. El descanso llega cuando dejas de competir.",
+            "en": "God has given you a unique portion; rejoice in what He is doing in your life today. Rest comes when you stop competing.",
+            "pt": "Deus lhe deu uma porção única; alegre-se no que Ele está fazendo em sua vida hoje. O descanso chega quando você para de competir.",
+            "fr": "Dieu t'a donné une part unique ; réjouis-toi de ce qu'Il fait dans ta vie aujourd'hui. Le repos vient quand tu arrêtes de rivaliser."
+          }
+        },
+        {
+          "id": "integridad_pureza",
+          "label": {
+            "es": "Buscando pureza",
+            "en": "Seeking purity",
+            "pt": "Buscando pureza",
+            "fr": "Cherchant la pureté"
+          },
+          "responseTitle": {
+            "es": "Mirada limpia",
+            "en": "A clean gaze",
+            "pt": "Olhar limpo",
+            "fr": "Regard pur"
+          },
+          "responseText": {
+            "es": "Cuidaste lo que entra por tus ojos y lo que cultivas en tus pensamientos más íntimos.",
+            "en": "You guarded what enters through your eyes and what you cultivate in your innermost thoughts.",
+            "pt": "Você cuidou do que entra pelos seus olhos e do que cultiva em seus pensamentos mais íntimos.",
+            "fr": "Tu as veillé sur ce qui entre par tes yeux et sur ce que tu cultives dans tes pensées secrètes."
+          },
+          "verses": [
+            "Mateo 5:8"
+          ],
+          "reflectionHeader": {
+            "es": "Santidad cotidiana",
+            "en": "Daily holiness",
+            "pt": "Santidade cotidiana",
+            "fr": "Sainteté quotidienne"
+          },
+          "reflection": {
+            "es": "Un corazón que busca la pureza tiene una visión más clara de la presencia de Dios. Él renueva tu mente mientras descansas.",
+            "en": "A heart that seeks purity has a clearer vision of God's presence. He renews your mind while you rest.",
+            "pt": "Um coração que busca a pureza tem uma visão mais clara da presença de Deus. Ele renova sua mente enquanto você descansa.",
+            "fr": "Un cœur qui cherche la pureté a une vision plus claire de la présence de Dieu. Il renouvelle ton esprit pendant que tu te reposes."
+          }
+        },
+        {
+          "id": "integridad_dominio",
+          "label": {
+            "es": "Soltando el enojo",
+            "en": "Releasing anger",
+            "pt": "Soltando a ira",
+            "fr": "Lâcher la colère"
+          },
+          "responseTitle": {
+            "es": "Calma en el alma",
+            "en": "Calm in the soul",
+            "pt": "Calma na alma",
+            "fr": "Calme dans l'âme"
+          },
+          "responseText": {
+            "es": "No permitiste que el resentimiento echara raíces después de un conflicto o molestia.",
+            "en": "You did not allow resentment to take root after a conflict or annoyance.",
+            "pt": "Você não permitiu que o ressentimento criasse raízes após um conflito ou aborrecimento.",
+            "fr": "Tu n'as pas permis au ressentiment de s'enraciner après un conflit ou un agacement."
+          },
+          "verses": [
+            "Efesios 4:26"
+          ],
+          "reflectionHeader": {
+            "es": "Victoria sobre el impulso",
+            "en": "Victory over impulse",
+            "pt": "Vitória sobre o impulso",
+            "fr": "Victoire sur l'impulsion"
+          },
+          "reflection": {
+            "es": "Entregar tus frustraciones al Señor te permite dormir con el espíritu libre. El dominio propio es un fruto que guarda tu paz.",
+            "en": "Surrendering your frustrations to the Lord allows you to sleep with a free spirit. Self-control is a fruit that guards your peace.",
+            "pt": "Entregar suas frustrações ao Senhor permite que você durma com o espírito livre. O domínio próprio é um fruto que guarda sua paz.",
+            "fr": "Remettre tes frustrations au Seigneur te permet de dormir l'esprit libre. La maîtrise de soi est un fruit qui garde ta paix."
+          }
+        },
+        {
+          "id": "integridad_humildad",
+          "label": {
+            "es": "Eligiendo humildad",
+            "en": "Choosing humility",
+            "pt": "Escolhendo humildade",
+            "fr": "Choisir l'humilité"
+          },
+          "responseTitle": {
+            "es": "Corazón enseñable",
+            "en": "A teachable heart",
+            "pt": "Coração ensinável",
+            "fr": "Cœur enseignable"
+          },
+          "responseText": {
+            "es": "Reconociste tu necesidad de Dios y aceptaste corrección o ayuda con un espíritu sencillo.",
+            "en": "You recognized your need for God and accepted correction or help with a simple spirit.",
+            "pt": "Você reconheceu sua necessidade de Deus e aceitou correção ou ajuda com um espírito simples.",
+            "fr": "Tu as reconnu ton besoin de Dieu et accepté la correction ou l'aide avec un esprit simple."
+          },
+          "verses": [
+            "Santiago 4:6"
+          ],
+          "reflectionHeader": {
+            "es": "Gracia para el humilde",
+            "en": "Grace for the humble",
+            "pt": "Graça para o humilde",
+            "fr": "Grâce pour l'humble"
+          },
+          "reflection": {
+            "es": "La verdadera grandeza se encuentra en servir sin buscar aplausos. Esta noche, descansa en la gracia que Dios da a los humildes.",
+            "en": "True greatness is found in serving without seeking applause. Tonight, rest in the grace that God gives to the humble.",
+            "pt": "A verdadeira grandeza é encontrada em servir sem buscar aplausos. Esta noite, descanse na graça que Deus dá aos humildes.",
+            "fr": "La vraie grandeur se trouve dans le service sans chercher d'applaudissements. Ce soir, repose-toi dans la grâce que Dieu donne aux humbles."
+          }
+        },
+        {
+          "id": "integridad_perdon",
+          "label": {
+            "es": "Perdonando pronto",
+            "en": "Forgiving quickly",
+            "pt": "Perdoando logo",
+            "fr": "Pardonner vite"
+          },
+          "responseTitle": {
+            "es": "Libre de cargas",
+            "en": "Free from burdens",
+            "pt": "Livre de cargas",
+            "fr": "Libre de fardeaux"
+          },
+          "responseText": {
+            "es": "Decidiste no guardar las ofensas del día, liberando a otros y a ti mismo de esa atadura.",
+            "en": "You decided not to hold onto the day's offenses, freeing others and yourself from that bond.",
+            "pt": "Você decidiu não guardar as ofensas do dia, libertando os outros e a si mesmo dessa amarra.",
+            "fr": "Tu as décidé de ne pas garder les offenses du jour, te libérant ainsi que les autres de ce lien."
+          },
+          "verses": [
+            "Colosenses 3:13"
+          ],
+          "reflectionHeader": {
+            "es": "El regalo del perdón",
+            "en": "The gift of forgiveness",
+            "pt": "O presente do perdão",
+            "fr": "Le cadeau du pardon"
+          },
+          "reflection": {
+            "es": "Perdonar es soltar un peso que no te corresponde cargar. Duerme tranquilo sabiendo que el amor de Dios cubre toda falta.",
+            "en": "To forgive is to release a weight you are not meant to carry. Sleep peacefully knowing that God's love covers all faults.",
+            "pt": "Perdoar é soltar um peso que você não deve carregar. Durma tranquilamente sabendo que o amor de Deus cobre toda falha.",
+            "fr": "Pardonner, c'est lâcher un poids que tu n'as pas à porter. Dors paisiblement en sachant que l'amour de Dieu couvre toute faute."
           }
         }
       ]
