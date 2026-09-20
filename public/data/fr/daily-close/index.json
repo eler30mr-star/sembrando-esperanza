@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-20",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -918,6 +918,236 @@
             "en": "To forgive is to release a weight you are not meant to carry. Sleep peacefully knowing that God's love covers all faults.",
             "pt": "Perdoar é soltar um peso que você não deve carregar. Durma tranquilamente sabendo que o amor de Deus cobre toda falha.",
             "fr": "Pardonner, c'est lâcher un poids que tu n'as pas à porter. Dors paisiblement en sachant que l'amour de Dieu couvre toute faute."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera diste fruto espiritual en este día?",
+        "en": "In what way did you bear spiritual fruit today?",
+        "pt": "De que maneira você deu frutos espirituais neste dia?",
+        "fr": "De quelle manière avez-vous porté du fruit spirituel aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "fruit_patience",
+          "label": {
+            "es": "Con paciencia",
+            "en": "With patience",
+            "pt": "Com paciência",
+            "fr": "Avec patience"
+          },
+          "responseTitle": {
+            "es": "Sembraste calma",
+            "en": "You sowed calm",
+            "pt": "Você semeou calma",
+            "fr": "Tu as semé le calme"
+          },
+          "responseText": {
+            "es": "Ser paciente es reflejar el carácter de Dios mientras esperamos Sus tiempos perfectos.",
+            "en": "Being patient is reflecting God's character while waiting for His perfect timing.",
+            "pt": "Ser paciente é refletir o caráter de Deus enquanto esperamos pelos Seus tempos perfeitos.",
+            "fr": "Être patient, c'est refléter le caractère de Dieu en attendant Son temps parfait."
+          },
+          "verses": [
+            "Santiago 5:7"
+          ],
+          "reflectionHeader": {
+            "es": "El fruto de la espera",
+            "en": "The fruit of waiting",
+            "pt": "O fruto da espera",
+            "fr": "Le fruit de l'attente"
+          },
+          "reflection": {
+            "es": "La paciencia no es solo esperar, sino la actitud con la que lo hacemos. Hoy elegiste confiar en el reloj de Dios, permitiendo que Su paz guarde tu corazón en lugar del afán por los resultados rápidos.",
+            "en": "Patience is not just waiting, but the attitude with which we do it. Today you chose to trust in God's clock, letting His peace guard your heart instead of the rush for quick results.",
+            "pt": "Paciência não é apenas esperar, mas a atitude com que o fazemos. Hoje você escolheu confiar no tempo de Deus, deixando que Sua paz guarde seu coração em vez da pressa por resultados rápidos.",
+            "fr": "La patience n'est pas seulement l'attente, mais l'attitude avec laquelle nous attendons. Aujourd'hui, tu as choisi de faire confiance au calendrier de Dieu, laissant Sa paix garder ton cœur au lieu de t'inquiéter pour des résultats rapides."
+          }
+        },
+        {
+          "id": "fruit_joy",
+          "label": {
+            "es": "Con alegría",
+            "en": "With joy",
+            "pt": "Com alegria",
+            "fr": "Dans la joie"
+          },
+          "responseTitle": {
+            "es": "Gozo en la esperanza",
+            "en": "Joy in hope",
+            "pt": "Gozo na esperança",
+            "fr": "Joie dans l'espérance"
+          },
+          "responseText": {
+            "es": "El gozo del Señor es tu fuerza, incluso cuando las circunstancias externas no son ideales.",
+            "en": "The joy of the Lord is your strength, even when external circumstances are not ideal.",
+            "pt": "A alegria do Senhor é a sua força, mesmo quando as circunstâncias externas não são ideais.",
+            "fr": "La joie du Seigneur est votre force, même lorsque les circonstances extérieures ne sont pas idéales."
+          },
+          "verses": [
+            "Habacuc 3:18"
+          ],
+          "reflectionHeader": {
+            "es": "Una fuente inagotable",
+            "en": "An inexhaustible source",
+            "pt": "Uma fonte inesgotável",
+            "fr": "Une source inépuisable"
+          },
+          "reflection": {
+            "es": "Tu alegría no depende de lo que sucede, sino de Quién está contigo. Descansa sabiendo que tu victoria es eterna y que Cristo es el motivo de tu sonrisa interior.",
+            "en": "Your joy does not depend on what happens, but on Who is with you. Rest knowing that your victory is eternal and that Christ is the reason for your inner smile.",
+            "pt": "Sua alegria não depende do que acontece, mas de Quem está com você. Descanse sabendo que sua vitória é eterna e que Cristo é o motivo do seu sorriso interior.",
+            "fr": "Votre joie ne dépend pas de ce qui arrive, mais de Qui est avec vous. Reposez-vous en sachant que votre victoire est éternelle et que Christ est la raison de votre sourire intérieur."
+          }
+        },
+        {
+          "id": "fruit_kindness",
+          "label": {
+            "es": "Siendo amable",
+            "en": "Being kind",
+            "pt": "Sendo bondoso",
+            "fr": "Par la bonté"
+          },
+          "responseTitle": {
+            "es": "Reflejaste Su bondad",
+            "en": "Reflected His kindness",
+            "pt": "Refletiu Sua bondade",
+            "fr": "Reflet de Sa bonté"
+          },
+          "responseText": {
+            "es": "Cada pequeño acto de bondad es una semilla del Reino de Dios plantada en la tierra.",
+            "en": "Every small act of kindness is a seed of the Kingdom of God planted on earth.",
+            "pt": "Cada pequeno ato de bondade é uma semente do Reino de Deus plantada na terra.",
+            "fr": "Chaque petit acte de bonté est une semence du Royaume de Dieu plantée sur terre."
+          },
+          "verses": [
+            "Gálatas 6:10"
+          ],
+          "reflectionHeader": {
+            "es": "Semillas de bendición",
+            "en": "Seeds of blessing",
+            "pt": "Sementes de bênção",
+            "fr": "Semences de bénédiction"
+          },
+          "reflection": {
+            "es": "Al tratar a otros con amor genuino, mostraste el corazón de Jesús. Esas acciones silenciosas y amables hablan más fuerte que las palabras, trayendo luz a quienes te rodean.",
+            "en": "By treating others with genuine love, you showed the heart of Jesus. Those silent and kind actions speak louder than words, bringing light to those around you.",
+            "pt": "Ao tratar os outros com amor genuíno, você mostrou o coração de Jesus. Essas ações silenciosas e gentis falam mais alto que as palavras, trazendo luz para quem está ao seu redor.",
+            "fr": "En traitant les autres avec un amour véritable, tu as montré le cœur de Jésus. Ces actions silencieuses et bienveillantes parlent plus fort que les mots, apportant de la lumière à ton entourage."
+          }
+        },
+        {
+          "id": "fruit_self_control",
+          "label": {
+            "es": "Con dominio propio",
+            "en": "Self-control",
+            "pt": "Domínio próprio",
+            "fr": "Maîtrise de soi"
+          },
+          "responseTitle": {
+            "es": "Victoria interior",
+            "en": "Inner victory",
+            "pt": "Vitória interior",
+            "fr": "Victoire intérieure"
+          },
+          "responseText": {
+            "es": "El dominio propio es la fortaleza del espíritu sobre los impulsos temporales del corazón.",
+            "en": "Self-control is the strength of the spirit over the temporary impulses of the heart.",
+            "pt": "O domínio próprio é a força do espírito sobre os impulsos temporários do coração.",
+            "fr": "La maîtrise de soi est la force de l'esprit sur les impulsions temporaires du cœur."
+          },
+          "verses": [
+            "2 Timoteo 1:7"
+          ],
+          "reflectionHeader": {
+            "es": "Gobernar el alma",
+            "en": "Governing the soul",
+            "pt": "Governar a alma",
+            "fr": "Gouverner l'âme"
+          },
+          "reflection": {
+            "es": "Decir 'no' a un impulso impulsivo es decir 'sí' a la voluntad de Dios. Tu integridad de hoy es el fundamento de tu paz de mañana; has actuado con la templanza que el Espíritu otorga.",
+            "en": "Saying 'no' to an impulsive urge is saying 'yes' to God's will. Your integrity today is the foundation of your peace tomorrow; you have acted with the temperance that the Spirit grants.",
+            "pt": "Dizer 'não' a um impulso impulsivo é dizer 'sim' à vontade de Deus. Sua integridade de hoje é o fundamento da sua paz de amanhã; você agiu com a temperança que o Espírito concede.",
+            "fr": "Dire 'non' à une impulsion, c'est dire 'oui' à la volonté de Dieu. Ton intégrité d'aujourd'hui est le fondement de ta paix de demain ; tu as agi avec la tempérance que l'Esprit accorde."
+          }
+        },
+        {
+          "id": "fruit_faithfulness",
+          "label": {
+            "es": "Siendo fiel",
+            "en": "Being faithful",
+            "pt": "Sendo fiel",
+            "fr": "Fidélité constante"
+          },
+          "responseTitle": {
+            "es": "Firmeza en lo poco",
+            "en": "Firm in small things",
+            "pt": "Firmeza no pouco",
+            "fr": "Fidèle au quotidien"
+          },
+          "responseText": {
+            "es": "Dios valora tu lealtad en lo cotidiano; la fidelidad en lo pequeño te prepara para grandes cosas.",
+            "en": "God values your loyalty in daily life; faithfulness in small things prepares you for great things.",
+            "pt": "Deus valoriza sua lealdade no cotidiano; a fidelidade no pouco te prepara para grandes coisas.",
+            "fr": "Dieu valorise votre loyauté au quotidien ; la fidélité dans les petites choses vous prépare aux grandes."
+          },
+          "verses": [
+            "Lucas 16:10"
+          ],
+          "reflectionHeader": {
+            "es": "Corazón comprometido",
+            "en": "Committed heart",
+            "pt": "Coração comprometido",
+            "fr": "Cœur engagé"
+          },
+          "reflection": {
+            "es": "Ser fiel cuando nadie mira es la marca de un verdadero discípulo. Dios vio tu constancia y compromiso hoy; descansa con la satisfacción de haber cumplido Su voluntad en lo ordinario.",
+            "en": "Being faithful when no one is looking is the mark of a true disciple. God saw your constancy and commitment today; rest with the satisfaction of having fulfilled His will in the ordinary.",
+            "pt": "Ser fiel quando ninguém está olhando é a marca de um verdadeiro discípulo. Deus viu sua constância e compromisso hoje; descanse com a satisfação de ter cumprido a vontade Dele no ordinário.",
+            "fr": "Être fidèle quand personne ne regarde est la marque d'un vrai disciple. Dieu a vu ta constance et ton engagement aujourd'hui ; repose-toi avec la satisfaction d'avoir accompli Sa volonté dans l'ordinaire."
+          }
+        },
+        {
+          "id": "fruit_inner_peace",
+          "label": {
+            "es": "En paz interior",
+            "en": "Inner peace",
+            "pt": "Em paz interior",
+            "fr": "Paix intérieure"
+          },
+          "responseTitle": {
+            "es": "Quietud del alma",
+            "en": "Stillness of soul",
+            "pt": "Quietude da alma",
+            "fr": "Calme de l'âme"
+          },
+          "responseText": {
+            "es": "Mantener la paz en un mundo caótico es un testimonio poderoso de la presencia del Espíritu Santo.",
+            "en": "Maintaining peace in a chaotic world is a powerful testimony of the Holy Spirit's presence.",
+            "pt": "Manter a paz em um mundo caótico é um testemunho poderoso da presença do Espírito Santo.",
+            "fr": "Maintenir la paix dans un monde chaotique est un puissant témoignage de la présence du Saint-Esprit."
+          },
+          "verses": [
+            "Isaías 26:3"
+          ],
+          "reflectionHeader": {
+            "es": "Un refugio seguro",
+            "en": "A safe refuge",
+            "pt": "Um refúgio seguro",
+            "fr": "Un refuge sûr"
+          },
+          "reflection": {
+            "es": "Tu mente se mantuvo firme en Él. Al cerrar los ojos hoy, entrega cualquier residuo de ruido y descansa profundamente en Su calma soberana, que sobrepasa todo entendimiento.",
+            "en": "Your mind remained steadfast in Him. As you close your eyes today, surrender any remaining noise and rest deeply in His sovereign calm, which surpasses all understanding.",
+            "pt": "Sua mente permaneceu firme Nele. Ao fechar os olhos hoje, entregue qualquer ruído restante e descanse profundamente em Sua calma soberana, que ultrapassa todo entendimento.",
+            "fr": "Ton esprit est resté ferme en Lui. En fermant les yeux aujourd'hui, abandonne tout bruit résiduel et repose-toi profondément dans Son calme souverain, qui surpasse toute intelligence."
           }
         }
       ]
