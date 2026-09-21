@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20",
+  "updatedAt": "2026-09-21",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -1148,6 +1148,236 @@
             "en": "Your mind remained steadfast in Him. As you close your eyes today, surrender any remaining noise and rest deeply in His sovereign calm, which surpasses all understanding.",
             "pt": "Sua mente permaneceu firme Nele. Ao fechar os olhos hoje, entregue qualquer ruído restante e descanse profundamente em Sua calma soberana, que ultrapassa todo entendimento.",
             "fr": "Ton esprit est resté ferme en Lui. En fermant les yeux aujourd'hui, abandonne tout bruit résiduel et repose-toi profondément dans Son calme souverain, qui surpasse toute intelligence."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿Cómo experimentaste la provisión de Dios en tu jornada de hoy?",
+        "en": "How did you experience God's provision in your day today?",
+        "pt": "Como você experimentou a provisão de Deus em seu dia hoje?",
+        "fr": "Comment avez-vous fait l'expérience de la provision de Dieu ?"
+      },
+      "options": [
+        {
+          "id": "prov_sustento_diario",
+          "label": {
+            "es": "Sustento diario",
+            "en": "Daily sustenance",
+            "pt": "Sustento diário",
+            "fr": "Le pain quotidien"
+          },
+          "responseTitle": {
+            "es": "Dios cuida tus necesidades",
+            "en": "God cares for your needs",
+            "pt": "Deus cuida das suas necessidades",
+            "fr": "Dieu prend soin de vos besoins"
+          },
+          "responseText": {
+            "es": "Dios ha suplido lo necesario para este día, demostrando una vez más que cuida de ti en cada detalle.",
+            "en": "God has supplied what was needed for today, showing once again that He cares for your every detail.",
+            "pt": "Deus supriu o necessário para o dia de hoje, demonstrando mais uma vez que cuida de você em cada detalhe.",
+            "fr": "Dieu a pourvu à ce qui était nécessaire aujourd'hui, montrant une fois de plus qu'il prend soin de chaque détail."
+          },
+          "verses": [
+            "Mateo 6:31-32"
+          ],
+          "reflectionHeader": {
+            "es": "Descansa en la fidelidad divina",
+            "en": "Rest in divine faithfulness",
+            "pt": "Descanse na fidelidade divina",
+            "fr": "Reposez-vous sur sa fidélité"
+          },
+          "reflection": {
+            "es": "Al cerrar la jornada, reconoce que nada de lo que tuviste hoy fue por azar. El Padre celestial conoce tus necesidades básicas y se agrada en velar por ti. Puedes dormir tranquilo sabiendo que quien sostiene tu vida hoy, también cuidará de ti mañana.",
+            "en": "As you close the day, recognize that nothing you had today was by chance. Your heavenly Father knows your basic needs and delights in watching over you. Rest peacefully knowing that He who sustains your life today will care for you tomorrow.",
+            "pt": "Ao fechar o dia, reconheça que nada do que você teve hoje foi por acaso. O Pai celestial conhece suas necessidades e se alegra em cuidar de você. Durma em paz sabendo que quem sustenta sua vida hoje cuidará de você amanhã.",
+            "fr": "En terminant la journée, reconnaissez que rien de ce que vous avez eu n'était un hasard. Le Père céleste connaît vos besoins et prend plaisir à veiller sur vous. Dormez en paix sachant que celui qui vous soutient aujourd'hui prendra soin de vous demain."
+          }
+        },
+        {
+          "id": "prov_fuerza_laboral",
+          "label": {
+            "es": "Fuerza en el trabajo",
+            "en": "Strength for work",
+            "pt": "Força no trabalho",
+            "fr": "Force dans le travail"
+          },
+          "responseTitle": {
+            "es": "El Señor te fortalece hoy",
+            "en": "The Lord strengthens you today",
+            "pt": "O Senhor te fortalece hoje",
+            "fr": "Le Seigneur vous fortifie"
+          },
+          "responseText": {
+            "es": "La capacidad y el vigor que tuviste para trabajar hoy son regalos de Dios para sostener tu camino.",
+            "en": "The ability and vigor you had to work today are gifts from God to sustain your path.",
+            "pt": "A capacidade e o vigor que você teve para trabalhar hoje são presentes de Deus para sustentar sua caminhada.",
+            "fr": "La capacité et la vigueur que vous avez eues pour travailler aujourd'hui sont des dons de Dieu."
+          },
+          "verses": [
+            "Deuteronomio 8:18"
+          ],
+          "reflectionHeader": {
+            "es": "Tu esfuerzo tiene bendición",
+            "en": "Your effort is blessed",
+            "pt": "Seu esforço tem bênção",
+            "fr": "Votre travail est béni"
+          },
+          "reflection": {
+            "es": "Tu trabajo y tus tareas diarias adquieren un sentido más profundo cuando recuerdas que Dios es la fuente de tu fuerza y tu habilidad. Al descansar esta noche, entrega tus esfuerzos en sus manos y agradécele por darle propósito a tus manos y entendimiento a tu mente.",
+            "en": "Your daily work takes on deeper meaning when you remember that God is the source of your strength and ability. As you rest tonight, commit your efforts into His hands and thank Him for giving purpose to your hands and clarity to your mind.",
+            "pt": "Seu trabalho diário ganha um sentido mais profundo quando você lembra que Deus é a fonte de sua força e habilidade. Ao descansar esta noite, entregue seus esforços nas mãos dele e agradeça por dar propósito às suas mãos e mente.",
+            "fr": "Votre travail quotidien prend un sens plus profond lorsque vous vous rappelez que Dieu est la source de votre force. En vous reposant ce soir, remettez vos efforts entre ses mains et remerciez-le de donner un sens à votre travail."
+          }
+        },
+        {
+          "id": "prov_ayuda_inesperada",
+          "label": {
+            "es": "Ayuda inesperada",
+            "en": "Unexpected help",
+            "pt": "Ajuda inesperada",
+            "fr": "Aide inattendue"
+          },
+          "responseTitle": {
+            "es": "Su auxilio llega a tiempo",
+            "en": "His help arrives on time",
+            "pt": "O seu auxílio chega a tempo",
+            "fr": "Son secours arrive à temps"
+          },
+          "responseText": {
+            "es": "Dios se manifestó en tu día mediante una solución oportuna o el apoyo de alguien en el momento justo.",
+            "en": "God showed up in your day through a timely solution or the support of someone at just the right moment.",
+            "pt": "Deus se manifestou no seu dia por meio de uma solução oportuna ou do apoio de alguém no momento certo.",
+            "fr": "Dieu s'est manifesté aujourd'hui à travers une solution rapide ou le soutien opportun de quelqu'un."
+          },
+          "verses": [
+            "Salmos 121:2"
+          ],
+          "reflectionHeader": {
+            "es": "Gratitud por su intervención",
+            "en": "Gratitude for His intervention",
+            "pt": "Gratidão por sua intervenção",
+            "fr": "Reconnaissance pour son aide"
+          },
+          "reflection": {
+            "es": "A veces el socorro de Dios llega de formas inesperadas y sencillas que nos recuerdan que nunca estamos solos. Guarda en tu memoria este detalle de su gracia, sabiendo que el Creador del cielo y de la tierra está atento a tus pasos y jamás se duerme.",
+            "en": "Sometimes God's help comes in unexpected, simple ways that remind us we are never alone. Keep this detail of His grace in your memory, knowing that the Creator of heaven and earth pays attention to your steps and never slumbers.",
+            "pt": "Às vezes o socorro de Deus chega de formas inesperadas que nos lembram que nunca estamos sós. Guarde na memória esse detalhe da graça dele, sabendo que o Criador dos céus e da terra está atento aos seus passos.",
+            "fr": "Parfois, le secours de Dieu vient de manières inattendues qui nous rappellent que nous ne sommes jamais seuls. Gardez en mémoire ce geste de sa grâce, sachant que le Créateur du ciel et de la terre veille sur vos pas."
+          }
+        },
+        {
+          "id": "prov_contentamiento",
+          "label": {
+            "es": "Viviendo satisfecho",
+            "en": "Living content",
+            "pt": "Vivendo satisfeito",
+            "fr": "Vivre content"
+          },
+          "responseTitle": {
+            "es": "La riqueza de la gratitud",
+            "en": "The richness of contentment",
+            "pt": "A riqueza da gratidão",
+            "fr": "La richesse du contentement"
+          },
+          "responseText": {
+            "es": "Has aprendido a valorar lo sencillo y a encontrar paz con lo que el Señor ha dispuesto para ti.",
+            "en": "You have learned to value the simple things and find peace in what the Lord has provided for you.",
+            "pt": "Você aprendeu a valorizar o simples e a encontrar paz com o que o Senhor dispôs para você.",
+            "fr": "Vous avez appris à apprécier les choses simples et à trouver la paix dans ce que le Seigneur a prévu."
+          },
+          "verses": [
+            "1 Timoteo 6:6"
+          ],
+          "reflectionHeader": {
+            "es": "Un corazón lleno de paz",
+            "en": "A heart full of peace",
+            "pt": "Um coração cheio de paz",
+            "fr": "Un cœur rempli de paix"
+          },
+          "reflection": {
+            "es": "El contentamiento es una gran ganancia para el espíritu. Tener un corazón agradecido transforma lo poco en abundante y trae un sosiego que no se puede comprar. Descansa hoy con la certeza de que tu verdadero tesoro radica en estar en paz con Dios.",
+            "en": "Contentment is great gain for the spirit. A grateful heart turns little into much and brings a tranquility money cannot buy. Rest tonight with the certainty that your true treasure lies in being at peace with God.",
+            "pt": "O contentamento é um grande ganho para o espírito. Ter um coração grato transforma o pouco em abundante e traz um sossego inexplicável. Descanse hoje com a certeza de que seu verdadeiro tesouro é estar em paz com Deus.",
+            "fr": "Le contentement est un grand gain pour l'esprit. Un cœur reconnaissant transforme le peu en abondance et apporte une sérénité inestimable. Reposez-vous ce soir avec la certitude que votre vrai trésor est d'être en paix avec Dieu."
+          }
+        },
+        {
+          "id": "prov_compartir_bendicion",
+          "label": {
+            "es": "Bendiciendo a otros",
+            "en": "Blessing others",
+            "pt": "Abençoando outros",
+            "fr": "Bénédiction partagée"
+          },
+          "responseTitle": {
+            "es": "Dar con un corazón generoso",
+            "en": "Giving with a generous heart",
+            "pt": "Dar com um coração generoso",
+            "fr": "Donner avec un cœur généreux"
+          },
+          "responseText": {
+            "es": "Fuiste un instrumento de Dios al compartir tus recursos o tu tiempo para aliviar a otra persona.",
+            "en": "You were an instrument of God by sharing your resources or time to bring relief to another person.",
+            "pt": "Você foi um instrumento de Deus ao compartilhar seus recursos ou tempo para aliviar outra pessoa.",
+            "fr": "Vous avez été un instrument de Dieu en partageant vos ressources ou votre temps pour aider quelqu'un."
+          },
+          "verses": [
+            "Proverbios 11:25"
+          ],
+          "reflectionHeader": {
+            "es": "Ser canal de la gracia de Dios",
+            "en": "Being a channel of God's grace",
+            "pt": "Ser um canal da graça de Deus",
+            "fr": "Être un canal de la grâce"
+          },
+          "reflection": {
+            "es": "Cuando compartes lo que Dios te ha dado, te conviertes en el canal por el cual su provisión llega a otros. Esa generosidad no te empobrece, sino que abre espacio en tu vida para experimentar el gozo de dar. Duerme sabiendo que fuiste reflejo de su amor.",
+            "en": "When you share what God has given you, you become the channel through which His provision reaches others. That generosity does not impoverish you; it expands your heart to experience the joy of giving. Sleep knowing you reflected His love.",
+            "pt": "Quando você compartilha o que Deus lhe deu, torna-se o canal pelo qual a provisão dele chega a outros. Essa generosidade enriquece sua alma e espalha o amor divino. Durma sabendo que você foi um reflexo do amor de Deus.",
+            "fr": "Lorsque vous partagez ce que Dieu vous a donné, vous devenez le canal par lequel sa provision atteint les autres. Cette générosité enrichit votre âme. Dormez en sachant que vous avez été le reflet de son amour."
+          }
+        },
+        {
+          "id": "prov_paz_futuro",
+          "label": {
+            "es": "Confianza del mañana",
+            "en": "Trusting tomorrow",
+            "pt": "Confiança no amanhã",
+            "fr": "Confiance pour demain"
+          },
+          "responseTitle": {
+            "es": "Tu mañana está seguro en Dios",
+            "en": "Your tomorrow is safe in God",
+            "pt": "Seu amanhã está seguro em Deus",
+            "fr": "Votre avenir est en sécurité"
+          },
+          "responseText": {
+            "es": "Elegiste soltar la ansiedad del mañana y confiar en que la fidelidad de Dios se renovará al despertar.",
+            "en": "You chose to let go of tomorrow's anxiety and trust that God's faithfulness will renew at dawn.",
+            "pt": "Você escolheu soltar a ansiedade do amanhã e confiar que a fidelidade de Deus se renovará ao amanhecer.",
+            "fr": "Vous avez choisi de lâcher l'anxiété du lendemain et de faire confiance à la fidélité de Dieu."
+          },
+          "verses": [
+            "Lamentaciones 3:22-23"
+          ],
+          "reflectionHeader": {
+            "es": "Una noche llena de serenidad",
+            "en": "A night full of serenity",
+            "pt": "Uma noite cheia de serenidade",
+            "fr": "Une nuit remplie de sérénité"
+          },
+          "reflection": {
+            "es": "El cuidado de Dios no se agota con el final de este día. Sus misericordias son nuevas cada mañana y sus planes para tu vida siguen firmes. Entrega tus preocupaciones nocturnas al Señor y permite que su paz envuelva tu descanso.",
+            "en": "God's care does not run out at the end of the day. His mercies are new every morning and His plans for you remain secure. Hand your nighttime concerns over to the Lord and let His peace surround your rest.",
+            "pt": "O cuidado de Deus não se esgota no final deste dia. As misericórdias dele se renovam a cada manhã e seus planos continuam firmes. Entregue suas preocupações ao Senhor e permita que a paz dele envolva o seu descanso.",
+            "fr": "Les soins de Dieu ne s'arrêtent pas à la fin de cette journée. Ses miséricordes se renouvellent chaque matin. Remettez vos inquiétudes au Seigneur et laissez sa paix vous entourer pendant votre sommeil."
           }
         }
       ]
