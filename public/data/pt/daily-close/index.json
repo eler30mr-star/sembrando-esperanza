@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-21",
+  "updatedAt": "2026-09-22",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -1378,6 +1378,236 @@
             "en": "God's care does not run out at the end of the day. His mercies are new every morning and His plans for you remain secure. Hand your nighttime concerns over to the Lord and let His peace surround your rest.",
             "pt": "O cuidado de Deus não se esgota no final deste dia. As misericórdias dele se renovam a cada manhã e seus planos continuam firmes. Entregue suas preocupações ao Senhor e permita que a paz dele envolva o seu descanso.",
             "fr": "Les soins de Dieu ne s'arrêtent pas à la fin de cette journée. Ses miséricordes se renouvellent chaque matin. Remettez vos inquiétudes au Seigneur et laissez sa paix vous entourer pendant votre sommeil."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera honraste a Dios en tus tareas cotidianas hoy?",
+        "en": "In what way did you honor God in your daily tasks today?",
+        "pt": "De que maneira você honrou a Deus em suas tarefas diárias hoje?",
+        "fr": "De quelle manière avez-vous honoré Dieu dans vos tâches quotidiennes aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "trabajo_diligente",
+          "label": {
+            "es": "Trabajo diligente",
+            "en": "Diligent work",
+            "pt": "Trabalho diligente",
+            "fr": "Travail diligent"
+          },
+          "responseTitle": {
+            "es": "Excelencia para el Señor",
+            "en": "Excellence for the Lord",
+            "pt": "Excelência para o Senhor",
+            "fr": "Excellence pour le Seigneur"
+          },
+          "responseText": {
+            "es": "Has realizado tus labores con un corazón dispuesto, reconociendo que todo esfuerzo es para Su gloria.",
+            "en": "You have performed your tasks with a willing heart, recognizing that all effort is for His glory.",
+            "pt": "Você realizou seus trabalhos com um coração disposto, reconhecendo que todo esforço é para a glória d'Ele.",
+            "fr": "Vous avez accompli vos tâches avec un cœur disposé, reconnaissant que tout effort est pour Sa gloire."
+          },
+          "verses": [
+            "Colosenses 3:23"
+          ],
+          "reflectionHeader": {
+            "es": "Tu labor tiene valor eterno",
+            "en": "Your work has eternal value",
+            "pt": "Seu trabalho tem valor eterno",
+            "fr": "Votre travail a une valeur éternelle"
+          },
+          "reflection": {
+            "es": "Cada tarea que realizas con honestidad y esfuerzo es una ofrenda para el cielo. No importa cuán pequeña sea, si se hace para el Señor, brilla con luz propia. Descansa sabiendo que tu labor no es en vano.",
+            "en": "Every task you perform with honesty and effort is an offering to heaven. No matter how small it may be, if done for the Lord, it shines with its own light. Rest knowing that your labor is not in vain.",
+            "pt": "Cada tarefa que você realiza com honestidade e esforço é uma oferta ao céu. Não importa quão pequena seja, se for feita para o Senhor, brilha com luz própria. Descanse sabendo que seu trabalho não é em vão.",
+            "fr": "Chaque tâche que vous accomplissez avec honnêteté et effort est une offrande au ciel. Peu importe sa taille, si elle est faite pour le Seigneur, elle brille de sa propre lumière. Reposez-vous en sachant que votre travail n'est pas vain."
+          }
+        },
+        {
+          "id": "cuidado_hogar",
+          "label": {
+            "es": "Servicio en el hogar",
+            "en": "Service at home",
+            "pt": "Serviço no lar",
+            "fr": "Service au foyer"
+          },
+          "responseTitle": {
+            "es": "Amor en lo privado",
+            "en": "Love in private",
+            "pt": "Amor no privado",
+            "fr": "L'amour en privé"
+          },
+          "responseText": {
+            "es": "Honrar a Dios comienza con quienes tenemos más cerca, sirviendo con amor y paciencia en casa.",
+            "en": "Honoring God begins with those closest to us, serving with love and patience at home.",
+            "pt": "Honrar a Deus começa com aqueles que estão mais próximos de nós, servindo com amor e paciência em casa.",
+            "fr": "Honorer Dieu commence par ceux qui nous sont les plus proches, en servant avec amour et patience à la maison."
+          },
+          "verses": [
+            "1 Timoteo 5:8"
+          ],
+          "reflectionHeader": {
+            "es": "El ministerio de lo cotidiano",
+            "en": "The ministry of the everyday",
+            "pt": "O ministério do cotidiano",
+            "fr": "Le ministère du quotidien"
+          },
+          "reflection": {
+            "es": "Cuidar de tu familia es cumplir el mandato del amor. En cada palabra de afecto y en cada sacrificio diario, estás reflejando el corazón de un Dios que nos cuida como Padre. Tu hogar es tierra santa.",
+            "en": "Caring for your family is fulfilling the mandate of love. In every word of affection and every daily sacrifice, you reflect the heart of a God who cares for us as a Father. Your home is holy ground.",
+            "pt": "Cuidar da sua família é cumprir o mandamento do amor. Em cada palavra de afeto e em cada sacrifício diário, você reflete o coração de um Deus que cuida de nós como Pai. Seu lar é terra santa.",
+            "fr": "Prendre soin de votre famille, c'est accomplir le mandat de l'amour. Dans chaque mot d'affection et chaque sacrifice quotidien, vous reflétez le cœur d'un Dieu qui prend soin de nous comme un Père. Votre maison est une terre sainte."
+          }
+        },
+        {
+          "id": "bondad_projimo",
+          "label": {
+            "es": "Ayuda al prójimo",
+            "en": "Helping others",
+            "pt": "Ajuda ao próximo",
+            "fr": "Aide au prochain"
+          },
+          "responseTitle": {
+            "es": "Compasión en acción",
+            "en": "Compassion in action",
+            "pt": "Compaixão em ação",
+            "fr": "Compassion en action"
+          },
+          "responseText": {
+            "es": "Viste la necesidad de otro y decidiste actuar con el amor y la generosidad de Cristo.",
+            "en": "You saw another's need and decided to act with the love and generosity of Christ.",
+            "pt": "Você viu a necessidade do outro e decidiu agir com o amor e a generosidade de Cristo.",
+            "fr": "Vous avez vu le besoin d'un autre et avez décidé d'agir avec l'amour et la générosité du Christ."
+          },
+          "verses": [
+            "Mateo 25:40"
+          ],
+          "reflectionHeader": {
+            "es": "Manos que bendicen",
+            "en": "Hands that bless",
+            "pt": "Mãos que abençoam",
+            "fr": "Des mains qui bénissent"
+          },
+          "reflection": {
+            "es": "Ser el canal de bendición para alguien hoy te acercó más al Maestro. Al servir al prójimo, serviste a Jesús mismo. Que este acto desinteresado traiga paz a tu alma mientras descansas esta noche.",
+            "en": "Being the channel of blessing for someone today brought you closer to the Master. By serving your neighbor, you served Jesus Himself. May this selfless act bring peace to your soul as you rest tonight.",
+            "pt": "Ser o canal de bênção para alguém hoje aproximou você mais do Mestre. Ao servir ao próximo, você serviu ao próprio Jesus. Que este ato desinteressado traga paz à sua alma enquanto você descansa esta noite.",
+            "fr": "Être le canal de bénédiction pour quelqu'un aujourd'hui vous a rapproché du Maître. En servant votre prochain, vous avez servi Jésus lui-même. Que cet acte désintéressé apporte la paix à votre âme pendant que vous vous reposez ce soir."
+          }
+        },
+        {
+          "id": "gratitud_cuerpo",
+          "label": {
+            "es": "Cuidado personal",
+            "en": "Self-care",
+            "pt": "Cuidado pessoal",
+            "fr": "Soin de soi"
+          },
+          "responseTitle": {
+            "es": "Respeto por Su diseño",
+            "en": "Respect for His design",
+            "pt": "Respeito pelo Seu design",
+            "fr": "Respect pour Son dessein"
+          },
+          "responseText": {
+            "es": "Reconociste que tu cuerpo y salud son regalos de Dios que requieren cuidado y mayordomía.",
+            "en": "You recognized that your body and health are gifts from God that require care and stewardship.",
+            "pt": "Você reconheceu que seu corpo e saúde são presentes de Deus que requerem cuidado e mordomia.",
+            "fr": "Vous avez reconnu que votre corps et votre santé sont des cadeaux de Dieu qui nécessitent soin et intendance."
+          },
+          "verses": [
+            "1 Corintios 6:19"
+          ],
+          "reflectionHeader": {
+            "es": "Honrando el templo",
+            "en": "Honoring the temple",
+            "pt": "Honrando o templo",
+            "fr": "Honorer le temple"
+          },
+          "reflection": {
+            "es": "Tomar tiempo para nutrirte o descansar es un acto de gratitud hacia el Creador. Al cuidar de ti, honras el templo del Espíritu Santo y te preparas mejor para la misión que Él tiene para tu vida.",
+            "en": "Taking time to nourish yourself or rest is an act of gratitude toward the Creator. By caring for yourself, you honor the temple of the Holy Spirit and better prepare yourself for the mission He has for your life.",
+            "pt": "Tirar um tempo para se nutrir ou descansar é um ato de gratidão ao Criador. Ao cuidar de si mesmo, você honra o templo do Espírito Santo e se prepara melhor para a missão que Ele tem para sua vida.",
+            "fr": "Prendre le temps de se nourrir ou de se reposer est un acte de gratitude envers le Créateur. En prenant soin de vous, vous honorez le temple du Saint-Esprit et vous vous préparez mieux à la mission qu'Il a pour votre vie."
+          }
+        },
+        {
+          "id": "testimonio_integro",
+          "label": {
+            "es": "Integridad moral",
+            "en": "Moral integrity",
+            "pt": "Integridade moral",
+            "fr": "Intégrité morale"
+          },
+          "responseTitle": {
+            "es": "Firmeza en la luz",
+            "en": "Steadfastness in light",
+            "pt": "Firmeza na luz",
+            "fr": "Fermeté dans la lumière"
+          },
+          "responseText": {
+            "es": "Elegiste lo correcto aunque nadie mirara, priorizando tu testimonio y honestidad ante Dios.",
+            "en": "You chose what was right even when no one was watching, prioritizing your testimony and honesty before God.",
+            "pt": "Você escolheu o que era certo mesmo quando ninguém estava olhando, priorizando seu testemunho e honestidade diante de Deus.",
+            "fr": "Vous avez choisi ce qui était juste même quand personne ne regardait, donnant la priorité à votre témoignage et à votre honnêteté devant Dieu."
+          },
+          "verses": [
+            "1 Pedro 2:12"
+          ],
+          "reflectionHeader": {
+            "es": "Una vida coherente",
+            "en": "A consistent life",
+            "pt": "Uma vida coerente",
+            "fr": "Une vie cohérente"
+          },
+          "reflection": {
+            "es": "La integridad en lo secreto es la base de una fe sólida. Al elegir la verdad sobre la conveniencia en tus asuntos diarios, has glorificado el nombre de Dios. Descansa con la conciencia tranquila y pura.",
+            "en": "Integrity in secret is the foundation of a solid faith. By choosing truth over convenience in your daily affairs, you have glorified the name of God. Rest with a clear and pure conscience.",
+            "pt": "A integridade no segredo é a base de uma fé sólida. Ao escolher a verdade em vez da conveniência em seus assuntos diários, você glorificou o nome de Deus. Descanse com a consciência tranquila e pura.",
+            "fr": "L'intégrité dans le secret est le fondement d'une foi solide. En choisissant la vérité plutôt que la commodité dans vos affaires quotidiennes, vous avez glorifié le nom de Dieu. Reposez-vous avec une conscience claire et pure."
+          }
+        },
+        {
+          "id": "descanso_senor",
+          "label": {
+            "es": "Confianza y reposo",
+            "en": "Trust and rest",
+            "pt": "Confiança e repouso",
+            "fr": "Confiance et repos"
+          },
+          "responseTitle": {
+            "es": "Paz en Su soberanía",
+            "en": "Peace in His sovereignty",
+            "pt": "Paz em Sua soberania",
+            "fr": "Paix dans Sa souveraineté"
+          },
+          "responseText": {
+            "es": "Decidiste no afanarte por el mañana, confiando tus preocupaciones al cuidado del Padre.",
+            "en": "You decided not to worry about tomorrow, entrusting your concerns to the Father's care.",
+            "pt": "Você decidiu não se preocupar com o amanhã, confiando suas preocupações aos cuidados do Pai.",
+            "fr": "Vous avez décidé de ne pas vous inquiéter pour demain, confiant vos préoccupations aux soins du Père."
+          },
+          "verses": [
+            "Salmos 4:8"
+          ],
+          "reflectionHeader": {
+            "es": "El descanso es adoración",
+            "en": "Rest is worship",
+            "pt": "O descanso é adoração",
+            "fr": "Le repos est une adoration"
+          },
+          "reflection": {
+            "es": "Reconocer que Dios tiene el control es la forma más profunda de honrarlo. Al soltar tus cargas antes de dormir, declaras que Su gracia es suficiente para sostenerte. Duerme tranquilo, Él vela por ti.",
+            "en": "Recognizing that God is in control is the most profound way to honor Him. By releasing your burdens before sleep, you declare that His grace is sufficient to sustain you. Sleep peacefully; He watches over you.",
+            "pt": "Reconhecer que Deus está no controle é a forma mais profunda de honrá-Lo. Ao soltar seus fardos antes de dormir, você declara que a graça d'Ele é suficiente para sustentá-lo. Durma tranquilo; Ele vigia você.",
+            "fr": "Reconnaître que Dieu est aux commandes est la manière la plus profonde de L'honorer. En déposant vos fardeaux avant de dormir, vous déclarez que Sa grâce est suffisante pour vous soutenir. Dormez paisiblement ; Il veille sur vous."
           }
         }
       ]
