@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-23",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -1608,6 +1608,236 @@
             "en": "Recognizing that God is in control is the most profound way to honor Him. By releasing your burdens before sleep, you declare that His grace is sufficient to sustain you. Sleep peacefully; He watches over you.",
             "pt": "Reconhecer que Deus está no controle é a forma mais profunda de honrá-Lo. Ao soltar seus fardos antes de dormir, você declara que a graça d'Ele é suficiente para sustentá-lo. Durma tranquilo; Ele vigia você.",
             "fr": "Reconnaître que Dieu est aux commandes est la manière la plus profonde de L'honorer. En déposant vos fardeaux avant de dormir, vous déclarez que Sa grâce est suffisante pour vous soutenir. Dormez paisiblement ; Il veille sur vous."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera influyó hoy la esperanza eterna en tu actitud?",
+        "en": "How did eternal hope influence your attitude today?",
+        "pt": "De que maneira a esperança eterna influenciou sua atitude hoje?",
+        "fr": "De quelle manière l'espérance éternelle a-t-elle influencé votre attitude aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "prioritize_eternal",
+          "label": {
+            "es": "Prioricé lo eterno",
+            "en": "I prioritized eternity",
+            "pt": "Priorizei o eterno",
+            "fr": "J'ai priorisé l'éternel"
+          },
+          "responseTitle": {
+            "es": "Enfoque en lo invisible",
+            "en": "Focus on the unseen",
+            "pt": "Foco no invisível",
+            "fr": "Focus sur l'invisible"
+          },
+          "responseText": {
+            "es": "Has decidido no distraerte con las presiones temporales, valorando lo que permanece para siempre.",
+            "en": "You chose not to be distracted by temporary pressures, valuing what remains forever.",
+            "pt": "Você decidiu não se distrair com as pressões temporais, valorizando o que permanece para sempre.",
+            "fr": "Vous avez choisi de ne pas vous laisser distraire par les pressions temporelles, en valorisant ce qui demeure."
+          },
+          "verses": [
+            "2 Corintios 4:18"
+          ],
+          "reflectionHeader": {
+            "es": "Una mirada al cielo",
+            "en": "A gaze towards heaven",
+            "pt": "Um olhar para o céu",
+            "fr": "Un regard vers le ciel"
+          },
+          "reflection": {
+            "es": "Al terminar el día, recuerda que tus acciones de hoy tienen eco en la eternidad. Vivir con la mirada puesta en Dios transforma lo ordinario en extraordinario.",
+            "en": "As the day ends, remember that your actions today echo in eternity. Living with your eyes on God transforms the ordinary into extraordinary.",
+            "pt": "Ao terminar o dia, lembre-se de que suas ações de hoje ecoam na eternidade. Viver com os olhos voltados para Deus transforma o comum em extraordinário.",
+            "fr": "En fin de journée, rappelez-vous que vos actions d'aujourd'hui résonnent dans l'éternité. Vivre avec le regard tourné vers Dieu transforme l'ordinaire en extraordinaire."
+          }
+        },
+        {
+          "id": "act_patiently",
+          "label": {
+            "es": "Actué con paciencia",
+            "en": "I acted patiently",
+            "pt": "Agi com paciência",
+            "fr": "J'ai agi avec patience"
+          },
+          "responseTitle": {
+            "es": "Paz en la espera",
+            "en": "Peace in the waiting",
+            "pt": "Paz na espera",
+            "fr": "Paix dans l'attente"
+          },
+          "responseText": {
+            "es": "Tu paciencia hoy fue un testimonio de que confías en el tiempo perfecto de Dios sobre tus urgencias.",
+            "en": "Your patience today was a testimony that you trust God's perfect timing over your urgencies.",
+            "pt": "Sua paciência hoje foi um testemunho de que você confia no tempo perfeito de Deus acima de suas urgências.",
+            "fr": "Votre patience aujourd'hui a témoigné de votre confiance dans le timing parfait de Dieu plutôt que dans vos urgences."
+          },
+          "verses": [
+            "Romanos 8:25"
+          ],
+          "reflectionHeader": {
+            "es": "Fruto de la esperanza",
+            "en": "Fruit of hope",
+            "pt": "Fruto da esperança",
+            "fr": "Fruit de l'espérance"
+          },
+          "reflection": {
+            "es": "La paciencia no es solo esperar, sino mantener una buena actitud mientras esperas. Descansa sabiendo que Dios está obrando incluso en el silencio.",
+            "en": "Patience is not just waiting, but maintaining a good attitude while you wait. Rest knowing that God is working even in the silence.",
+            "pt": "A paciência não é apenas esperar, mas manter uma boa atitude enquanto espera. Descanse sabendo que Deus está trabalhando mesmo no silêncio.",
+            "fr": "La patience n'est pas seulement l'attente, c'est maintenir une bonne attitude en attendant. Reposez-vous en sachant que Dieu agit même dans le silence."
+          }
+        },
+        {
+          "id": "selfless_love",
+          "label": {
+            "es": "Amé desinteresadamente",
+            "en": "I loved selflessly",
+            "pt": "Amei altruisticamente",
+            "fr": "J'ai aimé sans compter"
+          },
+          "responseTitle": {
+            "es": "Reflejo del Calvario",
+            "en": "Reflection of Calvary",
+            "pt": "Reflexo do Calvário",
+            "fr": "Reflet du Calvaire"
+          },
+          "responseText": {
+            "es": "Al servir y amar a otros sin esperar nada a cambio, mostraste el carácter generoso de Cristo.",
+            "en": "By serving and loving others without expecting anything in return, you showed the generous character of Christ.",
+            "pt": "Ao servir e amar os outros sem esperar nada em troca, você mostrou o caráter generoso de Cristo.",
+            "fr": "En servant et en aimant les autres sans rien attendre en retour, vous avez montré le caractère généreux du Christ."
+          },
+          "verses": [
+            "1 Juan 4:11"
+          ],
+          "reflectionHeader": {
+            "es": "El amor que trasciende",
+            "en": "Love that transcends",
+            "pt": "O amor que transcende",
+            "fr": "L'amour qui transcende"
+          },
+          "reflection": {
+            "es": "El amor es la mayor evidencia de la vida eterna en nosotros. Que esta noche tu corazón se llene de la satisfacción de haber sido un canal de Su gracia.",
+            "en": "Love is the greatest evidence of eternal life in us. May your heart be filled tonight with the satisfaction of being a channel of His grace.",
+            "pt": "O amor é a maior evidência da vida eterna em nós. Que esta noite seu coração se encha da satisfação de ter sido um canal de Sua graça.",
+            "fr": "L'amour est la plus grande preuve de la vie éternelle en nous. Que votre cœur soit rempli ce soir de la satisfaction d'avoir été un canal de Sa grâce."
+          }
+        },
+        {
+          "id": "keep_joy",
+          "label": {
+            "es": "Mantuve el gozo",
+            "en": "I kept my joy",
+            "pt": "Mantive a alegria",
+            "fr": "J'ai gardé ma joie"
+          },
+          "responseTitle": {
+            "es": "Gozo inquebrantable",
+            "en": "Unshakable joy",
+            "pt": "Alegria inabalável",
+            "fr": "Joie inébranlable"
+          },
+          "responseText": {
+            "es": "Tu alegría no dependió de las circunstancias, sino de la seguridad de tu salvación.",
+            "en": "Your joy did not depend on circumstances, but on the security of your salvation.",
+            "pt": "Sua alegria não dependeu das circunstâncias, mas da segurança da sua salvação.",
+            "fr": "Votre joie ne dépendait pas des circonstances, mais de la certitude de votre salut."
+          },
+          "verses": [
+            "Habacuc 3:18"
+          ],
+          "reflectionHeader": {
+            "es": "Fuerza en el Señor",
+            "en": "Strength in the Lord",
+            "pt": "Força no Senhor",
+            "fr": "Force dans le Seigneur"
+          },
+          "reflection": {
+            "es": "El gozo del Señor es tu fortaleza. Aunque el día haya tenido sombras, la luz de Su presencia permanece constante en tu espíritu.",
+            "en": "The joy of the Lord is your strength. Although the day may have had shadows, the light of His presence remains constant in your spirit.",
+            "pt": "A alegria do Senhor é a sua força. Embora o dia possa ter tido sombras, a luz de Sua presença permanece constante em seu espírito.",
+            "fr": "La joie du Seigneur est votre force. Bien que la journée ait pu avoir des zones d'ombre, la lumière de Sa présence reste constante dans votre esprit."
+          }
+        },
+        {
+          "id": "release_control",
+          "label": {
+            "es": "Solté el control",
+            "en": "I released control",
+            "pt": "Soltei o controle",
+            "fr": "J'ai lâché prise"
+          },
+          "responseTitle": {
+            "es": "Rendición total",
+            "en": "Total surrender",
+            "pt": "Rendição total",
+            "fr": "Souveraineté acceptée"
+          },
+          "responseText": {
+            "es": "Reconocer que Dios es soberano te permitió vivir este día con menos ansiedad y más fe.",
+            "en": "Recognizing that God is sovereign allowed you to live this day with less anxiety and more faith.",
+            "pt": "Reconhecer que Deus é soberano permitiu que você vivesse este dia com menos ansiedade e mais fé.",
+            "fr": "Reconnaître que Dieu est souverain vous a permis de vivre cette journée avec moins d'anxiété et plus de foi."
+          },
+          "verses": [
+            "1 Pedro 5:7"
+          ],
+          "reflectionHeader": {
+            "es": "Descanso en Su mano",
+            "en": "Resting in His hand",
+            "pt": "Descanso em Sua mão",
+            "fr": "Repos dans Sa main"
+          },
+          "reflection": {
+            "es": "No necesitas cargar el mundo sobre tus hombros. Al soltar el control, permites que el Dios de la eternidad dirija tus pasos con sabiduría.",
+            "en": "You don't need to carry the world on your shoulders. By releasing control, you allow the God of eternity to direct your steps with wisdom.",
+            "pt": "Você não precisa carregar o mundo nos ombros. Ao soltar o controle, você permite que o Deus da eternidade dirija seus passos com sabedoria.",
+            "fr": "Vous n'avez pas besoin de porter le monde sur vos épaules. En lâchant prise, vous permettez au Dieu de l'éternité de diriger vos pas avec sagesse."
+          }
+        },
+        {
+          "id": "seek_holiness",
+          "label": {
+            "es": "Busqué la santidad",
+            "en": "I sought holiness",
+            "pt": "Busquei a santidade",
+            "fr": "J'ai cherché la sainteté"
+          },
+          "responseTitle": {
+            "es": "Integridad divina",
+            "en": "Divine integrity",
+            "pt": "Integridade divina",
+            "fr": "Intégrité divine"
+          },
+          "responseText": {
+            "es": "Elegir lo correcto sobre lo fácil hoy es una inversión en tu caminar espiritual con el Padre.",
+            "en": "Choosing what is right over what is easy today is an investment in your spiritual walk with the Father.",
+            "pt": "Escolher o que é certo em vez do que é fácil hoje é um investimento em sua caminhada espiritual com o Pai.",
+            "fr": "Choisir ce qui est juste plutôt que ce qui est facile aujourd'hui est un investissement dans votre marche spirituelle avec le Père."
+          },
+          "verses": [
+            "Hebreos 12:14"
+          ],
+          "reflectionHeader": {
+            "es": "Consagración diaria",
+            "en": "Daily consecration",
+            "pt": "Consagração diária",
+            "fr": "Consécration quotidienne"
+          },
+          "reflection": {
+            "es": "La santidad es el camino que nos acerca al corazón de Dios. Cada pequeña decisión de integridad hoy te ha preparado para un mañana más cerca de Él.",
+            "en": "Holiness is the path that brings us closer to God's heart. Every small decision of integrity today has prepared you for a tomorrow closer to Him.",
+            "pt": "A santidade é o caminho que nos aproxima do coração de Deus. Cada pequena decisão de integridade hoje preparou você para um amanhã mais perto d'Ele.",
+            "fr": "La sainteté est le chemin qui nous rapproche du cœur de Dieu. Chaque petite décision d'intégrité aujourd'hui vous a préparé pour un demain plus proche de Lui."
           }
         }
       ]
