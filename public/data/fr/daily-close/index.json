@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-23",
+  "updatedAt": "2026-09-24",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -1838,6 +1838,236 @@
             "en": "Holiness is the path that brings us closer to God's heart. Every small decision of integrity today has prepared you for a tomorrow closer to Him.",
             "pt": "A santidade é o caminho que nos aproxima do coração de Deus. Cada pequena decisão de integridade hoje preparou você para um amanhã mais perto d'Ele.",
             "fr": "La sainteté est le chemin qui nous rapproche du cœur de Dieu. Chaque petite décision d'intégrité aujourd'hui vous a préparé pour un demain plus proche de Lui."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿Cómo influyó la luz de Cristo en tu perspectiva hoy?",
+        "en": "How did the light of Christ influence your perspective today?",
+        "pt": "Como a luz de Cristo influenciou sua perspectiva hoje?",
+        "fr": "Comment la lumière du Christ a-t-elle influencé votre perspective aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "ver_con_gracia",
+          "label": {
+            "es": "Ver con gracia",
+            "en": "Seeing with grace",
+            "pt": "Ver com graça",
+            "fr": "Voir avec grâce"
+          },
+          "responseTitle": {
+            "es": "Mirada de compasión",
+            "en": "Gaze of compassion",
+            "pt": "Olhar de compaixão",
+            "fr": "Regard de compassion"
+          },
+          "responseText": {
+            "es": "Hoy decidiste ver a los demás a través del amor de Dios, dejando de lado el juicio.",
+            "en": "Today you chose to see others through God's love, setting aside judgment.",
+            "pt": "Hoje você decidiu ver os outros através do amor de Deus, deixando de lado o julgamento.",
+            "fr": "Aujourd'hui, vous avez choisi de voir les autres à travers l'amour de Dieu, en laissant de côté le jugement."
+          },
+          "verses": [
+            "Juan 1:14"
+          ],
+          "reflectionHeader": {
+            "es": "La gracia que transforma",
+            "en": "Grace that transforms",
+            "pt": "A graça que transforma",
+            "fr": "La grâce qui transforme"
+          },
+          "reflection": {
+            "es": "Cuando la luz de Cristo ilumina nuestros ojos, las faltas ajenas se vuelven oportunidades para mostrar la misma misericordia que hemos recibido de Él.",
+            "en": "When Christ's light illuminates our eyes, the faults of others become opportunities to show the same mercy we have received from Him.",
+            "pt": "Quando a luz de Cristo ilumina nossos olhos, as falhas alheias tornam-se oportunidades para mostrar a mesma misericórdia que recebemos d'Ele.",
+            "fr": "Lorsque la lumière du Christ éclaire nos yeux, les fautes des autres deviennent des occasions de montrer la même miséricorde que celle que nous avons reçue de Lui."
+          }
+        },
+        {
+          "id": "claridad_espiritual",
+          "label": {
+            "es": "Claridad espiritual",
+            "en": "Spiritual clarity",
+            "pt": "Clareza espiritual",
+            "fr": "Clarté spirituelle"
+          },
+          "responseTitle": {
+            "es": "Entendimiento divino",
+            "en": "Divine understanding",
+            "pt": "Entendimento divino",
+            "fr": "Compréhension divine"
+          },
+          "responseText": {
+            "es": "La Palabra de Dios trajo luz a una situación confusa, dándote paz para decidir.",
+            "en": "God's Word brought light to a confusing situation, giving you peace to decide.",
+            "pt": "A Palavra de Deus trouxe luz a uma situação confusa, dando-lhe paz para decidir.",
+            "fr": "La Parole de Dieu a apporté la lumière dans une situation confuse, vous donnant la paix pour décider."
+          },
+          "verses": [
+            "Salmos 119:130"
+          ],
+          "reflectionHeader": {
+            "es": "Luz en el camino",
+            "en": "Light on the path",
+            "pt": "Luz no caminho",
+            "fr": "Lumière sur le chemin"
+          },
+          "reflection": {
+            "es": "La exposición de Su Palabra alumbra el corazón. No caminas en tinieblas cuando permites que sus verdades dicten el rumbo de tus pensamientos.",
+            "en": "The unfolding of His Word gives light to the heart. You do not walk in darkness when you allow His truths to dictate the course of your thoughts.",
+            "pt": "A exposição da Sua Palavra ilumina o coração. Você não caminha em trevas quando permite que Suas verdades ditem o rumo dos seus pensamentos.",
+            "fr": "L'exposition de Sa Parole illumine le cœur. Vous ne marchez pas dans les ténèbres lorsque vous permettez à Ses vérités de dicter le cours de vos pensées."
+          }
+        },
+        {
+          "id": "humildad_sincera",
+          "label": {
+            "es": "Humildad sincera",
+            "en": "Sincere humility",
+            "pt": "Humildade sincera",
+            "fr": "Humilité sincère"
+          },
+          "responseTitle": {
+            "es": "Caminar en la luz",
+            "en": "Walking in the light",
+            "pt": "Caminhar na luz",
+            "fr": "Marcher dans la lumière"
+          },
+          "responseText": {
+            "es": "Reconociste tus errores ante Dios, permitiendo que Su luz limpie tu conciencia.",
+            "en": "You recognized your mistakes before God, allowing His light to cleanse your conscience.",
+            "pt": "Você reconheceu seus erros diante de Deus, permitindo que Sua luz limpe sua consciência.",
+            "fr": "Vous avez reconnu vos erreurs devant Dieu, permettant à Sa lumière de purifier votre conscience."
+          },
+          "verses": [
+            "1 Juan 1:7"
+          ],
+          "reflectionHeader": {
+            "es": "Sinceridad ante el Padre",
+            "en": "Sincerity before the Father",
+            "pt": "Sinceridade perante o Pai",
+            "fr": "Sincérité devant le Père"
+          },
+          "reflection": {
+            "es": "La luz no solo guía, también revela lo que debe ser sanado. Al ser honesto con Dios, abres la puerta a una restauración profunda y genuina.",
+            "en": "Light not only guides, it also reveals what needs to be healed. By being honest with God, you open the door to a deep and genuine restoration.",
+            "pt": "A luz não apenas guia, mas também revela o que precisa ser curado. Ao ser honesto com Deus, você abre a porta para uma restauração profunda e genuína.",
+            "fr": "La lumière ne se contente pas de guider, elle révèle aussi ce qui doit être guéri. En étant honnête avec Dieu, vous ouvrez la porte à une restauration profonde et authentique."
+          }
+        },
+        {
+          "id": "detalles_divinos",
+          "label": {
+            "es": "Detalles divinos",
+            "en": "Divine details",
+            "pt": "Detalhes divinos",
+            "fr": "Détails divins"
+          },
+          "responseTitle": {
+            "es": "Disfrutar lo sencillo",
+            "en": "Enjoying the simple",
+            "pt": "Desfrutar o simples",
+            "fr": "Apprécier la simplicité"
+          },
+          "responseText": {
+            "es": "Hoy viste la mano de Dios en los pequeños momentos, encontrando gozo en lo cotidiano.",
+            "en": "Today you saw God's hand in small moments, finding joy in the everyday.",
+            "pt": "Hoje você viu a mão de Deus nos pequenos momentos, encontrando alegria no cotidiano.",
+            "fr": "Aujourd'hui, vous avez vu la main de Dieu dans les petits moments, trouvant de la joie dans le quotidien."
+          },
+          "verses": [
+            "Eclesiastés 3:13"
+          ],
+          "reflectionHeader": {
+            "es": "El don de percibir",
+            "en": "The gift of perceiving",
+            "pt": "O dom de perceber",
+            "fr": "Le don de percevoir"
+          },
+          "reflection": {
+            "es": "La luz de Cristo nos ayuda a no dar nada por sentado. Cada comida, cada sonrisa y cada respiro son regalos de Su bondad para nosotros.",
+            "en": "The light of Christ helps us take nothing for granted. Every meal, every smile, and every breath are gifts of His goodness to us.",
+            "pt": "A luz de Cristo nos ajuda a não dar nada como garantido. Cada refeição, cada sorriso e cada respiração são presentes da Sua bondade para nós.",
+            "fr": "La lumière du Christ nous aide à ne rien tenir pour acquis. Chaque repas, chaque sourire et chaque souffle sont des cadeaux de Sa bonté pour nous."
+          }
+        },
+        {
+          "id": "paz_en_caos",
+          "label": {
+            "es": "Paz en el caos",
+            "en": "Peace in chaos",
+            "pt": "Paz no caos",
+            "fr": "Paix dans le chaos"
+          },
+          "responseTitle": {
+            "es": "Serenidad firme",
+            "en": "Firm serenity",
+            "pt": "Serenidade firme",
+            "fr": "Sérénité ferme"
+          },
+          "responseText": {
+            "es": "Aunque hubo ruido a tu alrededor, la presencia de Jesús mantuvo tu corazón en calma.",
+            "en": "Though there was noise around you, Jesus' presence kept your heart calm.",
+            "pt": "Embora houvesse barulho ao seu redor, a presença de Jesus manteve seu coração calmo.",
+            "fr": "Bien qu'il y ait eu du bruit autour de vous, la présence de Jésus a gardé votre cœur calme."
+          },
+          "verses": [
+            "Marcos 4:39"
+          ],
+          "reflectionHeader": {
+            "es": "Autor de la calma",
+            "en": "Author of calm",
+            "pt": "Autor da calma",
+            "fr": "Auteur du calme"
+          },
+          "reflection": {
+            "es": "No importa cuán fuerte sea el viento, la luz de Su presencia nos recuerda que Él tiene el control de la tormenta y de nuestro destino.",
+            "en": "No matter how strong the wind, the light of His presence reminds us that He is in control of the storm and our destiny.",
+            "pt": "Não importa quão forte seja o vento, a luz da Sua presença nos lembra que Ele está no controle da tempestade e do nosso destino.",
+            "fr": "Peu importe la force du vent, la lumière de Sa présence nous rappelle qu'Il contrôle la tempête et notre destin."
+          }
+        },
+        {
+          "id": "esperanza_firme",
+          "label": {
+            "es": "Esperanza firme",
+            "en": "Firm hope",
+            "pt": "Esperança firme",
+            "fr": "Espérance ferme"
+          },
+          "responseTitle": {
+            "es": "Mirar el futuro",
+            "en": "Looking at the future",
+            "pt": "Olhar o futuro",
+            "fr": "Regarder l'avenir"
+          },
+          "responseText": {
+            "es": "Hoy enfocaste tus pensamientos en las promesas eternas de Dios más que en los problemas.",
+            "en": "Today you focused your thoughts on God's eternal promises rather than problems.",
+            "pt": "Hoje você focou seus pensamentos nas promessas eternas de Deus, e não nos problemas.",
+            "fr": "Aujourd'hui, vous avez concentré vos pensées sur les promesses éternelles de Dieu plutôt que sur les problèmes."
+          },
+          "verses": [
+            "Hebreos 10:23"
+          ],
+          "reflectionHeader": {
+            "es": "Fidelidad inquebrantable",
+            "en": "Unshakeable faithfulness",
+            "pt": "Fidelidade inabalável",
+            "fr": "Fidélité inébranlable"
+          },
+          "reflection": {
+            "es": "La esperanza es la luz que brilla en el horizonte. Mantenerse firme en lo que Dios ha dicho nos da la fuerza para terminar el día con victoria.",
+            "en": "Hope is the light that shines on the horizon. Staying firm in what God has said gives us the strength to end the day in victory.",
+            "pt": "A esperança é a luz que brilha no horizonte. Manter-se firme no que Deus disse nos dá a força para terminar o dia com vitória.",
+            "fr": "L'espérance est la lumière qui brille à l'horizon. Rester ferme dans ce que Dieu a dit nous donne la force de finir la journée avec victoire."
           }
         }
       ]
