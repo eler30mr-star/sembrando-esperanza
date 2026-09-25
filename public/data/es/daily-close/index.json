@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-24",
+  "updatedAt": "2026-09-25",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -2068,6 +2068,236 @@
             "en": "Hope is the light that shines on the horizon. Staying firm in what God has said gives us the strength to end the day in victory.",
             "pt": "A esperança é a luz que brilha no horizonte. Manter-se firme no que Deus disse nos dá a força para terminar o dia com vitória.",
             "fr": "L'espérance est la lumière qui brille à l'horizon. Rester ferme dans ce que Dieu a dit nous donne la force de finir la journée avec victoire."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera fortaleciste hoy el carácter de Cristo en tu interior?",
+        "en": "In what way did you strengthen Christ's character within you today?",
+        "pt": "De que maneira você fortaleceu o caráter de Cristo em seu interior hoje?",
+        "fr": "De quelle manière avez-vous fortifié le caractère de Christ en vous aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "dominio_propio_hoy",
+          "label": {
+            "es": "Dominio propio",
+            "en": "Self-control",
+            "pt": "Domínio próprio",
+            "fr": "Maîtrise de soi"
+          },
+          "responseTitle": {
+            "es": "Fuerza en la calma",
+            "en": "Strength in calmness",
+            "pt": "Força na calma",
+            "fr": "Force dans le calme"
+          },
+          "responseText": {
+            "es": "Has elegido gobernar tus emociones bajo la guía del Espíritu Santo, reflejando madurez.",
+            "en": "You have chosen to govern your emotions under the Spirit's guidance, reflecting maturity.",
+            "pt": "Você escolheu governar suas emoções sob a guia do Espírito Santo, refletindo maturidade.",
+            "fr": "Vous avez choisi de gouverner vos émotions sous la direction de l'Esprit, reflétant la maturité."
+          },
+          "verses": [
+            "Proverbios 16:32"
+          ],
+          "reflectionHeader": {
+            "es": "La victoria del silencio",
+            "en": "The victory of silence",
+            "pt": "A vitória do silêncio",
+            "fr": "La victoire du silence"
+          },
+          "reflection": {
+            "es": "Vencer un impulso es una de las mayores victorias espirituales. Al final del día, esa paz interior es el fruto de haber permitido que Dios tome las riendas de tu voluntad.",
+            "en": "Overcoming an impulse is one of the greatest spiritual victories. At the end of the day, that inner peace is the fruit of letting God take the reins of your will.",
+            "pt": "Vencer um impulso é uma das maiores vitórias espirituais. No final do dia, essa paz interior é o fruto de ter permitido que Deus tome as rédeas da sua vontade.",
+            "fr": "Vaincre une impulsion est l'une des plus grandes victoires spirituelles. En fin de journée, cette paix intérieure est le fruit d'avoir laissé Dieu prendre les rênes de votre volonté."
+          }
+        },
+        {
+          "id": "sabiduria_en_accion",
+          "label": {
+            "es": "Sabiduría práctica",
+            "en": "Practical wisdom",
+            "pt": "Sabedoria prática",
+            "fr": "Sagesse pratique"
+          },
+          "responseTitle": {
+            "es": "Caminar con prudencia",
+            "en": "Walking with prudence",
+            "pt": "Caminhar com prudência",
+            "fr": "Marcher avec prudence"
+          },
+          "responseText": {
+            "es": "Buscaste discernimiento antes de actuar, permitiendo que la luz de Dios guiara tus pasos.",
+            "en": "You sought discernment before acting, letting God's light guide your steps.",
+            "pt": "Você buscou discernimento antes de agir, permitindo que a luz de Deus guiasse seus passos.",
+            "fr": "Vous avez cherché le discernement avant d'agir, laissant la lumière de Dieu guider vos pas."
+          },
+          "verses": [
+            "Santiago 1:5"
+          ],
+          "reflectionHeader": {
+            "es": "El valor del discernimiento",
+            "en": "The value of discernment",
+            "pt": "O valor do discernimento",
+            "fr": "La valeur du discernement"
+          },
+          "reflection": {
+            "es": "La sabiduría no es solo saber, sino aplicar la verdad de Dios en lo cotidiano. Hoy, al pedir guía, evitaste caminos innecesarios y honraste al Señor con tu prudencia.",
+            "en": "Wisdom is not just knowing, but applying God's truth in daily life. Today, by asking for guidance, you avoided unnecessary paths and honored the Lord with your prudence.",
+            "pt": "A sabedoria não é apenas saber, mas aplicar a verdade de Deus no cotidiano. Hoje, ao pedir direção, você evitou caminhos desnecessários e honrou o Senhor com sua prudência.",
+            "fr": "La sagesse n'est pas seulement savoir, mais appliquer la vérité de Dieu au quotidien. Aujourd'hui, en demandant conseil, vous avez évité des chemins inutiles et honoré le Seigneur."
+          }
+        },
+        {
+          "id": "integridad_silenciosa",
+          "label": {
+            "es": "Integridad pura",
+            "en": "Pure integrity",
+            "pt": "Integridade pura",
+            "fr": "Intégrité pure"
+          },
+          "responseTitle": {
+            "es": "Firmeza de principios",
+            "en": "Firmness of principles",
+            "pt": "Firmeza de princípios",
+            "fr": "Fermeté des principes"
+          },
+          "responseText": {
+            "es": "Hiciste lo correcto incluso cuando nadie miraba, cuidando tu testimonio personal ante Dios.",
+            "en": "You did the right thing even when no one was watching, guarding your testimony before God.",
+            "pt": "Você fez o que era certo mesmo quando ninguém estava olhando, cuidando do seu testemunho diante de Deus.",
+            "fr": "Vous avez fait ce qui était juste même quand personne ne regardait, soignant votre témoignage devant Dieu."
+          },
+          "verses": [
+            "Salmos 15:2"
+          ],
+          "reflectionHeader": {
+            "es": "Cimentando el corazón",
+            "en": "Founding the heart",
+            "pt": "Alicerçando o coração",
+            "fr": "Fonder le cœur"
+          },
+          "reflection": {
+            "es": "La integridad es la base de un carácter sólido. Cada pequeña decisión honesta de hoy es un ladrillo más en la construcción de una vida que glorifica al Padre.",
+            "en": "Integrity is the foundation of a solid character. Every small honest decision today is another brick in building a life that glorifies the Father.",
+            "pt": "A integridade é a base de um caráter sólido. Cada pequena decisão honesta de hoje é mais um tijolo na construção de uma vida que glorifica o Pai.",
+            "fr": "L'intégrité est la base d'un caractère solide. Chaque petite décision honnête aujourd'hui est une brique de plus dans la construction d'une vie qui glorifie le Père."
+          }
+        },
+        {
+          "id": "humildad_aprendiz",
+          "label": {
+            "es": "Corazón enseñable",
+            "en": "Teachable heart",
+            "pt": "Coração ensinável",
+            "fr": "Cœur enseignable"
+          },
+          "responseTitle": {
+            "es": "Apertura a la corrección",
+            "en": "Openness to correction",
+            "pt": "Abertura à correção",
+            "fr": "Ouverture à la correction"
+          },
+          "responseText": {
+            "es": "Has mostrado humildad al recibir instrucción o reconocer un error con mansedumbre.",
+            "en": "You have shown humility by receiving instruction or acknowledging an error with meekness.",
+            "pt": "Você mostrou humildade ao receber instrução ou reconhecer um erro com mansidão.",
+            "fr": "Vous avez fait preuve d'humilité en recevant une instruction ou en reconnaissant une erreur avec douceur."
+          },
+          "verses": [
+            "Salmos 25:9"
+          ],
+          "reflectionHeader": {
+            "es": "Creciendo en la verdad",
+            "en": "Growing in truth",
+            "pt": "Crescendo na verdade",
+            "fr": "Grandir dans la vérité"
+          },
+          "reflection": {
+            "es": "Un espíritu enseñable es terreno fértil para el crecimiento. Al dejar de lado el orgullo, permites que el Maestro siga moldeando tu alma según Su perfecta voluntad.",
+            "en": "A teachable spirit is fertile ground for growth. By setting aside pride, you allow the Master to continue molding your soul according to His perfect will.",
+            "pt": "Um espírito ensinável é terreno fértil para o crescimento. Ao deixar de lado o orgulho, você permite que o Mestre continue moldando sua alma segundo Sua perfeita vontade.",
+            "fr": "Un esprit enseignable est un terrain fertile pour la croissance. En mettant de côté l'orgueil, vous permettez au Maître de continuer à modeler votre âme selon Sa volonté."
+          }
+        },
+        {
+          "id": "misericordia_activa",
+          "label": {
+            "es": "Misericordia",
+            "en": "Mercy",
+            "pt": "Misericórdia",
+            "fr": "Miséricorde"
+          },
+          "responseTitle": {
+            "es": "Reflejo del perdón",
+            "en": "Reflection of forgiveness",
+            "pt": "Reflexo do perdão",
+            "fr": "Reflet du pardon"
+          },
+          "responseText": {
+            "es": "Extendiste gracia a quien no la merecía, actuando como Cristo lo hace con nosotros.",
+            "en": "You extended grace to someone who didn't deserve it, acting as Christ does with us.",
+            "pt": "Você estendeu graça a quem não merecia, agindo como Cristo faz conosco.",
+            "fr": "Vous avez accordé votre grâce à quelqu'un qui ne la méritait pas, agissant comme Christ le fait."
+          },
+          "verses": [
+            "Lucas 6:36"
+          ],
+          "reflectionHeader": {
+            "es": "El poder de perdonar",
+            "en": "The power to forgive",
+            "pt": "O poder de perdoar",
+            "fr": "Le pouvoir de pardonner"
+          },
+          "reflection": {
+            "es": "Ser misericordioso es la prueba más difícil del carácter. Hoy, al no devolver mal por mal, has demostrado que el amor de Dios es mayor que tus propias heridas.",
+            "en": "Being merciful is the toughest test of character. Today, by not returning evil for evil, you have shown that God's love is greater than your own wounds.",
+            "pt": "Ser misericordioso é o teste mais difícil do caráter. Hoje, ao não retribuir o mal com o mal, você demonstrou que o amor de Deus é maior que suas próprias feridas.",
+            "fr": "Être miséricordieux est l'épreuve la plus difficile du caractère. Aujourd'hui, en ne rendant pas le mal pour le mal, vous avez montré que l'amour de Dieu est plus grand."
+          }
+        },
+        {
+          "id": "constancia_fe",
+          "label": {
+            "es": "Firmeza espiritual",
+            "en": "Spiritual firmness",
+            "pt": "Firmeza espiritual",
+            "fr": "Fermeté spirituelle"
+          },
+          "responseTitle": {
+            "es": "Permanecer en pie",
+            "en": "Standing firm",
+            "pt": "Permanecer em pé",
+            "fr": "Rester debout"
+          },
+          "responseText": {
+            "es": "Mantuviste tus convicciones a pesar de las presiones externas o el desánimo.",
+            "en": "You maintained your convictions despite external pressures or discouragement.",
+            "pt": "Você manteve suas convicções apesar das pressões externas ou do desânimo.",
+            "fr": "Vous avez maintenu vos convictions malgré les pressions extérieures ou le découragement."
+          },
+          "verses": [
+            "1 Corintios 16:13"
+          ],
+          "reflectionHeader": {
+            "es": "Anclado en la roca",
+            "en": "Anchored on the rock",
+            "pt": "Ancorado na rocha",
+            "fr": "Ancré sur le roc"
+          },
+          "reflection": {
+            "es": "La constancia es lo que separa una emoción pasajera de una fe verdadera. Tu perseverancia de hoy ha fortalecido tus raíces espirituales para las tormentas del mañana.",
+            "en": "Constancy is what separates a fleeting emotion from true faith. Your perseverance today has strengthened your spiritual roots for tomorrow's storms.",
+            "pt": "A constância é o que separa uma emoção passageira de uma fé verdadeira. Sua perseverança de hoje fortaleceu suas raízes espirituais para as tempestades de amanhã.",
+            "fr": "La constance est ce qui sépare une émotion passagère d'une foi véritable. Votre persévérance aujourd'hui a fortifié vos racines spirituelles pour l'avenir."
           }
         }
       ]
