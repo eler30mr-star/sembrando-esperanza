@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-09-26",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -2298,6 +2298,236 @@
             "en": "Constancy is what separates a fleeting emotion from true faith. Your perseverance today has strengthened your spiritual roots for tomorrow's storms.",
             "pt": "A constância é o que separa uma emoção passageira de uma fé verdadeira. Sua perseverança de hoje fortaleceu suas raízes espirituais para as tempestades de amanhã.",
             "fr": "La constance est ce qui sépare une émotion passagère d'une foi véritable. Votre persévérance aujourd'hui a fortifié vos racines spirituelles pour l'avenir."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿Cómo transformó hoy tu caminar la consciencia de la presencia de Dios?",
+        "en": "How did the awareness of God's presence transform your walk today?",
+        "pt": "Como a consciência da presença de Deus transformou o seu caminhar hoje?",
+        "fr": "Comment la conscience de la présence de Dieu a-t-elle transformé votre marche aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "gratitud_profunda",
+          "label": {
+            "es": "Gratitud profunda",
+            "en": "Deep gratitude",
+            "pt": "Gratidão profunda",
+            "fr": "Profonde gratitude"
+          },
+          "responseTitle": {
+            "es": "Gozo en Su compañía",
+            "en": "Joy in His company",
+            "pt": "Alegria em Sua companhia",
+            "fr": "Joie en Sa compagnie"
+          },
+          "responseText": {
+            "es": "Has descubierto que la gratitud nace al reconocer que Dios camina a tu lado en cada detalle.",
+            "en": "You have discovered that gratitude is born from recognizing that God walks beside you in every detail.",
+            "pt": "Você descobriu que a gratidão nasce ao reconhecer que Deus caminha ao seu lado em cada detalhe.",
+            "fr": "Vous avez découvert que la gratitude naît de la reconnaissance que Dieu marche à vos côtés dans chaque détail."
+          },
+          "verses": [
+            "Salmos 16:11"
+          ],
+          "reflectionHeader": {
+            "es": "La plenitud de Su rostro",
+            "en": "The fullness of His face",
+            "pt": "A plenitude de Sua face",
+            "fr": "La plénitude de Sa face"
+          },
+          "reflection": {
+            "es": "Cuando caminamos conscientes de Su presencia, los momentos ordinarios se vuelven sagrados. La gratitud no es solo una respuesta a lo que recibimos, sino a Quién nos acompaña. Esta noche, deja que esa alegría sea tu descanso.",
+            "en": "When we walk aware of His presence, ordinary moments become sacred. Gratitude is not just a response to what we receive, but to Who accompanies us. Tonight, let that joy be your rest.",
+            "pt": "Quando caminhamos conscientes de Sua presença, os momentos comuns tornam-se sagrados. A gratidão não é apenas uma resposta ao que recebemos, mas a Quem nos acompanha. Esta noite, deixe que essa alegria seja o seu descanso.",
+            "fr": "Lorsque nous marchons conscients de Sa présence, les moments ordinaires deviennent sacrés. La gratitude n'est pas seulement une réponse à ce que nous recevons, mais à Qui nous accompagne. Ce soir, laissez cette joie être votre repos."
+          }
+        },
+        {
+          "id": "trato_misericordioso",
+          "label": {
+            "es": "Misericordia activa",
+            "en": "Active mercy",
+            "pt": "Misericórdia ativa",
+            "fr": "Miséricorde active"
+          },
+          "responseTitle": {
+            "es": "Reflejo de Su amor",
+            "en": "Reflection of His love",
+            "pt": "Reflexo do Seu amor",
+            "fr": "Reflet de Son amour"
+          },
+          "responseText": {
+            "es": "Al saberte amado por Dios, pudiste extender esa misma gracia y paciencia a quienes te rodearon.",
+            "en": "Knowing you are loved by God, you were able to extend that same grace and patience to those around you.",
+            "pt": "Ao saber que é amado por Deus, você pôde estender essa mesma graça e paciência aos que o rodeavam.",
+            "fr": "En vous sachant aimé de Dieu, vous avez pu étendre cette même grâce et cette patience à ceux qui vous entourent."
+          },
+          "verses": [
+            "Mateo 5:7"
+          ],
+          "reflectionHeader": {
+            "es": "Un corazón compasivo",
+            "en": "A compassionate heart",
+            "pt": "Um coração compassivo",
+            "fr": "Un cœur compatissant"
+          },
+          "reflection": {
+            "es": "La presencia de Dios suaviza nuestro carácter. Si hoy lograste responder con bondad ante la aspereza, fue el Espíritu obrando en ti. Medita en cómo Su misericordia te ha sostenido hoy y duerme en paz sabiendo que diste Su luz.",
+            "en": "God's presence softens our character. If today you managed to respond with kindness to harshness, it was the Spirit working in you. Meditate on how His mercy has sustained you today and sleep in peace knowing you gave His light.",
+            "pt": "A presença de Deus suaviza o nosso caráter. Se hoje você conseguiu responder com bondade à aspereza, foi o Espírito agindo em você. Medite em como a Sua misericórdia o sustentou hoje e durma em paz sabendo que você transmitiu a Sua luz.",
+            "fr": "La présence de Dieu adoucit notre caractère. Si aujourd'hui vous avez réussi à répondre avec bonté à la dureté, c'est l'Esprit qui a agi en vous. Méditez sur la manière dont Sa miséricorde vous a soutenu aujourd'hui et dormez en paix."
+          }
+        },
+        {
+          "id": "serenidad_continua",
+          "label": {
+            "es": "Serenidad constante",
+            "en": "Constant serenity",
+            "pt": "Serenidade constante",
+            "fr": "Sérénité constante"
+          },
+          "responseTitle": {
+            "es": "Anclado en la paz",
+            "en": "Anchored in peace",
+            "pt": "Ancorado na paz",
+            "fr": "Ancré dans la paix"
+          },
+          "responseText": {
+            "es": "Aunque el día tuvo sus ruidos, tu mente permaneció en calma al confiar en la soberanía divina.",
+            "en": "Although the day had its noises, your mind remained calm by trusting in divine sovereignty.",
+            "pt": "Embora o dia tenha tido seus ruídos, sua mente permaneceu calma ao confiar na soberania divina.",
+            "fr": "Bien que la journée ait été bruyante, votre esprit est resté calme en faisant confiance à la souveraineté divine."
+          },
+          "verses": [
+            "Isaías 26:3"
+          ],
+          "reflectionHeader": {
+            "es": "Paz que sobrepasa todo",
+            "en": "Peace that surpasses all",
+            "pt": "Paz que excede tudo",
+            "fr": "Une paix qui dépasse tout"
+          },
+          "reflection": {
+            "es": "Mantener la paz no es ausencia de problemas, sino la presencia de una Persona: Cristo. Al fijar tus pensamientos en Él, el caos externo pierde su poder. Entrega ahora cualquier residuo de ansiedad y descansa en Su control absoluto.",
+            "en": "Maintaining peace is not the absence of problems, but the presence of a Person: Christ. By fixing your thoughts on Him, external chaos loses its power. Surrender any residue of anxiety now and rest in His absolute control.",
+            "pt": "Manter a paz não é a ausência de problemas, mas a presença de uma Pessoa: Cristo. Ao fixar seus pensamentos n’Ele, o caos externo perde o poder. Entregue agora qualquer resíduo de ansiedade e descanse em Seu controle absoluto.",
+            "fr": "Maintenir la paix n'est pas l'absence de problèmes, mais la présence d'une Personne : le Christ. En fixant vos pensées sur Lui, le chaos extérieur perd son pouvoir. Remettez maintenant toute anxiété et reposez-vous en Lui."
+          }
+        },
+        {
+          "id": "discernimiento_fiel",
+          "label": {
+            "es": "Discernimiento fiel",
+            "en": "Faithful discernment",
+            "pt": "Discernimento fiel",
+            "fr": "Discernement fidèle"
+          },
+          "responseTitle": {
+            "es": "Pasos guiados",
+            "en": "Guided steps",
+            "pt": "Passos guiados",
+            "fr": "Pas guidés"
+          },
+          "responseText": {
+            "es": "Buscaste reconocer la voluntad de Dios en tus decisiones, permitiendo que Su sabiduría dirigiera tu camino.",
+            "en": "You sought to recognize God's will in your decisions, allowing His wisdom to direct your path.",
+            "pt": "Você buscou reconhecer a vontade de Deus em suas decisões, permitindo que a sabedoria d’Ele guiasse o seu caminho.",
+            "fr": "Vous avez cherché à reconnaître la volonté de Dieu dans vos décisions, laissant Sa sagesse diriger votre chemin."
+          },
+          "verses": [
+            "Proverbios 3:6"
+          ],
+          "reflectionHeader": {
+            "es": "Caminando en Su verdad",
+            "en": "Walking in His truth",
+            "pt": "Caminhando em Sua verdade",
+            "fr": "Marcher dans Sa vérité"
+          },
+          "reflection": {
+            "es": "Reconocer a Dios en todos nuestros caminos significa invitarle a participar en lo cotidiano. Si hoy buscaste Su consejo, puedes terminar el día con la certeza de que no caminaste solo. Sus sendas son siempre de justicia y amor.",
+            "en": "Acknowledging God in all our ways means inviting Him to participate in the everyday. If you sought His counsel today, you can end the day with the certainty that you did not walk alone. His paths are always of justice and love.",
+            "pt": "Reconhecer a Deus em todos os nossos caminhos significa convidá-Lo a participar do cotidiano. Se hoje você buscou o conselho d’Ele, pode terminar o dia com a certeza de que não caminhou sozinho. Seus caminhos são sempre de justiça e amor.",
+            "fr": "Reconnaître Dieu dans toutes nos voies signifie L'inviter à participer au quotidien. Si vous avez cherché Son conseil aujourd'hui, vous pouvez terminer la journée avec la certitude que vous n'avez pas marché seul."
+          }
+        },
+        {
+          "id": "fortaleza_interior",
+          "label": {
+            "es": "Fortaleza interior",
+            "en": "Inner strength",
+            "pt": "Fortaleza interior",
+            "fr": "Force intérieure"
+          },
+          "responseTitle": {
+            "es": "Valentía en Su nombre",
+            "en": "Courage in His name",
+            "pt": "Coragem em Seu nome",
+            "fr": "Courage en Son nom"
+          },
+          "responseText": {
+            "es": "Enfrentaste los desafíos de hoy con valentía, sabiendo que el Señor está contigo dondequiera que vayas.",
+            "en": "You faced today's challenges with courage, knowing that the Lord is with you wherever you go.",
+            "pt": "Você enfrentou os desafios de hoje com coragem, sabendo que o Senhor está com você por onde quer que vá.",
+            "fr": "Vous avez affronté les défis d'aujourd'hui avec courage, sachant que le Seigneur est avec vous partout où vous allez."
+          },
+          "verses": [
+            "Josué 1:9"
+          ],
+          "reflectionHeader": {
+            "es": "Sin temor al mañana",
+            "en": "No fear of tomorrow",
+            "pt": "Sem medo do amanhã",
+            "fr": "Sans peur du lendemain"
+          },
+          "reflection": {
+            "es": "La verdadera fortaleza no proviene de nuestra capacidad, sino de la cercanía del Omnipotente. Al ser consciente de Su presencia, el miedo se disipa. Reposa ahora bajo Su protección, sabiendo que Su poder te ha sostenido y lo seguirá haciendo.",
+            "en": "True strength does not come from our capacity, but from the closeness of the Almighty. By being aware of His presence, fear dissipates. Rest now under His protection, knowing that His power has sustained you and will continue to do so.",
+            "pt": "A verdadeira força não vem da nossa capacidade, mas da proximidade do Onipotente. Ao estar consciente da presença d’Ele, o medo se dissipa. Repouse agora sob a proteção d’Ele, sabendo que o poder de Deus o sustentou e continuará sustentando.",
+            "fr": "La vraie force ne vient pas de notre capacité, mais de la proximité du Tout-Puissant. En étant conscient de Sa présence, la peur se dissipe. Reposez-vous maintenant sous Sa protection, sachant que Sa puissance vous a soutenu."
+          }
+        },
+        {
+          "id": "reposo_en_su_amor",
+          "label": {
+            "es": "Reposo en Su amor",
+            "en": "Rest in His love",
+            "pt": "Repouso em Seu amor",
+            "fr": "Repos en Son amour"
+          },
+          "responseTitle": {
+            "es": "Cerrando con paz",
+            "en": "Closing with peace",
+            "pt": "Encerrando com paz",
+            "fr": "Clôturer en paix"
+          },
+          "responseText": {
+            "es": "Hoy terminas tu jornada soltando las cargas y permitiendo que Su amor sea el lugar de tu descanso.",
+            "en": "Today you finish your day by letting go of the burdens and allowing His love to be the place of your rest.",
+            "pt": "Hoje você termina sua jornada soltando os fardos e permitindo que o amor d’Ele seja o lugar do seu descanso.",
+            "fr": "Aujourd'hui, vous terminez votre journée en lâchant vos fardeaux et en laissant Son amour être le lieu de votre repos."
+          },
+          "verses": [
+            "Sofonías 3:17"
+          ],
+          "reflectionHeader": {
+            "es": "Él se regocija en ti",
+            "en": "He rejoices over you",
+            "pt": "Ele se alegra em você",
+            "fr": "Il se réjouit de vous"
+          },
+          "reflection": {
+            "es": "No hay mejor manera de terminar el día que en el silencio del amor de Dios. Él está en medio de ti, renovándote con Su afecto. Su presencia es un refugio seguro donde no necesitas hacer nada, solo ser amado por tu Creador.",
+            "en": "There is no better way to end the day than in the silence of God's love. He is in your midst, renewing you with His affection. His presence is a safe haven where you need do nothing, only be loved by your Creator.",
+            "pt": "Não há melhor maneira de terminar o dia do que no silêncio do amor de Deus. Ele está no meio de você, renovando-o com o Seu afeto. A presença d’Ele é um refúgio seguro onde você não precisa fazer nada, apenas ser amado pelo seu Criador.",
+            "fr": "Il n'y a pas de meilleure façon de terminer la journée que dans le silence de l'amour de Dieu. Il est au milieu de vous, vous renouvelant par Son affection. Sa présence est un havre de paix où vous n'avez rien à faire, sinon être aimé."
           }
         }
       ]
