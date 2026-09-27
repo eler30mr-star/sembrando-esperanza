@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26",
+  "updatedAt": "2026-09-27",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -2528,6 +2528,236 @@
             "en": "There is no better way to end the day than in the silence of God's love. He is in your midst, renewing you with His affection. His presence is a safe haven where you need do nothing, only be loved by your Creator.",
             "pt": "Não há melhor maneira de terminar o dia do que no silêncio do amor de Deus. Ele está no meio de você, renovando-o com o Seu afeto. A presença d’Ele é um refúgio seguro onde você não precisa fazer nada, apenas ser amado pelo seu Criador.",
             "fr": "Il n'y a pas de meilleure façon de terminer la journée que dans le silence de l'amour de Dieu. Il est au milieu de vous, vous renouvelant par Son affection. Sa présence est un havre de paix où vous n'avez rien à faire, sinon être aimé."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera buscaste la cercanía de Dios en tu rutina hoy?",
+        "en": "In what way did you seek God's closeness in your routine today?",
+        "pt": "De que maneira você buscou a proximidade de Deus em sua rotina hoje?",
+        "fr": "De quelle manière avez-vous cherché la proximité de Dieu aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "oracion_breve",
+          "label": {
+            "es": "Breve oración",
+            "en": "Short prayer",
+            "pt": "Oração breve",
+            "fr": "Courte prière"
+          },
+          "responseTitle": {
+            "es": "Conexión constante",
+            "en": "Constant connection",
+            "pt": "Conexão constante",
+            "fr": "Connexion constante"
+          },
+          "responseText": {
+            "es": "Incluso en el ajetreo, elevar un suspiro al cielo mantiene el alma conectada con su Creador.",
+            "en": "Even in the busyness, lifting a sigh to heaven keeps the soul connected to its Creator.",
+            "pt": "Mesmo na agitação, elevar um suspiro ao céu mantém a alma conectada com seu Criador.",
+            "fr": "Même dans l'agitation, élever un soupir vers le ciel maintient l'âme connectée à son Créateur."
+          },
+          "verses": [
+            "1 Tesalonicenses 5:17"
+          ],
+          "reflectionHeader": {
+            "es": "El hilo invisible",
+            "en": "The invisible thread",
+            "pt": "O fio invisível",
+            "fr": "Le fil invisible"
+          },
+          "reflection": {
+            "es": "La oración no siempre requiere de largos periodos de tiempo; a menudo es el diálogo continuo y sencillo lo que transforma un día ordinario en una caminata espiritual. Al reconocer su presencia en medio de tus tareas, permites que Su paz sea el ruido de fondo de tu jornada.",
+            "en": "Prayer does not always require long periods of time; it is often the continuous and simple dialogue that transforms an ordinary day into a spiritual walk. By acknowledging His presence in the middle of your tasks, you allow His peace to be the background noise of your day.",
+            "pt": "A oração nem sempre exige longos períodos de tempo; muitas vezes é o diálogo contínuo e simples que transforma um dia comum em uma caminhada espiritual. Ao reconhecer a presença Dele no meio das suas tarefas, você permite que a Sua paz seja o ruído de fundo da sua jornada.",
+            "fr": "La prière ne nécessite pas toujours de longues périodes ; c'est souvent le dialogue continu et simple qui transforme une journée ordinaire en une marche spirituelle. En reconnaissant Sa présence au milieu de vos tâches, vous permettez à Sa paix d'être le bruit de fond de votre journée."
+          }
+        },
+        {
+          "id": "belleza_creacion",
+          "label": {
+            "es": "Ver Su creación",
+            "en": "Seeing His creation",
+            "pt": "Ver Sua criação",
+            "fr": "Voir Sa création"
+          },
+          "responseTitle": {
+            "es": "Asombro divino",
+            "en": "Divine wonder",
+            "pt": "Maravilha divina",
+            "fr": "Merveille divine"
+          },
+          "responseText": {
+            "es": "Detenerse a observar Su obra en los detalles cotidianos nos recuerda Su cuidado personal.",
+            "en": "Stopping to observe His work in daily details reminds us of His personal care.",
+            "pt": "Parar para observar Sua obra nos detalhes cotidianos nos lembra de Seu cuidado pessoal.",
+            "fr": "S'arrêter pour observer Son œuvre dans les détails quotidiens nous rappelle Son soin personnel."
+          },
+          "verses": [
+            "Salmos 19:1"
+          ],
+          "reflectionHeader": {
+            "es": "Firmado por Dios",
+            "en": "Signed by God",
+            "pt": "Assinado por Deus",
+            "fr": "Signé par Dieu"
+          },
+          "reflection": {
+            "es": "Cada rayo de luz, cada hoja que cae y cada respiro son testimonios silenciosos de la soberanía de Dios. Cuando aprendemos a ver el mundo como un santuario, nuestra perspectiva cambia del estrés a la adoración, reconociendo que Aquel que sostiene las estrellas también sostiene nuestra vida.",
+            "en": "Every ray of light, every falling leaf, and every breath are silent testimonies of God's sovereignty. When we learn to see the world as a sanctuary, our perspective shifts from stress to worship, recognizing that the One who holds the stars also holds our life.",
+            "pt": "Cada raio de luz, cada folha que cai e cada respiração são testemunhos silenciosos da soberania de Deus. Quando aprendemos a ver o mundo como um santuário, nossa perspectiva muda do estresse para a adoração, reconhecendo que Aquele que sustenta as estrelas também sustenta nossa vida.",
+            "fr": "Chaque rayon de lumière, chaque feuille qui tombe et chaque souffle sont des témoignages silencieux de la souveraineté de Dieu. Quand nous apprenons à voir le monde comme un sanctuaire, notre perspective passe du stress à l'adoration, reconnaissant que Celui qui soutient les étoiles soutient aussi notre vie."
+          }
+        },
+        {
+          "id": "meditacion_diaria",
+          "label": {
+            "es": "Meditando verdades",
+            "en": "Meditating truths",
+            "pt": "Meditando verdades",
+            "fr": "Méditer les vérités"
+          },
+          "responseTitle": {
+            "es": "Mente renovada",
+            "en": "Renewed mind",
+            "pt": "Mente renovada",
+            "fr": "Esprit renouvelé"
+          },
+          "responseText": {
+            "es": "Guardar una palabra bíblica en la mente actúa como un filtro ante las presiones del día.",
+            "en": "Keeping a biblical word in mind acts as a filter against the pressures of the day.",
+            "pt": "Guardar uma palavra bíblica na mente atua como um filtro diante das pressões do dia.",
+            "fr": "Garder une parole biblique à l'esprit agit comme un filtre contre les pressions de la journée."
+          },
+          "verses": [
+            "Josué 1:8"
+          ],
+          "reflectionHeader": {
+            "es": "Ancla para el pensamiento",
+            "en": "Anchor for thought",
+            "pt": "Âncora para o pensamento",
+            "fr": "Ancre pour la pensée"
+          },
+          "reflection": {
+            "es": "La meditación no es vaciar la mente, sino llenarla con lo que es verdadero y eterno. Al rumiar las promesas de Dios, nuestras emociones se alinean con Su voluntad y encontramos una estabilidad que el mundo no puede ofrecer ni arrebatar.",
+            "en": "Meditation is not emptying the mind, but filling it with what is true and eternal. By ruminating on God's promises, our emotions align with His will and we find a stability that the world cannot offer or take away.",
+            "pt": "Meditação não é esvaziar a mente, mas preenchê-la com o que é verdadeiro e eterno. Ao ruminar as promessas de Deus, nossas emoções se alinham com Sua vontade e encontramos uma estabilidade que o mundo não pode oferecer nem tirar.",
+            "fr": "La méditation n'est pas de vider l'esprit, mais de le remplir de ce qui est vrai et éternel. En ruminant les promesses de Dieu, nos émotions s'alignent sur Sa volonté et nous trouvons une stabilité que le monde ne peut ni offrir ni enlever."
+          }
+        },
+        {
+          "id": "silencio_alma",
+          "label": {
+            "es": "Silencio interior",
+            "en": "Inner silence",
+            "pt": "Silêncio interior",
+            "fr": "Silence intérieur"
+          },
+          "responseTitle": {
+            "es": "Pausa sagrada",
+            "en": "Sacred pause",
+            "pt": "Pausa sagrada",
+            "fr": "Pause sacrée"
+          },
+          "responseText": {
+            "es": "En medio del ruido, elegiste callar para escuchar el susurro suave del Espíritu Santo.",
+            "en": "In the midst of the noise, you chose to be quiet to hear the gentle whisper of the Holy Spirit.",
+            "pt": "No meio do barulho, você escolheu calar-se para ouvir o sussurro suave do Espírito Santo.",
+            "fr": "Au milieu du bruit, vous avez choisi de vous taire pour entendre le doux murmure du Saint-Esprit."
+          },
+          "verses": [
+            "Salmos 62:5"
+          ],
+          "reflectionHeader": {
+            "es": "Reposo en el Ser",
+            "en": "Resting in Being",
+            "pt": "Repouso no Ser",
+            "fr": "Repos dans l'Être"
+          },
+          "reflection": {
+            "es": "Dios a menudo habla en el silencio. Al buscar intencionalmente momentos de quietud, le damos permiso a nuestra alma para descansar de la necesidad de producir o controlar, simplemente descansando en el hecho de que Él es Dios y nosotros somos suyos.",
+            "en": "God often speaks in the silence. By intentionally seeking moments of stillness, we give our soul permission to rest from the need to produce or control, simply resting in the fact that He is God and we are His.",
+            "pt": "Deus muitas vezes fala no silêncio. Ao buscar intencionalmente momentos de quietude, damos permissão à nossa alma para descansar da necessidade de produzir ou controlar, simplesmente descansando no fato de que Ele é Deus e nós somos Dele.",
+            "fr": "Dieu parle souvent dans le silence. En cherchant intentionnellement des moments de calme, nous donnons à notre âme la permission de se reposer du besoin de produire ou de contrôler, se reposant simplement sur le fait qu'Il est Dieu et que nous sommes à Lui."
+          }
+        },
+        {
+          "id": "estimulo_mutuo",
+          "label": {
+            "es": "Animar a otro",
+            "en": "Encouraging another",
+            "pt": "Animar outro",
+            "fr": "Encourager autrui"
+          },
+          "responseTitle": {
+            "es": "Canal de bendición",
+            "en": "Channel of blessing",
+            "pt": "Canal de bênção",
+            "fr": "Canal de bénédiction"
+          },
+          "responseText": {
+            "es": "Servir y alentar a otros es una forma práctica de tocar el corazón de Dios.",
+            "en": "Serving and encouraging others is a practical way to touch God's heart.",
+            "pt": "Servir e encorajar outros é uma forma prática de tocar o coração de Deus.",
+            "fr": "Servir et encourager les autres est une manière pratique de toucher le cœur de Dieu."
+          },
+          "verses": [
+            "Hebreos 10:24"
+          ],
+          "reflectionHeader": {
+            "es": "Amor en movimiento",
+            "en": "Love in motion",
+            "pt": "Amor em movimento",
+            "fr": "L'amour en mouvement"
+          },
+          "reflection": {
+            "es": "Vemos a Dios cuando amamos a nuestro prójimo. Al extender una mano o una palabra de aliento, estamos actuando como las manos y los pies de Cristo en la tierra, encontrando Su presencia en el rostro de los demás.",
+            "en": "We see God when we love our neighbor. By extending a hand or a word of encouragement, we are acting as the hands and feet of Christ on earth, finding His presence in the faces of others.",
+            "pt": "Vemos a Deus quando amamos o nosso próximo. Ao estender uma mão ou uma palavra de encorajamento, estamos agindo como as mãos e os pés de Cristo na terra, encontrando Sua presença no rosto dos outros.",
+            "fr": "Nous voyons Dieu lorsque nous aimons notre prochain. En tendant la main ou une parole d'encouragement, nous agissons comme les mains et les pieds du Christ sur terre, trouvant Sa présence sur le visage des autres."
+          }
+        },
+        {
+          "id": "alabanza_continua",
+          "label": {
+            "es": "Sacrificio de alabanza",
+            "en": "Sacrifice of praise",
+            "pt": "Sacrifício de louvor",
+            "fr": "Sacrifice de louange"
+          },
+          "responseTitle": {
+            "es": "Corazón rendido",
+            "en": "Surrendered heart",
+            "pt": "Coração rendido",
+            "fr": "Cœur rendu"
+          },
+          "responseText": {
+            "es": "Elegir alabar a Dios sin importar las circunstancias te acerca a Su trono de gracia.",
+            "en": "Choosing to praise God regardless of circumstances brings you closer to His throne of grace.",
+            "pt": "Escolher louvar a Deus independentemente das circunstâncias aproxima você de Seu trono de graça.",
+            "fr": "Choisir de louer Dieu quelles que soient les circonstances vous rapproche de Son trône de grâce."
+          },
+          "verses": [
+            "Hebreos 13:15"
+          ],
+          "reflectionHeader": {
+            "es": "Canto en la noche",
+            "en": "Song in the night",
+            "pt": "Canto na noite",
+            "fr": "Chant dans la nuit"
+          },
+          "reflection": {
+            "es": "La alabanza es una declaración de fe. Cuando decidimos glorificar a Dios incluso en la fatiga o el desafío, estamos afirmando que Su carácter es mayor que nuestros problemas, invitando Su gloria a llenar nuestro espacio personal.",
+            "en": "Praise is a declaration of faith. When we decide to glorify God even in fatigue or challenge, we are affirming that His character is greater than our problems, inviting His glory to fill our personal space.",
+            "pt": "O louvor é uma declaração de fé. Quando decidimos glorificar a Deus mesmo no cansaço ou no desafio, estamos afirmando que Seu caráter é maior que nossos problemas, convidando Sua glória a preencher nosso espaço pessoal.",
+            "fr": "La louange est une déclaration de foi. Lorsque nous décidons de glorifier Dieu même dans la fatigue ou le défi, nous affirmons que Son caractère est plus grand que nos problèmes, invitant Sa gloire à remplir notre espace personnel."
           }
         }
       ]
