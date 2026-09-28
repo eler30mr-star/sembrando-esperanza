@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27",
+  "updatedAt": "2026-09-28",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -2758,6 +2758,236 @@
             "en": "Praise is a declaration of faith. When we decide to glorify God even in fatigue or challenge, we are affirming that His character is greater than our problems, inviting His glory to fill our personal space.",
             "pt": "O louvor é uma declaração de fé. Quando decidimos glorificar a Deus mesmo no cansaço ou no desafio, estamos afirmando que Seu caráter é maior que nossos problemas, convidando Sua glória a preencher nosso espaço pessoal.",
             "fr": "La louange est une déclaration de foi. Lorsque nous décidons de glorifier Dieu même dans la fatigue ou le défi, nous affirmons que Son caractère est plus grand que nos problèmes, invitant Sa gloire à remplir notre espace personnel."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera renovaste tu mente al enfrentar los retos de hoy?",
+        "en": "In what way did you renew your mind when facing today's challenges?",
+        "pt": "De que maneira você renovou sua mente ao enfrentar os desafios de hoje?",
+        "fr": "De quelle manière avez-vous renouvelé votre esprit face aux défis du jour ?"
+      },
+      "options": [
+        {
+          "id": "filtrando_pensamientos",
+          "label": {
+            "es": "Filtrando con la Palabra",
+            "en": "Filtering with the Word",
+            "pt": "Filtrando com a Palavra",
+            "fr": "Filtrer par la Parole"
+          },
+          "responseTitle": {
+            "es": "Sometiste cada pensamiento",
+            "en": "You brought thoughts to God",
+            "pt": "Você submeteu cada pensamento",
+            "fr": "Vous avez captivé vos pensées"
+          },
+          "responseText": {
+            "es": "Decidiste someter tus ideas y temores ante la verdad de Cristo, impidiendo que el engaño tomara el control de tu día.",
+            "en": "You chose to bring your thoughts and fears before Christ's truth, preventing deception from taking control of your day.",
+            "pt": "Você decidiu submeter suas ideias e medos à verdade de Cristo, impedindo que o engano tomasse conta do seu dia.",
+            "fr": "Vous avez choisi de soumettre vos pensées et vos peurs à la vérité du Christ, empêchant la tromperie de prendre le dessus."
+          },
+          "verses": [
+            "2 Corintios 10:5"
+          ],
+          "reflectionHeader": {
+            "es": "Pensamientos cautivos en Dios",
+            "en": "Thoughts captive in God",
+            "pt": "Pensamentos cativos em Deus",
+            "fr": "Pensées captives en Dieu"
+          },
+          "reflection": {
+            "es": "Cuando decidimos evaluar cada pensamiento a la luz de las Escrituras, nuestra mente encuentra descanso. No todo pensamiento que llega a nosotros refleja la verdad. Al descansar esta noche, dale gracias al Señor por proteger tu mente y por darte la firmeza para desechar lo que no construye tu fe.",
+            "en": "When we decide to test every thought against Scripture, our mind finds rest. Not every thought that comes to us reflects truth. As you rest tonight, thank the Lord for guarding your mind and giving you the strength to discard what does not build your faith.",
+            "pt": "Quando decidimos avaliar cada pensamento à luz das Escrituras, nossa mente encontra descanso. Nem todo pensamento que surge reflete a verdade. Ao descansar esta noite, agradeça ao Senhor por proteger sua mente e dar firmeza para descartar o que não edifica sua fé.",
+            "fr": "Lorsque nous choisissons de tester chaque pensée à la lumière des Écritures, notre esprit trouve le repos. Toute pensée qui nous vient ne reflète pas la vérité. Ce soir, remerciez le Seigneur de protéger votre esprit et de vous donner la force de rejeter ce qui ne bâtit pas votre foi."
+          }
+        },
+        {
+          "id": "enfocando_lo_bueno",
+          "label": {
+            "es": "Pensando en lo afable",
+            "en": "Focusing on the good",
+            "pt": "Focando no que é bom",
+            "fr": "Penser à ce qui est bon"
+          },
+          "responseTitle": {
+            "es": "Buscaste lo noble y puro",
+            "en": "You sought what is pure",
+            "pt": "Você buscou o que é puro",
+            "fr": "Vous avez cherché le pur"
+          },
+          "responseText": {
+            "es": "En lugar de detenerte en la queja o en las faltas ajenas, enfocaste tu atención en las virtudes y bendiciones presentes.",
+            "en": "Instead of dwelling on complaints or flaws, you focused your attention on virtues and present blessings.",
+            "pt": "Em vez de focar nas queixas ou falhas alheias, você concentrou sua atenção nas virtudes e bênçãos presentes.",
+            "fr": "Au lieu de vous attarder sur les plaintes ou les défauts, vous avez porté votre attention sur les vertus et les bénédictions."
+          },
+          "verses": [
+            "Filipenses 4:8"
+          ],
+          "reflectionHeader": {
+            "es": "El alimento de la mente",
+            "en": "Nourishment for the mind",
+            "pt": "O alimento da mente",
+            "fr": "La nourriture de l'esprit"
+          },
+          "reflection": {
+            "es": "Lo que contemplamos moldea nuestro bienestar espiritual. Al decidir pensar en lo digno, honorable y verdadero, abres espacio para que la paz de Dios inunde tu corazón. Cierra este día recordando las cosas buenas que Dios permitió hoy y descansa en Su benignidad.",
+            "en": "What we contemplate shapes our spiritual well-being. By choosing to think about what is honorable and true, you make room for God's peace to flood your heart. Close this day remembering the good things God permitted today and rest in His kindness.",
+            "pt": "O que contemplamos molda nosso bem-estar espiritual. Ao decidir pensar no que é digno, honroso e verdadeiro, você abre espaço para que a paz de Deus inunde seu coração. Termine o dia lembrando das coisas boas que Ele permitiu e descanse em Sua bondade.",
+            "fr": "Ce que nous contemplons façonne notre bien-être spirituel. En choisissant de penser à ce qui est honorable et vrai, vous laissez la paix de Dieu inonder votre cœur. Concluez cette journée en vous rappelant les bonnes choses que Dieu a permises et reposez-vous dans sa bonté."
+          }
+        },
+        {
+          "id": "renovando_entendimiento",
+          "label": {
+            "es": "Rechazando el molde",
+            "en": "Rejecting world's mold",
+            "pt": "Rejeitando o molde",
+            "fr": "Refuser le moule"
+          },
+          "responseTitle": {
+            "es": "Elegiste la voluntad de Dios",
+            "en": "You chose God's good will",
+            "pt": "Você escolheu a vontade de Deus",
+            "fr": "Vous avez choisi Dieu"
+          },
+          "responseText": {
+            "es": "No te dejaste llevar por las corrientes de impulsividad o cinismo del entorno, sino que renovaste tu perspectiva.",
+            "en": "You did not let yourself be carried away by worldly cynicism, but renewed your perspective instead.",
+            "pt": "Você não se deixou levar pelo cinismo do ambiente, mas renovou sua perspectiva no Senhor.",
+            "fr": "Vous ne vous êtes pas laissé emporter par le cynisme ambiant, mais avez renouvelé votre perspective."
+          },
+          "verses": [
+            "Romanos 12:2"
+          ],
+          "reflectionHeader": {
+            "es": "Transformados por dentro",
+            "en": "Transformed from within",
+            "pt": "Transformados por dentro",
+            "fr": "Transformés de l'intérieur"
+          },
+          "reflection": {
+            "es": "La verdadera transformación empieza en el pensamiento. Cuando rehusamos adaptarnos a los patrones de desesperanza del mundo, experimentamos cuán buena y agradable es la voluntad del Señor. Ve a dormir con la certeza de que Dios sigue renovando tu interior día tras día.",
+            "en": "True transformation begins in the mind. When we refuse to conform to the world's patterns of hopelessness, we experience how good and pleasing the Lord's will is. Go to sleep with the assurance that God continues to renew you day by day.",
+            "pt": "A verdadeira transformação começa no pensamento. Quando nos recusamos a seguir os padrões de desesperança do mundo, experimentamos quão boa e agradável é a vontade do Senhor. Durma com a certeza de que Deus continua renovando seu interior dia após dia.",
+            "fr": "La vraie transformation commence dans l'esprit. Lorsque nous refusons de nous conformer aux modèles de désespoir du monde, nous expérimentons combien la volonté du Seigneur est bonne et agréable. Dormez avec l'assurance que Dieu continue de vous renouveler jour après jour."
+          }
+        },
+        {
+          "id": "consolacion_en_multitud",
+          "label": {
+            "es": "Buscando serenidad",
+            "en": "Seeking divine comfort",
+            "pt": "Buscando serenidade",
+            "fr": "Chercher la sérénité"
+          },
+          "responseTitle": {
+            "es": "Tus pensamientos hallaron paz",
+            "en": "Your thoughts found peace",
+            "pt": "Seus pensamentos acharam paz",
+            "fr": "Vos pensées ont trouvé paix"
+          },
+          "responseText": {
+            "es": "En medio de la acumulación de preocupaciones, permitiste que la consolación divina alegrara y calmara tu alma.",
+            "en": "Amidst accumulating worries, you allowed divine consolation to cheer and calm your soul.",
+            "pt": "Em meio ao acúmulo de preocupações, você permitiu que a consolação divina alegrasse sua alma.",
+            "fr": "Au milieu des soucis accumulés, vous avez laissé la consolation divine réjouir votre âme."
+          },
+          "verses": [
+            "Salmos 94:19"
+          ],
+          "reflectionHeader": {
+            "es": "Consuelo en la inquietud",
+            "en": "Comfort in restlessness",
+            "pt": "Consolo na inquietude",
+            "fr": "Consolation dans le doute"
+          },
+          "reflection": {
+            "es": "Las multitudes de pensamientos inquietantes pueden abrumar la mente, pero el consuelo del Señor trae calma profunda. Él no ignora tus luchas internas; al contrario, responde con Su ternura. Entrega tus cavilaciones de esta noche y descansa plenamente en Su cuidado.",
+            "en": "A multitude of anxious thoughts can overwhelm the mind, but the Lord's comfort brings deep quietness. He does not ignore your inner struggles; rather, He responds with tenderness. Hand over tonight's thoughts and rest fully in His care.",
+            "pt": "A multidão de pensamentos inquietos pode sobrecarregar a mente, mas o consolo do Senhor traz profunda calma. Ele não ignora suas lutas internas; responde com ternura. Entregue suas dúvidas esta noite e descanse plenamente em Seu cuidado.",
+            "fr": "La multitude de pensées inquiètes peut submerger l'esprit, mais le réconfort du Seigneur apporte un calme profond. Il n'ignore pas vos luttes intérieures ; Il y répond avec tendresse. Confiez vos pensées ce soir et reposez-vous en Sa protection."
+          }
+        },
+        {
+          "id": "recordando_bendiciones",
+          "label": {
+            "es": "Recordando su amor",
+            "en": "Remembering His love",
+            "pt": "Lembrando Seu amor",
+            "fr": "Rappeler Son amour"
+          },
+          "responseTitle": {
+            "es": "No olvidaste sus beneficios",
+            "en": "You remembered His favors",
+            "pt": "Não esqueceu os benefícios",
+            "fr": "Vous n'avez pas oublié"
+          },
+          "responseText": {
+            "es": "Decidiste traer a la memoria la fidelidad pasada de Dios para fortalecer tu confianza en las horas de incertidumbre.",
+            "en": "You chose to recall God's past faithfulness to strengthen your trust during moments of uncertainty.",
+            "pt": "Você decidiu trazer à memória a fidelidade passada de Deus para fortalecer sua confiança nas incertezas.",
+            "fr": "Vous avez choisi de rappeler la fidélité passée de Dieu pour fortifier votre confiance dans l'incertitude."
+          },
+          "verses": [
+            "Salmos 103:2"
+          ],
+          "reflectionHeader": {
+            "es": "Memoria agradecida",
+            "en": "A grateful memory",
+            "pt": "Memória agradecida",
+            "fr": "Mémoire reconnaissante"
+          },
+          "reflection": {
+            "es": "Olvidar las bondades de Dios abre la puerta al desánimo. Al ensayar activamente tus memorias de Su fidelidad, la fe renace y el temor pierde fuerza. Esta noche, bendice al Señor con todo tu ser y duerme seguro en que el mismo Dios de ayer cuida de ti hoy.",
+            "en": "Forgetting God's kindness opens the door to discouragement. By actively rehearsing memories of His faithfulness, faith is reborn and fear loses power. Tonight, bless the Lord with all your soul and sleep secure that yesterday's God guards you today.",
+            "pt": "Esquecer as bondades de Deus abre a porta ao desânimo. Ao relembrar ativamente Sua fidelidade, a fé renasce e o medo perde força. Esta noite, bendiga ao Senhor com todo o seu ser e durma seguro de que o mesmo Deus de ontem cuida de você hoje.",
+            "fr": "Oublier les bontés de Dieu ouvre la porte au découragement. En vous remémorant activement Sa fidélité, la foi renaît et la peur perd sa force. Ce soir, bénissez le Seigneur de tout votre être et dormez en sécurité."
+          }
+        },
+        {
+          "id": "examinando_corazon",
+          "label": {
+            "es": "Abriendo el corazón",
+            "en": "Opening your heart",
+            "pt": "Abrindo o coração",
+            "fr": "Ouvrir son cœur"
+          },
+          "responseTitle": {
+            "es": "Pediste examen divino",
+            "en": "You asked for search",
+            "pt": "Pediu o exame divino",
+            "fr": "Vous avez demandé l'examen"
+          },
+          "responseText": {
+            "es": "Invitaste a Dios a examinar tus motivos y pensamientos, buscando ser guiado por el camino eterno.",
+            "en": "You invited God to search your motives and thoughts, seeking to be led in the everlasting way.",
+            "pt": "Você convidou Deus a examinar seus motivos e pensamentos, buscando ser guiado pelo caminho eterno.",
+            "fr": "Vous avez invité Dieu à sonder vos motivations et pensées, cherchant à être guidé sur le chemin éternel."
+          },
+          "verses": [
+            "Salmos 139:23"
+          ],
+          "reflectionHeader": {
+            "es": "Transparencia con Dios",
+            "en": "Transparency with God",
+            "pt": "Transparência com Deus",
+            "fr": "Transparence avec Dieu"
+          },
+          "reflection": {
+            "es": "Presentar nuestra mente abierta ante Dios requiere humildad, pero produce una profunda libertad. Cuando le pedimos al Señor que pruebe nuestras inquietudes, Él revela lo que debemos soltar y nos encamina con gracia. Duerme en la tranquilidad de estar completamente conocido y amado por tu Creador.",
+            "en": "Laying our minds open before God requires humility, but it yields profound freedom. When we ask the Lord to test our anxieties, He reveals what we must surrender and guides us with grace. Sleep in the quiet assurance of being fully known and loved by your Creator.",
+            "pt": "Apresentar nossa mente aberta diante de Deus exige humildade, mas gera profunda liberdade. Quando pedimos ao Senhor que sonde nossas inquietações, Ele revela o que devemos entregar e nos guia com graça. Durma na tranquilidade de ser totalmente conhecido e amado pelo Criador.",
+            "fr": "Ouvrir notre esprit devant Dieu demande de l'humilité, mais apporte une liberté profonde. Lorsque nous demandons au Seigneur de sonder nos inquiétudes, Il révèle ce que nous devons abandonner et nous guide avec grâce. Dormez sereinement, pleinement connu et aimé par votre Créateur."
           }
         }
       ]
