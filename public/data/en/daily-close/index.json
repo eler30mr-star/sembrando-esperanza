@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-09-29",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -2988,6 +2988,236 @@
             "en": "Laying our minds open before God requires humility, but it yields profound freedom. When we ask the Lord to test our anxieties, He reveals what we must surrender and guides us with grace. Sleep in the quiet assurance of being fully known and loved by your Creator.",
             "pt": "Apresentar nossa mente aberta diante de Deus exige humildade, mas gera profunda liberdade. Quando pedimos ao Senhor que sonde nossas inquietações, Ele revela o que devemos entregar e nos guia com graça. Durma na tranquilidade de ser totalmente conhecido e amado pelo Criador.",
             "fr": "Ouvrir notre esprit devant Dieu demande de l'humilité, mais apporte une liberté profonde. Lorsque nous demandons au Seigneur de sonder nos inquiétudes, Il révèle ce que nous devons abandonner et nous guide avec grâce. Dormez sereinement, pleinement connu et aimé par votre Créateur."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera cuidaste hoy la semilla de fe que Dios puso en ti?",
+        "en": "How did you nurture the seed of faith God placed in you today?",
+        "pt": "De que maneira você cuidou hoje da semente da fé que Deus colocou em você?",
+        "fr": "De quelle manière avez-vous nourri la semence de foi que Dieu a mise en vous aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "obediencia_discreta",
+          "label": {
+            "es": "Obedeciendo lo pequeño",
+            "en": "Obeying in small things",
+            "pt": "Obediência no pequeno",
+            "fr": "Obéissance discrète"
+          },
+          "responseTitle": {
+            "es": "Fidelidad en lo cotidiano",
+            "en": "Faithfulness in the everyday",
+            "pt": "Fidelidade no cotidiano",
+            "fr": "Fidélité au quotidien"
+          },
+          "responseText": {
+            "es": "Cada pequeño acto de obediencia fortalece tus raíces espirituales.",
+            "en": "Every small act of obedience strengthens your spiritual roots.",
+            "pt": "Cada pequeno ato de obediência fortalece suas raízes espirituais.",
+            "fr": "Chaque petit acte d'obéissance fortifie vos racines spirituelles."
+          },
+          "verses": [
+            "Lucas 16:10"
+          ],
+          "reflectionHeader": {
+            "es": "Un corazón fiel en lo poco",
+            "en": "A heart faithful in little",
+            "pt": "Um coração fiel no pouco",
+            "fr": "Un cœur fidèle en peu"
+          },
+          "reflection": {
+            "es": "Al final del día, Dios valora tu disposición para seguirle incluso en las tareas que nadie ve. Esa fidelidad silenciosa es la que construye un carácter sólido.",
+            "en": "At the end of the day, God values your willingness to follow Him even in tasks no one sees. That silent faithfulness is what builds a solid character.",
+            "pt": "No final do dia, Deus valoriza sua disposição de segui-Lo, mesmo em tarefas que ninguém vê. Essa fidelidade silenciosa é o que constrói um caráter sólido.",
+            "fr": "En fin de compte, Dieu valorise votre volonté de Le suivre même dans les tâches que personne ne voit. Cette fidélité silencieuse est ce qui construit un caractère solide."
+          }
+        },
+        {
+          "id": "firmeza_espiritual",
+          "label": {
+            "es": "Firme ante distracción",
+            "en": "Firm against distraction",
+            "pt": "Firme ante distrações",
+            "fr": "Ferme face au monde"
+          },
+          "responseTitle": {
+            "es": "Enfoque en lo eterno",
+            "en": "Focus on the eternal",
+            "pt": "Foco no eterno",
+            "fr": "Focus sur l'éternel"
+          },
+          "responseText": {
+            "es": "Mantener la mirada en Cristo evita que las tormentas del día te desvíen.",
+            "en": "Keeping your eyes on Christ prevents the day's storms from leading you astray.",
+            "pt": "Manter os olhos em Cristo evita que as tempestades do dia o desviem.",
+            "fr": "Garder les yeux sur le Christ empêche les tempêtes du jour de vous égarer."
+          },
+          "verses": [
+            "1 Corintios 15:58"
+          ],
+          "reflectionHeader": {
+            "es": "Firmeza en la Verdad",
+            "en": "Steadfastness in Truth",
+            "pt": "Firmeza na Verdade",
+            "fr": "Fermeté dans la Vérité"
+          },
+          "reflection": {
+            "es": "Las distracciones del mundo a menudo intentan ahogar la Palabra. Hoy has elegido lo que permanece, demostrando que tu fe no depende de las circunstancias externas.",
+            "en": "Worldly distractions often try to choke the Word. Today you chose what remains, showing that your faith does not depend on external circumstances.",
+            "pt": "As distrações do mundo muitas vezes tentam sufocar a Palavra. Hoje você escolheu o que permanece, demonstrando que sua fé não depende de circunstâncias externas.",
+            "fr": "Les distractions du monde tentent souvent d'étouffer la Parole. Aujourd'hui, vous avez choisi ce qui demeure, montrant que votre foi ne dépend pas des circonstances extérieures."
+          }
+        },
+        {
+          "id": "siembra_paciencia",
+          "label": {
+            "es": "Sembrando paciencia",
+            "en": "Sowing patience",
+            "pt": "Semeando paciência",
+            "fr": "Semer la patience"
+          },
+          "responseTitle": {
+            "es": "La calma de la espera",
+            "en": "The calm of waiting",
+            "pt": "A calma da espera",
+            "fr": "Le calme de l'attente"
+          },
+          "responseText": {
+            "es": "La paciencia es la prueba de que confías en el tiempo perfecto de Dios.",
+            "en": "Patience is proof that you trust in God's perfect timing.",
+            "pt": "A paciência é a prova de que você confia no tempo perfeito de Deus.",
+            "fr": "La patience est la preuve que vous avez confiance dans le timing parfait de Dieu."
+          },
+          "verses": [
+            "Santiago 5:7"
+          ],
+          "reflectionHeader": {
+            "es": "El fruto de la espera",
+            "en": "The fruit of waiting",
+            "pt": "O fruto da espera",
+            "fr": "Le fruit de l'attente"
+          },
+          "reflection": {
+            "es": "Sembrar paciencia en medio de la prisa es un testimonio poderoso. Has permitido que el Espíritu Santo trabaje en ti, reflejando el carácter de Cristo.",
+            "en": "Sowing patience in the midst of hurry is a powerful testimony. You have allowed the Holy Spirit to work in you, reflecting the character of Christ.",
+            "pt": "Semear paciência no meio da pressa é um testemunho poderoso. Você permitiu que o Espírito Santo trabalhasse em você, refletindo o caráter de Cristo.",
+            "fr": "Semer la patience au milieu de la hâte est un témoignage puissant. Vous avez permis au Saint-Esprit de travailler en vous, reflétant le caractère du Christ."
+          }
+        },
+        {
+          "id": "corazon_siervo",
+          "label": {
+            "es": "Servicio con gozo",
+            "en": "Service with joy",
+            "pt": "Serviço com alegria",
+            "fr": "Service joyeux"
+          },
+          "responseTitle": {
+            "es": "Manos que bendicen",
+            "en": "Hands that bless",
+            "pt": "Mãos que abençoam",
+            "fr": "Des mains qui bénissent"
+          },
+          "responseText": {
+            "es": "Servir a los demás es la forma más práctica de amar a Dios hoy.",
+            "en": "Serving others is the most practical way to love God today.",
+            "pt": "Servir aos outros é a forma mais prática de amar a Deus hoje.",
+            "fr": "Servir les autres est la manière la plus pratique d'aimer Dieu aujourd'hui."
+          },
+          "verses": [
+            "Salmos 100:2"
+          ],
+          "reflectionHeader": {
+            "es": "El gozo del servicio",
+            "en": "The joy of service",
+            "pt": "A alegria do serviço",
+            "fr": "La joie du service"
+          },
+          "reflection": {
+            "es": "No servimos por obligación, sino por la alegría de haber sido amados primero. Tu disposición de hoy ha dejado una huella de luz en el corazón de alguien más.",
+            "en": "We do not serve out of obligation, but out of the joy of having been loved first. Your readiness today has left a mark of light in someone else's heart.",
+            "pt": "Não servimos por obrigação, mas pela alegria de termos sido amados primeiro. Sua disposição de hoje deixou uma marca de luz no coração de outra pessoa.",
+            "fr": "Nous ne servons pas par obligation, mais par la joie d'avoir été aimés les premiers. Votre disposition d'aujourd'hui a laissé une trace de lumière dans le cœur d'autrui."
+          }
+        },
+        {
+          "id": "gracia_palabra",
+          "label": {
+            "es": "Hablar con gracia",
+            "en": "Speaking with grace",
+            "pt": "Falar com graça",
+            "fr": "Parler avec grâce"
+          },
+          "responseTitle": {
+            "es": "Palabras de vida",
+            "en": "Words of life",
+            "pt": "Palavras de vida",
+            "fr": "Paroles de vie"
+          },
+          "responseText": {
+            "es": "Tus palabras tienen el poder de edificar y sanar a quien te escucha.",
+            "en": "Your words have the power to build up and heal those who listen to you.",
+            "pt": "Suas palavras têm o poder de edificar e curar quem o ouve.",
+            "fr": "Vos paroles ont le pouvoir d'édifier et de guérir ceux qui vous écoutent."
+          },
+          "verses": [
+            "Colosenses 4:6"
+          ],
+          "reflectionHeader": {
+            "es": "El poder de tu voz",
+            "en": "The power of your voice",
+            "pt": "O poder da sua voz",
+            "fr": "Le pouvoir de votre voix"
+          },
+          "reflection": {
+            "es": "Al elegir palabras sazonadas con gracia, has guardado tu corazón y el de los demás. Que el descanso de esta noche selle tu deseo de ser un mensajero de paz.",
+            "en": "By choosing words seasoned with grace, you have guarded your heart and that of others. May tonight's rest seal your desire to be a messenger of peace.",
+            "pt": "Ao escolher palavras temperadas com graça, você guardou seu coração e o dos outros. Que o descanso desta noite sele seu desejo de ser um mensageiro da paz.",
+            "fr": "En choisissant des paroles assaisonnées de grâce, vous avez gardé votre cœur et celui des autres. Que le repos de cette nuit scelle votre désir d'être un messager de paix."
+          }
+        },
+        {
+          "id": "confianza_total",
+          "label": {
+            "es": "Confianza plena",
+            "en": "Full trust",
+            "pt": "Confiança plena",
+            "fr": "Pleine confiance"
+          },
+          "responseTitle": {
+            "es": "Seguridad en Su Palabra",
+            "en": "Security in His Word",
+            "pt": "Segurança em Sua Palavra",
+            "fr": "Sécurité dans Sa Parole"
+          },
+          "responseText": {
+            "es": "Dios es fiel a Sus promesas; puedes descansar seguro en Su cuidado.",
+            "en": "God is faithful to His promises; you can rest secure in His care.",
+            "pt": "Deus é fiel às Suas promessas; você pode descansar seguro em Seu cuidado.",
+            "fr": "Dieu est fidèle à Ses promesses ; vous pouvez vous reposer en toute sécurité sous Sa garde."
+          },
+          "verses": [
+            "Hebreos 10:23"
+          ],
+          "reflectionHeader": {
+            "es": "Reposo en la Verdad",
+            "en": "Resting in the Truth",
+            "pt": "Repouso na Verdade",
+            "fr": "Repos dans la Vérité"
+          },
+          "reflection": {
+            "es": "Entregar las cargas del día al Señor es el mayor acto de fe. Descansa sabiendo que Aquel que te sostiene no se cansa de cuidarte.",
+            "en": "Handing over the day's burdens to the Lord is the greatest act of faith. Rest knowing that He who sustains you never tires of caring for you.",
+            "pt": "Entregar as cargas do dia ao Senhor é o maior ato de fé. Descanse sabendo que Aquele que o sustenta não se cansa de cuidar de você.",
+            "fr": "Remettre les fardeaux du jour au Seigneur est le plus grand acte de foi. Reposez-vous en sachant que Celui qui vous soutient ne se lasse jamais de prendre soin de vous."
           }
         }
       ]
