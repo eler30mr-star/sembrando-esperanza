@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-29",
+  "updatedAt": "2026-09-30",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -3218,6 +3218,236 @@
             "en": "Handing over the day's burdens to the Lord is the greatest act of faith. Rest knowing that He who sustains you never tires of caring for you.",
             "pt": "Entregar as cargas do dia ao Senhor é o maior ato de fé. Descanse sabendo que Aquele que o sustenta não se cansa de cuidar de você.",
             "fr": "Remettre les fardeaux du jour au Seigneur est le plus grand acte de foi. Reposez-vous en sachant que Celui qui vous soutient ne se lasse jamais de prendre soin de vous."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿Cómo cultivaste hoy un espíritu de humildad ante Dios y los demás?",
+        "en": "How did you cultivate a spirit of humility before God and others today?",
+        "pt": "Como você cultivou hoje um espírito de humildade diante de Deus e dos outros?",
+        "fr": "Comment as-tu cultivé aujourd'hui un esprit d'humilité devant Dieu et les autres ?"
+      },
+      "options": [
+        {
+          "id": "reconociendo_limites",
+          "label": {
+            "es": "Reconociendo límites",
+            "en": "Acknowledging limits",
+            "pt": "Reconhecendo limites",
+            "fr": "Reconnaître ses limites"
+          },
+          "responseTitle": {
+            "es": "Tu debilidad es Su fuerza",
+            "en": "Your weakness is His strength",
+            "pt": "Sua fraqueza é a força d'Ele",
+            "fr": "Ta faiblesse est Sa force"
+          },
+          "responseText": {
+            "es": "Al admitir que no puedes hacerlo todo solo, permites que la gracia de Dios se manifieste plenamente en tu vida.",
+            "en": "By admitting that you cannot do everything alone, you allow God's grace to be fully manifested in your life.",
+            "pt": "Ao admitir que você não pode fazer tudo sozinho, você permite que a graça de Deus se manifeste plenamente em sua vida.",
+            "fr": "En admettant que tu ne peux pas tout faire seul, tu permets à la grâce de Dieu de se manifester pleinement dans ta vie."
+          },
+          "verses": [
+            "2 Corintios 12:9"
+          ],
+          "reflectionHeader": {
+            "es": "El descanso de la dependencia",
+            "en": "The rest of dependency",
+            "pt": "O descanso da dependência",
+            "fr": "Le repos de la dépendance"
+          },
+          "reflection": {
+            "es": "Reconocer que somos limitados no es una derrota, sino el comienzo de una dependencia profunda en el Espíritu Santo. Esta noche, entrega tus cargas inacabadas a Aquel que es infinito.",
+            "en": "Acknowledging that we are limited is not a defeat, but the beginning of a deep dependence on the Holy Spirit. Tonight, hand over your unfinished burdens to the One who is infinite.",
+            "pt": "Reconhecer que somos limitados não é uma derrota, mas o início de uma profunda dependência do Espírito Santo. Esta noite, entregue seus fardos inacabados Àquele que é infinito.",
+            "fr": "Reconnaître que nous sommes limités n'est pas une défaite, mais le début d'une profonde dépendance envers le Saint-Esprit. Ce soir, remets tes fardeaux inachevés à Celui qui est infini."
+          }
+        },
+        {
+          "id": "valorando_projimo",
+          "label": {
+            "es": "Valorando al prójimo",
+            "en": "Valuing others",
+            "pt": "Valorizando o próximo",
+            "fr": "Valoriser autrui"
+          },
+          "responseTitle": {
+            "es": "Ver a Cristo en otros",
+            "en": "Seeing Christ in others",
+            "pt": "Ver Cristo nos outros",
+            "fr": "Voir le Christ en l'autre"
+          },
+          "responseText": {
+            "es": "Reconocer la dignidad y el valor en los demás es un acto de adoración que honra al Creador de cada vida.",
+            "en": "Recognizing dignity and value in others is an act of worship that honors the Creator of every life.",
+            "pt": "Reconhecer a dignidade e o valor nos outros é um ato de adoração que honra o Criador de cada vida.",
+            "fr": "Reconnaître la dignité et la valeur chez les autres est un acte d'adoration qui honore le Créateur de chaque vie."
+          },
+          "verses": [
+            "Filipenses 2:3"
+          ],
+          "reflectionHeader": {
+            "es": "Corazón de siervo",
+            "en": "A servant's heart",
+            "pt": "Coração de servo",
+            "fr": "Un cœur de serviteur"
+          },
+          "reflection": {
+            "es": "La humildad brilla cuando consideramos a los demás como superiores a nosotros mismos. Al cerrar el día, agradece por las personas que Dios puso en tu camino y por lo que aprendiste de ellas.",
+            "en": "Humility shines when we consider others as better than ourselves. As the day ends, give thanks for the people God placed in your path and for what you learned from them.",
+            "pt": "A humildade brilha quando consideramos os outros superiores a nós mesmos. Ao encerrar o dia, agradeça pelas pessoas que Deus colocou em seu caminho e pelo que você aprendeu com elas.",
+            "fr": "L'humilité brille lorsque nous considérons les autres comme supérieurs à nous-mêmes. En fin de journée, remercie pour les personnes que Dieu a mises sur ton chemin et pour ce que tu as appris d'elles."
+          }
+        },
+        {
+          "id": "aceptando_correccion",
+          "label": {
+            "es": "Aceptando corrección",
+            "en": "Accepting correction",
+            "pt": "Aceitando correção",
+            "fr": "Accepter la correction"
+          },
+          "responseTitle": {
+            "es": "Un corazón enseñable",
+            "en": "A teachable heart",
+            "pt": "Um coração ensinável",
+            "fr": "Un cœur enseignable"
+          },
+          "responseText": {
+            "es": "Recibir un consejo o corrección con humildad es una muestra de sabiduría que nos permite crecer en el camino.",
+            "en": "Receiving advice or correction with humility is a sign of wisdom that allows us to grow on the path.",
+            "pt": "Receber um conselho ou correção com humildade é um sinal de sabedoria que nos permite crescer no caminho.",
+            "fr": "Recevoir un conseil ou une correction avec humilité est une marque de sagesse qui nous permet de grandir sur le chemin."
+          },
+          "verses": [
+            "Proverbios 15:32"
+          ],
+          "reflectionHeader": {
+            "es": "Moldeados por la verdad",
+            "en": "Molded by truth",
+            "pt": "Moldados pela verdade",
+            "fr": "Façonnés par la vérité"
+          },
+          "reflection": {
+            "es": "No siempre es fácil escuchar que debemos cambiar, pero la humildad nos permite ver la corrección como un regalo divino para perfeccionar nuestro carácter antes de dormir.",
+            "en": "It is not always easy to hear that we need to change, but humility allows us to see correction as a divine gift to perfect our character before we sleep.",
+            "pt": "Nem sempre é fácil ouvir que precisamos mudar, mas a humildade nos permite ver a correção como um presente divino para aperfeiçoar nosso caráter antes de dormir.",
+            "fr": "Il n'est pas toujours facile d'entendre que nous devons changer, mais l'humilité nous permet de voir la correction comme un cadeau divin pour perfectionner notre caractère avant de dormir."
+          }
+        },
+        {
+          "id": "cediendo_prioridad",
+          "label": {
+            "es": "Dando prioridad",
+            "en": "Giving priority",
+            "pt": "Dando prioridade",
+            "fr": "Donner la priorité"
+          },
+          "responseTitle": {
+            "es": "El honor de servir",
+            "en": "The honor of serving",
+            "pt": "A honra de servir",
+            "fr": "L'honneur de servir"
+          },
+          "responseText": {
+            "es": "Al poner los intereses de otros por encima de los propios, reflejamos el carácter de Aquel que vino a servir.",
+            "en": "By putting the interests of others above our own, we reflect the character of the One who came to serve.",
+            "pt": "Ao colocar os interesses dos outros acima dos nossos, refletimos o caráter Daquele que veio para servir.",
+            "fr": "En plaçant les intérêts des autres avant les nôtres, nous reflétons le caractère de Celui qui est venu pour servir."
+          },
+          "verses": [
+            "Romanos 12:10"
+          ],
+          "reflectionHeader": {
+            "es": "Amor en acción",
+            "en": "Love in action",
+            "pt": "Amor em ação",
+            "fr": "L'amour en action"
+          },
+          "reflection": {
+            "es": "Ceder el lugar o la razón no es debilidad, sino una victoria sobre el ego. Que tu descanso sea dulce sabiendo que hoy elegiste amar con gestos de deferencia.",
+            "en": "Giving up your place or being right is not weakness, but a victory over the ego. May your rest be sweet knowing that today you chose to love with gestures of deference.",
+            "pt": "Ceder o lugar ou a razão não é fraqueza, mas uma vitória sobre o ego. Que seu descanso seja doce sabendo que hoje você escolheu amar com gestos de deferência.",
+            "fr": "Céder la place ou avoir raison n'est pas une faiblesse, mais une victoire sur l'ego. Que ton repos soit doux en sachant qu'aujourd'hui tu as choisi d'aimer par des gestes de déférence."
+          }
+        },
+        {
+          "id": "oracion_sencilla",
+          "label": {
+            "es": "Orando con sencillez",
+            "en": "Simple prayer",
+            "pt": "Orando com simplicidade",
+            "fr": "Prier simplement"
+          },
+          "responseTitle": {
+            "es": "Sinceridad ante el Trono",
+            "en": "Sincerity before the Throne",
+            "pt": "Sinceridade diante do Trono",
+            "fr": "Sincérité devant le Trône"
+          },
+          "responseText": {
+            "es": "Dios se deleita en el corazón que se acerca sin pretensiones, buscando solo Su misericordia y Su amor.",
+            "en": "God delights in the heart that approaches without pretension, seeking only His mercy and His love.",
+            "pt": "Deus se deleita no coração que se aproxima sem pretensões, buscando apenas Sua misericórdia e Seu amor.",
+            "fr": "Dieu se délecte du cœur qui s'approche sans prétention, ne cherchant que Sa miséricorde et Son amour."
+          },
+          "verses": [
+            "Lucas 18:13"
+          ],
+          "reflectionHeader": {
+            "es": "Transparencia total",
+            "en": "Total transparency",
+            "pt": "Transparência total",
+            "fr": "Transparence totale"
+          },
+          "reflection": {
+            "es": "La oración más poderosa nace de la humildad de reconocer nuestra necesidad de Dios. Descansa en la paz de ser aceptado tal como eres ante Su presencia.",
+            "en": "The most powerful prayer is born from the humility of recognizing our need for God. Rest in the peace of being accepted just as you are before His presence.",
+            "pt": "A oração mais poderosa nasce da humildade de reconhecer nossa necessidade de Deus. Descanse na paz de ser aceito como você é diante da Sua presença.",
+            "fr": "La prière la plus puissante naît de l'humilité de reconnaître notre besoin de Dieu. Repose-toi dans la paix d'être accepté tel que tu es devant Sa présence."
+          }
+        },
+        {
+          "id": "servicio_silencioso",
+          "label": {
+            "es": "Servicio silencioso",
+            "en": "Silent service",
+            "pt": "Serviço silencioso",
+            "fr": "Service silencieux"
+          },
+          "responseTitle": {
+            "es": "Lo que el Padre ve",
+            "en": "What the Father sees",
+            "pt": "O que o Pai vê",
+            "fr": "Ce que le Père voit"
+          },
+          "responseText": {
+            "es": "Actuar con amor sin buscar el aplauso humano fortalece tu tesoro en el cielo y purifica tus intenciones.",
+            "en": "Acting with love without seeking human applause strengthens your treasure in heaven and purifies your intentions.",
+            "pt": "Agir com amor sem buscar o aplauso humano fortalece seu tesouro no céu e purifica suas intenções.",
+            "fr": "Agir avec amour sans chercher l'applaudissement humain fortifie ton trésor dans le ciel et purifie tes intentions."
+          },
+          "verses": [
+            "Mateo 6:4"
+          ],
+          "reflectionHeader": {
+            "es": "Sembrar en lo secreto",
+            "en": "Sowing in secret",
+            "pt": "Semear no secreto",
+            "fr": "Semer dans le secret"
+          },
+          "reflection": {
+            "es": "La verdadera humildad no necesita testigos. Si hoy hiciste el bien sin que nadie lo notara, alégrate, porque tu Padre que ve en lo secreto te recompensará.",
+            "en": "True humility needs no witnesses. If you did good today without anyone noticing, rejoice, because your Father who sees in secret will reward you.",
+            "pt": "A verdadeira humildade não precisa de testemunhas. Se hoje você fez o bem sem que ninguém percebesse, alegre-se, pois seu Pai que vê no secreto o recompensará.",
+            "fr": "La vraie humilité n'a pas besoin de témoins. Si tu as fait le bien aujourd'hui sans que personne ne le remarque, réjouis-toi, car ton Père qui voit dans le secret te le rendra."
           }
         }
       ]
