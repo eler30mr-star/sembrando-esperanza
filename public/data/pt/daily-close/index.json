@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-30",
+  "updatedAt": "2026-10-01",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -3448,6 +3448,236 @@
             "en": "True humility needs no witnesses. If you did good today without anyone noticing, rejoice, because your Father who sees in secret will reward you.",
             "pt": "A verdadeira humildade não precisa de testemunhas. Se hoje você fez o bem sem que ninguém percebesse, alegre-se, pois seu Pai que vê no secreto o recompensará.",
             "fr": "La vraie humilité n'a pas besoin de témoins. Si tu as fait le bien aujourd'hui sans que personne ne le remarque, réjouis-toi, car ton Père qui voit dans le secret te le rendra."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera reflejaste hoy la justicia y misericordia de Dios en tus acciones?",
+        "en": "In what way did you reflect God's justice and mercy in your actions today?",
+        "pt": "De que maneira você refletiu hoje a justiça e a misericórdia de Deus em suas ações?",
+        "fr": "De quelle manière as-tu reflété la justice et la miséricorde de Dieu aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "defendiendo_proximo",
+          "label": {
+            "es": "Defendiendo al ausente",
+            "en": "Defending the absent",
+            "pt": "Defendendo o ausente",
+            "fr": "Défendre l'absent"
+          },
+          "responseTitle": {
+            "es": "Integridad en el habla",
+            "en": "Integrity in speech",
+            "pt": "Integridade na fala",
+            "fr": "Intégrité de la parole"
+          },
+          "responseText": {
+            "es": "Honraste a Dios al proteger la reputación de alguien que no estaba presente para defenderse.",
+            "en": "You honored God by protecting the reputation of someone who was not there to defend themselves.",
+            "pt": "Você honrou a Deus ao proteger a reputação de alguém que não estava presente para se defender.",
+            "fr": "Tu as honoré Dieu en protégeant la réputation de quelqu'un qui n'était pas là pour se défendre."
+          },
+          "verses": [
+            "Proverbios 31:8"
+          ],
+          "reflectionHeader": {
+            "es": "El valor de la voz",
+            "en": "The value of the voice",
+            "pt": "O valor da voz",
+            "fr": "La valeur de la voix"
+          },
+          "reflection": {
+            "es": "La justicia divina se manifiesta cuando usamos nuestras palabras para levantar a otros y no para destruirlos. Al cerrar el día, descansa en la satisfacción de haber sido un escudo para tu prójimo.",
+            "en": "Divine justice is manifested when we use our words to lift others up rather than destroy them. As the day ends, rest in the satisfaction of having been a shield for your neighbor.",
+            "pt": "A justiça divina se manifesta quando usamos nossas palavras para levantar os outros e não para destruí-los. Ao encerrar o dia, descanse na satisfação de ter sido um escudo para o seu próximo.",
+            "fr": "La justice divine se manifeste lorsque nous utilisons nos paroles pour relever les autres et non pour les détruire. En cette fin de journée, repose-toi dans la satisfaction d'avoir été un bouclier pour ton prochain."
+          }
+        },
+        {
+          "id": "trato_equitativo",
+          "label": {
+            "es": "Trato equitativo",
+            "en": "Fair treatment",
+            "pt": "Tratamento justo",
+            "fr": "Traitement équitable"
+          },
+          "responseTitle": {
+            "es": "Justicia en lo cotidiano",
+            "en": "Daily justice",
+            "pt": "Justiça no cotidiano",
+            "fr": "Justice au quotidien"
+          },
+          "responseText": {
+            "es": "Elegiste actuar con rectitud y equidad en tus compromisos y tratos con los demás hoy.",
+            "en": "You chose to act with righteousness and fairness in your commitments and dealings today.",
+            "pt": "Você escolheu agir com retidão e equidade em seus compromissos e tratos com os outros hoje.",
+            "fr": "Tu as choisi d'agir avec droiture et équité dans tes engagements et tes relations aujourd'hui."
+          },
+          "verses": [
+            "Miqueas 6:8"
+          ],
+          "reflectionHeader": {
+            "es": "Caminar con rectitud",
+            "en": "Walking uprightly",
+            "pt": "Caminhar com retidão",
+            "fr": "Marcher avec droiture"
+          },
+          "reflection": {
+            "es": "Dios se agrada de un corazón que busca lo que es justo por encima del beneficio personal. Que tu sueño sea profundo al saber que has caminado en la senda de la integridad que agrada al Padre.",
+            "en": "God is pleased with a heart that seeks what is right above personal gain. May your sleep be deep knowing that you have walked in the path of integrity that pleases the Father.",
+            "pt": "Deus se agrada de um coração que busca o que é justo acima do benefício pessoal. Que seu sono seja profundo ao saber que você caminhou na senda da integridade que agrada ao Pai.",
+            "fr": "Dieu se réjouit d'un cœur qui cherche ce qui est juste avant le profit personnel. Que ton sommeil soit profond en sachant que tu as marché sur le sentier de l'intégrité qui plaît au Père."
+          }
+        },
+        {
+          "id": "compasion_activa",
+          "label": {
+            "es": "Compasión activa",
+            "en": "Active compassion",
+            "pt": "Compaixão ativa",
+            "fr": "Compassion active"
+          },
+          "responseTitle": {
+            "es": "Corazón que siente",
+            "en": "A feeling heart",
+            "pt": "Coração que sente",
+            "fr": "Un cœur sensible"
+          },
+          "responseText": {
+            "es": "No solo viste la necesidad, sino que moviste tu corazón para aliviar la carga de alguien más.",
+            "en": "You didn't just see the need; you moved your heart to ease someone else's burden.",
+            "pt": "Você não apenas viu a necessidade, mas moveu seu coração para aliviar a carga de outra pessoa.",
+            "fr": "Tu n'as pas seulement vu le besoin, mais tu as laissé ton cœur agir pour soulager le fardeau de quelqu'un d'autre."
+          },
+          "verses": [
+            "Colosenses 3:12"
+          ],
+          "reflectionHeader": {
+            "es": "Vestirse de ternura",
+            "en": "Clothing with tenderness",
+            "pt": "Vestir-se de ternura",
+            "fr": "Se revêtir de tendresse"
+          },
+          "reflection": {
+            "es": "La misericordia es el amor de Dios en acción. Al haber servido hoy como Sus manos, permites que Su gracia fluya a través de ti, trayendo luz a las áreas más oscuras del mundo.",
+            "en": "Mercy is God's love in action. By serving as His hands today, you allow His grace to flow through you, bringing light to the darkest areas of the world.",
+            "pt": "A misericórdia é o amor de Deus em ação. Ao servir hoje como Suas mãos, você permite que Sua graça flua através de você, trazendo luz às áreas mais escuras do mundo.",
+            "fr": "La miséricorde est l'amour de Dieu en action. En ayant servi aujourd'hui comme Ses mains, tu permets à Sa grâce de couler à travers toi, apportant la lumière dans les zones les plus sombres du monde."
+          }
+        },
+        {
+          "id": "verdad_amor",
+          "label": {
+            "es": "Verdad con amor",
+            "en": "Truth with love",
+            "pt": "Verdade com amor",
+            "fr": "Vérité avec amour"
+          },
+          "responseTitle": {
+            "es": "Honestidad que restaura",
+            "en": "Restorative honesty",
+            "pt": "Honestidade que restaura",
+            "fr": "Honnêteté qui restaure"
+          },
+          "responseText": {
+            "es": "Dijiste la verdad con la intención de edificar y no de herir, reflejando el carácter de Cristo.",
+            "en": "You spoke the truth with the intent to build up rather than to hurt, reflecting Christ's character.",
+            "pt": "Você disse a verdade com a intenção de edificar e não de ferir, refletindo o caráter de Cristo.",
+            "fr": "Tu as dit la vérité avec l'intention d'édifier et non de blesser, reflétant le caractère de Christ."
+          },
+          "verses": [
+            "Efesios 4:15"
+          ],
+          "reflectionHeader": {
+            "es": "Hablar en amor",
+            "en": "Speaking in love",
+            "pt": "Falar em amor",
+            "fr": "Parler avec amour"
+          },
+          "reflection": {
+            "es": "La justicia sin amor es dura, y el amor sin verdad es ciego. Al unir ambas, has mostrado hoy un equilibrio divino que trae sanidad a quienes te rodean.",
+            "en": "Justice without love is harsh, and love without truth is blind. By joining both, you have shown a divine balance today that brings healing to those around you.",
+            "pt": "A justiça sem amor é dura, e o amor sem verdade é cego. Ao unir ambos, você mostrou hoje um equilíbrio divino que traz cura aos que o rodeiam.",
+            "fr": "La justice sans amour est dure, et l'amour sans vérité est aveugle. En unissant les deux, tu as montré aujourd'hui un équilibre divin qui apporte la guérison à ceux qui t'entourent."
+          }
+        },
+        {
+          "id": "reconciliacion_fiel",
+          "label": {
+            "es": "Reconciliación fiel",
+            "en": "Faithful reconcile",
+            "pt": "Reconciliação fiel",
+            "fr": "Réconciliation fidèle"
+          },
+          "responseTitle": {
+            "es": "Puentes de unidad",
+            "en": "Bridges of unity",
+            "pt": "Pontes de unidade",
+            "fr": "Ponts d'unité"
+          },
+          "responseText": {
+            "es": "Buscaste restaurar un vínculo o calmar un conflicto, actuando como un verdadero pacificador.",
+            "en": "You sought to restore a bond or calm a conflict, acting as a true peacemaker.",
+            "pt": "Você buscou restaurar um vínculo ou acalmar um conflito, agindo como um verdadeiro pacificador.",
+            "fr": "Tu as cherché à restaurer un lien ou à calmer un conflit, agissant comme un véritable artisan de paix."
+          },
+          "verses": [
+            "Mateo 5:9"
+          ],
+          "reflectionHeader": {
+            "es": "Ser un pacificador",
+            "en": "Being a peacemaker",
+            "pt": "Ser um pacificador",
+            "fr": "Être un artisan de paix"
+          },
+          "reflection": {
+            "es": "Ser llamado hijo de Dios conlleva la misión de reconciliar. Al elegir la paz sobre el tener la razón, has reflejado hoy la misericordia infinita del Reino de los Cielos.",
+            "en": "Being called a child of God carries the mission to reconcile. By choosing peace over being right, you have reflected the infinite mercy of the Kingdom of Heaven today.",
+            "pt": "Ser chamado filho de Deus traz consigo a missão de reconciliar. Ao escolher a paz em vez de ter razão, você refletiu hoje a misericórdia infinita do Reino dos Céus.",
+            "fr": "Être appelé enfant de Dieu comporte la mission de réconcilier. En choisissant la paix plutôt que d'avoir raison, tu as reflété aujourd'hui la miséricorde infinie du Royaume des Cieux."
+          }
+        },
+        {
+          "id": "generosidad_discreta",
+          "label": {
+            "es": "Generosidad discreta",
+            "en": "Discreet generosity",
+            "pt": "Generosidade discreta",
+            "fr": "Générosité discrète"
+          },
+          "responseTitle": {
+            "es": "Semillas de bondad",
+            "en": "Seeds of kindness",
+            "pt": "Sementes de bondade",
+            "fr": "Semences de bonté"
+          },
+          "responseText": {
+            "es": "Diste de lo tuyo sin buscar reconocimiento, confiando en que el Padre ve lo que haces en secreto.",
+            "en": "You gave of yourself without seeking recognition, trusting that the Father sees what you do in secret.",
+            "pt": "Você deu do que era seu sem buscar reconhecimento, confiando que o Pai vê o que você faz em segredo.",
+            "fr": "Tu as donné de toi-même sans chercher de reconnaissance, confiant que le Père voit ce que tu fais dans le secret."
+          },
+          "verses": [
+            "Mateo 6:3"
+          ],
+          "reflectionHeader": {
+            "es": "Tesoros en el cielo",
+            "en": "Treasures in heaven",
+            "pt": "Tesouros no céu",
+            "fr": "Trésors dans le ciel"
+          },
+          "reflection": {
+            "es": "La verdadera misericordia no necesita aplausos. Al sembrar generosidad en silencio, has fortalecido tu tesoro espiritual y has demostrado una fe genuina que no depende de la aprobación humana.",
+            "en": "True mercy needs no applause. By sowing generosity in silence, you have strengthened your spiritual treasure and demonstrated a genuine faith that does not depend on human approval.",
+            "pt": "A verdadeira misericórdia não precisa de aplausos. Ao semear generosidade em silêncio, você fortaleceu seu tesouro espiritual e demonstrou uma fé genuína que não depende da aprovação humana.",
+            "fr": "La vraie miséricorde n'a pas besoin d'applaudissements. En semant la générosité en silence, tu as fortifié ton trésor spirituel et démontré une foi authentique qui ne dépend pas de l'approbation humaine."
           }
         }
       ]
