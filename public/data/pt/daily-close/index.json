@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01",
+  "updatedAt": "2026-10-02",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -3678,6 +3678,236 @@
             "en": "True mercy needs no applause. By sowing generosity in silence, you have strengthened your spiritual treasure and demonstrated a genuine faith that does not depend on human approval.",
             "pt": "A verdadeira misericórdia não precisa de aplausos. Ao semear generosidade em silêncio, você fortaleceu seu tesouro espiritual e demonstrou uma fé genuína que não depende da aprovação humana.",
             "fr": "La vraie miséricorde n'a pas besoin d'applaudissements. En semant la générosité en silence, tu as fortifié ton trésor spirituel et démontré une foi authentique qui ne dépend pas de l'approbation humaine."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera usaste tus palabras para edificar a quienes te rodearon hoy?",
+        "en": "In what way did you use your words to build up those around you today?",
+        "pt": "De que maneira você usou suas palavras para edificar quem estava ao seu redor hoje?",
+        "fr": "De quelle manière avez-vous utilisé vos paroles pour édifier votre entourage aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "palabras_aliento_sincero",
+          "label": {
+            "es": "Aliento sincero",
+            "en": "Sincere encouragement",
+            "pt": "Alento sincero",
+            "fr": "Encouragement sincère"
+          },
+          "responseTitle": {
+            "es": "Palabras que dan vida",
+            "en": "Words that give life",
+            "pt": "Palavras que dão vida",
+            "fr": "Des paroles qui donnent vie"
+          },
+          "responseText": {
+            "es": "Has elegido ser un bálsamo para el corazón de otros, reflejando la ternura de Cristo en tu hablar.",
+            "en": "You have chosen to be a balm for others' hearts, reflecting Christ's tenderness in your speech.",
+            "pt": "Você escolheu ser um bálsamo para o coração dos outros, refletindo a ternura de Cristo em seu falar.",
+            "fr": "Vous avez choisi d'être un baume pour le cœur des autres, reflétant la tendresse de Christ dans vos paroles."
+          },
+          "verses": [
+            "Proverbios 12:25"
+          ],
+          "reflectionHeader": {
+            "es": "El poder de la afirmación",
+            "en": "The power of affirmation",
+            "pt": "O poder da afirmação",
+            "fr": "Le pouvoir de l'affirmation"
+          },
+          "reflection": {
+            "es": "Una palabra de ánimo puede ser el punto de inflexión para alguien que atraviesa una prueba silenciosa. Al hablar vida, permites que el Espíritu Santo trabaje a través de ti para restaurar la esperanza. Que tu boca siga siendo una fuente de agua viva.",
+            "en": "A word of encouragement can be the turning point for someone going through a silent trial. By speaking life, you allow the Holy Spirit to work through you to restore hope. May your mouth continue to be a fountain of living water.",
+            "pt": "Uma palavra de ânimo pode ser o ponto de virada para alguém que atravessa uma prova silenciosa. Ao falar vida, você permite que o Espírito Santo trabalhe através de você para restaurar a esperança. Que sua boca continue sendo uma fonte de água viva.",
+            "fr": "Une parole d'encouragement peut être le point tournant pour quelqu'un qui traverse une épreuve silencieuse. En parlant de vie, vous permettez au Saint-Esprit d'agir à travers vous pour restaurer l'espoir. Que votre bouche continue d'être une source d'eau vive."
+          }
+        },
+        {
+          "id": "verdad_con_mansedumbre",
+          "label": {
+            "es": "Verdad con amor",
+            "en": "Truth with love",
+            "pt": "Verdade com amor",
+            "fr": "Vérité avec amour"
+          },
+          "responseTitle": {
+            "es": "Claridad y compasión",
+            "en": "Clarity and compassion",
+            "pt": "Clareza e compaixão",
+            "fr": "Clarté et compassion"
+          },
+          "responseText": {
+            "es": "Hablar con honestidad sin herir es un fruto del Espíritu que hoy has puesto en práctica.",
+            "en": "Speaking honestly without hurting is a fruit of the Spirit that you have put into practice today.",
+            "pt": "Falar com honestidade sem ferir é um fruto do Espírito que você colocou em prática hoje.",
+            "fr": "Parler avec honnêteté sans blesser est un fruit de l'Esprit que vous avez mis en pratique aujourd'hui."
+          },
+          "verses": [
+            "Efesios 4:15"
+          ],
+          "reflectionHeader": {
+            "es": "Equilibrio en el testimonio",
+            "en": "Balance in testimony",
+            "pt": "Equilíbrio no testemunho",
+            "fr": "Équilibre dans le témoignage"
+          },
+          "reflection": {
+            "es": "La verdad sin amor puede ser cruel, pero el amor sin verdad puede ser vacío. Al unirlos, caminas en la integridad de Jesús. Descansa sabiendo que tus palabras han sembrado semillas de rectitud y sanidad en tu entorno.",
+            "en": "Truth without love can be cruel, but love without truth can be empty. By uniting them, you walk in the integrity of Jesus. Rest knowing that your words have sown seeds of righteousness and healing in your environment.",
+            "pt": "A verdade sem amor pode ser cruel, mas o amor sem verdade pode ser vazio. Ao uni-los, você caminha na integridade de Jesus. Descanse sabendo que suas palavras semearam sementes de retidão e cura em seu ambiente.",
+            "fr": "La vérité sans amour peut être cruelle, mais l'amour sans vérité peut être vide. En les unissant, vous marchez dans l'intégrité de Jésus. Reposez-vous en sachant que vos paroles ont semé des graines de droiture et de guérison autour de vous."
+          }
+        },
+        {
+          "id": "silencio_prudente_paz",
+          "label": {
+            "es": "Silencio prudente",
+            "en": "Prudent silence",
+            "pt": "Silêncio prudente",
+            "fr": "Silence prudent"
+          },
+          "responseTitle": {
+            "es": "Sabiduría al callar",
+            "en": "Wisdom in silence",
+            "pt": "Sabedoria ao calar",
+            "fr": "Sagesse dans le silence"
+          },
+          "responseText": {
+            "es": "A veces, la mayor edificación ocurre cuando decidimos no responder con impulsividad.",
+            "en": "Sometimes, the greatest building happens when we choose not to respond impulsively.",
+            "pt": "Às vezes, a maior edificação ocorre quando decidimos não responder com impulsividade.",
+            "fr": "Parfois, la plus grande édification se produit lorsque nous décidons de ne pas répondre avec impulsivité."
+          },
+          "verses": [
+            "Santiago 1:19"
+          ],
+          "reflectionHeader": {
+            "es": "El valor de la templanza",
+            "en": "The value of temperance",
+            "pt": "O valor da temperança",
+            "fr": "La valeur de la tempérance"
+          },
+          "reflection": {
+            "es": "Guardar silencio para evitar un conflicto o para escuchar mejor es un acto de humildad profunda. Dios honra tu dominio propio. Al cerrar el día, deja que su paz llene el espacio que creaste al no usar palabras apresuradas.",
+            "en": "Keeping silent to avoid conflict or to listen better is an act of deep humility. God honors your self-control. As you close the day, let His peace fill the space you created by not using hasty words.",
+            "pt": "Guardar silêncio para evitar um conflito ou para ouvir melhor é um ato de humildade profunda. Deus honra seu domínio próprio. Ao encerrar o dia, deixe que a paz Dele preencha o espaço que você criou ao não usar palavras apressadas.",
+            "fr": "Garder le silence pour éviter un conflit ou pour mieux écouter est un acte de profonde humilité. Dieu honore votre maîtrise de soi. En fin de journée, laissez sa paix remplir l'espace que vous avez créé en n'utilisant pas de paroles hâtives."
+          }
+        },
+        {
+          "id": "gratitud_expresada_publicamente",
+          "label": {
+            "es": "Gratitud expresada",
+            "en": "Expressed gratitude",
+            "pt": "Gratidão expressa",
+            "fr": "Gratitude exprimée"
+          },
+          "responseTitle": {
+            "es": "Un corazón agradecido",
+            "en": "A thankful heart",
+            "pt": "Um coração grato",
+            "fr": "Un cœur reconnaissant"
+          },
+          "responseText": {
+            "es": "Has honrado a Dios al reconocer Su gracia a través de las acciones de los demás.",
+            "en": "You have honored God by recognizing His grace through the actions of others.",
+            "pt": "Você honrou a Deus ao reconhecer Sua graça através das ações dos outros.",
+            "fr": "Vous avez honoré Dieu en reconnaissant sa grâce à travers les actions des autres."
+          },
+          "verses": [
+            "1 Tesalonicenses 5:11"
+          ],
+          "reflectionHeader": {
+            "es": "Multiplicando la bondad",
+            "en": "Multiplying kindness",
+            "pt": "Multiplicando a bondade",
+            "fr": "Multiplier la bonté"
+          },
+          "reflection": {
+            "es": "Cuando agradeces, validas el trabajo de Dios en el prójimo. Tus palabras de gratitud hoy no solo alegraron a alguien, sino que también fortalecieron el cuerpo de Cristo. Que este hábito de honra se vuelva natural en tu caminar diario.",
+            "en": "When you give thanks, you validate God's work in others. Your words of gratitude today not only brightened someone's day but also strengthened the body of Christ. May this habit of honor become natural in your daily walk.",
+            "pt": "Quando você agradece, valida o trabalho de Deus no próximo. Suas palavras de gratidão hoje não apenas alegraram alguém, mas também fortaleceram o corpo de Cristo. Que este hábito de honra se torne natural em seu caminhar diário.",
+            "fr": "Quand vous remerciez, vous validez l'œuvre de Dieu chez les autres. Vos paroles de gratitude aujourd'hui n'ont pas seulement réjoui quelqu'un, elles ont aussi fortifié le corps du Christ. Que cette habitude d'honneur devienne naturelle dans votre marche quotidienne."
+          }
+        },
+        {
+          "id": "consejo_guiado_espiritu",
+          "label": {
+            "es": "Consejo sabio",
+            "en": "Wise counsel",
+            "pt": "Conselho sábio",
+            "fr": "Conseil sage"
+          },
+          "responseTitle": {
+            "es": "Sabiduría compartida",
+            "en": "Shared wisdom",
+            "pt": "Sabedoria compartilhada",
+            "fr": "Sagesse partagée"
+          },
+          "responseText": {
+            "es": "Hoy serviste como un canal de la dirección divina para alguien que necesitaba claridad.",
+            "en": "Today you served as a channel of divine direction for someone who needed clarity.",
+            "pt": "Hoje você serviu como um canal da direção divina para alguém que precisava de clareza.",
+            "fr": "Aujourd'hui, vous avez servi de canal à la direction divine pour quelqu'un qui avait besoin de clarté."
+          },
+          "verses": [
+            "Proverbios 15:1"
+          ],
+          "reflectionHeader": {
+            "es": "Luz en el camino ajeno",
+            "en": "Light on another's path",
+            "pt": "Luz no caminho alheio",
+            "fr": "Lumière sur le chemin d'autrui"
+          },
+          "reflection": {
+            "es": "Ofrecer sabiduría no es imponer una opinión, sino señalar suavemente hacia la voluntad de Dios. Tu disposición a dar un consejo prudente ha sido un acto de amor sacrificial. Dios te usó hoy para iluminar un paso en la oscuridad.",
+            "en": "Offering wisdom is not imposing an opinion, but gently pointing toward God's will. Your willingness to give prudent counsel has been an act of sacrificial love. God used you today to illuminate a step in the darkness.",
+            "pt": "Oferecer sabedoria não é impor uma opinião, mas apontar suavemente para a vontade de Deus. Sua disposição de dar um conselho prudente foi um ato de amor sacrificial. Deus usou você hoje para iluminar um passo na escuridão.",
+            "fr": "Offrir la sagesse, ce n'est pas imposer une opinion, mais pointer doucement vers la volonté de Dieu. Votre volonté de donner un conseil prudent a été un acte d'amour sacrificiel. Dieu vous a utilisé aujourd'hui pour éclairer un pas dans l'obscurité."
+          }
+        },
+        {
+          "id": "bendicion_y_oracion",
+          "label": {
+            "es": "Bendecir a otros",
+            "en": "Blessing others",
+            "pt": "Abençoar os outros",
+            "fr": "Bénir les autres"
+          },
+          "responseTitle": {
+            "es": "Palabras de intercesión",
+            "en": "Words of intercession",
+            "pt": "Palavras de intercessão",
+            "fr": "Paroles d'intercession"
+          },
+          "responseText": {
+            "es": "Usaste tu voz para declarar el favor de Dios sobre la vida de quienes te rodean.",
+            "en": "You used your voice to declare God's favor over the lives of those around you.",
+            "pt": "Você usou sua voz para declarar o favor de Deus sobre a vida daqueles que o cercam.",
+            "fr": "Vous avez utilisé votre voix pour déclarer la faveur de Dieu sur la vie de ceux qui vous entourent."
+          },
+          "verses": [
+            "Colosenses 4:2"
+          ],
+          "reflectionHeader": {
+            "es": "El eco del cielo",
+            "en": "Heaven's echo",
+            "pt": "O eco do céu",
+            "fr": "L'écho du ciel"
+          },
+          "reflection": {
+            "es": "Declarar bendición es un ejercicio de fe. Al hablar bien de otros y orar por ellos en voz alta o en secreto, alineas tu voluntad con el deseo de Dios de prosperar a Sus hijos. Tu lengua hoy fue un instrumento de paz celestial.",
+            "en": "Declaring blessing is an exercise of faith. By speaking well of others and praying for them out loud or in secret, you align your will with God's desire for His children to prosper. Your tongue today was an instrument of heavenly peace.",
+            "pt": "Declarar bênção é um exercício de fé. Ao falar bem dos outros e orar por eles em voz alta ou em segredo, você alinha sua vontade com o desejo de Deus de prosperar Seus filhos. Sua língua hoje foi um instrumento de paz celestial.",
+            "fr": "Déclarer la bénédiction est un exercice de foi. En parlant bien des autres et en priant pour eux à haute voix ou en secret, vous alignez votre volonté sur le désir de Dieu de faire prospérer ses enfants. Votre langue aujourd'hui a été un instrument de paix céleste."
           }
         }
       ]
