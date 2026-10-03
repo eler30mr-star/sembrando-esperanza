@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02",
+  "updatedAt": "2026-10-03",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -3908,6 +3908,236 @@
             "en": "Declaring blessing is an exercise of faith. By speaking well of others and praying for them out loud or in secret, you align your will with God's desire for His children to prosper. Your tongue today was an instrument of heavenly peace.",
             "pt": "Declarar bênção é um exercício de fé. Ao falar bem dos outros e orar por eles em voz alta ou em segredo, você alinha sua vontade com o desejo de Deus de prosperar Seus filhos. Sua língua hoje foi um instrumento de paz celestial.",
             "fr": "Déclarer la bénédiction est un exercice de foi. En parlant bien des autres et en priant pour eux à haute voix ou en secret, vous alignez votre volonté sur le désir de Dieu de faire prospérer ses enfants. Votre langue aujourd'hui a été un instrument de paix céleste."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿Cómo reconociste hoy la guía del Espíritu en lo cotidiano?",
+        "en": "How did you recognize the Spirit's guidance in your daily life today?",
+        "pt": "Como você reconheceu hoje a guia do Espírito no cotidiano?",
+        "fr": "Comment as-tu reconnu aujourd'hui la direction de l'Esprit dans le quotidien ?"
+      },
+      "options": [
+        {
+          "id": "silencio_escucha",
+          "label": {
+            "es": "En el silencio",
+            "en": "In silence",
+            "pt": "No silêncio",
+            "fr": "Dans le silence"
+          },
+          "responseTitle": {
+            "es": "Pausa para escuchar",
+            "en": "A pause to listen",
+            "pt": "Pausa para ouvir",
+            "fr": "Une pause pour écouter"
+          },
+          "responseText": {
+            "es": "Hoy decidiste callar el ruido externo para oír la voz de Dios.",
+            "en": "Today you chose to quiet the external noise to hear God's voice.",
+            "pt": "Hoje você decidiu calar o ruído externo para ouvir a voz de Deus.",
+            "fr": "Aujourd'hui, vous avez choisi de faire taire le bruit pour entendre Dieu."
+          },
+          "verses": [
+            "Salmos 46:10"
+          ],
+          "reflectionHeader": {
+            "es": "La paz de la quietud",
+            "en": "The peace of stillness",
+            "pt": "A paz da quietude",
+            "fr": "La paix du calme"
+          },
+          "reflection": {
+            "es": "En un mundo acelerado, detenerse es un acto de fe. Al buscar el silencio, permites que el Espíritu Santo hable a tu corazón y reordene tus prioridades antes de descansar.",
+            "en": "In a fast-paced world, stopping is an act of faith. By seeking silence, you allow the Holy Spirit to speak to your heart and reorder your priorities before resting.",
+            "pt": "Em um mundo acelerado, parar é um ato de fé. Ao buscar o silêncio, você permite que o Espírito Santo fale ao seu coração e reordene suas prioridades antes de descansar.",
+            "fr": "Dans un monde qui va vite, s'arrêter est un acte de foi. En cherchant le silence, vous permettez au Saint-Esprit de parler à votre cœur et de réorganiser vos priorités."
+          }
+        },
+        {
+          "id": "rutas_providenciales",
+          "label": {
+            "es": "Rumbos nuevos",
+            "en": "New directions",
+            "pt": "Novos rumos",
+            "fr": "Nouveaux chemins"
+          },
+          "responseTitle": {
+            "es": "Pasos guiados",
+            "en": "Guided steps",
+            "pt": "Passos guiados",
+            "fr": "Pas guidés"
+          },
+          "responseText": {
+            "es": "Aceptaste con paz que los planes de Dios son mejores que los tuyos.",
+            "en": "You accepted with peace that God's plans are better than yours.",
+            "pt": "Você aceitou com paz que os planos de Deus são melhores que os seus.",
+            "fr": "Vous avez accepté avec paix que les plans de Dieu sont meilleurs."
+          },
+          "verses": [
+            "Proverbios 16:9"
+          ],
+          "reflectionHeader": {
+            "es": "Confianza en el camino",
+            "en": "Trust on the way",
+            "pt": "Confiança no caminho",
+            "fr": "Confiance sur le chemin"
+          },
+          "reflection": {
+            "es": "A veces, el Espíritu nos desvía de nuestra ruta original para protegernos o enseñarnos algo nuevo. Confiar en Su dirección es descansar en Su soberanía absoluta sobre tu vida.",
+            "en": "Sometimes the Spirit diverts us from our original route to protect us or teach us something new. Trusting His direction is resting in His absolute sovereignty over your life.",
+            "pt": "Às vezes, o Espírito nos desvia de nossa rota original para nos proteger ou nos ensinar algo novo. Confiar em Sua direção é descansar em Sua soberania absoluta sobre sua vida.",
+            "fr": "Parfois, l'Esprit nous détourne de notre route pour nous protéger ou nous enseigner. Suivre sa direction, c'est se reposer sur sa souveraineté absolue."
+          }
+        },
+        {
+          "id": "socorro_oportuno",
+          "label": {
+            "es": "Ayuda a tiempo",
+            "en": "Timely help",
+            "pt": "Ajuda oportuna",
+            "fr": "Secours opportun"
+          },
+          "responseTitle": {
+            "es": "Gracia en la crisis",
+            "en": "Grace in crisis",
+            "pt": "Graça na crise",
+            "fr": "La grâce en crise"
+          },
+          "responseText": {
+            "es": "Viste la mano de Dios dándote salida en el momento preciso.",
+            "en": "You saw God's hand providing a way out at the precise moment.",
+            "pt": "Você viu a mão de Deus dando uma saída no momento preciso.",
+            "fr": "Vous avez vu la main de Dieu vous ouvrir une voie au bon moment."
+          },
+          "verses": [
+            "Hebreos 4:16"
+          ],
+          "reflectionHeader": {
+            "es": "El trono de la gracia",
+            "en": "The throne of grace",
+            "pt": "O trono da graça",
+            "fr": "Le trône de la grâce"
+          },
+          "reflection": {
+            "es": "Dios no llega tarde ni temprano; Su provisión es exacta. Hoy experimentaste ese socorro que solo proviene de Su amor infinito. Duerme sabiendo que Él cuida de cada detalle.",
+            "en": "God is never late or early; His provision is exact. Today you experienced that help which comes only from His infinite love. Sleep knowing He cares for every detail.",
+            "pt": "Deus não chega tarde nem cedo; Sua provisão é exata. Hoje você experimentou esse socorro que só provém de Seu amor infinito. Durma sabendo que Ele cuida de cada detalhe.",
+            "fr": "Dieu n'est jamais en retard ni en avance. Aujourd'hui, vous avez reçu ce secours qui vient de son amour infini. Dormez en sachant qu'il prend soin de tout."
+          }
+        },
+        {
+          "id": "discernimiento_puro",
+          "label": {
+            "es": "Sabiduría práctica",
+            "en": "Practical wisdom",
+            "pt": "Sabedoria prática",
+            "fr": "Sagesse pratique"
+          },
+          "responseTitle": {
+            "es": "Luz en las decisiones",
+            "en": "Light in decisions",
+            "pt": "Luz nas decisões",
+            "fr": "Lumière et choix"
+          },
+          "responseText": {
+            "es": "El Espíritu te dio claridad para elegir lo que es justo y bueno.",
+            "en": "The Spirit gave you clarity to choose what is just and good.",
+            "pt": "O Espírito te deu clareza para escolher o que é justo e bom.",
+            "fr": "L'Esprit vous a donné la clarté pour choisir ce qui est juste."
+          },
+          "verses": [
+            "Santiago 3:17"
+          ],
+          "reflectionHeader": {
+            "es": "Sabiduría de lo alto",
+            "en": "Wisdom from above",
+            "pt": "Sabedoria do alto",
+            "fr": "Sagesse d'en haut"
+          },
+          "reflection": {
+            "es": "La sabiduría divina no es solo conocimiento, es saber actuar con amor y paz. Hoy permitiste que esa luz guiara tus elecciones, reflejando el carácter de Cristo en tu entorno.",
+            "en": "Divine wisdom is not just knowledge; it is knowing how to act with love and peace. Today you allowed that light to guide your choices, reflecting Christ's character.",
+            "pt": "A sabedoria divina não é apenas conhecimento, é saber agir com amor e paz. Hoje você permitiu que essa luz guiasse suas escolhas, refletindo o caráter de Cristo.",
+            "fr": "La sagesse divine est l'art d'agir avec amour. Aujourd'hui, vous avez laissé cette lumière guider vos choix, reflétant ainsi le caractère de Christ."
+          }
+        },
+        {
+          "id": "trato_fraternal",
+          "label": {
+            "es": "Encuentros clave",
+            "en": "Key encounters",
+            "pt": "Encontros chave",
+            "fr": "Rencontres clés"
+          },
+          "responseTitle": {
+            "es": "Dios en los demás",
+            "en": "God in others",
+            "pt": "Deus nos outros",
+            "fr": "Dieu dans l'autre"
+          },
+          "responseText": {
+            "es": "Reconociste el mensaje de Dios a través de alguien que conociste hoy.",
+            "en": "You recognized God's message through someone you met today.",
+            "pt": "Você reconheceu a mensagem de Deus através de alguém que conheceu hoje.",
+            "fr": "Vous avez reconnu le message de Dieu à travers une rencontre."
+          },
+          "verses": [
+            "Hebreos 13:2"
+          ],
+          "reflectionHeader": {
+            "es": "Instrumentos de Dios",
+            "en": "God's instruments",
+            "pt": "Instrumentos de Deus",
+            "fr": "Instruments de Dieu"
+          },
+          "reflection": {
+            "es": "Dios utiliza a las personas para hablarnos y bendecirnos. Al estar atento a los demás, descubriste que el Espíritu está activo y presente en cada relación y conversación.",
+            "en": "God uses people to speak to us and bless us. By being attentive to others, you discovered that the Spirit is active and present in every relationship and conversation.",
+            "pt": "Deus utiliza as pessoas para nos falar e nos abençoar. Ao estar atento aos outros, você descobriu que o Espírito está ativo e presente em cada relação e conversa.",
+            "fr": "Dieu utilise les gens pour nous parler. En étant attentif aux autres, vous avez découvert que l'Esprit est présent dans chaque relation et chaque échange."
+          }
+        },
+        {
+          "id": "aliento_espiritual",
+          "label": {
+            "es": "Nuevas fuerzas",
+            "en": "Renewed strength",
+            "pt": "Novas forças",
+            "fr": "Forces neuves"
+          },
+          "responseTitle": {
+            "es": "Vigor en el cansancio",
+            "en": "Vigor in weariness",
+            "pt": "Vigor no cansaço",
+            "fr": "Vigueur et fatigue"
+          },
+          "responseText": {
+            "es": "Sentiste el impulso del Espíritu para terminar el día con ánimo.",
+            "en": "You felt the Spirit's nudge to finish the day with courage.",
+            "pt": "Você sentiu o impulso do Espírito para terminar o dia com ânimo.",
+            "fr": "Vous avez senti l'élan de l'Esprit pour finir la journée avec courage."
+          },
+          "verses": [
+            "Isaías 40:29"
+          ],
+          "reflectionHeader": {
+            "es": "Sustento sobrenatural",
+            "en": "Supernatural support",
+            "pt": "Sustento sobrenatural",
+            "fr": "Soutien surnaturel"
+          },
+          "reflection": {
+            "es": "Cuando nuestras fuerzas se agotan, comienza Su poder. Hoy experimentaste que no caminas solo, sino que el Espíritu Santo es tu motor y tu descanso más profundo.",
+            "en": "When our strength runs out, His power begins. Today you experienced that you do not walk alone, for the Holy Spirit is your engine and your deepest rest.",
+            "pt": "Quando nossas forças se esgotam, começa o Seu poder. Hoje você experimentou que não caminha sozinho, mas que o Espírito Santo é o seu motor e o seu descanso mais profundo.",
+            "fr": "Quand nos forces s'épuisent, sa puissance prend le relais. Aujourd'hui, vous avez réalisé que l'Esprit est votre moteur et votre repos le plus profond."
           }
         }
       ]
