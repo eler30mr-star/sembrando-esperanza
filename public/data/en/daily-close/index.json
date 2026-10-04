@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-03",
+  "updatedAt": "2026-10-04",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -4138,6 +4138,236 @@
             "en": "When our strength runs out, His power begins. Today you experienced that you do not walk alone, for the Holy Spirit is your engine and your deepest rest.",
             "pt": "Quando nossas forças se esgotam, começa o Seu poder. Hoje você experimentou que não caminha sozinho, mas que o Espírito Santo é o seu motor e o seu descanso mais profundo.",
             "fr": "Quand nos forces s'épuisent, sa puissance prend le relais. Aujourd'hui, vous avez réalisé que l'Esprit est votre moteur et votre repos le plus profond."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿Cómo viviste hoy el llamado a ser pacificadores y sembradores de paz?",
+        "en": "How did you live out the call to be peacemakers today?",
+        "pt": "Como você viveu hoje o chamado para ser um pacificador?",
+        "fr": "Comment as-tu vécu aujourd'hui l'appel à être un artisan de paix ?"
+      },
+      "options": [
+        {
+          "id": "calma_en_conflicto",
+          "label": {
+            "es": "Manteniendo la calma",
+            "en": "Staying calm",
+            "pt": "Mantendo a calma",
+            "fr": "Garder son calme"
+          },
+          "responseTitle": {
+            "es": "Sembrador de serenidad",
+            "en": "Sower of Serenity",
+            "pt": "Semeador de serenidade",
+            "fr": "Semeur de sérénité"
+          },
+          "responseText": {
+            "es": "Decidiste no responder con tensión ante la prisa o el desacuerdo del día.",
+            "en": "You chose not to react with tension amidst the day's haste or disagreement.",
+            "pt": "Você decidiu não responder com tensão diante da pressa ou do desacordo do dia.",
+            "fr": "Tu as choisi de ne pas répondre par la tension face à la hâte ou au désaccord du jour."
+          },
+          "verses": [
+            "Romanos 14:19"
+          ],
+          "reflectionHeader": {
+            "es": "La calma que transforma relaciones",
+            "en": "Calm that transforms relationships",
+            "pt": "A calma que transforma relações",
+            "fr": "Le calme qui transforme les relations"
+          },
+          "reflection": {
+            "es": "Cuando mantienes la serenidad en medio del ajetreo o las diferencias, abres espacio para que la gracia de Dios desarme los conflictos. La paz empieza con una decisión callada de no alimentar el fuego.",
+            "en": "When you maintain composure amid busyness or disagreement, you allow God's grace to defuse conflict. Peace begins with a quiet decision not to fuel the fire.",
+            "pt": "Quando você mantém a serenidade no meio da agitação ou das diferenças, abre espaço para que a graça de Deus desarme os conflitos. A paz começa com a decisão silenciosa de não alimentar o fogo.",
+            "fr": "Lorsque tu gardes ton calme au milieu de l'agitation ou des désaccords, tu laisses la grâce de Dieu désamorcer les conflits. La paix commence par la décision silencieuse de ne pas alimenter le feu."
+          }
+        },
+        {
+          "id": "escucha_atenta",
+          "label": {
+            "es": "Escuchando con empatía",
+            "en": "Listening with empathy",
+            "pt": "Ouvindo com empatia",
+            "fr": "Écoute empathique"
+          },
+          "responseTitle": {
+            "es": "Oídos que sanan",
+            "en": "Ears that heal",
+            "pt": "Ouvidos que curam",
+            "fr": "Des oreilles qui guérissent"
+          },
+          "responseText": {
+            "es": "Prestaste atención sincera a las palabras y sentimientos de quienes te rodearon.",
+            "en": "You gave sincere attention to the words and feelings of those around you.",
+            "pt": "Você prestou atenção sincera às palavras e sentimentos daqueles ao seu redor.",
+            "fr": "Tu as prêté una attention sincère aux paroles et aux sentiments de ton entourage."
+          },
+          "verses": [
+            "Proverbios 18:13"
+          ],
+          "reflectionHeader": {
+            "es": "El poder de comprender antes de juzgar",
+            "en": "The power to understand before judging",
+            "pt": "O poder de entender antes de julgar",
+            "fr": "Le pouvoir de comprendre avant de juger"
+          },
+          "reflection": {
+            "es": "Escuchar sin prisa por responder es un acto profundo de amor y respeto. Al dar lugar al otro, reflejas la paciencia divina y construyes puentes de verdadera comprensión en tu entorno.",
+            "en": "Listening without rushing to reply is a profound act of love and respect. By making room for others, you reflect divine patience and build bridges of true understanding.",
+            "pt": "Ouvir sem pressa para responder é um ato profundo de amor e respeito. Ao dar espaço ao outro, você reflete a paciência divina e constrói pontes de verdadeira compreensão.",
+            "fr": "Écouter sans se précipiter para répondre est un acte profond d'amour et de respect. En faisant de la place à l'autre, tu reflètes la patience divine et bâtis des ponts de compréhension."
+          }
+        },
+        {
+          "id": "perdon_reciproco",
+          "label": {
+            "es": "Ofreciendo perdón",
+            "en": "Offering forgiveness",
+            "pt": "Ofertando perdão",
+            "fr": "Offrir le pardon"
+          },
+          "responseTitle": {
+            "es": "Corazón liberado",
+            "en": "Freed Heart",
+            "pt": "Coração libertado",
+            "fr": "Cœur libéré"
+          },
+          "responseText": {
+            "es": "Elegiste soltar ofensas pequeñas o grandes para guardar tu corazón en el amor de Dios.",
+            "en": "You chose to let go of offenses big or small to guard your heart in God's love.",
+            "pt": "Você escolheu soltar ofensas pequenas ou grandes para guardar seu coração no amor de Deus.",
+            "fr": "Tu as choisi de lâcher prise sur les offenses pour garder ton cœur dans l'amour de Dieu."
+          },
+          "verses": [
+            "Efesios 4:32"
+          ],
+          "reflectionHeader": {
+            "es": "El perdón como puente de paz",
+            "en": "Forgiveness as a bridge of peace",
+            "pt": "O perdão como ponte de paz",
+            "fr": "Le pardon comme pont de paix"
+          },
+          "reflection": {
+            "es": "Perdonar no minimiza lo ocurrido, sino que libera tu alma de cadenas innecesarias. Al extender la reconciliación, experimentas la ligereza y el descanso que solo la gracia de Cristo proporciona.",
+            "en": "Forgiving does not diminish what happened, but frees your soul from unnecessary chains. Extending reconciliation brings the lightness and rest that only Christ's grace provides.",
+            "pt": "Perdoar não minimiza o acontecido, mas liberta sua alma de correntes desnecessárias. Ao estender a reconciliação, você experimenta a leveza e o descanso que só a graça de Cristo dá.",
+            "fr": "Pardonner ne diminue pas ce qui s'est passé, mais libère ton âme de chaînes inutiles. En offrant la réconciliation, tu fais l'expérience du repos que seule la grâce du Christ procure."
+          }
+        },
+        {
+          "id": "palabras_suaves",
+          "label": {
+            "es": "Respondiendo con dulzura",
+            "en": "Soft responses",
+            "pt": "Resposta branda",
+            "fr": "Paroles douces"
+          },
+          "responseTitle": {
+            "es": "Dulzura en el hablar",
+            "en": "Gentleness in speech",
+            "pt": "Doçura no falar",
+            "fr": "Douceur dans les paroles"
+          },
+          "responseText": {
+            "es": "Usaste un tono amable para desactivar tensiones o brindar consuelo a alguien hoy.",
+            "en": "You used a gentle tone to diffuse tension or bring comfort to someone today.",
+            "pt": "Você usou um tom amável para desativar tensões ou trazer consolo a alguém hoje.",
+            "fr": "Tu as utilisé un ton aimable pour désamorcer les tensions ou réconforter quelqu'un."
+          },
+          "verses": [
+            "Proverbios 16:24"
+          ],
+          "reflectionHeader": {
+            "es": "Palabras que traen sanidad",
+            "en": "Words that bring healing",
+            "pt": "Palavras que trazem cura",
+            "fr": "Des paroles qui apportent la guérison"
+          },
+          "reflection": {
+            "es": "Las palabras amables son como un bálsamo para la mente cansada. Cada vez que escoges la amabilidad sobre el sarcasmo o la dureza, estás sembrando semillas de paz que florecen en relaciones sanas.",
+            "en": "Kind words are like balm to a weary mind. Every time you choose gentleness over harshness, you sow seeds of peace that blossom into healthy relationships.",
+            "pt": "Palavras amáveis são como um bálsamo para a mente cansada. Cada vez que você escolhe a gentileza em vez da dureza, semeia sementes de paz que florescem em relações saudáveis.",
+            "fr": "Les paroles bienveillantes sont un baume pour l'esprit fatigué. Chaque fois que tu choisis la douceur plutôt que la dureté, tu sèmes des graines de paix qui s'épanouissent."
+          }
+        },
+        {
+          "id": "oracion_por_paz",
+          "label": {
+            "es": "Orando por armonía",
+            "en": "Praying for harmony",
+            "pt": "Orando por harmonia",
+            "fr": "Prier pour l'harmonie"
+          },
+          "responseTitle": {
+            "es": "Intercesión pacífica",
+            "en": "Peaceful Intercession",
+            "pt": "Intercessão pacífica",
+            "fr": "Intercession paisible"
+          },
+          "responseText": {
+            "es": "Llevaste ante Dios situaciones difíciles buscando la tranquilidad propia y ajena.",
+            "en": "You brought difficult situations to God, seeking peace for yourself and others.",
+            "pt": "Você levou a Deus situações difíceis buscando a tranquilidade própria e dos outros.",
+            "fr": "Tu as apporté des situations difficiles à Dieu, cherchant la paix pour tous."
+          },
+          "verses": [
+            "Salmos 34:14"
+          ],
+          "reflectionHeader": {
+            "es": "Buscando la paz desde la oración",
+            "en": "Seeking peace through prayer",
+            "pt": "Buscando a paz na oração",
+            "fr": "Chercher la paix dans la prière"
+          },
+          "reflection": {
+            "es": "La oración activa es el punto de partida para cualquier cambio duradero. Presentar ante el Señor los conflictos transforma primero tu propia perspectiva, dándote serenidad para actuar con sabiduría.",
+            "en": "Active prayer is the starting point for lasting change. Bringing conflicts to the Lord transforms your own perspective first, bestowing calm to act wisely.",
+            "pt": "A oração ativa é o ponto de partida para qualquer mudança duradoura. Apresentar os conflitos ao Senhor transforma primeiro sua própria perspectiva, dando-lhe serenidade para agir com sabedoria.",
+            "fr": "La prière active est le point de départ de tout changement durable. Présenter les conflits au Seigneur transforme d'abord ta propre perspective, te donnant la sérénité d'agir avec sagesse."
+          }
+        },
+        {
+          "id": "unidad_fraterna",
+          "label": {
+            "es": "Buscando la unidad",
+            "en": "Seeking unity",
+            "pt": "Buscando a unidade",
+            "fr": "Chercher l'unité"
+          },
+          "responseTitle": {
+            "es": "Unidad y bendición",
+            "en": "Unity and Blessing",
+            "pt": "Unidade e bênção",
+            "fr": "Unité et bénédiction"
+          },
+          "responseText": {
+            "es": "Promoviste la colaboración y el afecto sincero en tu hogar, trabajo o comunidad.",
+            "en": "You promoted collaboration and sincere affection in your home, work, or community.",
+            "pt": "Você promoveu a colaboração e o afeto sincero em seu lar, trabalho ou comunidade.",
+            "fr": "Tu as encouragé la collaboration et l'affection sincère au foyer ou au travail."
+          },
+          "verses": [
+            "Salmos 133:1"
+          ],
+          "reflectionHeader": {
+            "es": "La belleza de caminar juntos",
+            "en": "The beauty of walking together",
+            "pt": "A beleza de caminhar juntos",
+            "fr": "La beauté de marcher ensemble"
+          },
+          "reflection": {
+            "es": "Donde hay unidad sincera, la bendición divina fluye con libertad. Al valorar a los demás y priorizar la concordia sobre el orgullo, te conviertes en un reflejo del Reino de Dios en la Tierra.",
+            "en": "Where there is true unity, divine blessing flows freely. By valuing others and prioritizing harmony over pride, you become a reflection of God's Kingdom on Earth.",
+            "pt": "Onde há unidade sincera, a bênção divina flui com liberdade. Ao valorizar os outros e priorizar a concórdia sobre o orgulho, você se torna um reflexo do Reino de Deus na Terra.",
+            "fr": "Là où règne une unité sincère, la bénédiction divine coule librement. En valorisant les autres et en privilégiant l'harmonie, tu deviens un reflet du Royaume de Dieu sur Terre."
           }
         }
       ]
