@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-05",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -4368,6 +4368,236 @@
             "en": "Where there is true unity, divine blessing flows freely. By valuing others and prioritizing harmony over pride, you become a reflection of God's Kingdom on Earth.",
             "pt": "Onde há unidade sincera, a bênção divina flui com liberdade. Ao valorizar os outros e priorizar a concórdia sobre o orgulho, você se torna um reflexo do Reino de Deus na Terra.",
             "fr": "Là où règne une unité sincère, la bénédiction divine coule librement. En valorisant les autres et en privilégiant l'harmonie, tu deviens un reflet du Royaume de Dieu sur Terre."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera respondiste hoy a las oportunidades de bondad que Dios puso en tu camino?",
+        "en": "How did you respond to the opportunities for kindness that God placed in your path today?",
+        "pt": "De que maneira você respondeu hoje às oportunidades de bondade que Deus colocou em seu caminho?",
+        "fr": "Comment avez-vous répondu aujourd'hui aux occasions de bonté que Dieu a placées sur votre chemin ?"
+      },
+      "options": [
+        {
+          "id": "bondad_inesperada",
+          "label": {
+            "es": "Bondad inesperada",
+            "en": "Unexpected kindness",
+            "pt": "Bondade inesperada",
+            "fr": "Bonté inattendue"
+          },
+          "responseTitle": {
+            "es": "Un reflejo del buen samaritano",
+            "en": "A reflection of the good Samaritan",
+            "pt": "Um reflexo do bom samaritano",
+            "fr": "Un reflet du bon Samaritain"
+          },
+          "responseText": {
+            "es": "Hoy decidiste detenerte y ayudar a alguien sin esperar nada a cambio, reflejando el carácter de Jesús.",
+            "en": "Today you chose to stop and help someone without expecting anything in return, reflecting Jesus' character.",
+            "pt": "Hoje você decidiu parar e ajudar alguém sem esperar nada em troca, refletindo o caráter de Jesus.",
+            "fr": "Aujourd'hui, vous avez choisi de vous arrêter et d'aider quelqu'un sans rien attendre en retour."
+          },
+          "verses": [
+            "Lucas 10:33"
+          ],
+          "reflectionHeader": {
+            "es": "Amor en movimiento",
+            "en": "Love in motion",
+            "pt": "Amor em movimento",
+            "fr": "L'amour en mouvement"
+          },
+          "reflection": {
+            "es": "La verdadera fe se manifiesta en acciones prácticas hacia el prójimo. Al ayudar a un extraño, estás sirviendo al Señor mismo.",
+            "en": "True faith is manifested in practical actions toward others. By helping a stranger, you are serving the Lord Himself.",
+            "pt": "A verdadeira fé se manifesta em ações práticas para com o próximo. Ao ajudar um estranho, você está servindo ao próprio Senhor.",
+            "fr": "La vraie foi se manifeste par des actions concrètes envers le prochain. En aidant un inconnu, c'est le Seigneur que vous servez."
+          }
+        },
+        {
+          "id": "paciencia_amable",
+          "label": {
+            "es": "Paciencia amable",
+            "en": "Gentle patience",
+            "pt": "Paciência amável",
+            "fr": "Patience aimable"
+          },
+          "responseTitle": {
+            "es": "El fruto de la templanza",
+            "en": "The fruit of self-control",
+            "pt": "O fruto da temperança",
+            "fr": "Le fruit de la tempérance"
+          },
+          "responseText": {
+            "es": "Mostraste bondad al ser paciente con aquellos que prueban tu calma en el día a día.",
+            "en": "You showed kindness by being patient with those who test your calm in daily life.",
+            "pt": "Você mostrou bondade ao ser paciente com aqueles que testam sua calma no dia a dia.",
+            "fr": "Vous avez fait preuve de bonté en étant patient avec ceux qui mettent votre calme à l'épreuve."
+          },
+          "verses": [
+            "1 Corintios 13:4"
+          ],
+          "reflectionHeader": {
+            "es": "Paz que contagia",
+            "en": "Contagious peace",
+            "pt": "Paz que contagia",
+            "fr": "Une paix contagieuse"
+          },
+          "reflection": {
+            "es": "La paciencia es una de las formas más elevadas de amor. Tu calma hoy pudo ser el bálsamo que alguien más necesitaba.",
+            "en": "Patience is one of the highest forms of love. Your calmness today may have been the balm someone else needed.",
+            "pt": "A paciência é uma das formas mais elevadas de amor. Sua calma hoje pode ter sido o bálsamo que outra pessoa precisava.",
+            "fr": "La patience est l'une des formes les plus élevées de l'amour. Votre calme aujourd'hui a pu être le baume dont quelqu'un d'autre avait besoin."
+          }
+        },
+        {
+          "id": "apoyo_laboral",
+          "label": {
+            "es": "Apoyo laboral",
+            "en": "Workplace support",
+            "pt": "Apoio no trabalho",
+            "fr": "Soutien au travail"
+          },
+          "responseTitle": {
+            "es": "Servicio en el deber",
+            "en": "Service in duty",
+            "pt": "Serviço no dever",
+            "fr": "Le service dans le devoir"
+          },
+          "responseText": {
+            "es": "Ayudaste a un colega con sus cargas, demostrando que el trabajo es también un campo de misión.",
+            "en": "You helped a colleague with their burdens, showing that work is also a mission field.",
+            "pt": "Você ajudou um colega com seus fardos, demonstrando que o trabalho também é um campo missionário.",
+            "fr": "Vous avez aidé un collègue à porter ses fardeaux, montrant que le travail est aussi un champ de mission."
+          },
+          "verses": [
+            "Filipenses 2:4"
+          ],
+          "reflectionHeader": {
+            "es": "Luz en la oficina",
+            "en": "Light in the office",
+            "pt": "Luz no escritório",
+            "fr": "Lumière au bureau"
+          },
+          "reflection": {
+            "es": "No solo trabajamos para hombres, sino para Dios. Tu apoyo a los demás hoy honró Su nombre en tu entorno profesional.",
+            "en": "We do not only work for men, but for God. Your support for others today honored His name in your professional environment.",
+            "pt": "Não trabalhamos apenas para os homens, mas para Deus. Seu apoio aos outros hoje honrou o nome Dele em seu ambiente profissional.",
+            "fr": "Nous ne travaillons pas seulement pour les hommes, mais pour Dieu. Votre soutien aux autres aujourd'hui a honoré Son nom."
+          }
+        },
+        {
+          "id": "generosidad_viva",
+          "label": {
+            "es": "Generosidad viva",
+            "en": "Living generosity",
+            "pt": "Generosidade viva",
+            "fr": "Générosité vivante"
+          },
+          "responseTitle": {
+            "es": "Manos abiertas",
+            "en": "Open hands",
+            "pt": "Mãos abertas",
+            "fr": "Mains ouvertes"
+          },
+          "responseText": {
+            "es": "Compartiste lo que tienes, reconociendo que todo lo que posees viene de la mano generosa de Dios.",
+            "en": "You shared what you have, recognizing that everything you possess comes from God's generous hand.",
+            "pt": "Você compartilhou o que tem, reconhecendo que tudo o que possui vem da mão generosa de Deus.",
+            "fr": "Vous avez partagé ce que vous avez, reconnaissant que tout ce que vous possédez vient de la main généreuse de Dieu."
+          },
+          "verses": [
+            "Hebreos 13:16"
+          ],
+          "reflectionHeader": {
+            "es": "Sacrificio que agrada",
+            "en": "Pleasing sacrifice",
+            "pt": "Sacrifício que agrada",
+            "fr": "Un sacrifice qui plaît"
+          },
+          "reflection": {
+            "es": "La generosidad rompe el egoísmo. Al dar, experimentas la libertad de saber que Dios es tu provisión constante.",
+            "en": "Generosity breaks selfishness. By giving, you experience the freedom of knowing that God is your constant provision.",
+            "pt": "A generosidade quebra o egoísmo. Ao dar, você experimenta a liberdade de saber que Deus é a sua provisão constante.",
+            "fr": "La générosité brise l'égoïsme. En donnant, vous faites l'expérience de la liberté de savoir que Dieu est votre provision constante."
+          }
+        },
+        {
+          "id": "escucha_compasiva",
+          "label": {
+            "es": "Escucha compasiva",
+            "en": "Compassionate listening",
+            "pt": "Escuta compassiva",
+            "fr": "Écoute compatissante"
+          },
+          "responseTitle": {
+            "es": "Oídos para el alma",
+            "en": "Ears for the soul",
+            "pt": "Ouvidos para a alma",
+            "fr": "Des oreilles pour l'âme"
+          },
+          "responseText": {
+            "es": "Dedicar tiempo a escuchar a alguien es un acto de amor profundo que sana corazones solitarios.",
+            "en": "Taking time to listen to someone is a profound act of love that heals lonely hearts.",
+            "pt": "Dedicar tempo para ouvir alguém é um ato de amor profundo que cura corações solitários.",
+            "fr": "Prendre le temps d'écouter quelqu'un est un acte d'amour profond qui guérit les cœurs solitaires."
+          },
+          "verses": [
+            "Santiago 1:19"
+          ],
+          "reflectionHeader": {
+            "es": "El regalo del tiempo",
+            "en": "The gift of time",
+            "pt": "O presente do tempo",
+            "fr": "Le cadeau du temps"
+          },
+          "reflection": {
+            "es": "A veces, la mayor bondad no es hablar, sino estar presente. Hoy fuiste un refugio seguro para alguien que necesitaba ser escuchado.",
+            "en": "Sometimes, the greatest kindness is not to speak, but to be present. Today you were a safe haven for someone who needed to be heard.",
+            "pt": "Às vezes, a maior bondade não é falar, mas estar presente. Hoje você foi um refúgio seguro para alguém que precisava ser ouvido.",
+            "fr": "Parfois, la plus grande bonté n'est pas de parler, mais d'être présent. Aujourd'hui, vous avez été un refuge pour quelqu'un."
+          }
+        },
+        {
+          "id": "gracia_ante_error",
+          "label": {
+            "es": "Gracia al corregir",
+            "en": "Grace in correction",
+            "pt": "Graça ao corrigir",
+            "fr": "Grâce en corrigeant"
+          },
+          "responseTitle": {
+            "es": "Espíritu de mansedumbre",
+            "en": "Spirit of gentleness",
+            "pt": "Espírito de mansidão",
+            "fr": "Esprit de douceur"
+          },
+          "responseText": {
+            "es": "Respondiste con suavidad ante una falta ajena, permitiendo que la gracia tuviera la última palabra.",
+            "en": "You responded with gentleness to another's fault, allowing grace to have the final word.",
+            "pt": "Você respondeu com suavidade a uma falta alheia, permitindo que a graça tivesse a última palavra.",
+            "fr": "Vous avez répondu avec douceur à la faute d'autrui, laissant la grâce avoir le dernier mot."
+          },
+          "verses": [
+            "Gálatas 6:1"
+          ],
+          "reflectionHeader": {
+            "es": "Restaurar con amor",
+            "en": "Restore with love",
+            "pt": "Restaurar com amor",
+            "fr": "Restaurer avec amour"
+          },
+          "reflection": {
+            "es": "La bondad se pone a prueba cuando alguien falla. Al elegir la mansedumbre, reflejas cómo Dios nos restaura a nosotros cada día.",
+            "en": "Kindness is tested when someone fails. By choosing gentleness, you reflect how God restores us every day.",
+            "pt": "A bondade é testada quando alguém falha. Ao escolher a mansidão, você reflete como Deus nos restaura a cada dia.",
+            "fr": "La bonté est testée quand quelqu'un échoue. En choisissant la douceur, vous reflétez la manière dont Dieu nous restaure chaque jour."
           }
         }
       ]
