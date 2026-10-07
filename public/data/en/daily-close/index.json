@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05",
+  "updatedAt": "2026-10-07",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -4598,6 +4598,236 @@
             "en": "Kindness is tested when someone fails. By choosing gentleness, you reflect how God restores us every day.",
             "pt": "A bondade é testada quando alguém falha. Ao escolher a mansidão, você reflete como Deus nos restaura a cada dia.",
             "fr": "La bonté est testée quand quelqu'un échoue. En choisissant la douceur, vous reflétez la manière dont Dieu nous restaure chaque jour."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera permitiste que la fidelidad de Dios cuidara tu corazón hoy?",
+        "en": "How did you allow God's faithfulness to guard your heart today?",
+        "pt": "De que maneira você permitiu que a fidelidade de Deus guardasse seu coração hoje?",
+        "fr": "Comment avez-vous laissé la fidélité de Dieu garder votre cœur aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "entregar_pendientes",
+          "label": {
+            "es": "Soltando pendientes",
+            "en": "Releasing open tasks",
+            "pt": "Entregando pendências",
+            "fr": "Lâcher les suspens"
+          },
+          "responseTitle": {
+            "es": "Dios cuida lo que no terminaste hoy",
+            "en": "God takes care of what's left today",
+            "pt": "Deus cuida do que ficou incompleto",
+            "fr": "Dieu prend soin de l'inachevé"
+          },
+          "responseText": {
+            "es": "Comprender que el día termina no significa que tu historia se detenga, sino que reconoces que Dios sigue trabajando mientras descansas.",
+            "en": "Understanding that the day ends does not mean your story stops; it means recognizing that God continues to work while you rest.",
+            "pt": "Compreender que o dia termina não significa que sua história pare, mas que você reconhece que Deus continua trabalhando enquanto descansa.",
+            "fr": "Comprendre que la journée se termine ne signifie pas que votre histoire s'arrête, mais que vous reconnaissez que Dieu continue d'agir pendant votre repos."
+          },
+          "verses": [
+            "1 Pedro 5:7"
+          ],
+          "reflectionHeader": {
+            "es": "Descansa en las manos del Creador",
+            "en": "Rest in the Creator's hands",
+            "pt": "Descanse nas mãos do Criador",
+            "fr": "Reposez-vous entre les mains de Dieu"
+          },
+          "reflection": {
+            "es": "Las tareas inconclusas de hoy no son un fracaso, sino un recordatorio de nuestra finitud. Al entregar cada pendiente en oración, permites que la paz de Cristo tome el control de tu noche.",
+            "en": "Today's unfinished tasks are not a failure, but a reminder of our human limits. By releasing every open item in prayer, you allow Christ's peace to take charge of your night.",
+            "pt": "As tarefas inacabadas de hoje não são um fracasso, mas um lembrete da nossa limitação. Ao entregar cada pendência em oração, você permite que a paz de Cristo tome o controle da sua noite.",
+            "fr": "Les tâches inachevées d'aujourd'hui ne sont pas un échec, mais un rappel de nos limites. En remettant chaque dossier suspendu dans la prière, vous laissez la paix du Christ garder votre nuit."
+          }
+        },
+        {
+          "id": "promesa_firme",
+          "label": {
+            "es": "Anclado en la promesa",
+            "en": "Anchored in promise",
+            "pt": "Ancorado na promessa",
+            "fr": "Ancré dans la promesse"
+          },
+          "responseTitle": {
+            "es": "Su fidelidad se renueva cada mañana",
+            "en": "His faithfulness renews every morning",
+            "pt": "A fidelidade dEle se renova no amanhecer",
+            "fr": "Sa fidélité se renouvelle chaque matin"
+          },
+          "responseText": {
+            "es": "Fijar tus pensamientos en las promesas eternas transforma la incertidumbre del mañana en un reposo sereno en esta noche.",
+            "en": "Setting your mind on eternal promises turns tomorrow's uncertainty into calm rest tonight.",
+            "pt": "Fixar seus pensamentos nas promessas eternas transforma a incerteza do amanhã em um repouso sereno nesta noite.",
+            "fr": "Fixer vos pensées sur les promesses éternelles transforme l'incertitude de demain en un repos serein ce soir."
+          },
+          "verses": [
+            "Lamentaciones 3:22-23"
+          ],
+          "reflectionHeader": {
+            "es": "Un amor constante que sostiene tu vida",
+            "en": "A steadfast love supporting your life",
+            "pt": "Um amor constante que sustenta sua vida",
+            "fr": "Un amour constant qui soutient votre vie"
+          },
+          "reflection": {
+            "es": "Aunque las circunstancias cambien, el carácter de Dios permanece inamovible. Al recordar que Sus misericordias no se han agotado, tu mente encuentra el refugio perfecto para cerrar los ojos confiado.",
+            "en": "Even when circumstances shift, God's character remains unshakeable. Remembering that His mercies never run out gives your mind the ultimate shelter to sleep in confidence.",
+            "pt": "Mesmo que as circunstâncias mudem, o caráter de Deus permanece inabalável. Ao lembrar que Suas misericórdias não se esgotaram, sua mente encontra o refúgio perfeito para fechar os olhos em confiança.",
+            "fr": "Même si les circonstances changent, le caractère de Dieu demeure inébranlable. En vous rappelant que Ses miséricordes ne sont pas épuisées, votre esprit trouve le refuge parfait pour vous endormir confiant."
+          }
+        },
+        {
+          "id": "cuidado_invisible",
+          "label": {
+            "es": "Cuidado invisible",
+            "en": "Unseen protection",
+            "pt": "Cuidado invisível",
+            "fr": "Soin invisible"
+          },
+          "responseTitle": {
+            "es": "Dios veló por ti en cada instante",
+            "en": "God watched over you at every moment",
+            "pt": "Deus cuidou de você em cada instante",
+            "fr": "Dieu a veillé sur vous à chaque instant"
+          },
+          "responseText": {
+            "es": "Muchas de las mayores bendiciones del día ocurrieron en silencio, guardándote de peligros que ni siquiera llegaste a notar.",
+            "en": "Many of the day's greatest blessings happened quietly, keeping you safe from troubles you never even noticed.",
+            "pt": "Muitas das maiores bênçãos do dia aconteceram em silêncio, guardando você de perigos que nem chegou a perceber.",
+            "fr": "Bien des bénédictions de la journée se sont produites en silence, vous préservant de dangers dont vous n'avez même pas eu conscience."
+          },
+          "verses": [
+            "Salmos 121:4"
+          ],
+          "reflectionHeader": {
+            "es": "El Guardián que nunca duerme",
+            "en": "The Guardian who never slumbers",
+            "pt": "O Guardião que nunca dorme",
+            "fr": "Le Gardien qui ne dort jamais"
+          },
+          "reflection": {
+            "es": "Reconocer la protección divina invisible nos llena de profunda gratitud. El Señor no se adormece ni se descuida; mientras tú descansas, Él continúa guardando tu caminar y cuidando tu hogar.",
+            "en": "Recognizing divine invisible protection fills us with deep gratitude. The Lord neither slumbers nor slacks; as you rest, He continues guarding your path and watching over your home.",
+            "pt": "Reconhecer a proteção divina invisível nos enche de profunda gratidão. O Senhor não dorme nem se descuida; enquanto você descansa, Ele continua guardando seus passos e cuidando do seu lar.",
+            "fr": "Reconnaître la protection divine invisible nous remplit d'une profonde gratitude. Le Seigneur ne sommeille ni ne dort ; pendant votre repos, Il continue de veiller sur vos pas et sur votre foyer."
+          }
+        },
+        {
+          "id": "guardar_corazon",
+          "label": {
+            "es": "Guardando el corazón",
+            "en": "Guarding the heart",
+            "pt": "Guardando o coração",
+            "fr": "Garder son cœur"
+          },
+          "responseTitle": {
+            "es": "Protege tu interior con la paz de Cristo",
+            "en": "Protect your heart with the peace of Christ",
+            "pt": "Proteja seu interior com a paz de Cristo",
+            "fr": "Protégez votre cœur avec la paix du Christ"
+          },
+          "responseText": {
+            "es": "Decidir no cargar con ofensas ni amarguras al acostarte libera tu alma para experimentar un sueño restaurador y pleno.",
+            "en": "Choosing not to carry offenses or bitterness to bed frees your soul to experience restorative and wholesome sleep.",
+            "pt": "Decidir não carregar ofensas ou amarguras ao se deitar liberta sua alma para vivenciar um sono restaurador e pleno.",
+            "fr": "Choisir de ne pas porter d'offenses ni d'amertume au lit libère votre âme pour vivre un sommeil restaurateur et paisible."
+          },
+          "verses": [
+            "Proverbios 4:23"
+          ],
+          "reflectionHeader": {
+            "es": "Un corazón limpio para descansar bien",
+            "en": "A clean heart for peaceful rest",
+            "pt": "Um coração limpo para descansar bem",
+            "fr": "Un cœur pur pour bien se reposer"
+          },
+          "reflection": {
+            "es": "El corazón es la fuente de la vida y merece ser resguardado de las fricciones cotidianas. Al perdonar y soltar cualquier roce antes de dormir, permites que el amor de Dios purifique tu interior.",
+            "en": "The heart is the wellspring of life and deserves protection from daily friction. By forgiving and letting go before sleep, you allow God's love to purify your inner world.",
+            "pt": "O coração é a fonte da vida e merece ser resguardado das fricções diárias. Ao perdoar e soltar qualquer atrito antes de dormir, você permite que o amor de Deus purifique seu interior.",
+            "fr": "Le cœur est la source de la vie et mérite d'être protégé des frictions quotidiennes. En pardonnant et en abandonnant tout conflit avant de dormir, vous laissez l'amour de Dieu purifier votre être."
+          }
+        },
+        {
+          "id": "gracia_suficiente",
+          "label": {
+            "es": "Gracia suficiente",
+            "en": "Sufficient grace",
+            "pt": "Graça suficiente",
+            "fr": "Grâce suffisante"
+          },
+          "responseTitle": {
+            "es": "Su poder se perfecciona en tu debilidad",
+            "en": "His power is perfected in weakness",
+            "pt": "O poder dEle se aperfeiçoa na fraqueza",
+            "fr": "Sa puissance s'accomplit dans la faiblesse"
+          },
+          "responseText": {
+            "es": "Aceptar que no podemos con todo no es falta de fe, sino la puerta de entrada para que la gracia divina actúe con fortaleza.",
+            "en": "Accepting that we cannot handle everything is not lack of faith, but the gateway for divine grace to work powerfully.",
+            "pt": "Aceitar que não podemos com tudo não é falta de fé, mas a porta de entrada para que a graça divina atue com fortaleza.",
+            "fr": "Accepter que nous ne pouvons pas tout gérer n'est pas un manque de foi, mais la porte d'entrée pour que la grâce divine agisse."
+          },
+          "verses": [
+            "2 Corintios 12:9"
+          ],
+          "reflectionHeader": {
+            "es": "Suficiencia divina en medio del cansancio",
+            "en": "Divine sufficiency amid tiredness",
+            "pt": "Suficiência divina em meio ao cansaço",
+            "fr": "Suffisance divine au cœur de la fatigue"
+          },
+          "reflection": {
+            "es": "No necesitas terminar el día siendo invencible; basta con saber que Dios te sostiene. Tu cansancio físico es el espacio perfecto para descansar en Su gracia y reponer tus fuerzas para mañana.",
+            "en": "You don't need to finish the day being invincible; it is enough to know God holds you. Your physical exhaustion is the ideal space to lean on His grace and restore your strength.",
+            "pt": "Você não precisa terminar o dia sendo invencível; basta saber que Deus o sustenta. Seu cansaço físico é o espaço perfeito para descansar na graça dEle e renovar suas forças para o amanhã.",
+            "fr": "Vous n'avez pas besoin de finir la journée en étant invincible ; il suffit de savoir que Dieu vous porte. Votre fatigue physique est l'espace parfait pour vous reposer dans Sa grâce."
+          }
+        },
+        {
+          "id": "pausa_reposo",
+          "label": {
+            "es": "Reposo sin prisa",
+            "en": "Rest without rush",
+            "pt": "Repouso sem pressa",
+            "fr": "Repos sans hâte"
+          },
+          "responseTitle": {
+            "es": "En la quietud y la confianza está tu fuerza",
+            "en": "In quietness and trust is your strength",
+            "pt": "Na quietude e na confiança está sua força",
+            "fr": "Dans le calme et la confiance est votre force"
+          },
+          "responseText": {
+            "es": "Apagar el ruido exterior al terminar el día te permite escuchar la voz apacible de Dios invitándote a descansar en calma.",
+            "en": "Shutting off external noise at day's end lets you hear God's gentle whisper inviting you into calm rest.",
+            "pt": "Desligar o ruído exterior ao terminar o dia permite ouvir a voz suave de Deus convidando você a descansar em calma.",
+            "fr": "Éteindre le bruit extérieur en fin de journée vous permet d'entendre le murmure doux de Dieu vous invitant au repos."
+          },
+          "verses": [
+            "Isaías 30:15"
+          ],
+          "reflectionHeader": {
+            "es": "La tranquilidad como acto de fe",
+            "en": "Quietness as an act of faith",
+            "pt": "A tranqüilidade como ato de fé",
+            "fr": "Le calme comme acte de foi"
+          },
+          "reflection": {
+            "es": "Detener la marcha no es perder tiempo, sino declarar que confías más en el cuidado de Dios que en tus propias prisas. Cierra la noche con la serenidad de quien sabe que está en buenas manos.",
+            "en": "Stopping your stride is not wasting time, but declaring that you trust God's care more than your own hurry. End the night with the serenity of one who knows they are in good hands.",
+            "pt": "Parar a caminhada não é perder tempo, mas declarar que você confia mais no cuidado de Deus do que na sua própria pressa. Feche a noite com a serenidade de quem sabe que está em boas mãos.",
+            "fr": "Arrêter la course n'est pas perdre du temps, c'est déclarer que vous faites plus confiance au soin de Dieu qu'à votre propre hâte. Terminez la nuit dans la sérénité de celui qui se sait bien gardé."
           }
         }
       ]
