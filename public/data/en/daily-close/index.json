@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-08",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -4828,6 +4828,236 @@
             "en": "Stopping your stride is not wasting time, but declaring that you trust God's care more than your own hurry. End the night with the serenity of one who knows they are in good hands.",
             "pt": "Parar a caminhada não é perder tempo, mas declarar que você confia mais no cuidado de Deus do que na sua própria pressa. Feche a noite com a serenidade de quem sabe que está em boas mãos.",
             "fr": "Arrêter la course n'est pas perdre du temps, c'est déclarer que vous faites plus confiance au soin de Dieu qu'à votre propre hâte. Terminez la nuit dans la sérénité de celui qui se sait bien gardé."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿Cómo cultivaste hoy la atención espiritual en medio de tus actividades?",
+        "en": "How did you cultivate spiritual attentiveness amidst your activities today?",
+        "pt": "Como você cultivou a atenção espiritual em meio às suas atividades hoje?",
+        "fr": "Comment as-tu cultivé l'attention spirituelle au milieu de tes activités aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "viendo_lo_ordinario",
+          "label": {
+            "es": "En lo ordinario",
+            "en": "In the ordinary",
+            "pt": "No ordinário",
+            "fr": "Dans l'ordinaire"
+          },
+          "responseTitle": {
+            "es": "Dios en lo común",
+            "en": "God in the common",
+            "pt": "Deus no comum",
+            "fr": "Dieu dans le commun"
+          },
+          "responseText": {
+            "es": "Descubriste que ninguna tarea es pequeña si se hace ante Su mirada.",
+            "en": "You discovered that no task is small if done before His gaze.",
+            "pt": "Você descobriu que nenhuma tarefa é pequena se feita diante do Seu olhar.",
+            "fr": "Tu as découvert qu'aucune tâche n'est petite si elle est faite sous Son regard."
+          },
+          "verses": [
+            "Zacarías 4:10"
+          ],
+          "reflectionHeader": {
+            "es": "El valor de los detalles",
+            "en": "The value of details",
+            "pt": "O valor dos detalhes",
+            "fr": "La valeur des détails"
+          },
+          "reflection": {
+            "es": "A veces buscamos a Dios solo en lo extraordinario y olvidamos que Él camina con nosotros en lo cotidiano. Descansar hoy sabiendo que Él vio cada pequeño acto de fidelidad es un bálsamo para el alma.",
+            "en": "Sometimes we seek God only in the extraordinary and forget that He walks with us in the everyday. Resting today knowing that He saw every small act of faithfulness is a balm for the soul.",
+            "pt": "Às vezes buscamos a Deus apenas no extraordinário e esquecemos que Ele caminha conosco no cotidiano. Descansar hoje sabendo que Ele viu cada pequeno ato de fidelidade é um bálsamo para a alma.",
+            "fr": "Parfois, nous ne cherchons Dieu que dans l'extraordinaire et oublions qu'Il marche avec nous au quotidien. Se reposer aujourd'hui en sachant qu'Il a vu chaque petit acte de fidélité est un baume pour l'âme."
+          }
+        },
+        {
+          "id": "impulso_espiritual",
+          "label": {
+            "es": "Siguiendo impulsos",
+            "en": "Following nudges",
+            "pt": "Seguindo impulsos",
+            "fr": "Suivre les élans"
+          },
+          "responseTitle": {
+            "es": "Sensibilidad al Espíritu",
+            "en": "Sensitivity to the Spirit",
+            "pt": "Sensibilidade ao Espírito",
+            "fr": "Sensibilité à l'Esprit"
+          },
+          "responseText": {
+            "es": "Atender a un impulso de amor o prudencia fue tu forma de adorar.",
+            "en": "Attending to a nudge of love or prudence was your way of worship.",
+            "pt": "Atender a um impulso de amor ou prudência foi sua forma de adoração.",
+            "fr": "Répondre à un élan d'amour ou de prudence a été ta forme d'adoration."
+          },
+          "verses": [
+            "Hechos 16:6"
+          ],
+          "reflectionHeader": {
+            "es": "Un corazón sintonizado",
+            "en": "A tuned heart",
+            "pt": "Um coração sintonizado",
+            "fr": "Un cœur à l'écoute"
+          },
+          "reflection": {
+            "es": "El Espíritu nos habla a menudo en susurros. Al obedecer ese pequeño impulso de llamar a alguien o callar a tiempo, permitiste que el Reino de Dios se manifestara en tu día. Duerme en paz, fuiste Su instrumento.",
+            "en": "The Spirit often speaks to us in whispers. By obeying that small nudge to call someone or be silent in time, you allowed God's Kingdom to manifest in your day. Sleep in peace; you were His instrument.",
+            "pt": "O Espírito muitas vezes nos fala em sussurros. Ao obedecer a esse pequeno impulso de ligar para alguém ou calar-se a tempo, você permitiu que o Reino de Deus se manifestasse em seu dia. Durma em paz; você foi Seu instrumento.",
+            "fr": "L'Esprit nous parle souvent par des murmures. En obéissant à ce petit élan d'appeler quelqu'un ou de te taire à temps, tu as permis au Royaume de Dieu de se manifester dans ta journée. Dors en paix, tu as été Son instrument."
+          }
+        },
+        {
+          "id": "enfoque_divino",
+          "label": {
+            "es": "Enfoque firme",
+            "en": "Firm focus",
+            "pt": "Foco firme",
+            "fr": "Foyer ferme"
+          },
+          "responseTitle": {
+            "es": "Mirada en lo alto",
+            "en": "Eyes set on high",
+            "pt": "Olhar no alto",
+            "fr": "Regard vers le haut"
+          },
+          "responseText": {
+            "es": "Lograste que las distracciones no robaran tu conexión con el Padre.",
+            "en": "You ensured that distractions did not steal your connection with the Father.",
+            "pt": "Você garantiu que as distrações não roubassem sua conexão com o Pai.",
+            "fr": "Tu as veillé à ce que les distractions ne volent pas ta connexion avec le Père."
+          },
+          "verses": [
+            "Hebreos 12:2"
+          ],
+          "reflectionHeader": {
+            "es": "Firmeza en el ruido",
+            "en": "Steadfastness in noise",
+            "pt": "Firmeza no ruído",
+            "fr": "Fermeté dans le bruit"
+          },
+          "reflection": {
+            "es": "Mantener el enfoque en Jesús cuando el mundo demanda atención es una victoria espiritual. Al cerrar los ojos, entrega esas cargas y reconoce que Su paz es tu puerto seguro tras un día de enfoque constante.",
+            "en": "Keeping your focus on Jesus when the world demands attention is a spiritual victory. As you close your eyes, surrender those burdens and recognize that His peace is your safe harbor after a day of constant focus.",
+            "pt": "Manter o foco em Jesus quando o mundo exige atenção é uma vitória espiritual. Ao fechar os olhos, entregue essas cargas e reconheça que Sua paz é o seu porto seguro após um dia de foco constante.",
+            "fr": "Garder les yeux fixés sur Jésus quand le monde réclame ton attention est une victoire spirituelle. En fermant les yeux, remets ces fardeaux et reconnais que Sa paix est ton refuge après une journée de concentration constante."
+          }
+        },
+        {
+          "id": "leccion_cotidiana",
+          "label": {
+            "es": "Aprendizaje vivo",
+            "en": "Living learning",
+            "pt": "Aprendizado vivo",
+            "fr": "Apprentissage vivant"
+          },
+          "responseTitle": {
+            "es": "Sabiduría en el camino",
+            "en": "Wisdom on the way",
+            "pt": "Sabedoria no caminho",
+            "fr": "Sagesse en chemin"
+          },
+          "responseText": {
+            "es": "Viste una enseñanza del Reino en una situación inesperada de hoy.",
+            "en": "You saw a Kingdom teaching in an unexpected situation today.",
+            "pt": "Você viu um ensinamento do Reino em uma situação inesperada hoje.",
+            "fr": "Tu as vu un enseignement du Royaume dans une situation inattendue aujourd'hui."
+          },
+          "verses": [
+            "Proverbios 6:6"
+          ],
+          "reflectionHeader": {
+            "es": "El mundo como parábola",
+            "en": "The world as a parable",
+            "pt": "O mundo como parábola",
+            "fr": "Le monde comme parabole"
+          },
+          "reflection": {
+            "es": "Dios usa lo que nos rodea para enseñarnos verdades eternas. Hoy fuiste un estudiante de Su gracia a través de tus circunstancias. Medita en esa lección mientras descansas en la profundidad de Su sabiduría.",
+            "en": "God uses what surrounds us to teach us eternal truths. Today you were a student of His grace through your circumstances. Meditate on that lesson as you rest in the depth of His wisdom.",
+            "pt": "Deus usa o que nos cerca para nos ensinar verdades eternas. Hoje você foi um aluno de Sua graça através das suas circunstâncias. Medite nessa lição enquanto descansa na profundidade de Sua sabedoria.",
+            "fr": "Dieu utilise ce qui nous entoure pour nous enseigner des vérités éternelles. Aujourd'hui, tu as été un étudiant de Sa grâce à travers tes circonstances. Médite sur cette leçon pendant que tu te reposes dans Sa sagesse."
+          }
+        },
+        {
+          "id": "escucha_activa",
+          "label": {
+            "es": "Escucha activa",
+            "en": "Active listening",
+            "pt": "Escuta ativa",
+            "fr": "Écoute active"
+          },
+          "responseTitle": {
+            "es": "Espacio para Su voz",
+            "en": "Room for His voice",
+            "pt": "Espaço para Sua voz",
+            "fr": "Place pour Sa voix"
+          },
+          "responseText": {
+            "es": "Hiciste una pausa para preguntar: \"¿Qué dices Tú, Señor?\".",
+            "en": "You paused to ask: \"What do You say, Lord?\".",
+            "pt": "Você fez uma pausa para perguntar: \"O que o Senhor diz?\".",
+            "fr": "Tu as fait une pause pour demander : \"Que dis-Tu, Seigneur ?\"."
+          },
+          "verses": [
+            "1 Samuel 3:9"
+          ],
+          "reflectionHeader": {
+            "es": "La quietud que fortalece",
+            "en": "The stillness that strengthens",
+            "pt": "A quietude que fortalece",
+            "fr": "Le calme qui fortifie"
+          },
+          "reflection": {
+            "es": "La verdadera guía nace de un corazón que sabe callar. Al darle espacio a Su voz hoy, permitiste que tu camino fuera alumbrado. Que este silencio nocturno sea la continuación de esa charla íntima con Dios.",
+            "en": "True guidance is born from a heart that knows how to be silent. By making room for His voice today, you allowed your path to be lit. May this nightly silence be the continuation of that intimate talk with God.",
+            "pt": "A verdadeira orientação nasce de um coração que sabe silenciar. Ao dar espaço para Sua voz hoje, você permitiu que seu caminho fosse iluminado. Que este silêncio noturno seja a continuação dessa conversa íntima com Deus.",
+            "fr": "La véritable direction naît d'un cœur qui sait se taire. En faisant de la place à Sa voix aujourd'hui, tu as permis à ton chemin d'être éclairé. Que ce silence nocturne soit la suite de cet échange intime avec Dieu."
+          }
+        },
+        {
+          "id": "intencion_diaria",
+          "label": {
+            "es": "Rutina intencional",
+            "en": "Intentional routine",
+            "pt": "Rotina intencional",
+            "fr": "Routine intentionnelle"
+          },
+          "responseTitle": {
+            "es": "Consagración del tiempo",
+            "en": "Consecration of time",
+            "pt": "Consagração do tempo",
+            "fr": "Consécration du temps"
+          },
+          "responseText": {
+            "es": "Transformaste tu rutina en una ofrenda de excelencia para Él.",
+            "en": "You transformed your routine into an offering of excellence to Him.",
+            "pt": "Você transformou sua rotina em uma oferta de excelência para Ele.",
+            "fr": "Tu as transformé ta routine en une offrande d'excellence pour Lui."
+          },
+          "verses": [
+            "Colosenses 3:23"
+          ],
+          "reflectionHeader": {
+            "es": "Santidad en el quehacer",
+            "en": "Holiness in doing",
+            "pt": "Santidade no fazer",
+            "fr": "Sainteté dans l'action"
+          },
+          "reflection": {
+            "es": "Servir a Dios no solo ocurre en un altar, sino en cada compromiso cumplido con integridad. Tu esfuerzo de hoy es una semilla que dará fruto eterno. Descansa, pues tu labor ha sido para el Rey de Reyes.",
+            "en": "Serving God doesn't just happen at an altar, but in every commitment fulfilled with integrity. Your effort today is a seed that will bear eternal fruit. Rest, for your labor has been for the King of Kings.",
+            "pt": "Servir a Deus não acontece apenas em um altar, mas em cada compromisso cumprido com integridade. Seu esforço de hoje é uma semente que dará frutos eternos. Descanse, pois seu trabalho foi para o Rei dos Reis.",
+            "fr": "Servir Dieu ne se passe pas seulement à un autel, mais dans chaque engagement accompli avec intégrité. Ton effort d'aujourd'hui est une semence qui portera un fruit éternel. Repose-toi, car ton travail a été pour le Roi des Rois."
           }
         }
       ]
