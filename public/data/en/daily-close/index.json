@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08",
+  "updatedAt": "2026-10-09",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -5058,6 +5058,236 @@
             "en": "Serving God doesn't just happen at an altar, but in every commitment fulfilled with integrity. Your effort today is a seed that will bear eternal fruit. Rest, for your labor has been for the King of Kings.",
             "pt": "Servir a Deus não acontece apenas em um altar, mas em cada compromisso cumprido com integridade. Seu esforço de hoje é uma semente que dará frutos eternos. Descanse, pois seu trabalho foi para o Rei dos Reis.",
             "fr": "Servir Dieu ne se passe pas seulement à un autel, mais dans chaque engagement accompli avec intégrité. Ton effort d'aujourd'hui est une semence qui portera un fruit éternel. Repose-toi, car ton travail a été pour le Roi des Rois."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué forma honraste a Dios a través de tus ocupaciones o tareas hoy?",
+        "en": "In what way did you honor God through your occupations or tasks today?",
+        "pt": "De que forma você honrou a Deus por meio de suas ocupações ou tarefas hoje?",
+        "fr": "De quelle manière as-tu honoré Dieu à travers tes occupations ou tes tâches aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "honor_excelencia",
+          "label": {
+            "es": "Gloria en lo hecho",
+            "en": "Glory in deeds",
+            "pt": "Glória no agir",
+            "fr": "Gloire en l'action"
+          },
+          "responseTitle": {
+            "es": "Hacerlo para Dios",
+            "en": "Doing it for God",
+            "pt": "Fazendo para Deus",
+            "fr": "Le faire pour Dieu"
+          },
+          "responseText": {
+            "es": "Has buscado que cada detalle de tu labor sea una ofrenda de excelencia para el Señor.",
+            "en": "You have sought to make every detail of your work an offering of excellence to the Lord.",
+            "pt": "Você buscou fazer com que cada detalhe do seu trabalho fosse uma oferta de excelência ao Senhor.",
+            "fr": "Tu as cherché à ce que chaque détail de ton travail soit une offrande d'excellence au Seigneur."
+          },
+          "verses": [
+            "1 Corintios 10:31"
+          ],
+          "reflectionHeader": {
+            "es": "El altar de tu trabajo",
+            "en": "The altar of your work",
+            "pt": "O altar do seu trabalho",
+            "fr": "L'autel de ton travail"
+          },
+          "reflection": {
+            "es": "Tu trabajo diario no es solo una obligación, sino un espacio sagrado donde tu esfuerzo testifica de la grandeza de Dios. Al cerrar el día, entrega tus logros como un sacrificio vivo.",
+            "en": "Your daily work is not just an obligation, but a sacred space where your effort testifies to God's greatness. As the day ends, surrender your achievements as a living sacrifice.",
+            "pt": "Seu trabalho diário não é apenas uma obrigação, mas um espaço sagrado onde seu esforço testemunha a grandeza de Deus. Ao encerrar o dia, entregue suas conquistas como um sacrifício vivo.",
+            "fr": "Ton travail quotidien n'est pas seulement une obligation, mais un espace sacré où ton effort témoigne de la grandeur de Dieu. En terminant la journée, offre tes réussites comme un sacrifice vivant."
+          }
+        },
+        {
+          "id": "honor_servicio",
+          "label": {
+            "es": "Servicio al otro",
+            "en": "Service to others",
+            "pt": "Serviço ao próximo",
+            "fr": "Service d'autrui"
+          },
+          "responseTitle": {
+            "es": "Manos dispuestas",
+            "en": "Willing hands",
+            "pt": "Mãos dispostas",
+            "fr": "Mains disposées"
+          },
+          "responseText": {
+            "es": "Entendiste que tu posición es una oportunidad para servir a quienes te rodean con humildad.",
+            "en": "You understood that your position is an opportunity to serve those around you with humility.",
+            "pt": "Você entendeu que sua posição é uma oportunidade para servir aos que o rodeiam com humildade.",
+            "fr": "Tu as compris que ta position est une opportunité de servir ceux qui t'entourent avec humilité."
+          },
+          "verses": [
+            "1 Pedro 4:10"
+          ],
+          "reflectionHeader": {
+            "es": "Reflejando el amor práctico",
+            "en": "Reflecting practical love",
+            "pt": "Refletindo o amor prático",
+            "fr": "Refléter l'amour pratique"
+          },
+          "reflection": {
+            "es": "Servir a los demás en las tareas cotidianas es la forma más alta de liderazgo cristiano. Hoy has sido las manos de Jesús para alguien más, cumpliendo con el propósito de los dones que Él te dio.",
+            "en": "Serving others in daily tasks is the highest form of Christian leadership. Today you have been the hands of Jesus for someone else, fulfilling the purpose of the gifts He gave you.",
+            "pt": "Servir aos outros nas tarefas cotidianas é a forma mais elevada de liderança cristã. Hoje você foi as mãos de Jesus para alguém, cumprindo o propósito dos dons que Ele lhe deu.",
+            "fr": "Servir les autres dans les tâches quotidiennes est la forme la plus élevée de leadership chrétien. Aujourd'hui, tu as été les mains de Jésus pour quelqu'un d'autre, accomplissant le but des dons qu'Il t'a donnés."
+          }
+        },
+        {
+          "id": "honor_integridad",
+          "label": {
+            "es": "Integridad real",
+            "en": "Real integrity",
+            "pt": "Integridade real",
+            "fr": "Intégrité réelle"
+          },
+          "responseTitle": {
+            "es": "Honestidad pura",
+            "en": "Pure honesty",
+            "pt": "Honestidade pura",
+            "fr": "Honnêteté pure"
+          },
+          "responseText": {
+            "es": "Elegiste actuar con verdad y rectitud, incluso en los detalles que nadie más nota.",
+            "en": "You chose to act with truth and righteousness, even in the details that no one else notices.",
+            "pt": "Você escolheu agir com verdade e retidão, mesmo nos detalhes que ninguém mais nota.",
+            "fr": "Tu as choisi d'agir avec vérité et droiture, même dans les détails que personne d'autre ne remarque."
+          },
+          "verses": [
+            "Proverbios 10:9"
+          ],
+          "reflectionHeader": {
+            "es": "La paz de la conciencia",
+            "en": "The peace of conscience",
+            "pt": "A paz da consciência",
+            "fr": "La paix de la conscience"
+          },
+          "reflection": {
+            "es": "La integridad es el cimiento de la confianza. Al actuar con honestidad hoy, has honrado el nombre de Cristo y has construido un camino seguro para tu corazón. Descansa sabiendo que caminas en luz.",
+            "en": "Integrity is the foundation of trust. By acting with honesty today, you have honored the name of Christ and built a secure path for your heart. Rest knowing you walk in light.",
+            "pt": "A integridade é o fundamento da confiança. Ao agir com honestidade hoje, você honrou o nome de Cristo e construiu um caminho seguro para o seu coração. Descanse sabendo que você caminha na luz.",
+            "fr": "L'intégrité est le fondement de la confiance. En agissant avec honnêteté aujourd'hui, tu as honoré le nom de Christ et construit un chemin sûr pour ton cœur. Repose-toi en sachant que tu marches dans la lumière."
+          }
+        },
+        {
+          "id": "honor_paciencia",
+          "label": {
+            "es": "Calma paciente",
+            "en": "Patient calm",
+            "pt": "Calma paciente",
+            "fr": "Calme patient"
+          },
+          "responseTitle": {
+            "es": "Firmeza en la espera",
+            "en": "Firmness in waiting",
+            "pt": "Firmeza na espera",
+            "fr": "Fermeté dans l'attente"
+          },
+          "responseText": {
+            "es": "Mantuviste la compostura y la gracia frente a los retrasos o dificultades del día.",
+            "en": "You maintained composure and grace in the face of delays or difficulties of the day.",
+            "pt": "Você manteve a compostura e a graça diante dos atrasos ou dificuldades do dia.",
+            "fr": "Tu as gardé ton calme et ta grâce face aux retards ou aux difficultés de la journée."
+          },
+          "verses": [
+            "Efesios 4:2"
+          ],
+          "reflectionHeader": {
+            "es": "El fruto de la paciencia",
+            "en": "The fruit of patience",
+            "pt": "O fruto da paciência",
+            "fr": "Le fruit de la patience"
+          },
+          "reflection": {
+            "es": "La paciencia es una forma de adoración silenciosa. Al no dejarte llevar por la desesperación, permitiste que el Espíritu Santo gobernara tu carácter. Esa calma es un testimonio poderoso ante el mundo.",
+            "en": "Patience is a form of silent worship. By not letting yourself be carried away by despair, you allowed the Holy Spirit to rule your character. That calm is a powerful testimony to the world.",
+            "pt": "A paciência é uma forma de adoração silenciosa. Ao não se deixar levar pelo desespero, você permitiu que o Espírito Santo governasse seu caráter. Essa calma é um testemunho poderoso perante o mundo.",
+            "fr": "La patience est une forme d'adoration silencieuse. En ne te laissant pas emporter par le désespoir, tu as permis au Saint-Esprit de diriger ton caractère. Ce calme est un témoignage puissant devant le monde."
+          }
+        },
+        {
+          "id": "honor_alegria",
+          "label": {
+            "es": "Corazón gozoso",
+            "en": "Joyful heart",
+            "pt": "Coração alegre",
+            "fr": "Cœur joyeux"
+          },
+          "responseTitle": {
+            "es": "Luz en el ánimo",
+            "en": "Light in spirit",
+            "pt": "Luz no ânimo",
+            "fr": "Lumière dans l'esprit"
+          },
+          "responseText": {
+            "es": "Irradiaste el gozo del Señor, transformando el ambiente de tus responsabilidades hoy.",
+            "en": "You radiated the joy of the Lord, transforming the environment of your responsibilities today.",
+            "pt": "Você irradiou a alegria do Senhor, transformando o ambiente de suas responsabilidades hoje.",
+            "fr": "Tu as rayonné la joie du Seigneur, transformant l'atmosphère de tes responsabilités aujourd'hui."
+          },
+          "verses": [
+            "Salmos 126:3"
+          ],
+          "reflectionHeader": {
+            "es": "El gozo como fortaleza",
+            "en": "Joy as strength",
+            "pt": "A alegria como força",
+            "fr": "La joie comme force"
+          },
+          "reflection": {
+            "es": "Un corazón alegre es medicina para el alma y para quienes te ven trabajar. Hoy, tu gozo no dependió de las circunstancias, sino de Aquel que te sostiene. Esa es la verdadera victoria del espíritu.",
+            "en": "A joyful heart is medicine for the soul and for those who see you work. Today, your joy did not depend on circumstances, but on the One who sustains you. That is the true victory of the spirit.",
+            "pt": "Um coração alegre é remédio para a alma e para quem vê você trabalhar. Hoje, sua alegria não dependeu das circunstâncias, mas Daquele que o sustenta. Essa é a verdadeira vitória do espírito.",
+            "fr": "Un cœur joyeux est un remède pour l'âme et pour ceux qui te voient travailler. Aujourd'hui, ta joie ne dépendait pas des circonstances, mais de Celui qui te soutient. C'est la véritable victoire de l'esprit."
+          }
+        },
+        {
+          "id": "honor_diligencia",
+          "label": {
+            "es": "Esfuerzo enfocado",
+            "en": "Focused effort",
+            "pt": "Esforço focado",
+            "fr": "Effort focalisé"
+          },
+          "responseTitle": {
+            "es": "Manos a la obra",
+            "en": "Work at hand",
+            "pt": "Mãos à obra",
+            "fr": "Mains à l'œuvre"
+          },
+          "responseText": {
+            "es": "Abrazaste la diligencia hoy, aprovechando el tiempo y los recursos como un buen mayordomo.",
+            "en": "You embraced diligence today, making the most of time and resources as a good steward.",
+            "pt": "Você abraçou a diligência hoje, aproveitando o tempo e os recursos como um bom mordomo.",
+            "fr": "Tu as embrassé la diligence aujourd'hui, utilisant le temps et les ressources comme un bon intendant."
+          },
+          "verses": [
+            "Proverbios 22:29"
+          ],
+          "reflectionHeader": {
+            "es": "Una mayordomía fiel",
+            "en": "A faithful stewardship",
+            "pt": "Uma mordomia fiel",
+            "fr": "Une gérance fidèle"
+          },
+          "reflection": {
+            "es": "Dios se complace en la diligencia de Sus hijos. Al usar tu talento con enfoque y disciplina hoy, has demostrado que valoras lo que Él ha puesto en tus manos. Sigue sembrando con esfuerzo; la cosecha vendrá.",
+            "en": "God takes pleasure in the diligence of His children. By using your talent with focus and discipline today, you have shown that you value what He has placed in your hands. Keep sowing with effort; the harvest will come.",
+            "pt": "Deus se agrada da diligência de Seus filhos. Ao usar seu talento com foco e disciplina hoje, você demonstrou que valoriza o que Ele colocou em suas mãos. Continue semeando com esforço; a colheita virá.",
+            "fr": "Dieu prend plaisir à la diligence de Ses enfants. En utilisant ton talent avec concentration et discipline aujourd'hui, tu as montré que tu accordes de la valeur à ce qu'Il a mis entre tes mains. Continue de semer avec effort ; la moisson viendra."
           }
         }
       ]
