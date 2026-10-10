@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-09",
+  "updatedAt": "2026-10-10",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -5288,6 +5288,236 @@
             "en": "God takes pleasure in the diligence of His children. By using your talent with focus and discipline today, you have shown that you value what He has placed in your hands. Keep sowing with effort; the harvest will come.",
             "pt": "Deus se agrada da diligência de Seus filhos. Ao usar seu talento com foco e disciplina hoje, você demonstrou que valoriza o que Ele colocou em suas mãos. Continue semeando com esforço; a colheita virá.",
             "fr": "Dieu prend plaisir à la diligence de Ses enfants. En utilisant ton talent avec concentration et discipline aujourd'hui, tu as montré que tu accordes de la valeur à ce qu'Il a mis entre tes mains. Continue de semer avec effort ; la moisson viendra."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿Cómo respondiste hoy a los desvíos o cambios inesperados en tu camino?",
+        "en": "How did you respond to unexpected detours or changes in your path today?",
+        "pt": "Como você respondeu hoje aos desvios ou mudanças inesperadas em seu caminho?",
+        "fr": "Comment as-tu réagi aujourd'hui aux imprévus ou aux changements de ton parcours ?"
+      },
+      "options": [
+        {
+          "id": "trust_detour",
+          "label": {
+            "es": "Con confianza",
+            "en": "With trust",
+            "pt": "Com confiança",
+            "fr": "Avec confiance"
+          },
+          "responseTitle": {
+            "es": "Dios guía tus pasos",
+            "en": "God guides your steps",
+            "pt": "Deus guia seus passos",
+            "fr": "Dieu guide tes pas"
+          },
+          "responseText": {
+            "es": "Aceptar que no tenemos el control total permite ver la mano de Dios en lo imprevisto.",
+            "en": "Accepting that we are not in total control allows us to see God's hand in the unexpected.",
+            "pt": "Aceitar que não temos o controle total permite ver a mão de Deus no imprevisto.",
+            "fr": "Accepter que nous n'ayons pas le contrôle total permet de voir la main de Dieu dans l'imprévu."
+          },
+          "verses": [
+            "Proverbios 16:9"
+          ],
+          "reflectionHeader": {
+            "es": "El descanso de la soberanía",
+            "en": "Resting in sovereignty",
+            "pt": "O descanso da soberania",
+            "fr": "Le repos de la souveraineté"
+          },
+          "reflection": {
+            "es": "Cuando tus planes cambian, recuerda que los de Dios permanecen firmes. Él conoce el final desde el principio y usa cada curva del camino para tu bien y Su gloria.",
+            "en": "When your plans change, remember that God's plans stand firm. He knows the end from the beginning and uses every curve in the road for your good and His glory.",
+            "pt": "Quando seus planos mudam, lembre-se de que os de Deus permanecem firmes. Ele conhece o fim desde o princípio e usa cada curva do caminho para o seu bem e a glória d'Ele.",
+            "fr": "Lorsque tes projets changent, rappelle-toi que ceux de Dieu demeurent fermes. Il connaît la fin dès le début et utilise chaque tournant de la route pour ton bien et Sa gloire."
+          }
+        },
+        {
+          "id": "patient_waiting",
+          "label": {
+            "es": "Con paciencia",
+            "en": "With patience",
+            "pt": "Com paciência",
+            "fr": "Avec patience"
+          },
+          "responseTitle": {
+            "es": "El valor de la espera",
+            "en": "The value of waiting",
+            "pt": "O valor da espera",
+            "fr": "La valeur de l'attente"
+          },
+          "responseText": {
+            "es": "La paciencia no es solo esperar, es mantener una buena actitud mientras el plan se ajusta.",
+            "en": "Patience is not just waiting; it's maintaining a good attitude while the plan adjusts.",
+            "pt": "A paciência não é apenas esperar, é manter uma boa atitude enquanto o plano se ajusta.",
+            "fr": "La patience n'est pas seulement l'attente, c'est garder une bonne attitude pendant que le plan s'ajuste."
+          },
+          "verses": [
+            "Salmos 40:1"
+          ],
+          "reflectionHeader": {
+            "es": "Fruto en la pausa",
+            "en": "Fruit in the pause",
+            "pt": "Fruto na pausa",
+            "fr": "Du fruit dans la pause"
+          },
+          "reflection": {
+            "es": "Las demoras no son necesariamente negaciones. A menudo, Dios nos detiene para protegernos o para preparar nuestro carácter para lo que Él ha dispuesto más adelante.",
+            "en": "Delays are not necessarily denials. Often, God stops us to protect us or to prepare our character for what He has arranged further ahead.",
+            "pt": "Atrasos não são necessariamente negações. Frequentemente, Deus nos detém para nos proteger ou para preparar nosso caráter para o que Ele dispôs mais adiante.",
+            "fr": "Les retards ne sont pas forcément des refus. Souvent, Dieu nous arrête pour nous protéger ou pour préparer notre caractère à ce qu'Il a prévu plus loin."
+          }
+        },
+        {
+          "id": "divine_appointment",
+          "label": {
+            "es": "Cita divina",
+            "en": "Divine appointment",
+            "pt": "Compromisso divino",
+            "fr": "Rendez-vous divin"
+          },
+          "responseTitle": {
+            "es": "Oportunidades ocultas",
+            "en": "Hidden opportunities",
+            "pt": "Oportunidades ocultas",
+            "fr": "Opportunités cachées"
+          },
+          "responseText": {
+            "es": "Muchas veces, lo que llamamos interrupción es en realidad una invitación de Dios para servir.",
+            "en": "Many times, what we call an interruption is actually an invitation from God to serve.",
+            "pt": "Muitas vezes, o que chamamos de interrupção é, na verdade, um convite de Deus para servir.",
+            "fr": "Bien souvent, ce que nous appelons une interruption est en réalité une invitation de Dieu à servir."
+          },
+          "verses": [
+            "Hechos 16:6"
+          ],
+          "reflectionHeader": {
+            "es": "Atento a Su llamado",
+            "en": "Attentive to His call",
+            "pt": "Atento ao Seu chamado",
+            "fr": "Attentif à Son appel"
+          },
+          "reflection": {
+            "es": "No veas los cambios de planes como estorbos, sino como misiones especiales. Alguien pudo haber necesitado tu luz justo en ese desvío que no tenías previsto hoy.",
+            "en": "Don't see plan changes as hindrances, but as special missions. Someone might have needed your light right in that detour you didn't anticipate today.",
+            "pt": "Não veja as mudanças de planos como obstáculos, mas como missões especiais. Alguém pode ter precisado da sua luz justamente nesse desvio que você não previu hoje.",
+            "fr": "Ne vois pas les changements de programme comme des obstacles, mais comme des missions spéciales. Quelqu'un a pu avoir besoin de ta lumière précisément dans ce détour imprévu."
+          }
+        },
+        {
+          "id": "joy_in_change",
+          "label": {
+            "es": "Con alegría",
+            "en": "With joy",
+            "pt": "Com alegria",
+            "fr": "Avec joie"
+          },
+          "responseTitle": {
+            "es": "Gozo en la incertidumbre",
+            "en": "Joy in uncertainty",
+            "pt": "Gozo na incerteza",
+            "fr": "Joie dans l'incertitude"
+          },
+          "responseText": {
+            "es": "Tu gozo no depende de que todo salga perfecto, sino de quién te acompaña en el trayecto.",
+            "en": "Your joy does not depend on everything going perfectly, but on who accompanies you on the journey.",
+            "pt": "Sua alegria não depende de tudo sair perfeito, mas de quem o acompanha no trajeto.",
+            "fr": "Ta joie ne dépend pas du fait que tout soit parfait, mais de Celui qui t'accompagne sur le chemin."
+          },
+          "verses": [
+            "Santiago 1:2"
+          ],
+          "reflectionHeader": {
+            "es": "Fortaleza inamovible",
+            "en": "Unmovable strength",
+            "pt": "Fortaleza inabalável",
+            "fr": "Force inébranlable"
+          },
+          "reflection": {
+            "es": "El mundo cambia y tus planes también, pero Cristo es el mismo ayer, hoy y siempre. Encuentra tu sonrisa en Su fidelidad constante, incluso cuando el mapa cambie.",
+            "en": "The world changes and so do your plans, but Christ is the same yesterday, today, and forever. Find your smile in His constant faithfulness, even when the map changes.",
+            "pt": "O mundo muda e seus planos também, mas Cristo é o mesmo ontem, hoje e para sempre. Encontre seu sorriso na fidelidade constante d'Ele, mesmo quando o mapa mudar.",
+            "fr": "Le monde change et tes projets aussi, mais Christ est le même hier, aujourd'hui et éternellement. Trouve ton sourire dans Sa fidélité constante, même quand la carte change."
+          }
+        },
+        {
+          "id": "seeking_wisdom",
+          "label": {
+            "es": "Buscando sabiduría",
+            "en": "Seeking wisdom",
+            "pt": "Buscando sabedoria",
+            "fr": "Chercher la sagesse"
+          },
+          "responseTitle": {
+            "es": "Sabiduría para el giro",
+            "en": "Wisdom for the turn",
+            "pt": "Sabedoria para a curva",
+            "fr": "Sagesse pour le virage"
+          },
+          "responseText": {
+            "es": "Ante lo nuevo, pediste dirección y Dios te mostró cómo caminar con prudencia hoy.",
+            "en": "Faced with the new, you asked for direction and God showed you how to walk with prudence today.",
+            "pt": "Diante do novo, você pediu direção e Deus lhe mostrou como caminhar com prudência hoje.",
+            "fr": "Face à la nouveauté, tu as demandé une direction et Dieu t'a montré comment marcher avec prudence aujourd'hui."
+          },
+          "verses": [
+            "Santiago 1:5"
+          ],
+          "reflectionHeader": {
+            "es": "Una lámpara a tus pies",
+            "en": "A lamp to your feet",
+            "pt": "Uma lâmpada para os pés",
+            "fr": "Une lampe à tes pieds"
+          },
+          "reflection": {
+            "es": "La sabiduría divina brilla con más fuerza cuando el mapa conocido desaparece. Sigue confiando en que Él iluminará cada paso siguiente en esta nueva dirección.",
+            "en": "Divine wisdom shines brightest when the familiar map disappears. Keep trusting that He will illuminate every next step in this new direction.",
+            "pt": "A sabedoria divina brilha com mais força quando o mapa conhecido desaparece. Continue confiando que Ele iluminará cada próximo passo nesta nova direção.",
+            "fr": "La sagesse divine brille plus fort lorsque la carte familière disparaît. Continue de croire qu'Il éclairera chaque pas suivant dans cette nouvelle direction."
+          }
+        },
+        {
+          "id": "quiet_acceptance",
+          "label": {
+            "es": "Aceptación en paz",
+            "en": "Peaceful acceptance",
+            "pt": "Aceitação em paz",
+            "fr": "Acceptation sereine"
+          },
+          "responseTitle": {
+            "es": "Paz sobre el caos",
+            "en": "Peace over chaos",
+            "pt": "Paz sobre o caos",
+            "fr": "La paix sur le chaos"
+          },
+          "responseText": {
+            "es": "Decidiste no luchar contra la realidad, sino descansar en la paz que Dios te regala.",
+            "en": "You decided not to fight against reality, but to rest in the peace that God gives you.",
+            "pt": "Você decidiu não lutar contra a realidade, mas descansar na paz que Deus lhe dá.",
+            "fr": "Tu as décidé de ne pas lutter contre la réalité, mais de te reposer dans la paix que Dieu te donne."
+          },
+          "verses": [
+            "Filipenses 4:7"
+          ],
+          "reflectionHeader": {
+            "es": "El refugio de la calma",
+            "en": "The refuge of calm",
+            "pt": "O refúgio da calma",
+            "fr": "Le refuge du calme"
+          },
+          "reflection": {
+            "es": "Soltar las riendas y dejar que Dios conduzca trae un alivio profundo. Tu espíritu descansa mejor cuando confía plenamente en el Conductor perfecto de tu vida.",
+            "en": "Letting go of the reins and letting God lead brings deep relief. Your spirit rests better when it fully trusts the perfect Driver of your life.",
+            "pt": "Soltar as rédeas e deixar Deus conduzir traz um alívio profundo. Seu espírito descansa melhor quando confia plenamente no Condutor perfeito de sua vida.",
+            "fr": "Lâcher les rênes et laisser Dieu conduire apporte un soulagement profond. Ton esprit se repose mieux lorsqu'il fait pleinement confiance au Conducteur parfait de ta vie."
           }
         }
       ]
