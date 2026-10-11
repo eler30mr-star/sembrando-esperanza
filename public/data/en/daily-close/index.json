@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-11",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -5518,6 +5518,236 @@
             "en": "Letting go of the reins and letting God lead brings deep relief. Your spirit rests better when it fully trusts the perfect Driver of your life.",
             "pt": "Soltar as rédeas e deixar Deus conduzir traz um alívio profundo. Seu espírito descansa melhor quando confia plenamente no Condutor perfeito de sua vida.",
             "fr": "Lâcher les rênes et laisser Dieu conduire apporte un soulagement profond. Ton esprit se repose mieux lorsqu'il fait pleinement confiance au Conducteur parfait de ta vie."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera fuiste hoy el 'buen perfume' de Cristo para otros?",
+        "en": "How were you the 'good fragrance' of Christ to others today?",
+        "pt": "De que maneira você foi hoje o 'bom perfume' de Cristo para os outros?",
+        "fr": "De quelle manière as-tu été aujourd'hui le 'bon parfum' de Christ pour les autres ?"
+      },
+      "options": [
+        {
+          "id": "paciencia_mansa",
+          "label": {
+            "es": "Con paciencia",
+            "en": "With patience",
+            "pt": "Com paciência",
+            "fr": "Avec patience"
+          },
+          "responseTitle": {
+            "es": "Reflejaste Su mansedumbre",
+            "en": "You reflected His meekness",
+            "pt": "Você refletiu Sua mansidão",
+            "fr": "Tu as reflété Sa douceur"
+          },
+          "responseText": {
+            "es": "Al elegir la calma sobre la prisa, mostraste el carácter de Jesús a quienes te rodean.",
+            "en": "By choosing calm over haste, you showed Jesus' character to those around you.",
+            "pt": "Ao escolher a calma em vez da pressa, você mostrou o caráter de Jesus aos que o rodeiam.",
+            "fr": "En choisissant le calme plutôt que la précipitation, tu as montré le caractère de Jésus."
+          },
+          "verses": [
+            "Efesios 4:2"
+          ],
+          "reflectionHeader": {
+            "es": "La paz que convence",
+            "en": "Peace that convinces",
+            "pt": "A paz que convence",
+            "fr": "La paix qui convainc"
+          },
+          "reflection": {
+            "es": "Ser paciente no es solo esperar, es mantener una buena actitud mientras lo haces. Hoy, tu templanza fue un testimonio silencioso pero poderoso del Espíritu que habita en ti.",
+            "en": "Being patient isn't just waiting; it's keeping a good attitude while doing so. Today, your temperance was a silent but powerful testimony of the Spirit dwelling within you.",
+            "pt": "Ser paciente não é apenas esperar, é manter uma boa atitude enquanto o faz. Hoje, sua temperança foi um testemunho silencioso, mas poderoso, do Espírito que habita em você.",
+            "fr": "Être patient, ce n'est pas seulement attendre, c'est garder une bonne attitude tout en le faisant. Aujourd'hui, ta tempérance a été un témoignage silencieux mais puissant."
+          }
+        },
+        {
+          "id": "generosidad_viva",
+          "label": {
+            "es": "Dando de mí",
+            "en": "Giving of myself",
+            "pt": "Dando de mim",
+            "fr": "Don de soi"
+          },
+          "responseTitle": {
+            "es": "Tu entrega dio frutos",
+            "en": "Your giving bore fruit",
+            "pt": "Sua entrega deu frutos",
+            "fr": "Ton don a porté ses fruits"
+          },
+          "responseText": {
+            "es": "Compartir tu tiempo o recursos es sembrar el amor del Padre en tierra fértil.",
+            "en": "Sharing your time or resources is sowing the Father's love in fertile ground.",
+            "pt": "Compartilhar seu tempo ou recursos é semear o amor do Pai em terra fértil.",
+            "fr": "Partager ton temps ou tes ressources, c'est semer l'amour du Père en terre fertile."
+          },
+          "verses": [
+            "2 Corintios 9:7"
+          ],
+          "reflectionHeader": {
+            "es": "El gozo del dador",
+            "en": "The giver's joy",
+            "pt": "A alegria de quem dá",
+            "fr": "La joie de donner"
+          },
+          "reflection": {
+            "es": "Dios ama al dador alegre porque el acto de dar rompe el egoísmo. Al bendecir a alguien más hoy, permitiste que la luz de Dios brillara a través de tu desprendimiento.",
+            "en": "God loves a cheerful giver because the act of giving breaks selfishness. By blessing someone else today, you allowed God's light to shine through your selflessness.",
+            "pt": "Deus ama quem dá com alegria porque o ato de dar rompe o egoísmo. Ao abençoar alguém hoje, você permitiu que a luz de Deus brilhasse através do seu desprendimento.",
+            "fr": "Dieu aime celui qui donne avec joie car l'acte de donner brise l'égoïsme. En bénissant quelqu'un aujourd'hui, tu as laissé la lumière de Dieu briller à travers toi."
+          }
+        },
+        {
+          "id": "palabras_dulces",
+          "label": {
+            "es": "Palabras dulces",
+            "en": "Sweet words",
+            "pt": "Palavras doces",
+            "fr": "Paroles douces"
+          },
+          "responseTitle": {
+            "es": "Sanaste con tu hablar",
+            "en": "You healed with your speech",
+            "pt": "Você curou com sua fala",
+            "fr": "Tu as guéri par tes mots"
+          },
+          "responseText": {
+            "es": "Tus palabras de aliento fueron hoy un bálsamo para un corazón cansado.",
+            "en": "Your words of encouragement were a balm today for a weary heart.",
+            "pt": "Suas palavras de encorajamento foram hoje um bálsamo para um coração cansado.",
+            "fr": "Tes paroles d'encouragement ont été aujourd'hui un baume pour un cœur fatigué."
+          },
+          "verses": [
+            "Proverbios 16:24"
+          ],
+          "reflectionHeader": {
+            "es": "Medicina para el alma",
+            "en": "Medicine for the soul",
+            "pt": "Remédio para a alma",
+            "fr": "Remède pour l'âme"
+          },
+          "reflection": {
+            "es": "Una palabra amable puede cambiar el rumbo del día de alguien. Al hablar con gracia, imitaste al Maestro, cuyas palabras siempre traían vida y esperanza.",
+            "en": "A kind word can change the course of someone's day. By speaking with grace, you imitated the Master, whose words always brought life and hope.",
+            "pt": "Uma palavra gentil pode mudar o rumo do dia de alguém. Ao falar com graça, você imitou o Mestre, cujas palavras sempre traziam vida e esperança.",
+            "fr": "Une parole aimable peut changer le cours de la journée de quelqu'un. En parlant avec grâce, tu as imité le Maître, dont les paroles apportaient vie et espoir."
+          }
+        },
+        {
+          "id": "humildad_real",
+          "label": {
+            "es": "Con humildad",
+            "en": "With humility",
+            "pt": "Com humildade",
+            "fr": "Avec humilité"
+          },
+          "responseTitle": {
+            "es": "Serviste con sencillez",
+            "en": "You served with simplicity",
+            "pt": "Você serviu com simplicidade",
+            "fr": "Tu as servi simplement"
+          },
+          "responseText": {
+            "es": "Al poner las necesidades de otros antes que las tuyas, honraste el ejemplo de Cristo.",
+            "en": "By putting others' needs before your own, you honored Christ's example.",
+            "pt": "Ao colocar as necessidades dos outros antes das suas, você honrou o exemplo de Cristo.",
+            "fr": "En faisant passer les besoins des autres avant les tiens, tu as honoré l'exemple du Christ."
+          },
+          "verses": [
+            "Filipenses 2:3"
+          ],
+          "reflectionHeader": {
+            "es": "Grandeza en el servicio",
+            "en": "Greatness in service",
+            "pt": "Grandeza no serviço",
+            "fr": "Grandeur du service"
+          },
+          "reflection": {
+            "es": "La verdadera humildad no es pensar menos de ti, sino pensar menos en ti mismo. Hoy serviste de corazón, y ese es el aroma más grato ante el trono de Dios.",
+            "en": "True humility is not thinking less of yourself, but thinking of yourself less. Today you served from the heart, and that is the most pleasing fragrance before God's throne.",
+            "pt": "A verdadeira humildade não é pensar menos de si, mas pensar menos em si mesmo. Hoje você serviu de coração, e esse é o aroma mais agradável diante do trono de Deus.",
+            "fr": "La vraie humilité n'est pas de penser moins de soi, mais de moins penser à soi. Tu as servi avec cœur, et c'est le parfum le plus agréable devant Dieu."
+          }
+        },
+        {
+          "id": "valentia_fiel",
+          "label": {
+            "es": "Con valentía",
+            "en": "With courage",
+            "pt": "Com coragem",
+            "fr": "Avec courage"
+          },
+          "responseTitle": {
+            "es": "Actuaste con fe firme",
+            "en": "You acted with firm faith",
+            "pt": "Você agiu com fé firme",
+            "fr": "Tu as agi avec foi"
+          },
+          "responseText": {
+            "es": " Defender lo correcto con amor es una forma poderosa de esparcir la luz de la verdad.",
+            "en": "Standing up for what is right with love is a powerful way to spread the light of truth.",
+            "pt": "Defender o que é certo com amor é uma forma poderosa de espalhar a luz da verdade.",
+            "fr": "Défendre ce qui est juste avec amour est un moyen puissant de répandre la lumière."
+          },
+          "verses": [
+            "Josué 1:9"
+          ],
+          "reflectionHeader": {
+            "es": "Fuerza en Su nombre",
+            "en": "Strength in His name",
+            "pt": "Força em Seu nome",
+            "fr": "La force en Son nom"
+          },
+          "reflection": {
+            "es": "Tu valentía para vivir según tus valores cristianos hoy inspiró a quienes te observaban. No temas, porque Dios camina contigo en cada paso de obediencia.",
+            "en": "Your courage to live according to your Christian values today inspired those watching you. Do not fear, for God walks with you in every step of obedience.",
+            "pt": "Sua coragem de viver de acordo com seus valores cristãos hoje inspirou quem o observava. Não tema, pois Deus caminha com você em cada passo de obediência.",
+            "fr": "Ton courage de vivre selon tes valeurs chrétiennes a inspiré ceux qui t'observaient. Ne crains rien, car Dieu marche avec toi à chaque étape."
+          }
+        },
+        {
+          "id": "gratitud_plena",
+          "label": {
+            "es": "Con gratitud",
+            "en": "With gratitude",
+            "pt": "Com gratidão",
+            "fr": "Avec gratitude"
+          },
+          "responseTitle": {
+            "es": "Tu corazón rebosó paz",
+            "en": "Your heart overflowed peace",
+            "pt": "Seu coração transbordou paz",
+            "fr": "Ton cœur a débordé de paix"
+          },
+          "responseText": {
+            "es": "Un espíritu agradecido es contagioso y revela la satisfacción que solo Dios puede dar.",
+            "en": "A grateful spirit is contagious and reveals the satisfaction that only God can give.",
+            "pt": "Um espírito grato é contagioso e revela a satisfação que só Deus pode dar.",
+            "fr": "Un esprit reconnaissant est contagieux et révèle la satisfaction que seul Dieu peut donner."
+          },
+          "verses": [
+            "Colosenses 3:15"
+          ],
+          "reflectionHeader": {
+            "es": "El imán de la gracia",
+            "en": "The magnet of grace",
+            "pt": "O ímã da graça",
+            "fr": "L'aimant de la grâce"
+          },
+          "reflection": {
+            "es": "Vivir en gratitud transforma tu perspectiva y la de los demás. Hoy, al reconocer las bendiciones de Dios, invitaste a otros a mirar hacia el cielo junto contigo.",
+            "en": "Living in gratitude transforms your perspective and that of others. Today, by recognizing God's blessings, you invited others to look heavenward along with you.",
+            "pt": "Viver em gratidão transforma sua perspectiva e a dos outros. Hoje, ao reconhecer as bênçãos de Deus, você convidou outros a olharem para o céu junto com você.",
+            "fr": "Vivre dans la gratitude transforme ta perspective et celle des autres. En reconnaissant les bienfaits de Dieu, tu as invité les autres à regarder vers le ciel."
           }
         }
       ]
