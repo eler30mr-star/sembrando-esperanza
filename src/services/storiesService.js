@@ -8,7 +8,7 @@ async function fetchPublishedJson(path) {
     const relative = String(path || '').replace(/^\/data\//, '');
     if (!/^(es|en|pt|fr)\/(stories\.json|stories\/[a-z0-9-]+\.json)$/.test(relative)) return null;
     const response = await fetch(`${base}/${relative}?v=${Date.now()}`, { cache: 'no-store' });
-    return response.ok ? response.json() : null;
+    return response.ok ? await response.json() : null;
   } catch (error) {
     console.error('No se pudo leer el JSON público de historias.', error);
     return null;

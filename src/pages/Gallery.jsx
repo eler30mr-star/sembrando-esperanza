@@ -99,12 +99,12 @@ export default function Gallery() {
                 <button className="content-card managed-album-card" type="button" key={album.id}
                   onClick={() => setActiveAlbumId(album.id)}>
                   {album.image && <img src={album.image} alt="" loading="lazy" />}
-                  <span className="content-card-body">
+                  <div className="content-card-body">
                     {album.category && <span className="card-meta">{album.category}</span>}
                     <h3>{album.title}</h3>
                     <p>{album.description}</p>
                     <span className="card-action">{album.count} {album.count === 1 ? 'imagen' : 'imágenes'} · Abrir álbum</span>
-                  </span>
+                  </div>
                 </button>
               ))}
             </div>
