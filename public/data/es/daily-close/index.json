@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11",
+  "updatedAt": "2026-10-12",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -5748,6 +5748,236 @@
             "en": "Living in gratitude transforms your perspective and that of others. Today, by recognizing God's blessings, you invited others to look heavenward along with you.",
             "pt": "Viver em gratidão transforma sua perspectiva e a dos outros. Hoje, ao reconhecer as bênçãos de Deus, você convidou outros a olharem para o céu junto com você.",
             "fr": "Vivre dans la gratitude transforme ta perspective et celle des autres. En reconnaissant les bienfaits de Dieu, tu as invité les autres à regarder vers le ciel."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿Cómo abrazaste hoy el regalo del presente que Dios te entregó?",
+        "en": "How did you embrace the gift of the present moment God gave you today?",
+        "pt": "Como você abraçou hoje o presente do agora que Deus lhe entregou?",
+        "fr": "Comment as-tu accueilli aujourd'hui le cadeau du moment présent que Dieu t'a offert ?"
+      },
+      "options": [
+        {
+          "id": "vivir_sin_prisa",
+          "label": {
+            "es": "Sin prisas",
+            "en": "Unhurried",
+            "pt": "Sem pressa",
+            "fr": "Sans hâte"
+          },
+          "responseTitle": {
+            "es": "La paz de no correr",
+            "en": "The peace of not rushing",
+            "pt": "A paz de não correr",
+            "fr": "La paix de ne pas courir"
+          },
+          "responseText": {
+            "es": "Hoy decidiste que tu corazón no fuera más rápido que los pasos de Dios, disfrutando cada minuto.",
+            "en": "Today you decided not to let your heart race ahead of God's steps, enjoying every minute.",
+            "pt": "Hoje você decidiu que seu coração não correria mais rápido que os passos de Deus, aproveitando cada minuto.",
+            "fr": "Aujourd'hui, tu as décidé que ton cœur n'irait pas plus vite que les pas de Dieu, savourant chaque minute."
+          },
+          "verses": [
+            "Salmos 46:10"
+          ],
+          "reflectionHeader": {
+            "es": "El ritmo de la gracia",
+            "en": "The rhythm of grace",
+            "pt": "O ritmo da graça",
+            "fr": "Le rythme de la grâce"
+          },
+          "reflection": {
+            "es": "Dios no habita en el estrés del mañana, sino en la quietud del ahora. Al soltar la prisa, permites que Su paz gobierne tu jornada.",
+            "en": "God does not dwell in the stress of tomorrow, but in the stillness of now. By letting go of hurry, you allow His peace to rule your day.",
+            "pt": "Deus não habita no estresse do amanhã, mas na quietude do agora. Ao deixar de lado a pressa, você permite que a paz d'Ele governe o seu dia.",
+            "fr": "Dieu n'habite pas dans le stress de demain, mais dans le calme de l'instant. En abandonnant la hâte, tu permets à Sa paix de diriger ta journée."
+          }
+        },
+        {
+          "id": "detalles_pequenos",
+          "label": {
+            "es": "Pequeños detalles",
+            "en": "Small details",
+            "pt": "Pequenos detalhes",
+            "fr": "Petits détails"
+          },
+          "responseTitle": {
+            "es": "Dios en lo mínimo",
+            "en": "God in the smallest things",
+            "pt": "Deus no mínimo",
+            "fr": "Dieu dans l'infime"
+          },
+          "responseText": {
+            "es": "Notaste Su mano en una flor, un rayo de sol o un gesto sencillo, reconociendo Su cuidado constante.",
+            "en": "You noticed His hand in a flower, a sunbeam, or a simple gesture, recognizing His constant care.",
+            "pt": "Você notou a mão d'Ele em uma flor, um raio de sol ou um gesto simples, reconhecendo Seu cuidado constante.",
+            "fr": "Tu as remarqué Sa main dans une fleur, un rayon de soleil ou un geste simple, reconnaissant Son soin constant."
+          },
+          "verses": [
+            "Lucas 12:27"
+          ],
+          "reflectionHeader": {
+            "es": "Ojos para ver",
+            "en": "Eyes to see",
+            "pt": "Olhos para ver",
+            "fr": "Des yeux pour voir"
+          },
+          "reflection": {
+            "es": "La creación entera susurra la gloria de Dios. Detenerse a mirar lo pequeño es un acto de adoración que nos conecta con el Creador.",
+            "en": "All of creation whispers God's glory. Stopping to look at the small things is an act of worship that connects us to the Creator.",
+            "pt": "Toda a criação sussurra a glória de Deus. Parar para olhar as pequenas coisas é um ato de adoração que nos conecta ao Criador.",
+            "fr": "La création tout entière murmure la gloire de Dieu. S'arrêter pour regarder l'infime est un acte d'adoration qui nous lie au Créateur."
+          }
+        },
+        {
+          "id": "presencia_plena",
+          "label": {
+            "es": "Estar presente",
+            "en": "Being present",
+            "pt": "Estar presente",
+            "fr": "Être présent"
+          },
+          "responseTitle": {
+            "es": "Tu tiempo es amor",
+            "en": "Your time is love",
+            "pt": "Seu tempo é amor",
+            "fr": "Ton temps est amour"
+          },
+          "responseText": {
+            "es": "Diste toda tu atención a alguien hoy, reflejando el interés personal que Dios tiene por nosotros.",
+            "en": "You gave someone your full attention today, reflecting the personal interest God has for us.",
+            "pt": "Você deu toda a sua atenção a alguém hoje, refletindo o interesse pessoal que Deus tem por nós.",
+            "fr": "Tu as accordé toute ton attention à quelqu'un aujourd'hui, reflétant l'intérêt personnel que Dieu nous porte."
+          },
+          "verses": [
+            "Romanos 12:15"
+          ],
+          "reflectionHeader": {
+            "es": "Conexión intencional",
+            "en": "Intentional connection",
+            "pt": "Conexão intencional",
+            "fr": "Connexion intentionnelle"
+          },
+          "reflection": {
+            "es": "Estar presente para los demás es una de las formas más altas de misericordia. Escuchar y acompañar es dejar que Cristo ame a través de ti.",
+            "en": "Being present for others is one of the highest forms of mercy. Listening and accompanying is letting Christ love through you.",
+            "pt": "Estar presente para os outros é uma das formas mais elevadas de misericórdia. Ouvir e acompanhar é deixar Cristo amar através de você.",
+            "fr": "Être présent pour les autres est l'une des plus hautes formes de miséricorde. Écouter et accompagner, c'est laisser le Christ aimer à travers toi."
+          }
+        },
+        {
+          "id": "gozo_en_lo_simple",
+          "label": {
+            "es": "Gozo simple",
+            "en": "Simple joy",
+            "pt": "Gozo simples",
+            "fr": "Joie simple"
+          },
+          "responseTitle": {
+            "es": "Belleza en lo común",
+            "en": "Beauty in the common",
+            "pt": "Beleza no comum",
+            "fr": "Beauté dans l'ordinaire"
+          },
+          "responseText": {
+            "es": "Encontraste satisfacción en tus tareas cotidianas, entendiendo que todo trabajo puede ser para Su gloria.",
+            "en": "You found satisfaction in your daily tasks, understanding that all work can be for His glory.",
+            "pt": "Você encontrou satisfação em suas tarefas diárias, entendendo que todo trabalho pode ser para a glória d'Ele.",
+            "fr": "Tu as trouvé de la satisfaction dans tes tâches quotidiennes, comprenant que tout travail peut être fait pour Sa gloire."
+          },
+          "verses": [
+            "Eclesiastés 3:13"
+          ],
+          "reflectionHeader": {
+            "es": "Un regalo cotidiano",
+            "en": "A daily gift",
+            "pt": "Um presente cotidiano",
+            "fr": "Un cadeau quotidien"
+          },
+          "reflection": {
+            "es": "Incluso en la rutina, hay bendiciones escondidas. Disfrutar del fruto de tu esfuerzo es un don que Dios te concede para hoy.",
+            "en": "Even in routine, there are hidden blessings. Enjoying the fruit of your labor is a gift God grants you for today.",
+            "pt": "Mesmo na rotina, existem bênçãos escondidas. Desfrutar do fruto do seu esforço é um dom que Deus lhe concede hoje.",
+            "fr": "Même dans la routine, il y a des bénédictions cachées. Profiter du fruit de ton travail est un don que Dieu t'accorde pour aujourd'hui."
+          }
+        },
+        {
+          "id": "asombro_divino",
+          "label": {
+            "es": "Asombro",
+            "en": "Awe",
+            "pt": "Espanto",
+            "fr": "Émerveillement"
+          },
+          "responseTitle": {
+            "es": "El rastro del Creador",
+            "en": "The Creator's footprint",
+            "pt": "O rastro do Criador",
+            "fr": "La trace du Créateur"
+          },
+          "responseText": {
+            "es": "Te detuviste a contemplar la grandeza de Dios y te sentiste pequeño pero profundamente amado.",
+            "en": "You stopped to contemplate God's greatness and felt small yet deeply loved.",
+            "pt": "Você parou para contemplar a grandeza de Deus e sentiu-se pequeno, mas profundamente amado.",
+            "fr": "Tu t'es arrêté pour contempler la grandeur de Dieu et tu t'es senti petit mais profondément aimé."
+          },
+          "verses": [
+            "Salmos 8:3"
+          ],
+          "reflectionHeader": {
+            "es": "El eco de Su voz",
+            "en": "The echo of His voice",
+            "pt": "O eco da Sua voz",
+            "fr": "L'écho de Sa voix"
+          },
+          "reflection": {
+            "es": "El asombro nos mantiene humildes y expectantes. Al reconocer Su majestad en el ahora, nuestra fe se fortalece para el mañana.",
+            "en": "Awe keeps us humble and expectant. By recognizing His majesty in the now, our faith is strengthened for tomorrow.",
+            "pt": "O espanto nos mantém humildes e expectantes. Ao reconhecer Sua majestade no agora, nossa fé se fortalece para o amanhã.",
+            "fr": "L'émerveillement nous garde humbles et dans l'attente. En reconnaissant Sa majesté dans l'instant, notre foi se fortifie pour demain."
+          }
+        },
+        {
+          "id": "descanso_en_su_tiempo",
+          "label": {
+            "es": "Su tiempo",
+            "en": "His timing",
+            "pt": "O tempo d'Ele",
+            "fr": "Son temps"
+          },
+          "responseTitle": {
+            "es": "Confianza en el ahora",
+            "en": "Trust in the now",
+            "pt": "Confiança no agora",
+            "fr": "Confiance dans le présent"
+          },
+          "responseText": {
+            "es": "Aceptaste que cada cosa tiene su momento, descansando en que Dios tiene el control de tu historia.",
+            "en": "You accepted that everything has its moment, resting in the fact that God is in control of your story.",
+            "pt": "Você aceitou que cada coisa tem seu momento, descansando no fato de que Deus tem o controle da sua história.",
+            "fr": "Tu as accepté que chaque chose a son moment, te reposant sur le fait que Dieu contrôle ton histoire."
+          },
+          "verses": [
+            "Eclesiastés 3:11"
+          ],
+          "reflectionHeader": {
+            "es": "Paciencia bendita",
+            "en": "Blessed patience",
+            "pt": "Paciência bendita",
+            "fr": "Bénite patience"
+          },
+          "reflection": {
+            "es": "Dios hace todo hermoso a su tiempo. Abrazar el presente es confiar en que lo que vives hoy es parte de Su plan perfecto y eterno.",
+            "en": "God makes everything beautiful in His time. Embracing the present is trusting that what you experience today is part of His perfect and eternal plan.",
+            "pt": "Deus faz tudo formoso no Seu tempo. Abraçar o presente é confiar que o que você vive hoje faz parte do plano perfeito e eterno d'Ele.",
+            "fr": "Dieu fait toute chose belle en son temps. Embrasser le présent, c'est avoir confiance que ce que tu vis aujourd'hui fait partie de Son plan parfait et éternel."
           }
         }
       ]
