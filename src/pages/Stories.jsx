@@ -36,7 +36,7 @@ function StoryCard({ story }) {
   return (
     <Link className="story-cover-card" to={`/historias/${story.slug}`}>
       <div className="story-cover-image">
-        <img src={story.image} alt={story.title} loading="lazy" />
+        {story.image ? <img src={story.image} alt={story.title} loading="lazy" /> : <span role="img" aria-label="Historia sin portada">📖</span>}
         <span className="story-cover-meta">{category}</span>
       </div>
       <div className="story-cover-info">

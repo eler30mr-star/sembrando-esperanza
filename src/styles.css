@@ -244,3 +244,43 @@ button, input, textarea, select { font: inherit; }
   .immersive-book-page p { font-size: 1.02rem; line-height: 1.62; }
   .reader-home-button, .reader-audio-button { min-height: 42px; padding: 0 13px; }
 }
+
+/* Galería administrada desde Firestore */
+.managed-message { color: var(--muted, #667085); padding: 20px 4px; line-height: 1.55; }
+.managed-album-card {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  text-align: left;
+  appearance: none;
+  font: inherit;
+  background: var(--surface, #fff);
+  color: inherit;
+  border: 1px solid var(--line, rgba(31,41,51,.12));
+  overflow: hidden;
+  cursor: pointer;
+}
+.managed-album-card:focus-visible, .managed-back-link:focus-visible {
+  outline: 3px solid var(--gold, #b8862b);
+  outline-offset: 3px;
+}
+.managed-album-card .content-card-body { display: block; width: 100%; }
+.managed-album-card img { object-fit: cover; }
+.managed-album-detail h2 { font-family: Georgia, serif; margin: 20px 0 10px; }
+.managed-album-detail > p { color: var(--muted, #667085); margin-bottom: 22px; }
+.managed-back-link {
+  background: #fff;
+  color: var(--green, #24483d);
+  border: 1px solid var(--line, rgba(31,41,51,.12));
+  border-radius: 14px;
+  padding: 10px 16px;
+  cursor: pointer;
+  font-weight: 800;
+}
+.managed-images-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 230px), 1fr));
+  gap: 14px;
+}
+.managed-images-grid a { display: block; overflow: hidden; border-radius: 18px; background: #f2f0ea; }
+.managed-images-grid img { display: block; width: 100%; height: auto; max-height: 460px; object-fit: contain; }
