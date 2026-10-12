@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "generate:daily-close": "node scripts/generate-daily-close.mjs"
+    "generate:daily-close": "node scripts/generate-daily-close.mjs",
+    "test": "node --test"
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",
