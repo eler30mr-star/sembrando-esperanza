@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "storie-1791879962351",
+    "slug": "as-cartas-que-nunca-chegaram-ao-ceu",
+    "title": "As Cartas que Nunca Chegaram ao Céu",
+    "category": "Fe",
+    "coverImage": "",
+    "shortDescription": "Durante vinte anos, Amalia escreveu cartas a Deus e as guardou sem enviá-las. Após sua morte, sua neta Lucía encontra aquela caixa e descobre como uma fé repleta de perguntas transformou silenciosamente a vida de uma cidadezinha — e a sua própria.",
+    "description": "Durante vinte anos, Amalia escreveu cartas a Deus e as guardou sem enviá-las. Após sua morte, sua neta Lucía encontra aquela caixa e descobre como uma fé repleta de perguntas transformou silenciosamente a vida de uma cidadezinha — e a sua própria.",
+    "chapterCount": 6,
+    "status": "published",
+    "language": "pt",
+    "detailPath": "/data/pt/stories/as-cartas-que-nunca-chegaram-ao-ceu.json",
+    "updatedAtMs": 1791903025625
+  }
+]

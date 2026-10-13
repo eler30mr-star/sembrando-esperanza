@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "storie-1791879962351",
+    "slug": "les-lettres-qui-ne-sont-jamais-parvenues-au-ciel",
+    "title": "Les Lettres qui ne sont jamais parvenues au ciel",
+    "category": "Fe",
+    "coverImage": "",
+    "shortDescription": "Pendant vingt ans, Amalia a écrit des lettres à Dieu sans jamais les envoyer. Après sa mort, sa petite-fille Lucía découvre cette boîte et comprend comment une foi traversée de questions a silencieusement transformé la vie de tout un village, ainsi que la sienne.",
+    "description": "Pendant vingt ans, Amalia a écrit des lettres à Dieu sans jamais les envoyer. Après sa mort, sa petite-fille Lucía découvre cette boîte et comprend comment une foi traversée de questions a silencieusement transformé la vie de tout un village, ainsi que la sienne.",
+    "chapterCount": 6,
+    "status": "published",
+    "language": "fr",
+    "detailPath": "/data/fr/stories/les-lettres-qui-ne-sont-jamais-parvenues-au-ciel.json",
+    "updatedAtMs": 1791903025625
+  }
+]
