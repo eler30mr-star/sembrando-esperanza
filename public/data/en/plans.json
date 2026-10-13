@@ -195,21 +195,6 @@
     "updatedAtMs": 1787862533775
   },
   {
-    "id": "plan-1787858772995",
-    "title": "When You Don't Know What to Do with Your Life",
-    "slug": "when-you-dont-know-what-to-do-with-your-life-purpose",
-    "category": "Propósito",
-    "status": "published",
-    "language": "en",
-    "dayCount": 10,
-    "duration": "10 days",
-    "time": "9 min a day",
-    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/cuando-no-sabes-que-hacer-con-tu-vida-proposito.webp",
-    "shortDescription": "There are seasons when the question about the future becomes deeper: you do not only want to know what decision to make, but what you are living for. This ten-day journey will help you understand purpose from a biblical perspective: identity before function, character before platform, gifts in service to others, seasons that shape you, doors that provide direction, and a mission that is discovered as you walk with God. You do not need to have your entire life defined in order to begin living with purpose today.",
-    "detailPath": "/data/en/plans/when-you-dont-know-what-to-do-with-your-life-purpose.json",
-    "updatedAtMs": 1787860742570
-  },
-  {
     "id": "plan-1787858151633",
     "title": "What Did God Create Me For?",
     "slug": "what-did-god-create-me-for-purpose",
@@ -223,6 +208,21 @@
     "shortDescription": "The question of purpose is not answered simply by finding a profession, a ministry, or a personal goal. The Bible presents a deeper vision: we were created to know God, reflect his character, walk in the works he prepares, and make our lives an expression of his grace in the world. Over seven days, you will explore identity, fellowship, character, service, influence, and perseverance to understand that purpose is not a single task, but an entire life oriented toward God.",
     "detailPath": "/data/en/plans/what-did-god-create-me-for-purpose.json",
     "updatedAtMs": 1787861767110
+  },
+  {
+    "id": "plan-1787858772995",
+    "title": "When You Don't Know What to Do with Your Life",
+    "slug": "when-you-dont-know-what-to-do-with-your-life-purpose",
+    "category": "Propósito",
+    "status": "published",
+    "language": "en",
+    "dayCount": 10,
+    "duration": "10 days",
+    "time": "9 min a day",
+    "coverImage": "https://sembrando-esperanza.vercel.app/images/plans/cuando-no-sabes-que-hacer-con-tu-vida-proposito.webp",
+    "shortDescription": "There are seasons when the question about the future becomes deeper: you do not only want to know what decision to make, but what you are living for. This ten-day journey will help you understand purpose from a biblical perspective: identity before function, character before platform, gifts in service to others, seasons that shape you, doors that provide direction, and a mission that is discovered as you walk with God. You do not need to have your entire life defined in order to begin living with purpose today.",
+    "detailPath": "/data/en/plans/when-you-dont-know-what-to-do-with-your-life-purpose.json",
+    "updatedAtMs": 1787860742570
   },
   {
     "id": "plan-1787854177954",
