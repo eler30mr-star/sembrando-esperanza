@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-12",
+  "updatedAt": "2026-10-13",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -5978,6 +5978,236 @@
             "en": "God makes everything beautiful in His time. Embracing the present is trusting that what you experience today is part of His perfect and eternal plan.",
             "pt": "Deus faz tudo formoso no Seu tempo. Abraçar o presente é confiar que o que você vive hoje faz parte do plano perfeito e eterno d'Ele.",
             "fr": "Dieu fait toute chose belle en son temps. Embrasser le présent, c'est avoir confiance que ce que tu vis aujourd'hui fait partie de Son plan parfait et éternel."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿Cómo sentiste que tu fuerza interior fue renovada por Dios en este día?",
+        "en": "How did you feel your inner strength was renewed by God throughout this day?",
+        "pt": "Como você sentiu que sua força interior foi renovada por Deus neste dia?",
+        "fr": "Comment avez-vous senti que votre force intérieure a été renouvelée par Dieu aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "fortaleza_silencio_divino",
+          "label": {
+            "es": "Pausa en Dios",
+            "en": "Pause in God",
+            "pt": "Pausa em Deus",
+            "fr": "Pause en Dieu"
+          },
+          "responseTitle": {
+            "es": "Reposo fortalecedor",
+            "en": "Strengthening Rest",
+            "pt": "Repouso fortalecedor",
+            "fr": "Repos fortifiant"
+          },
+          "responseText": {
+            "es": "Elegiste callar el ruido externo para escuchar el susurro de Dios que sostiene tu alma.",
+            "en": "You chose to silence the external noise to hear God's whisper that sustains your soul.",
+            "pt": "Você escolheu calar o ruído externo para ouvir o sussurro de Deus que sustenta sua alma.",
+            "fr": "Vous avez choisi de faire taire le bruit extérieur pour entendre le murmure de Dieu qui soutient votre âme."
+          },
+          "verses": [
+            "Salmos 62:1"
+          ],
+          "reflectionHeader": {
+            "es": "El valor del silencio",
+            "en": "The value of silence",
+            "pt": "O valor do silêncio",
+            "fr": "La valeur du silence"
+          },
+          "reflection": {
+            "es": "En un mundo que nunca se detiene, buscar refugio en Dios no es huir, es recargar la esencia. Tu paz interior crece cuando permites que el Creador tome el control de tus cansancios.",
+            "en": "In a world that never stops, seeking refuge in God is not fleeing; it is recharging your essence. Your inner peace grows when you allow the Creator to take control of your weariness.",
+            "pt": "Em um mundo que nunca para, buscar refúgio em Deus não é fugir, é recarregar a essência. Sua paz interior cresce quando você permite que o Criador tome o controle de seus cansaços.",
+            "fr": "Dans un monde qui ne s'arrête jamais, chercher refuge en Dieu n'est pas une fuite, c'est recharger son essence. Votre paix intérieure grandit lorsque vous laissez le Créateur prendre le contrôle de vos fatigues."
+          }
+        },
+        {
+          "id": "fortaleza_verdad_eterna",
+          "label": {
+            "es": "Su Palabra",
+            "en": "His Word",
+            "pt": "Sua Palavra",
+            "fr": "Sa Parole"
+          },
+          "responseTitle": {
+            "es": "Cimiento inamovible",
+            "en": "Unmovable Foundation",
+            "pt": "Alicerce inabalável",
+            "fr": "Fondation inébranlable"
+          },
+          "responseText": {
+            "es": "Al recordar las promesas bíblicas, tu mente recuperó la firmeza necesaria para este día.",
+            "en": "By remembering biblical promises, your mind regained the firmness needed for this day.",
+            "pt": "Ao lembrar das promessas bíblicas, sua mente recuperou a firmeza necessária para este dia.",
+            "fr": "En vous rappelant les promesses bibliques, votre esprit a retrouvé la fermeté nécessaire pour cette journée."
+          },
+          "verses": [
+            "Salmos 119:28"
+          ],
+          "reflectionHeader": {
+            "es": "Anclado en lo eterno",
+            "en": "Anchored in the eternal",
+            "pt": "Ancorado no eterno",
+            "fr": "Ancré dans l'éternel"
+          },
+          "reflection": {
+            "es": "Las emociones fluctúan, pero la Verdad de Dios es constante. Fortalecerte en la Escritura es como plantar tus pies en roca sólida mientras todo lo demás se mueve a tu alrededor.",
+            "en": "Emotions fluctuate, but God's Truth is constant. Strengthening yourself in Scripture is like planting your feet on solid rock while everything else moves around you.",
+            "pt": "As emoções flutuam, mas a Verdade de Deus é constante. Fortalecer-se na Escritura é como firmar seus pés em rocha sólida enquanto tudo ao seu redor se move.",
+            "fr": "Les émotions fluctuent, mais la Vérité de Dieu est constante. Se fortifier dans l'Écriture, c'est comme poser ses pieds sur un rocher solide pendant que tout le reste bouge autour de soi."
+          }
+        },
+        {
+          "id": "fortaleza_poder_interior",
+          "label": {
+            "es": "Poder Interno",
+            "en": "Inner Power",
+            "pt": "Poder Interno",
+            "fr": "Puissance Intérieure"
+          },
+          "responseTitle": {
+            "es": "Energía del Espíritu",
+            "en": "Spirit's Energy",
+            "pt": "Energia do Espírito",
+            "fr": "Énergie de l'Esprit"
+          },
+          "responseText": {
+            "es": "Sentiste que más allá de tus límites, hubo una fuerza divina actuando desde tu interior.",
+            "en": "You felt that beyond your limits, there was a divine force acting from within you.",
+            "pt": "Você sentiu que, além dos seus limites, houve uma força divina agindo de dentro de você.",
+            "fr": "Vous avez senti qu'au-delà de vos limites, une force divine agissait en vous."
+          },
+          "verses": [
+            "Efesios 3:16"
+          ],
+          "reflectionHeader": {
+            "es": "Fuerza que viene de arriba",
+            "en": "Strength from above",
+            "pt": "Força que vem do alto",
+            "fr": "Force d'en haut"
+          },
+          "reflection": {
+            "es": "No estamos solos en la batalla diaria. El Espíritu Santo fortalece nuestro carácter y nuestra voluntad, dándonos la capacidad de perseverar incluso cuando creemos que ya no podemos.",
+            "en": "We are not alone in the daily battle. The Holy Spirit strengthens our character and our will, giving us the ability to persevere even when we think we can no longer go on.",
+            "pt": "Não estamos sozinhos na batalha diária. O Espírito Santo fortalece nosso caráter e nossa vontade, dando-nos a capacidade de perseverar mesmo quando acreditamos que não podemos mais.",
+            "fr": "Nous ne sommes pas seuls dans le combat quotidien. Le Saint-Esprit fortifie notre caractère et notre volonté, nous donnant la capacité de persévérer même quand nous pensons ne plus pouvoir le faire."
+          }
+        },
+        {
+          "id": "fortaleza_maravillas_hoy",
+          "label": {
+            "es": "Sus Maravillas",
+            "en": "His Wonders",
+            "pt": "Suas Maravilhas",
+            "fr": "Ses Merveilles"
+          },
+          "responseTitle": {
+            "es": "Asombro renovador",
+            "en": "Renewing Wonder",
+            "pt": "Assombro renovador",
+            "fr": "Émerveillement"
+          },
+          "responseText": {
+            "es": "Encontraste fuerzas al observar la mano de Dios en los detalles y la creación hoy.",
+            "en": "You found strength by observing God's hand in the details and creation today.",
+            "pt": "Você encontrou forças ao observar a mão de Deus nos detalhes e na criação hoje.",
+            "fr": "Vous avez trouvé de la force en observant la main de Dieu dans les détails et la création aujourd'hui."
+          },
+          "verses": [
+            "Salmos 143:5"
+          ],
+          "reflectionHeader": {
+            "es": "Ojos para lo divino",
+            "en": "Eyes for the divine",
+            "pt": "Olhos para o divino",
+            "fr": "Des yeux pour le divin"
+          },
+          "reflection": {
+            "es": "Detenerse a contemplar lo que Dios ha hecho nos devuelve la perspectiva correcta. Si Él sostiene el universo, ciertamente tiene el poder para sostener tu vida este día.",
+            "en": "Stopping to contemplate what God has done gives us back the right perspective. If He sustains the universe, He certainly has the power to sustain your life this day.",
+            "pt": "Parar para contemplar o que Deus fez nos devolve a perspectiva correta. Se Ele sustenta o universo, certamente tem o poder para sustentar sua vida neste dia.",
+            "fr": "S'arrêter pour contempler ce que Dieu a fait nous redonne la bonne perspective. S'Il soutient l'univers, Il a certainement le pouvoir de soutenir votre vie aujourd'hui."
+          }
+        },
+        {
+          "id": "fortaleza_nuevos_brios",
+          "label": {
+            "es": "Nuevos Bríos",
+            "en": "New Vigor",
+            "pt": "Novo Vigor",
+            "fr": "Vigueur Nouvelle"
+          },
+          "responseTitle": {
+            "es": "Caminar firme",
+            "en": "Steady Walk",
+            "pt": "Caminhar firme",
+            "fr": "Marche ferme"
+          },
+          "responseText": {
+            "es": "Dios te dio la agilidad espiritual para saltar obstáculos y seguir adelante con ánimo.",
+            "en": "God gave you the spiritual agility to jump over obstacles and move forward with courage.",
+            "pt": "Deus lhe deu a agilidade espiritual para saltar obstáculos e seguir em frente com ânimo.",
+            "fr": "Dieu vous a donné l'agilité spirituelle pour franchir les obstacles et avancer avec courage."
+          },
+          "verses": [
+            "Habacuc 3:19"
+          ],
+          "reflectionHeader": {
+            "es": "Caminar sin desmayar",
+            "en": "Walking without fainting",
+            "pt": "Caminhar sem desfalecer",
+            "fr": "Marcher sans défaillir"
+          },
+          "reflection": {
+            "es": "La fortaleza divina no siempre es un estruendo; a veces es simplemente la capacidad de dar el siguiente paso con confianza. Él es quien entrena tus pies para las alturas.",
+            "en": "Divine strength is not always a roar; sometimes it is simply the ability to take the next step with confidence. He is the one who trains your feet for the heights.",
+            "pt": "A fortaleza divina nem sempre é um estrondo; às vezes é simplesmente a capacidade de dar o próximo passo com confiança. Ele é quem treina seus pés para as alturas.",
+            "fr": "La force divine n'est pas toujours un fracas ; c'est parfois simplement la capacité de faire le pas suivant avec confiance. C'est Lui qui entraîne vos pieds pour les hauteurs."
+          }
+        },
+        {
+          "id": "fortaleza_esperanza_viva",
+          "label": {
+            "es": "Esperanza Viva",
+            "en": "Living Hope",
+            "pt": "Esperança Viva",
+            "fr": "Espoir Vivant"
+          },
+          "responseTitle": {
+            "es": "Mirada al futuro",
+            "en": "Looking Ahead",
+            "pt": "Olhar para o futuro",
+            "fr": "Regard vers l'avenir"
+          },
+          "responseText": {
+            "es": "Tu fuerza se renovó al confiar en que el mañana está seguro en las manos de tu Señor.",
+            "en": "Your strength was renewed by trusting that tomorrow is secure in your Lord's hands.",
+            "pt": "Sua força foi renovada ao confiar que o amanhã está seguro nas mãos do seu Senhor.",
+            "fr": "Votre force a été renouvelée en confiant que demain est en sécurité entre les mains de votre Seigneur."
+          },
+          "verses": [
+            "Lamentaciones 3:24"
+          ],
+          "reflectionHeader": {
+            "es": "El ancla del alma",
+            "en": "The anchor of the soul",
+            "pt": "A âncora da alma",
+            "fr": "L'ancre de l'âme"
+          },
+          "reflection": {
+            "es": "La esperanza no es un deseo incierto, sino una certeza basada en quién es Dios. Al cerrar este día, descansa en la porción de gracia que Él tiene preparada para tu despertar.",
+            "en": "Hope is not an uncertain wish, but a certainty based on who God is. As you close this day, rest in the portion of grace He has prepared for your awakening.",
+            "pt": "A esperança não é um desejo incerto, mas uma certeza baseada em quem Deus é. Ao encerrar este dia, descanse na porção de graça que Ele preparou para o seu despertar.",
+            "fr": "L'espoir n'est pas un souhait incertain, mais une certitude fondée sur qui est Dieu. En terminant cette journée, reposez-vous sur la part de grâce qu'Il a préparée pour votre réveil."
           }
         }
       ]
