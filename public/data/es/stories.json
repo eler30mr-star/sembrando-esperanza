@@ -1,5 +1,19 @@
 [
   {
+    "id": "storie-1791662732514",
+    "slug": "el-hombre-que-sembro-en-tierra-seca",
+    "title": "El Hombre que Sembró en Tierra Seca",
+    "category": "Fe",
+    "coverImage": "",
+    "shortDescription": "En un valle consumido por la sequía, un agricultor continúa sembrando cuando todos han perdido la esperanza. Su decisión desafía al pueblo, a su familia y a su propia fe, hasta descubrir que ninguna semilla crece sin paciencia, verdad y amor.",
+    "description": "En un valle consumido por la sequía, un agricultor continúa sembrando cuando todos han perdido la esperanza. Su decisión desafía al pueblo, a su familia y a su propia fe, hasta descubrir que ninguna semilla crece sin paciencia, verdad y amor.",
+    "chapterCount": 5,
+    "status": "published",
+    "language": "es",
+    "detailPath": "/data/es/stories/el-hombre-que-sembro-en-tierra-seca.json",
+    "updatedAtMs": 1791662732514
+  },
+  {
     "id": "storie-1782679936702",
     "slug": "la-lampara-que-no-se-apago",
     "title": "La Lámpara que No se Apagó",
