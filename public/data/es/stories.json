@@ -28,20 +28,6 @@
     "updatedAtMs": 1782691821403
   },
   {
-    "id": "storie-1782673569531",
-    "slug": "esperanzas",
-    "title": "esperanzas",
-    "category": "Esperanza",
-    "coverImage": "",
-    "shortDescription": "sxs",
-    "description": "sxs",
-    "chapterCount": 1,
-    "status": "published",
-    "language": "es",
-    "detailPath": "/data/es/stories/esperanzas.json",
-    "updatedAtMs": 1782673569531
-  },
-  {
     "id": "storie-1782673523623",
     "slug": "hoy-es",
     "title": "hoy es",
