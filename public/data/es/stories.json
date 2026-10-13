@@ -56,20 +56,6 @@
     "updatedAtMs": 1782674277221
   },
   {
-    "id": "storie-1782674229378",
-    "slug": "xcsc",
-    "title": "xcsc",
-    "category": "Esperanza",
-    "coverImage": "",
-    "shortDescription": "cscscs",
-    "description": "cscscs",
-    "chapterCount": 1,
-    "status": "published",
-    "language": "es",
-    "detailPath": "/data/es/stories/xcsc.json",
-    "updatedAtMs": 1782674240102
-  },
-  {
     "id": "storie-1782673569531",
     "slug": "esperanzas",
     "title": "esperanzas",
