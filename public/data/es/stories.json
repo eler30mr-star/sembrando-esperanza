@@ -98,20 +98,6 @@
     "updatedAtMs": 1782673523623
   },
   {
-    "id": "storie-1782673463909",
-    "slug": "pruebas",
-    "title": "pruebas",
-    "category": "Reflexión",
-    "coverImage": "",
-    "shortDescription": "dcs",
-    "description": "dcs",
-    "chapterCount": 1,
-    "status": "published",
-    "language": "es",
-    "detailPath": "/data/es/stories/pruebas.json",
-    "updatedAtMs": 1782673463909
-  },
-  {
     "id": "storie-1782537454738",
     "slug": "el-reparador-de-relojes",
     "title": "El Reparador de Relojes",
