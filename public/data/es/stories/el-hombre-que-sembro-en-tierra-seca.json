@@ -1,7 +1,7 @@
 {
   "id": "storie-1791662732514",
-  "slug": "el-hombre-que-sembro-en-tierra-secccca",
-  "title": "El Hombre que Sembró en Tierra Secccca",
+  "slug": "el-hombre-que-sembro-en-tierra-seca",
+  "title": "El Hombre que Sembró en Tierra Seca",
   "category": "Fe",
   "coverImage": "https://drive.google.com/file/d/1oNF2QlvGeZDDAiRh8U_h7vgePV2h5neO/view?usp=drivesdk",
   "shortDescription": "En un valle consumido por la sequía, un agricultor continúa sembrando cuando todos han perdido la esperanza. Su decisión desafía al pueblo, a su familia y a su propia fe, hasta descubrir que ninguna semilla crece sin paciencia, verdad y amor.",
@@ -30,5 +30,5 @@
   ],
   "status": "published",
   "language": "es",
-  "updatedAtMs": 1791878491280
+  "updatedAtMs": 1791878728967
 }
