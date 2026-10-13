@@ -293,3 +293,51 @@ body {
     right: 14px;
   }
 }
+
+/* Panel de perfil accesible sin abrir el menú principal */
+.app-header .profile-trigger {
+  margin-left: auto;
+  display: grid;
+  place-items: center;
+  flex: 0 0 auto;
+  width: 42px;
+  height: 42px;
+  padding: 0;
+  border-radius: 50%;
+  border: 1px solid rgba(184,134,43,.24);
+  color: var(--green);
+  background: #fff8eb;
+  cursor: pointer;
+  overflow: hidden;
+}
+.profile-trigger img { width: 100%; height: 100%; object-fit: cover; border-radius: 50%; }
+.profile-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 1100;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: max(90px, env(safe-area-inset-top)) 16px 16px;
+  background: rgba(13, 25, 22, .48);
+}
+.profile-panel {
+  width: min(100%, 398px);
+  background: #fffaf0;
+  border-radius: 24px;
+  padding: 20px;
+  box-shadow: 0 24px 70px rgba(13, 25, 22, .3);
+  color: #173c31;
+}
+.profile-panel-heading { display:flex; align-items:center; justify-content:space-between; font-size:1.2rem; }
+.profile-panel-heading button { border:0; background:transparent; cursor:pointer; color:inherit; }
+.profile-account { display:flex; gap:12px; align-items:center; margin-top:22px; min-width:0; }
+.profile-account > img, .profile-placeholder { width:54px; height:54px; border-radius:50%; flex:0 0 auto; }
+.profile-placeholder { display:grid; place-items:center; background:#f0e4cd; }
+.profile-account div:last-child { min-width:0; }
+.profile-account strong, .profile-account small { display:block; overflow-wrap:anywhere; }
+.profile-account small { color:#6b716b; margin-top:3px; }
+.profile-description { margin:20px 0; line-height:1.5; color:#56675e; }
+.profile-error { color:#a43a37; font-size:.9rem; }
+.profile-action { width:100%; display:flex; justify-content:center; align-items:center; gap:9px; min-height:46px; border:0; border-radius:14px; background:#235943; color:white; font-weight:800; cursor:pointer; }
+.profile-action.secondary { background:#ede8df; color:#29503d; }

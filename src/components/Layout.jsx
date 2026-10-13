@@ -6,6 +6,7 @@ import {
   Home,
   LogIn,
   LogOut,
+  UserRound,
   Menu,
   MessageCircleHeart,
   ScrollText,
@@ -53,17 +54,29 @@ const authButtonStyle = {
 export default function Layout({ children }) {
   const [open, setOpen] = useState(false);
   const [user, setUser] = useState(null);
+  const [profileOpen, setProfileOpen] = useState(false);
+  const [authError, setAuthError] = useState('');
+  const account = user && !user.isAnonymous ? user : null;
 
   useEffect(() => listenToUser(setUser), []);
 
-  async function handleAuthClick() {
-    if (user) {
-      await logout();
-    } else {
+  async function handleGoogleLogin() {
+    setAuthError('');
+    try {
       await loginWithGoogle();
+    } catch (error) {
+      if (error.code !== 'auth/popup-closed-by-user') {
+        setAuthError('No se pudo iniciar sesión con Google: ' + error.message);
+      }
     }
-    setOpen(false);
   }
+
+  async function handleLogout() {
+    setAuthError('');
+    try { await logout(); }
+    catch (error) { setAuthError('No se pudo cerrar sesión: ' + error.message); }
+  }
+
 
   return (
     <div className="app-viewport-shell">
@@ -77,6 +90,13 @@ export default function Layout({ children }) {
             </span>
           </Link>
 
+          <button type="button" className="profile-trigger" aria-label="Mi perfil"
+            onClick={() => { setProfileOpen(!profileOpen); setOpen(false); }}>
+            {account?.photoURL
+              ? <img src={account.photoURL} alt="" referrerPolicy="no-referrer" />
+              : <UserRound size={22} />}
+          </button>
+
           <button className="menu-button" type="button" onClick={() => setOpen(!open)} aria-label="Abrir menú">
             {open ? <X /> : <Menu />}
           </button>
@@ -87,12 +107,45 @@ export default function Layout({ children }) {
                 {item.label}
               </NavLink>
             ))}
-            <button type="button" style={authButtonStyle} onClick={handleAuthClick}>
-              {user ? <LogOut size={16} /> : <LogIn size={16} />}
-              {user ? 'Salir' : 'Iniciar con Google'}
+            <button type="button" style={authButtonStyle} onClick={() => { setProfileOpen(true); setOpen(false); }}>
+              <UserRound size={16} /> Mi perfil
             </button>
           </nav>
         </header>
+
+        {profileOpen && (
+          <div className="profile-backdrop" onClick={() => setProfileOpen(false)}>
+            <section className="profile-panel" role="dialog" aria-modal="true" aria-label="Mi perfil"
+              onClick={(event) => event.stopPropagation()}>
+              <div className="profile-panel-heading">
+                <strong>Mi perfil</strong>
+                <button type="button" aria-label="Cerrar perfil" onClick={() => setProfileOpen(false)}><X size={20} /></button>
+              </div>
+              <div className="profile-account">
+                {account?.photoURL ? <img src={account.photoURL} alt="Foto de perfil" referrerPolicy="no-referrer" />
+                  : <div className="profile-placeholder"><UserRound size={27} /></div>}
+                <div>
+                  <strong>{account?.displayName || 'Visitante'}</strong>
+                  <small>{account?.email || 'Explora sin registrarte'}</small>
+                </div>
+              </div>
+              <p className="profile-description">
+                {account ? 'Tu cuenta de Google está conectada. Puedes comentar historias y reaccionar.'
+                  : 'Puedes leer y dar Me gusta sin registrarte. Para comentar, inicia sesión con Google.'}
+              </p>
+              {authError && <p className="profile-error" role="alert">{authError}</p>}
+              {account ? (
+                <button className="profile-action secondary" type="button" onClick={handleLogout}>
+                  <LogOut size={18} /> Cerrar sesión
+                </button>
+              ) : (
+                <button className="profile-action" type="button" onClick={handleGoogleLogin}>
+                  <LogIn size={18} /> Continuar con Google
+                </button>
+              )}
+            </section>
+          </div>
+        )}
 
         <main className="app-scroll-content">{children}</main>
 
@@ -127,9 +180,8 @@ export default function Layout({ children }) {
               {label}
             </NavLink>
           ))}
-          <button type="button" onClick={handleAuthClick}>
-            {user ? <LogOut size={17} /> : <LogIn size={17} />}
-            {user ? 'Salir' : 'Iniciar con Google'}
+          <button type="button" onClick={() => { setProfileOpen(true); setOpen(false); }}>
+            <UserRound size={17} /> Mi perfil
           </button>
         </div>
       </div>

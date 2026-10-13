@@ -1,4 +1,4 @@
-import { GoogleAuthProvider, onAuthStateChanged, signInAnonymously, signInWithPopup, signOut } from 'firebase/auth';
+import { GoogleAuthProvider, onAuthStateChanged, signInAnonymously, signInWithPopup, linkWithPopup, signOut } from 'firebase/auth';
 import { auth } from './firebase.js';
 
 const provider = new GoogleAuthProvider();
@@ -17,7 +17,18 @@ export async function ensureReactionUser() {
 
 export async function loginWithGoogle() {
   if (!auth) throw new Error('Firebase Auth no está configurado.');
-  await signInWithPopup(auth, provider);
+  // Al vincular al visitante anónimo se conserva el UID y sus likes.
+  if (auth.currentUser?.isAnonymous) {
+    try {
+      return (await linkWithPopup(auth.currentUser, provider)).user;
+    } catch (error) {
+      // Si Google ya tiene una cuenta Firebase, no se puede vincular al UID anónimo.
+      // El inicio de sesión sigue disponible; los likes de ese UID no se migran.
+      if (!['auth/credential-already-in-use', 'auth/email-already-in-use',
+        'auth/provider-already-linked'].includes(error.code)) throw error;
+    }
+  }
+  return (await signInWithPopup(auth, provider)).user;
 }
 
 export async function logout() {
