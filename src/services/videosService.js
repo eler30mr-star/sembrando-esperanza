@@ -1,6 +1,3 @@
-import { collection, getDocs, query, where } from 'firebase/firestore';
-import { db, firebaseReady } from './firebase.js';
-
 const base = 'https://raw.githubusercontent.com/eler30mr-star/sembrando-esperanza/main/public/data';
 
 function extractYouTubeId(url = '') {
@@ -32,17 +29,6 @@ function normalizeVideo(data) {
   };
 }
 
-async function firestoreVideos() {
-  if (!firebaseReady || !db) return [];
-  try {
-    const snapshot = await getDocs(query(collection(db, 'videos'), where('status', '==', 'published')));
-    return snapshot.docs.map((entry) => normalizeVideo({ ...entry.data(), id: entry.id }));
-  } catch (error) {
-    console.error('No se pudieron cargar videos desde Firestore.', error);
-    return [];
-  }
-}
-
 export async function getPublishedVideos(language = 'es') {
   let index = null;
   if (['es','en','pt','fr'].includes(language)) {
@@ -53,7 +39,7 @@ export async function getPublishedVideos(language = 'es') {
       console.error('No se pudo consultar el JSON público de videos.', error);
     }
   }
-  const videos = Array.isArray(index) ? index.map(normalizeVideo) : await firestoreVideos();
+  const videos = Array.isArray(index) ? index.map(normalizeVideo) : [];
   return videos.filter((video) => video.status === 'published' && /^https?:\/\//i.test(video.url))
     .sort((a, b) => b.updatedAtMs - a.updatedAtMs);
 }

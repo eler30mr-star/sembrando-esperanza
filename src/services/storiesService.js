@@ -1,6 +1,3 @@
-import { collection, getDocs, query, where } from 'firebase/firestore';
-import { db, firebaseReady } from './firebase.js';
-
 const base = 'https://raw.githubusercontent.com/eler30mr-star/sembrando-esperanza/main/public/data';
 
 async function fetchPublishedJson(path) {
@@ -32,20 +29,9 @@ function normalizeStory(data) {
   };
 }
 
-async function firestoreStories() {
-  if (!firebaseReady || !db) return [];
-  try {
-    const snapshot = await getDocs(query(collection(db, 'stories'), where('status', '==', 'published')));
-    return snapshot.docs.map((entry) => normalizeStory({ ...entry.data(), id: entry.id }));
-  } catch (error) {
-    console.error('Falló la consulta de historias a Firestore.', error);
-    return [];
-  }
-}
-
 export async function getPublishedStories(language = 'es') {
   const json = await fetchPublishedJson(`/data/${language}/stories.json`);
-  const stories = Array.isArray(json) ? json.map(normalizeStory) : await firestoreStories();
+  const stories = Array.isArray(json) ? json.map(normalizeStory) : [];
   return stories.filter((story) => story.status === 'published')
     .sort((a, b) => b.updatedAtMs - a.updatedAtMs);
 }
