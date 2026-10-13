@@ -1,5 +1,19 @@
 [
   {
+    "id": "storie-1791924003448",
+    "slug": "the-silence-of-the-bells",
+    "title": "The Silence of the Bells",
+    "category": "Fe",
+    "coverImage": "",
+    "shortDescription": "Thirty years after a flood silenced the bells of San Jerónimo del Viento and took his brother’s life, Gabriel returns to sell his father’s house. A promise carved into the bell tower forces him to revisit his memories and discover that faith does not erase loss, but it can open a path toward truth, responsibility, and reconciliation.",
+    "description": "Thirty years after a flood silenced the bells of San Jerónimo del Viento and took his brother’s life, Gabriel returns to sell his father’s house. A promise carved into the bell tower forces him to revisit his memories and discover that faith does not erase loss, but it can open a path toward truth, responsibility, and reconciliation.",
+    "chapterCount": 6,
+    "status": "published",
+    "language": "en",
+    "detailPath": "/data/en/stories/the-silence-of-the-bells.json",
+    "updatedAtMs": 1791924003448
+  },
+  {
     "id": "storie-1791879962351",
     "slug": "the-letters-that-never-reached-heaven",
     "title": "The Letters That Never Reached Heaven",

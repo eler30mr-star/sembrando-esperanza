@@ -1,5 +1,19 @@
 [
   {
+    "id": "storie-1791924003448",
+    "slug": "le-silence-des-cloches",
+    "title": "Le Silence des cloches",
+    "category": "Fe",
+    "coverImage": "",
+    "shortDescription": "Trente ans après une inondation qui a réduit au silence les cloches de San Jerónimo del Viento et emporté son frère, Gabriel revient pour vendre la maison de son père. Une promesse gravée dans le clocher l’obligera à revisiter ses souvenirs et à découvrir que la foi n’efface pas les pertes, mais peut ouvrir un chemin vers la vérité, la responsabilité et la réconciliation.",
+    "description": "Trente ans après une inondation qui a réduit au silence les cloches de San Jerónimo del Viento et emporté son frère, Gabriel revient pour vendre la maison de son père. Une promesse gravée dans le clocher l’obligera à revisiter ses souvenirs et à découvrir que la foi n’efface pas les pertes, mais peut ouvrir un chemin vers la vérité, la responsabilité et la réconciliation.",
+    "chapterCount": 6,
+    "status": "published",
+    "language": "fr",
+    "detailPath": "/data/fr/stories/le-silence-des-cloches.json",
+    "updatedAtMs": 1791924003448
+  },
+  {
     "id": "storie-1791879962351",
     "slug": "les-lettres-qui-ne-sont-jamais-parvenues-au-ciel",
     "title": "Les Lettres qui ne sont jamais parvenues au ciel",

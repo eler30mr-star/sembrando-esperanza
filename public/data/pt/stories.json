@@ -1,5 +1,19 @@
 [
   {
+    "id": "storie-1791924003448",
+    "slug": "o-silencio-dos-sinos",
+    "title": "O Silêncio dos Sinos",
+    "category": "Fe",
+    "coverImage": "",
+    "shortDescription": "Trinta anos depois de uma enchente que silenciou os sinos de San Jerónimo del Viento e tirou a vida de seu irmão, Gabriel retorna para vender a casa do pai. Uma promessa gravada na torre dos sinos o levará a revisitar suas lembranças e a descobrir que a fé não apaga as perdas, mas pode abrir um caminho para a verdade, a responsabilidade e a reconciliação.",
+    "description": "Trinta anos depois de uma enchente que silenciou os sinos de San Jerónimo del Viento e tirou a vida de seu irmão, Gabriel retorna para vender a casa do pai. Uma promessa gravada na torre dos sinos o levará a revisitar suas lembranças e a descobrir que a fé não apaga as perdas, mas pode abrir um caminho para a verdade, a responsabilidade e a reconciliação.",
+    "chapterCount": 6,
+    "status": "published",
+    "language": "pt",
+    "detailPath": "/data/pt/stories/o-silencio-dos-sinos.json",
+    "updatedAtMs": 1791924003448
+  },
+  {
     "id": "storie-1791879962351",
     "slug": "as-cartas-que-nunca-chegaram-ao-ceu",
     "title": "As Cartas que Nunca Chegaram ao Céu",

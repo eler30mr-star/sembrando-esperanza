@@ -1,5 +1,19 @@
 [
   {
+    "id": "storie-1791924003448",
+    "slug": "el-silencio-de-las-campanas",
+    "title": "El Silencio de las Campanas",
+    "category": "Fe",
+    "coverImage": "",
+    "shortDescription": "Treinta años después de una inundación que silenció las campanas de San Jerónimo del Viento y le arrebató a su hermano, Gabriel regresa para vender la casa de su padre. Una promesa grabada en el campanario lo obligará a revisar sus recuerdos y a descubrir que la fe no borra las pérdidas, pero puede abrir un camino hacia la verdad, la responsabilidad y la reconciliación.",
+    "description": "Treinta años después de una inundación que silenció las campanas de San Jerónimo del Viento y le arrebató a su hermano, Gabriel regresa para vender la casa de su padre. Una promesa grabada en el campanario lo obligará a revisar sus recuerdos y a descubrir que la fe no borra las pérdidas, pero puede abrir un camino hacia la verdad, la responsabilidad y la reconciliación.",
+    "chapterCount": 6,
+    "status": "published",
+    "language": "es",
+    "detailPath": "/data/es/stories/el-silencio-de-las-campanas.json",
+    "updatedAtMs": 1791924003448
+  },
+  {
     "id": "storie-1791879962351",
     "slug": "las-cartas-que-nunca-llegaron-al-cielo",
     "title": "Las Cartas que Nunca Llegaron al Cielo",
