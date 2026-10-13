@@ -28,20 +28,6 @@
     "updatedAtMs": 1782691821403
   },
   {
-    "id": "storie-1782673523623",
-    "slug": "hoy-es",
-    "title": "hoy es",
-    "category": "Esperanza",
-    "coverImage": "",
-    "shortDescription": "sxs",
-    "description": "sxs",
-    "chapterCount": 1,
-    "status": "published",
-    "language": "es",
-    "detailPath": "/data/es/stories/hoy-es.json",
-    "updatedAtMs": 1782673523623
-  },
-  {
     "id": "storie-1782537454738",
     "slug": "el-reparador-de-relojes",
     "title": "El Reparador de Relojes",
