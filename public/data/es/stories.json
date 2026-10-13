@@ -1,5 +1,19 @@
 [
   {
+    "id": "storie-1791924084702",
+    "slug": "el-ultimo-lugar-en-la-mesa",
+    "title": "El Último Lugar en la Mesa",
+    "category": "Amor",
+    "coverImage": "",
+    "shortDescription": "Cada Navidad, Adela reserva una silla para el hijo que se marchó hace dieciocho años. Cuando una carta anuncia su regreso y su enfermedad, la familia descubre que reconciliarse no consiste en olvidar el dolor, sino en aprender a amar también a quienes nunca se fueron.",
+    "description": "Cada Navidad, Adela reserva una silla para el hijo que se marchó hace dieciocho años. Cuando una carta anuncia su regreso y su enfermedad, la familia descubre que reconciliarse no consiste en olvidar el dolor, sino en aprender a amar también a quienes nunca se fueron.",
+    "chapterCount": 6,
+    "status": "published",
+    "language": "es",
+    "detailPath": "/data/es/stories/el-ultimo-lugar-en-la-mesa.json",
+    "updatedAtMs": 1791924084702
+  },
+  {
     "id": "storie-1791924003448",
     "slug": "el-silencio-de-las-campanas",
     "title": "El Silencio de las Campanas",
