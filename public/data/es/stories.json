@@ -42,20 +42,6 @@
     "updatedAtMs": 1782674303132
   },
   {
-    "id": "storie-1782674277221",
-    "slug": "zxax",
-    "title": "zxax",
-    "category": "Esperanza",
-    "coverImage": "",
-    "shortDescription": "ax",
-    "description": "ax",
-    "chapterCount": 1,
-    "status": "published",
-    "language": "es",
-    "detailPath": "/data/es/stories/zxax.json",
-    "updatedAtMs": 1782674277221
-  },
-  {
     "id": "storie-1782673569531",
     "slug": "esperanzas",
     "title": "esperanzas",
