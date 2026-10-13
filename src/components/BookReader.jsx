@@ -274,7 +274,7 @@ export default function BookReader({ title, chapters = [], pages = [], storyId, 
 
   async function submitComment(e) {
     e.preventDefault();
-    if (!user) {
+    if (!user || user.isAnonymous) {
       await loginWithGoogle();
       return;
     }
@@ -470,7 +470,7 @@ export default function BookReader({ title, chapters = [], pages = [], storyId, 
         <button className="reader-icon-button" onClick={() => setPage((v) => Math.max(v - 1, 0))} disabled={page === 0} aria-label="Página anterior">
           <ChevronLeft size={24} />
         </button>
-        <button className="reader-icon-button reader-reaction-button" type="button" onClick={() => toggleStoryLike(storyId)} aria-label="Me gusta">
+        <button className="reader-icon-button reader-reaction-button" type="button" onClick={() => toggleStoryLike(storyId).catch((error) => alert('No se pudo registrar el me gusta: ' + error.message))} aria-label="Me gusta">
           <Heart size={22} fill={liked ? 'currentColor' : 'none'} />
           <span>{likeCount}</span>
         </button>
