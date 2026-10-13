@@ -12,6 +12,13 @@ async function fetchPublishedJson(path) {
   }
 }
 
+export function resolveStoryCover(url) {
+  const raw = String(url || '').trim();
+  const match = raw.match(/^https:\/\/drive\.google\.com\/file\/d\/([a-zA-Z0-9_-]+)(?:\/|$)/);
+  if (match) return 'https://drive.google.com/thumbnail?id=' + encodeURIComponent(match[1]) + '&sz=w1200';
+  return raw;
+}
+
 function normalizeStory(data) {
   return {
     ...data,
@@ -20,7 +27,7 @@ function normalizeStory(data) {
     slug: data.slug || data.id,
     category: data.category || 'Reflexión',
     readingTime: data.readingTime || 'Lectura',
-    image: data.coverImage || data.image || '',
+    image: resolveStoryCover(data.coverImage || data.image || ''),
     description: data.shortDescription || data.description || '',
     chapters: Array.isArray(data.chapters) ? data.chapters : [],
     pages: Array.isArray(data.pages) ? data.pages : [],

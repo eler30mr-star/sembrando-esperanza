@@ -28,6 +28,7 @@ function formatCount(value) {
 }
 
 function StoryCard({ story }) {
+  const [coverFailed, setCoverFailed] = useState(false);
   const category = normalizeCategory(story.category);
   const author = story.author || story.authorName || 'Sembrando Esperanza';
   const views = story.views || story.viewCount || story.totalViews || 0;
@@ -36,7 +37,7 @@ function StoryCard({ story }) {
   return (
     <Link className="story-cover-card" to={`/historias/${story.slug}`}>
       <div className="story-cover-image">
-        {story.image ? <img src={story.image} alt={story.title} loading="lazy" /> : <span role="img" aria-label="Historia sin portada">📖</span>}
+        {story.image && !coverFailed ? <img src={story.image} alt={story.title} loading="lazy" onError={() => setCoverFailed(true)} /> : <span role="img" aria-label="Historia sin portada">📖</span>}
         <span className="story-cover-meta">{category}</span>
       </div>
       <div className="story-cover-info">
