@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13",
+  "updatedAt": "2026-10-14",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -6208,6 +6208,236 @@
             "en": "Hope is not an uncertain wish, but a certainty based on who God is. As you close this day, rest in the portion of grace He has prepared for your awakening.",
             "pt": "A esperança não é um desejo incerto, mas uma certeza baseada em quem Deus é. Ao encerrar este dia, descanse na porção de graça que Ele preparou para o seu despertar.",
             "fr": "L'espoir n'est pas un souhait incertain, mais une certitude fondée sur qui est Dieu. En terminant cette journée, reposez-vous sur la part de grâce qu'Il a préparée pour votre réveil."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿Cómo buscaste hoy la sabiduría de lo alto para guiar tus pasos?",
+        "en": "How did you seek wisdom from above to guide your steps today?",
+        "pt": "Como você buscou hoje a sabedoria do alto para guiar seus passos?",
+        "fr": "Comment as-tu cherché aujourd'hui la sagesse d'en haut pour guider tes pas ?"
+      },
+      "options": [
+        {
+          "id": "oracion_decisiva",
+          "label": {
+            "es": "Orando al decidir",
+            "en": "Praying when deciding",
+            "pt": "Orando ao decidir",
+            "fr": "Prier en décidant"
+          },
+          "responseTitle": {
+            "es": "Sabiduría en Oración",
+            "en": "Wisdom in Prayer",
+            "pt": "Sabedoria em Oração",
+            "fr": "Sagesse en Prière"
+          },
+          "responseText": {
+            "es": "Pedir guía a Dios es el primer paso de la prudencia.",
+            "en": "Asking God for guidance is the first step of prudence.",
+            "pt": "Pedir a guia de Deus é o primeiro passo da prudência.",
+            "fr": "Demander la direction de Dieu est le premier pas de la prudence."
+          },
+          "verses": [
+            "Santiago 1:5"
+          ],
+          "reflectionHeader": {
+            "es": "Tu diálogo con el Padre",
+            "en": "Your Dialogue with the Father",
+            "pt": "Seu Diálogo com o Pai",
+            "fr": "Ton Dialogue avec le Père"
+          },
+          "reflection": {
+            "es": "Al cerrar el día, reconoce que no caminas solo. Dios responde a quien pide con fe, dándote la claridad necesaria para mañana.",
+            "en": "As the day ends, recognize that you do not walk alone. God responds to those who ask in faith, giving you the clarity needed for tomorrow.",
+            "pt": "Ao encerrar o dia, reconheça que você não caminha sozinho. Deus responde a quem pede com fé, dando a clareza necessária para o amanhã.",
+            "fr": "En terminant la journée, reconnais que tu ne marches pas seul. Dieu répond à celui qui demande avec foi, te donnant la clarté nécessaire pour demain."
+          }
+        },
+        {
+          "id": "biblia_guia",
+          "label": {
+            "es": "Siguiendo la Biblia",
+            "en": "Following the Bible",
+            "pt": "Seguindo a Bíblia",
+            "fr": "Suivre la Bible"
+          },
+          "responseTitle": {
+            "es": "Luz en la Palabra",
+            "en": "Light in the Word",
+            "pt": "Luz na Palavra",
+            "fr": "Lumière dans la Parole"
+          },
+          "responseText": {
+            "es": "Sus promesas son el mapa seguro para tus decisiones.",
+            "en": "His promises are the secure map for your decisions.",
+            "pt": "Suas promessas são o mapa seguro para suas decisões.",
+            "fr": "Ses promesses sont la carte sûre pour tes décisions."
+          },
+          "verses": [
+            "Salmos 119:105"
+          ],
+          "reflectionHeader": {
+            "es": "La brújula del alma",
+            "en": "The Soul's Compass",
+            "pt": "A Bússola da Alma",
+            "fr": "La Boussole de l'Âme"
+          },
+          "reflection": {
+            "es": "Descansa sabiendo que Su Palabra no vuelve vacía. Lo que hoy leíste o recordaste iluminará tu descanso y tu despertar.",
+            "en": "Rest knowing that His Word does not return empty. What you read or remembered today will enlighten your rest and your awakening.",
+            "pt": "Descanse sabendo que Sua Palavra não volta vazia. O que você leu ou lembrou hoje iluminará seu descanso e seu despertar.",
+            "fr": "Repose-toi en sachant que Sa Parole ne revient pas à Lui sans effet. Ce que tu as lu ou retenu aujourd'hui éclairera ton repos et ton réveil."
+          }
+        },
+        {
+          "id": "consejo_humilde",
+          "label": {
+            "es": "Escuchando consejos",
+            "en": "Listening to advice",
+            "pt": "Ouvindo conselhos",
+            "fr": "Écouter des conseils"
+          },
+          "responseTitle": {
+            "es": "El Valor del Consejo",
+            "en": "The Value of Counsel",
+            "pt": "O Valor do Conselho",
+            "fr": "La Valeur du Conseil"
+          },
+          "responseText": {
+            "es": "Dios usa a otros para confirmar Su voluntad en ti.",
+            "en": "God uses others to confirm His will in you.",
+            "pt": "Deus usa outros para confirmar a vontade dele em você.",
+            "fr": "Dieu utilise les autres pour confirmer Sa volonté en toi."
+          },
+          "verses": [
+            "Proverbios 19:20"
+          ],
+          "reflectionHeader": {
+            "es": "Humildad y Crecimiento",
+            "en": "Humility and Growth",
+            "pt": "Humildade e Crescimento",
+            "fr": "Humilité et Croissance"
+          },
+          "reflection": {
+            "es": "Escuchar es un acto de sabiduría. Agradece por quienes hoy aportaron luz a tu vida y descansa en la paz de Su guía colectiva.",
+            "en": "Listening is an act of wisdom. Give thanks for those who brought light to your life today and rest in the peace of His collective guidance.",
+            "pt": "Ouvir é um ato de sabedoria. Agradeça por aqueles que hoje trouxeram luz à sua vida e descanse na paz da guia coletiva de Deus.",
+            "fr": "Écouter est un acte de sagesse. Rends grâce pour ceux qui ont apporté de la lumière dans ta vie aujourd'hui et repose-toi dans la paix de Sa direction."
+          }
+        },
+        {
+          "id": "prudencia_verbal",
+          "label": {
+            "es": "Silencio prudente",
+            "en": "Prudent silence",
+            "pt": "Silêncio prudente",
+            "fr": "Silence prudent"
+          },
+          "responseTitle": {
+            "es": "Prudencia al Hablar",
+            "en": "Prudence in Speech",
+            "pt": "Prudência ao Falar",
+            "fr": "Prudence dans la Parole"
+          },
+          "responseText": {
+            "es": "El silencio a tiempo es un reflejo de dominio propio.",
+            "en": "Timely silence is a reflection of self-control.",
+            "pt": "O silêncio no momento certo é um reflexo de domínio próprio.",
+            "fr": "Le silence au bon moment est un reflet de la maîtrise de soi."
+          },
+          "verses": [
+            "Proverbios 10:19"
+          ],
+          "reflectionHeader": {
+            "es": "Paz en la Quietud",
+            "en": "Peace in Stillness",
+            "pt": "Paz na Quietude",
+            "fr": "Paix dans le Calme"
+          },
+          "reflection": {
+            "es": "A veces la mayor sabiduría es callar y esperar. Has cuidado tu corazón hoy; ahora deja que el Señor hable en tu descanso.",
+            "en": "Sometimes the greatest wisdom is to be silent and wait. You have guarded your heart today; now let the Lord speak in your rest.",
+            "pt": "Às vezes a maior sabedoria é calar e esperar. Você guardou seu coração hoje; agora deixe o Senhor falar em seu descanso.",
+            "fr": "Parfois, la plus grande sagesse est de se taire et d'attendre. Tu as gardé ton cœur aujourd'hui ; laisse maintenant le Seigneur parler durant ton repos."
+          }
+        },
+        {
+          "id": "perspectiva_eterna",
+          "label": {
+            "es": "Enfoque espiritual",
+            "en": "Spiritual focus",
+            "pt": "Foco espiritual",
+            "fr": "Focus spirituel"
+          },
+          "responseTitle": {
+            "es": "Perspectiva del Cielo",
+            "en": "Heavenly Perspective",
+            "pt": "Perspectiva do Céu",
+            "fr": "Perspective Céleste"
+          },
+          "responseText": {
+            "es": "Mirar más allá de lo terrenal aclara el panorama.",
+            "en": "Looking beyond the earthly clears the picture.",
+            "pt": "Olhar além do terreno esclarece o panorama.",
+            "fr": "Regarder au-delà du terrestre éclaircit l'horizon."
+          },
+          "verses": [
+            "Colosenses 3:2"
+          ],
+          "reflectionHeader": {
+            "es": "Enfoque Eterno",
+            "en": "Eternal Focus",
+            "pt": "Foco Eterno",
+            "fr": "Focus Éternel"
+          },
+          "reflection": {
+            "es": "Al elevar tu mirada hoy, recordaste que tus problemas son temporales y Su amor es eterno. Duerme bajo Su soberanía.",
+            "en": "By lifting your gaze today, you remembered that your problems are temporary and His love is eternal. Sleep under His sovereignty.",
+            "pt": "Ao elevar seu olhar hoje, você lembrou que seus problemas são temporários e o amor d'Ele é eterno. Durma sob a soberania de Deus.",
+            "fr": "En levant les yeux aujourd'hui, tu t'es rappelé que tes problèmes sont temporaires et Son amour est éternel. Dors sous Sa souveraineté."
+          }
+        },
+        {
+          "id": "sabiduria_activa",
+          "label": {
+            "es": "Actuando en amor",
+            "en": "Acting in love",
+            "pt": "Agindo com amor",
+            "fr": "Agir avec amour"
+          },
+          "responseTitle": {
+            "es": "Sabiduría en Acción",
+            "en": "Wisdom in Action",
+            "pt": "Sabedoria em Ação",
+            "fr": "Sagesse en Action"
+          },
+          "responseText": {
+            "es": "El amor es la demostración más alta de cordura.",
+            "en": "Love is the highest demonstration of sanity.",
+            "pt": "O amor é a demonstração mais alta de sensatez.",
+            "fr": "L'amour est la plus haute démonstration de sagesse."
+          },
+          "verses": [
+            "1 Juan 3:18"
+          ],
+          "reflectionHeader": {
+            "es": "Fe que se Ve",
+            "en": "Faith that is Seen",
+            "pt": "Fé que se Vê",
+            "fr": "Une Foi Visible"
+          },
+          "reflection": {
+            "es": "La verdadera sabiduría no es solo saber, sino hacer el bien. Hoy reflejaste a Cristo al amar, y eso es lo que realmente importa.",
+            "en": "True wisdom is not just knowing, but doing good. Today you reflected Christ by loving, and that is what truly matters.",
+            "pt": "A verdadeira sabedoria não é apenas saber, mas fazer o bem. Hoje você refletiu a Cristo ao amar, e isso é o que realmente importa.",
+            "fr": "La vraie sagesse n'est pas seulement de savoir, mais de faire le bien. Aujourd'hui, tu as reflété le Christ en aimant, et c'est ce qui compte vraiment."
           }
         }
       ]
