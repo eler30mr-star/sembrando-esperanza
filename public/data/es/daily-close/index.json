@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14",
+  "updatedAt": "2026-10-15",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -6438,6 +6438,236 @@
             "en": "True wisdom is not just knowing, but doing good. Today you reflected Christ by loving, and that is what truly matters.",
             "pt": "A verdadeira sabedoria não é apenas saber, mas fazer o bem. Hoje você refletiu a Cristo ao amar, e isso é o que realmente importa.",
             "fr": "La vraie sagesse n'est pas seulement de savoir, mais de faire le bien. Aujourd'hui, tu as reflété le Christ en aimant, et c'est ce qui compte vraiment."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera experimentaste hoy la plenitud que solo proviene de Dios?",
+        "en": "In what way did you experience the fullness that only comes from God today?",
+        "pt": "De que maneira você experimentou hoje a plenitude que só vem de Deus?",
+        "fr": "De quelle manière as-tu goûté aujourd'hui à la plénitude qui ne vient que de Dieu ?"
+      },
+      "options": [
+        {
+          "id": "gozo_alabanza_hoy",
+          "label": {
+            "es": "Alabándole",
+            "en": "Through praise",
+            "pt": "Louvando",
+            "fr": "Dans la louange"
+          },
+          "responseTitle": {
+            "es": "Un corazón agradecido",
+            "en": "A grateful heart",
+            "pt": "Um coração grato",
+            "fr": "Un cœur reconnaissant"
+          },
+          "responseText": {
+            "es": "Al elevar tu mirada hacia Dios, tu perspectiva cambió y encontraste satisfacción en Su presencia.",
+            "en": "By lifting your gaze to God, your perspective shifted and you found satisfaction in His presence.",
+            "pt": "Ao elevar o seu olhar para Deus, sua perspectiva mudou e você encontrou satisfação na Sua presença.",
+            "fr": "En élevant ton regard vers Dieu, ta perspective a changé et tu as trouvé satisfaction en Sa présence."
+          },
+          "verses": [
+            "Salmos 100:2"
+          ],
+          "reflectionHeader": {
+            "es": "El gozo de la adoración",
+            "en": "The joy of worship",
+            "pt": "O gozo da adoração",
+            "fr": "La joie de l'adoration"
+          },
+          "reflection": {
+            "es": "La alabanza no depende de nuestras circunstancias, sino de quién es Dios. Al reconocer Su grandeza hoy, has permitido que Su gozo llene los vacíos de tu alma, recordándote que Él es la fuente de todo bien.",
+            "en": "Praise does not depend on our circumstances, but on who God is. By recognizing His greatness today, you have allowed His joy to fill the voids in your soul, reminding you that He is the source of all good.",
+            "pt": "O louvor não depende das nossas circunstâncias, mas de quem Deus é. Ao reconhecer a Sua grandeza hoje, você permitiu que a Sua alegria preenchesse os vazios da sua alma, lembrando que Ele é a fonte de todo bem.",
+            "fr": "La louange ne dépend pas de nos circonstances, mais de qui est Dieu. En reconnaissant Sa grandeur aujourd'hui, tu as laissé Sa joie combler les vides de ton âme, te rappelant qu'Il est la source de tout bien."
+          }
+        },
+        {
+          "id": "asombro_creacion_divina",
+          "label": {
+            "es": "En Su creación",
+            "en": "In His creation",
+            "pt": "Na criação",
+            "fr": "Dans Sa création"
+          },
+          "responseTitle": {
+            "es": "Belleza revelada",
+            "en": "Revealed beauty",
+            "pt": "Beleza revelada",
+            "fr": "Beauté révélée"
+          },
+          "responseText": {
+            "es": "Viste la mano de Dios en los detalles del mundo y eso trajo paz a tu espíritu.",
+            "en": "You saw God's hand in the details of the world and that brought peace to your spirit.",
+            "pt": "Você viu a mão de Deus nos detalhes do mundo e isso trouxe paz ao seu espírito.",
+            "fr": "Tu as vu la main de Dieu dans les détails du monde et cela a apporté la paix à ton esprit."
+          },
+          "verses": [
+            "Salmos 19:1"
+          ],
+          "reflectionHeader": {
+            "es": "Dios habla en lo creado",
+            "en": "God speaks in creation",
+            "pt": "Deus fala no que foi criado",
+            "fr": "Dieu parle dans la création"
+          },
+          "reflection": {
+            "es": "Cada atardecer, cada flor y cada respiro son ecos de la gloria de Dios. Hoy te detuviste a observar y recordaste que el Creador del universo cuida también de los detalles más pequeños de tu vida.",
+            "en": "Every sunset, every flower, and every breath are echoes of God's glory. Today you paused to observe and remembered that the Creator of the universe also cares for the smallest details of your life.",
+            "pt": "Cada pôr do sol, cada flor e cada respiração são ecos da glória de Deus. Hoje você parou para observar e lembrou que o Criador do universo também cuida dos mínimos detalhes da sua vida.",
+            "fr": "Chaque coucher de soleil, chaque fleur et chaque souffle est un écho de la gloire de Dieu. Aujourd'hui, tu t'es arrêté pour observer et tu t'es rappelé que le Créateur de l'univers prend aussi soin des plus petits détails de ta vie."
+          }
+        },
+        {
+          "id": "paz_corazon_saciado",
+          "label": {
+            "es": "Con lo suficiente",
+            "en": "With enough",
+            "pt": "Com o suficiente",
+            "fr": "Avec le nécessaire"
+          },
+          "responseTitle": {
+            "es": "Paz en la provisión",
+            "en": "Peace in provision",
+            "pt": "Paz na provisão",
+            "fr": "Paix dans la provision"
+          },
+          "responseText": {
+            "es": "Encontraste descanso al aceptar que la gracia de Dios es suficiente para este día.",
+            "en": "You found rest by accepting that God's grace is sufficient for this day.",
+            "pt": "Você encontrou descanso ao aceitar que a graça de Deus é suficiente para este dia.",
+            "fr": "Tu as trouvé du repos en acceptant que la grâce de Dieu suffit pour cette journée."
+          },
+          "verses": [
+            "Filipenses 4:11"
+          ],
+          "reflectionHeader": {
+            "es": "La quietud del alma saciada",
+            "en": "The stillness of a satisfied soul",
+            "pt": "A quietude da alma saciada",
+            "fr": "Le calme d'une âme comblée"
+          },
+          "reflection": {
+            "es": "El contentamiento no es tener todo lo que queremos, sino reconocer que tenemos todo lo que necesitamos en Cristo. Hoy has elegido la paz sobre la ansiedad, confiando plenamente en Su provisión perfecta.",
+            "en": "Contentment is not having everything we want, but recognizing that we have everything we need in Christ. Today you chose peace over anxiety, fully trusting in His perfect provision.",
+            "pt": "O contentamento não é ter tudo o que queremos, mas reconhecer que temos tudo o que precisamos em Cristo. Hoje você escolheu a paz em vez da ansiedade, confiando plenamente na Sua provisão perfeita.",
+            "fr": "Le contentement n'est pas d'avoir tout ce que l'on veut, mais de reconnaître que nous avons tout ce dont nous avons besoin en Christ. Aujourd'hui, tu as choisi la paix plutôt que l'anxiété, te confiant pleinement en Sa provision parfaite."
+          }
+        },
+        {
+          "id": "descanso_alma_quietud",
+          "label": {
+            "es": "Descansando en Él",
+            "en": "Resting in Him",
+            "pt": "Descansando nEle",
+            "fr": "En se reposant en Lui"
+          },
+          "responseTitle": {
+            "es": "Refugio para el alma",
+            "en": "Soul's refuge",
+            "pt": "Refúgio para a alma",
+            "fr": "Refuge pour l'âme"
+          },
+          "responseText": {
+            "es": "Buscaste momentos de silencio para renovar tus fuerzas en Su presencia.",
+            "en": "You sought moments of silence to renew your strength in His presence.",
+            "pt": "Você buscou momentos de silêncio para renovar suas forças na Sua presença.",
+            "fr": "Tu as cherché des moments de silence pour renouveler tes forces en Sa présence."
+          },
+          "verses": [
+            "Mateo 11:28"
+          ],
+          "reflectionHeader": {
+            "es": "Reposo verdadero",
+            "en": "True rest",
+            "pt": "Repouso verdadeiro",
+            "fr": "Repos véritable"
+          },
+          "reflection": {
+            "es": "Entregar tus cargas es un acto de fe. Al elegir descansar hoy, has reconocido que no tienes que llevar el mundo sobre tus hombros, pues hay un Padre amoroso que sostiene tu caminar.",
+            "en": "Surrendering your burdens is an act of faith. By choosing to rest today, you have recognized that you don't have to carry the world on your shoulders, for there is a loving Father who sustains your journey.",
+            "pt": "Entregar seus fardos é um ato de fé. Ao escolher descansar hoje, você reconheceu que não precisa carregar o mundo nos ombros, pois há um Pai amoroso que sustenta o seu caminhar.",
+            "fr": "Remettre tes fardeaux est un acte de foi. En choisissant de te reposer aujourd'hui, tu as reconnu que tu n'as pas à porter le monde sur tes épaules, car il y a un Père aimant qui soutient ta marche."
+          }
+        },
+        {
+          "id": "proposito_amor_projimo",
+          "label": {
+            "es": "Dándome a otros",
+            "en": "Giving to others",
+            "pt": "Dando-me aos outros",
+            "fr": "En se donnant"
+          },
+          "responseTitle": {
+            "es": "Amor en acción",
+            "en": "Love in action",
+            "pt": "Amor em ação",
+            "fr": "L'amour en action"
+          },
+          "responseText": {
+            "es": "Experimentaste la alegría de ser un canal de bendición para alguien más.",
+            "en": "You experienced the joy of being a channel of blessing for someone else.",
+            "pt": "Você experimentou a alegria de ser um canal de bênção para outra pessoa.",
+            "fr": "Tu as éprouvé la joie d'être un canal de bénédiction pour quelqu'un d'autre."
+          },
+          "verses": [
+            "Hechos 20:35"
+          ],
+          "reflectionHeader": {
+            "es": "La alegría de servir",
+            "en": "The joy of serving",
+            "pt": "A alegria de servir",
+            "fr": "La joie de servir"
+          },
+          "reflection": {
+            "es": "Hay una plenitud especial que solo se encuentra cuando salimos de nosotros mismos para amar al prójimo. Hoy, al servir, reflejaste el corazón de Cristo y descubriste que dar es el camino a la verdadera abundancia.",
+            "en": "There is a special fullness only found when we step out of ourselves to love our neighbor. Today, through serving, you reflected Christ's heart and discovered that giving is the path to true abundance.",
+            "pt": "Há uma plenitude especial que só é encontrada quando saímos de nós mesmos para amar o próximo. Hoje, ao servir, você refletiu o coração de Cristo e descobriu que dar é o caminho para a verdadeira abundância.",
+            "fr": "Il y a une plénitude particulière que l'on ne trouve que lorsqu'on sort de soi-même pour aimer son prochain. Aujourd'hui, en servant, tu as reflété le cœur de Christ et découvert que donner est le chemin de la véritable abondance."
+          }
+        },
+        {
+          "id": "sustento_verdad_eterna",
+          "label": {
+            "es": "En Su verdad",
+            "en": "In His truth",
+            "pt": "Na Sua verdade",
+            "fr": "Dans Sa vérité"
+          },
+          "responseTitle": {
+            "es": "Alimento espiritual",
+            "en": "Spiritual food",
+            "pt": "Alimento espiritual",
+            "fr": "Nourriture spirituelle"
+          },
+          "responseText": {
+            "es": "La Palabra de Dios fue el sustento que dio dirección y claridad a tus pensamientos.",
+            "en": "God's Word was the sustenance that gave direction and clarity to your thoughts.",
+            "pt": "A Palavra de Deus foi o sustento que deu direção e clareza aos seus pensamentos.",
+            "fr": "La Parole de Dieu a été le soutien qui a donné direction et clarté à tes pensées."
+          },
+          "verses": [
+            "Salmos 119:103"
+          ],
+          "reflectionHeader": {
+            "es": "Tu sustento es Su Palabra",
+            "en": "His Word is your sustenance",
+            "pt": "Seu sustento é a Sua Palavra",
+            "fr": "Ta subsistance est Sa Parole"
+          },
+          "reflection": {
+            "es": "Sumergir el corazón en las promesas bíblicas nos permite caminar con firmeza. Hoy, Su verdad fue más dulce que cualquier distracción, dándote la seguridad de que Su consejo es el ancla perfecta para tu vida.",
+            "en": "Immersing the heart in biblical promises allows us to walk with firmness. Today, His truth was sweeter than any distraction, giving you the assurance that His counsel is the perfect anchor for your life.",
+            "pt": "Mergulhar o coração nas promessas bíblicas nos permite caminhar com firmeza. Hoje, a Sua verdade foi mais doce do que qualquer distração, dando a você a segurança de que o Seu conselho é a âncora perfeita para sua vida.",
+            "fr": "Plonger son cœur dans les promesses bibliques nous permet de marcher avec fermeté. Aujourd'hui, Sa vérité a été plus douce que n'importe quelle distraction, te donnant l'assurance que Son conseil est l'ancre parfaite pour ta vie."
           }
         }
       ]
