@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15",
+  "updatedAt": "2026-10-16",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -6668,6 +6668,236 @@
             "en": "Immersing the heart in biblical promises allows us to walk with firmness. Today, His truth was sweeter than any distraction, giving you the assurance that His counsel is the perfect anchor for your life.",
             "pt": "Mergulhar o coração nas promessas bíblicas nos permite caminhar com firmeza. Hoje, a Sua verdade foi mais doce do que qualquer distração, dando a você a segurança de que o Seu conselho é a âncora perfeita para sua vida.",
             "fr": "Plonger son cœur dans les promesses bibliques nous permet de marcher avec fermeté. Aujourd'hui, Sa vérité a été plus douce que n'importe quelle distraction, te donnant l'assurance que Son conseil est l'ancre parfaite pour ta vie."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿Cómo lograste hoy mantener tu enfoque en lo que tiene valor eterno?",
+        "en": "How did you manage to keep your focus on what has eternal value today?",
+        "pt": "Como você conseguiu hoje manter o foco no que tem valor eterno?",
+        "fr": "Comment as-tu réussi aujourd'hui à garder ton attention sur ce qui a une valeur éternelle ?"
+      },
+      "options": [
+        {
+          "id": "priorizando_lo_esencial",
+          "label": {
+            "es": "Priorizando lo mejor",
+            "en": "Choosing the best",
+            "pt": "Priorizando o melhor",
+            "fr": "Choisir l'essentiel"
+          },
+          "responseTitle": {
+            "es": "Una sola cosa es necesaria",
+            "en": "Only one thing is needed",
+            "pt": "Uma só coisa é necessária",
+            "fr": "Une seule chose est nécessaire"
+          },
+          "responseText": {
+            "es": "Hoy decidiste apartar las distracciones secundarias para enfocarte en la presencia de Dios y en lo que realmente trasciende.",
+            "en": "Today you decided to set aside secondary distractions to focus on God's presence and what truly transcends.",
+            "pt": "Hoje você decidiu afastar as distrações secundárias para se concentrar na presença de Deus e no que realmente transcende.",
+            "fr": "Aujourd'hui, tu as décidé d'écarter les distractions secondaires pour te concentrer sur la présence de Dieu et sur ce qui est éternel."
+          },
+          "verses": [
+            "Lucas 10:42"
+          ],
+          "reflectionHeader": {
+            "es": "El tesoro de tu atención",
+            "en": "The treasure of your attention",
+            "pt": "O tesouro da sua atenção",
+            "fr": "Le trésor de ton attention"
+          },
+          "reflection": {
+            "es": "En un mundo que exige nuestra atención constante, elegir sentarse a los pies del Maestro es un acto de valentía espiritual. Al terminar este día, descansa sabiendo que tu tiempo con Él nunca es tiempo perdido.",
+            "en": "In a world that demands our constant attention, choosing to sit at the Master's feet is an act of spiritual courage. As you end this day, rest knowing that your time with Him is never wasted.",
+            "pt": "Em um mundo que exige nossa atenção constante, escolher sentar-se aos pés do Mestre é um ato de coragem espiritual. Ao terminar este dia, descanse sabendo que seu tempo com Ele nunca é tempo perdido.",
+            "fr": "Dans un monde qui exige notre attention constante, choisir de s'asseoir aux pieds du Maître est un acte de courage spirituel. En terminant cette journée, repose-toi en sachant que ton temps avec Lui n'est jamais perdu."
+          }
+        },
+        {
+          "id": "crecimiento_en_prueba",
+          "label": {
+            "es": "Superando retos",
+            "en": "Overcoming challenges",
+            "pt": "Superando desafios",
+            "fr": "Surmonter les défis"
+          },
+          "responseTitle": {
+            "es": "Firmeza en la prueba",
+            "en": "Steadfastness in trials",
+            "pt": "Firmeza na prova",
+            "fr": "Fermeté dans l'épreuve"
+          },
+          "responseText": {
+            "es": "Viste cada obstáculo no como un muro, sino como una oportunidad para que Dios fortaleciera tu carácter y constancia.",
+            "en": "You saw every obstacle not as a wall, but as an opportunity for God to strengthen your character and constancy.",
+            "pt": "Você viu cada obstáculo não como um muro, mas como uma oportunidade para Deus fortalecer seu caráter e constância.",
+            "fr": "Tu as vu chaque obstacle non pas comme un mur, mais comme une opportunité pour Dieu de fortifier ton caractère et ta persévérance."
+          },
+          "verses": [
+            "Santiago 1:3"
+          ],
+          "reflectionHeader": {
+            "es": "Tu fe en el fuego",
+            "en": "Your faith in the fire",
+            "pt": "Sua fé no fogo",
+            "fr": "Ta foi au feu"
+          },
+          "reflection": {
+            "es": "La resistencia espiritual no se construye en la comodidad, sino en la perseverancia ante las dificultades. Hoy has permitido que la prueba refine tu fe en lugar de apagarla.",
+            "en": "Spiritual endurance is not built in comfort, but in perseverance through difficulties. Today you have allowed the trial to refine your faith instead of extinguishing it.",
+            "pt": "A resistência espiritual não é construída no conforto, mas na perseverança diante das dificuldades. Hoje você permitiu que a prova refinasse sua fé em vez de apagá-la.",
+            "fr": "L'endurance spirituelle ne se construit pas dans le confort, mais dans la persévérance face aux difficultés. Aujourd'hui, tu as laissé l'épreuve affiner ta foi au lieu de l'éteindre."
+          }
+        },
+        {
+          "id": "integridad_invisible",
+          "label": {
+            "es": "Actuando con rectitud",
+            "en": "Acting with integrity",
+            "pt": "Agindo com retidão",
+            "fr": "Agir avec intégrité"
+          },
+          "responseTitle": {
+            "es": "Un corazón transparente",
+            "en": "A transparent heart",
+            "pt": "Um coração transparente",
+            "fr": "Un cœur transparent"
+          },
+          "responseText": {
+            "es": "Buscaste honrar a Dios en lo privado y en lo público, manteniendo tu conciencia limpia delante de Él.",
+            "en": "You sought to honor God privately and publicly, keeping your conscience clear before Him.",
+            "pt": "Você buscou honrar a Deus no privado e no público, mantendo sua consciência limpa diante Dele.",
+            "fr": "Tu as cherché à honorer Dieu en privé comme en public, en gardant ta conscience pure devant Lui."
+          },
+          "verses": [
+            "Hechos 24:16"
+          ],
+          "reflectionHeader": {
+            "es": "La paz de la coherencia",
+            "en": "The peace of consistency",
+            "pt": "A paz da coerência",
+            "fr": "La paix de la cohérence"
+          },
+          "reflection": {
+            "es": "Vivir con integridad produce una paz que el mundo no puede ofrecer. Al acostarte, agradece al Espíritu por guiarte a caminar en la verdad, incluso cuando nadie más estaba mirando.",
+            "en": "Living with integrity produces a peace the world cannot offer. As you go to bed, thank the Spirit for guiding you to walk in truth, even when no one else was watching.",
+            "pt": "Viver com integridade produz uma paz que o mundo não pode oferecer. Ao se deitar, agradeça ao Espírito por guiá-lo a caminhar na verdade, mesmo quando ninguém mais estava olhando.",
+            "fr": "Vivre avec intégrité produit une paix que le monde ne peut offrir. En te couchant, remercie l'Esprit de t'avoir guidé à marcher dans la vérité, même quand personne ne regardait."
+          }
+        },
+        {
+          "id": "valor_de_lo_pequeno",
+          "label": {
+            "es": "Valorando lo pequeño",
+            "en": "Valuing small things",
+            "pt": "Valorizando o pequeno",
+            "fr": "Valoriser le petit"
+          },
+          "responseTitle": {
+            "es": "Avances que Dios ve",
+            "en": "Progress that God sees",
+            "pt": "Avanços que Deus vê",
+            "fr": "Des progrès que Dieu voit"
+          },
+          "responseText": {
+            "es": "Reconociste la mano de Dios en los detalles mínimos y no despreciaste los comienzos humildes del día.",
+            "en": "You recognized God's hand in the smallest details and did not despise the day's humble beginnings.",
+            "pt": "Você reconheceu a mão de Deus nos mínimos detalhes e não desprezou os começos humildes do dia.",
+            "fr": "Tu as reconnu la main de Dieu dans les moindres détails et tu n'as pas méprisé les humbles débuts de la journée."
+          },
+          "verses": [
+            "Zacarías 4:10"
+          ],
+          "reflectionHeader": {
+            "es": "Fidelidad en lo poco",
+            "en": "Faithfulness in little",
+            "pt": "Fidelidade no pouco",
+            "fr": "Fidélité dans le peu"
+          },
+          "reflection": {
+            "es": "A veces esperamos grandes eventos para ver a Dios, pero Él se deleita en nuestra obediencia en las cosas pequeñas. Cada paso fiel hoy ha sido una semilla sembrada para Su reino.",
+            "en": "Sometimes we wait for big events to see God, but He delights in our obedience in small things. Every faithful step today has been a seed sown for His kingdom.",
+            "pt": "Às vezes esperamos grandes eventos para ver a Deus, mas Ele se agrada de nossa obediência nas coisas pequenas. Cada passo fiel hoje foi uma semente plantada para o Seu reino.",
+            "fr": "Parfois, nous attendons de grands événements pour voir Dieu, mais Il se réjouit de notre obéissance dans les petites choses. Chaque pas fidèle aujourd'hui a été une graine semée pour Son royaume."
+          }
+        },
+        {
+          "id": "calma_interior_constante",
+          "label": {
+            "es": "Silencio espiritual",
+            "en": "Spiritual silence",
+            "pt": "Silêncio espiritual",
+            "fr": "Silence spirituel"
+          },
+          "responseTitle": {
+            "es": "Mente fija en Dios",
+            "en": "Mind fixed on God",
+            "pt": "Mente fixa em Deus",
+            "fr": "L'esprit fixé sur Dieu"
+          },
+          "responseText": {
+            "es": "A pesar del ruido y la agitación, lograste que tu mente regresara a descansar en las promesas del Señor.",
+            "en": "Despite the noise and turmoil, you managed to bring your mind back to rest in the Lord's promises.",
+            "pt": "Apesar do ruído e da agitação, você conseguiu que sua mente voltasse a descansar nas promessas do Senhor.",
+            "fr": "Malgré le bruit et l'agitation, tu as réussi à ramener ton esprit au repos dans les promesses du Seigneur."
+          },
+          "verses": [
+            "Isaías 26:3"
+          ],
+          "reflectionHeader": {
+            "es": "Tu refugio mental",
+            "en": "Your mental refuge",
+            "pt": "Seu refúgio mental",
+            "fr": "Ton refuge mental"
+          },
+          "reflection": {
+            "es": "La paz perfecta no es la ausencia de problemas, sino la presencia de Dios en tus pensamientos. Termina este día entregando cualquier preocupación restante a Aquel que sostiene el universo.",
+            "en": "Perfect peace is not the absence of problems, but God's presence in your thoughts. End this day by surrendering any remaining worry to the One who holds the universe.",
+            "pt": "A paz perfeita não é a ausência de problemas, mas a presença de Deus em seus pensamentos. Termine este dia entregando qualquer preocupação restante Àquele que sustenta o universo.",
+            "fr": "La paix parfaite n'est pas l'absence de problèmes, mais la présence de Dieu dans tes pensées. Termine cette journée en confiant tout souci restant à Celui qui soutient l'univers."
+          }
+        },
+        {
+          "id": "devocion_en_secreto",
+          "label": {
+            "es": "Oración discreta",
+            "en": "Quiet prayer",
+            "pt": "Oração discreta",
+            "fr": "Prière discrète"
+          },
+          "responseTitle": {
+            "es": "Encuentros íntimos",
+            "en": "Intimate encounters",
+            "pt": "Encontros íntimos",
+            "fr": "Rencontres intimes"
+          },
+          "responseText": {
+            "es": "Buscaste momentos a solas con el Padre, nutriendo tu alma en lo secreto lejos de las miradas ajenas.",
+            "en": "You sought moments alone with the Father, nourishing your soul in secret away from the gaze of others.",
+            "pt": "Você buscou momentos a sós com o Pai, nutrindo sua alma no secreto longe dos olhares alheios.",
+            "fr": "Tu as cherché des moments seul avec le Père, nourrissant ton âme dans le secret, loin des regards des autres."
+          },
+          "verses": [
+            "Mateo 6:6"
+          ],
+          "reflectionHeader": {
+            "es": "Donde Dios te escucha",
+            "en": "Where God hears you",
+            "pt": "Onde Deus te ouve",
+            "fr": "Là où Dieu t'écoute"
+          },
+          "reflection": {
+            "es": "La vida espiritual se fortalece en la intimidad. Esos suspiros de oración y momentos de búsqueda privada han sido el combustible para tu caminar público hoy. Dios, que ve en lo secreto, te recompensa con Su paz.",
+            "en": "Spiritual life is strengthened in intimacy. Those sighs of prayer and moments of private seeking have been the fuel for your public walk today. God, who sees in secret, rewards you with His peace.",
+            "pt": "A vida espiritual se fortalece na intimidade. Esses suspiros de oração e momentos de busca privada foram o combustível para o seu caminhar público hoje. Deus, que vê no secreto, recompensa você com Sua paz.",
+            "fr": "La vie spirituelle se fortifie dans l'intimité. Ces soupirs de prière et ces moments de recherche privée ont été le carburant de ta marche publique aujourd'hui. Dieu, qui voit dans le secret, te récompense par Sa paix."
           }
         }
       ]
