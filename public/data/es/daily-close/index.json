@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16",
+  "updatedAt": "2026-10-17",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -6898,6 +6898,236 @@
             "en": "Spiritual life is strengthened in intimacy. Those sighs of prayer and moments of private seeking have been the fuel for your public walk today. God, who sees in secret, rewards you with His peace.",
             "pt": "A vida espiritual se fortalece na intimidade. Esses suspiros de oração e momentos de busca privada foram o combustível para o seu caminhar público hoje. Deus, que vê no secreto, recompensa você com Sua paz.",
             "fr": "La vie spirituelle se fortifie dans l'intimité. Ces soupirs de prière et ces moments de recherche privée ont été le carburant de ta marche publique aujourd'hui. Dieu, qui voit dans le secret, te récompense par Sa paix."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera entregaste hoy tus afanes para descansar en la providencia de Dios?",
+        "en": "In what way did you surrender your worries today to rest in God's providence?",
+        "pt": "De que maneira você entregou hoje as suas preocupações para descansar na providência de Deus?",
+        "fr": "De quelle manière as-tu remis tes soucis aujourd'hui pour reposer dans la providence de Dieu ?"
+      },
+      "options": [
+        {
+          "id": "confiando_el_manana",
+          "label": {
+            "es": "Confiando el mañana",
+            "en": "Trusting tomorrow",
+            "pt": "Confiando o amanhã",
+            "fr": "Confier le lendemain"
+          },
+          "responseTitle": {
+            "es": "El mañana está en sus manos",
+            "en": "Tomorrow is in His hands",
+            "pt": "O amanhã está nas mãos d'Ele",
+            "fr": "Demain est entre Ses mains"
+          },
+          "responseText": {
+            "es": "Decidiste no cargar por adelantado con las exigencias del día que viene, reconociendo que la gracia de Dios se renueva con cada amanecer.",
+            "en": "You chose not to carry tomorrow's demands ahead of time, recognizing that God's grace is renewed every morning.",
+            "pt": "Você escolheu não carregar com antecedência as exigências do amanhã, reconhecendo que a graça de Deus se renova a cada manhã.",
+            "fr": "Tu as choisi de ne pas porter à l'avance les exigences du lendemain, sachant que la grâce de Dieu se renouvelle chaque matin."
+          },
+          "verses": [
+            "Mateo 6:34"
+          ],
+          "reflectionHeader": {
+            "es": "Paz para el día de hoy",
+            "en": "Peace for today",
+            "pt": "Paz para o dia de hoje",
+            "fr": "La paix pour aujourd'hui"
+          },
+          "reflection": {
+            "es": "Cada jornada trae su propia suficiencia. Al entregar tus preocupaciones por el futuro, abres espacio en tu corazón para recibir la paz del presente.",
+            "en": "Each day brings its own sufficiency. By surrendering your worries about the future, you open space in your heart to receive the peace of the present.",
+            "pt": "Cada dia traz a sua própria suficiência. Ao entregar as suas preocupações com o futuro, você abre espaço no coração para receber a paz do presente.",
+            "fr": "Chaque jour a sa propre suffisance. En remettant tes inquiétudes pour l'avenir, tu ouvres un espace dans ton cœur pour recevoir la paix du présent."
+          }
+        },
+        {
+          "id": "soltando_cargas",
+          "label": {
+            "es": "Soltando cargas",
+            "en": "Releasing burdens",
+            "pt": "Soltando fardos",
+            "fr": "Déposer les fardeaux"
+          },
+          "responseTitle": {
+            "es": "Tu carga sobre el Señor",
+            "en": "Your burden on the Lord",
+            "pt": "Seu fardo sobre o Senhor",
+            "fr": "Ton fardeau sur le Seigneur"
+          },
+          "responseText": {
+            "es": "Entendiste que no fuiste diseñado para sostenerlo todo solo. Al depositar tus pesos en Dios, hallas el reposo verdadero.",
+            "en": "You realized you were not made to hold everything alone. By placing your weights upon God, you find true rest.",
+            "pt": "Você entendeu que não foi feito para carregar tudo sozinho. Ao colocar seus pesos em Deus, encontra o verdadeiro descanso.",
+            "fr": "Tu as compris que tu n'étais pas fait pour tout porter seul. En déposant tes poids auprès de Dieu, tu trouves le vrai repos."
+          },
+          "verses": [
+            "Salmos 55:22"
+          ],
+          "reflectionHeader": {
+            "es": "Sostenido por Su mano",
+            "en": "Sustained by His hand",
+            "pt": "Sustentado por Sua mão",
+            "fr": "Soutenu par Sa main"
+          },
+          "reflection": {
+            "es": "Descansar no significa ignorar las responsabilidades, sino confiar en que Dios sostiene tanto la tarea como a quien la realiza.",
+            "en": "Resting doesn't mean ignoring responsibilities, but trusting that God holds both the task and the one doing it.",
+            "pt": "Descansar não significa ignorar as responsabilidades, mas confiar que Deus sustenta tanto a tarefa quanto quem a realiza.",
+            "fr": "Se reposer ne signifie pas ignorer ses responsabilités, mais faire confiance à Dieu qui soutient à la fois la tâche et celui qui l'accomplit."
+          }
+        },
+        {
+          "id": "oracion_de_entrega",
+          "label": {
+            "es": "Oración de entrega",
+            "en": "Prayer of surrender",
+            "pt": "Oração de entrega",
+            "fr": "Prière d'abandon"
+          },
+          "responseTitle": {
+            "es": "Transformando afán en oración",
+            "en": "Turning worry into prayer",
+            "pt": "Transformando afã em oração",
+            "fr": "Transformer le souci en prière"
+          },
+          "responseText": {
+            "es": "Elegiste transformar la inquietud en un diálogo sincero con el Padre, presentando tus peticiones con gratitud antes de dormir.",
+            "en": "You chose to transform restlessness into a sincere dialogue with the Father, presenting your requests with gratitude before sleeping.",
+            "pt": "Você escolheu transformar a inquietude em um diálogo sincero com o Pai, apresentando seus pedidos com gratidão antes de dormir.",
+            "fr": "Tu as choisi de transformer l'inquiétude en un dialogue sincère avec le Père, en Lui présentant tes requêtes avec gratitude avant de dormir."
+          },
+          "verses": [
+            "Filipenses 4:6"
+          ],
+          "reflectionHeader": {
+            "es": "Paz que sobrepasa todo",
+            "en": "Peace surpassing all",
+            "pt": "Paz que excede tudo",
+            "fr": "Une paix supra-humaine"
+          },
+          "reflection": {
+            "es": "La oración constante actúa como un filtro que limpia el alma de la ansiedad. Al hablar con Dios, Su paz guarda tu corazón esta noche.",
+            "en": "Constant prayer acts like a filter cleaning the soul of anxiety. As you speak with God, His peace guards your heart tonight.",
+            "pt": "A oração constante atua como um filtro que limpa a alma da ansiedade. Ao falar com Deus, Sua paz guarda seu coração esta noite.",
+            "fr": "La prière constante agit comme un filtre qui purifie l'âme de l'anxiété. En parlant avec Dieu, Sa paix garde ton cœur cette nuit."
+          }
+        },
+        {
+          "id": "aceptando_limites",
+          "label": {
+            "es": "Aceptando límites",
+            "en": "Accepting limits",
+            "pt": "Aceitando limites",
+            "fr": "Accepter ses limites"
+          },
+          "responseTitle": {
+            "es": "El regalo del descanso",
+            "en": "The gift of rest",
+            "pt": "O presente do descanso",
+            "fr": "Le don du repos"
+          },
+          "responseText": {
+            "es": "Reconociste tu condición humana y tus fronteras de energía, permitiéndote pausar sabiendo que Dios guarda tu descanso.",
+            "en": "You acknowledged your human limits and energy boundaries, allowing yourself to pause knowing God guards your sleep.",
+            "pt": "Você reconheceu sua condição humana e seus limites de energia, permitindo-se pausar sabendo que Deus guarda seu descanso.",
+            "fr": "Tu as reconnu ta condition humaine et tes limites d'énergie, te permettant de faire une pause en sachant que Dieu veille sur ton sommeil."
+          },
+          "verses": [
+            "Salmos 127:2"
+          ],
+          "reflectionHeader": {
+            "es": "Dios cuida a quien ama",
+            "en": "God cares for His loved ones",
+            "pt": "Deus cuida de quem ama",
+            "fr": "Dieu prend soin des siens"
+          },
+          "reflection": {
+            "es": "Trabajar en exceso no garantiza la seguridad; es la bendición del Señor la que trae serenidad. Puedes dormir tranquilo sabiendo que Él vela.",
+            "en": "Overworking doesn't guarantee security; it is the Lord's blessing that brings serenity. You can sleep peacefully knowing He watches over you.",
+            "pt": "Trabalhar em excesso não garante a segurança; é a bênção do Senhor que traz serenidade. Você pode dormir tranquilo sabendo que Ele vigia.",
+            "fr": "Travailler à l'excès ne garantit pas la sécurité ; c'est la bénédiction du Seigneur qui apporte la sérénité. Tu peux dormir en paix en sachant qu'Il veille."
+          }
+        },
+        {
+          "id": "fe_en_lo_invisible",
+          "label": {
+            "es": "Fe en lo invisible",
+            "en": "Faith in the unseen",
+            "pt": "Fé no invisível",
+            "fr": "Foi dans l'invisible"
+          },
+          "responseTitle": {
+            "es": "Caminando por fe",
+            "en": "Walking by faith",
+            "pt": "Caminhando por fé",
+            "fr": "Marcher par la foi"
+          },
+          "responseText": {
+            "es": "Decidiste confiar en el propósito soberano de Dios aun cuando los resultados inmediatos no eran del todo claros.",
+            "en": "You chose to trust God's sovereign purpose even when immediate outcomes were not completely clear.",
+            "pt": "Você escolheu confiar no propósito soberano de Deus mesmo quando os resultados imediatos não eram totalmente claros.",
+            "fr": "Tu as choisi de faire confiance au dessein souverain de Dieu même lorsque les résultats immédiats n'étaient pas clairs."
+          },
+          "verses": [
+            "2 Corintios 5:7"
+          ],
+          "reflectionHeader": {
+            "es": "Confianza en el camino",
+            "en": "Trusting the journey",
+            "pt": "Confiança no caminho",
+            "fr": "Confiance sur le chemin"
+          },
+          "reflection": {
+            "es": "La fe nos permite soltar la necesidad de ver todo resuelto hoy. Dios sigue trabajando en los detalles que aún no alcanzamos a vislumbrar.",
+            "en": "Faith allows us to release the need to see everything resolved today. God continues working on details we cannot yet glimpse.",
+            "pt": "A fé nos permite soltar a necessidade de ver tudo resolvido hoje. Deus continua trabalhando nos detalhes que ainda não conseguimos ver.",
+            "fr": "La foi nous permet d'abandonner le besoin de tout voir résolu aujourd'hui. Dieu continue d'agir dans les détails que nous ne voyons pas encore."
+          }
+        },
+        {
+          "id": "refugio_en_su_paz",
+          "label": {
+            "es": "Refugio en Su paz",
+            "en": "Refuge in His peace",
+            "pt": "Refúgio em Sua paz",
+            "fr": "Refuge dans Sa paix"
+          },
+          "responseTitle": {
+            "es": "Dormir en perfecta paz",
+            "en": "Sleep in perfect peace",
+            "pt": "Dormir em perfeita paz",
+            "fr": "Dormir en paix parfaite"
+          },
+          "responseText": {
+            "es": "Te acostaste entregando el día terminado, reconociendo que solo el Señor te hace vivir confiado y protegido.",
+            "en": "You lay down turning over the finished day, recognizing that only the Lord makes you live in safety and protection.",
+            "pt": "Você se deitou entregando o dia terminado, reconhecendo que só o Senhor o faz viver confiante e protegido.",
+            "fr": "Tu t'es couché en confiant la journée achevée, reconnaissant que seul le Seigneur te fait vivre en sécurité."
+          },
+          "verses": [
+            "Salmos 4:8"
+          ],
+          "reflectionHeader": {
+            "es": "Seguridad para descansar",
+            "en": "Security to rest",
+            "pt": "Segurança para descansar",
+            "fr": "Sécurité pour se reposer"
+          },
+          "reflection": {
+            "es": "Cerrar el día con serenidad es un acto de adoración. Al soltar tus pensamientos en la presencia de Dios, te preparas para un sueño reparador.",
+            "en": "Closing the day with serenity is an act of worship. By releasing your thoughts in God's presence, you prepare for restorative sleep.",
+            "pt": "Fechar o dia com serenidade é um ato de adoração. Ao soltar seus pensamentos na presença de Deus, você se prepara para um sono restaurador.",
+            "fr": "Terminer la journée avec sérénité est un acte d'adoration. En abandonnant tes pensées en la présence de Dieu, tu te prépares à un sommeil réparateur."
           }
         }
       ]
