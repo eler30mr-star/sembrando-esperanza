@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17",
+  "updatedAt": "2026-10-18",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -7128,6 +7128,236 @@
             "en": "Closing the day with serenity is an act of worship. By releasing your thoughts in God's presence, you prepare for restorative sleep.",
             "pt": "Fechar o dia com serenidade é um ato de adoração. Ao soltar seus pensamentos na presença de Deus, você se prepara para um sono restaurador.",
             "fr": "Terminer la journée avec sérénité est un acte d'adoration. En abandonnant tes pensées en la présence de Dieu, tu te prépares à un sommeil réparateur."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿Cómo nutriste hoy tus raíces espirituales para permanecer firme?",
+        "en": "How did you nourish your spiritual roots to stand firm today?",
+        "pt": "Como você nutriu hoje suas raízes espirituais para permanecer firme?",
+        "fr": "Comment as-tu nourri tes racines spirituelles pour rester ferme aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "palabra_viva",
+          "label": {
+            "es": "En Su Palabra",
+            "en": "In His Word",
+            "pt": "Em Sua Palavra",
+            "fr": "Dans Sa Parole"
+          },
+          "responseTitle": {
+            "es": "Alimento para el alma",
+            "en": "Food for the soul",
+            "pt": "Alimento para a alma",
+            "fr": "Nourriture pour l'âme"
+          },
+          "responseText": {
+            "es": "Has buscado sustento en la verdad eterna que no cambia.",
+            "en": "You have sought sustenance in the eternal truth that never changes.",
+            "pt": "Você buscou sustento na verdade eterna que não muda.",
+            "fr": "Tu as cherché ta subsistance dans la vérité éternelle qui ne change pas."
+          },
+          "verses": [
+            "Josué 1:8"
+          ],
+          "reflectionHeader": {
+            "es": "Cimientos profundos",
+            "en": "Deep foundations",
+            "pt": "Alicerces profundos",
+            "fr": "Fondations profondes"
+          },
+          "reflection": {
+            "es": "La Palabra de Dios no es solo información, es vida. Al meditar en ella hoy, has fortalecido los cimientos de tu fe. Esta noche, deja que esas promesas sigan trabajando en tu interior mientras descansas.",
+            "en": "God's Word is not just information; it is life. By meditating on it today, you have strengthened the foundations of your faith. Tonight, let those promises continue to work within you as you rest.",
+            "pt": "A Palavra de Deus não é apenas informação, é vida. Ao meditar nela hoje, você fortaleceu os alicerces da sua fé. Esta noite, deixe que essas promessas continuem trabalhando em seu interior enquanto você descansa.",
+            "fr": "La Parole de Dieu n'est pas seulement une information, c'est la vie. En la méditant aujourd'hui, tu as fortifié les fondements de ta foi. Ce soir, laisse ces promesses continuer à agir en toi pendant que tu te reposes."
+          }
+        },
+        {
+          "id": "oracion_ferviente",
+          "label": {
+            "es": "Oración sentida",
+            "en": "Heartfelt prayer",
+            "pt": "Oração sentida",
+            "fr": "Prière sincère"
+          },
+          "responseTitle": {
+            "es": "Conexión directa",
+            "en": "Direct connection",
+            "pt": "Conexão direta",
+            "fr": "Connexion directe"
+          },
+          "responseText": {
+            "es": "Tu diálogo con Dios ha mantenido tu corazón en sintonía.",
+            "en": "Your dialogue with God has kept your heart in tune.",
+            "pt": "Seu diálogo com Deus manteve seu coração em sintonia.",
+            "fr": "Ton dialogue avec Dieu a gardé ton cœur en harmonie."
+          },
+          "verses": [
+            "Jeremías 29:13"
+          ],
+          "reflectionHeader": {
+            "es": "El poder de buscarle",
+            "en": "The power of seeking Him",
+            "pt": "O poder de buscá-Lo",
+            "fr": "Le pouvoir de Le chercher"
+          },
+          "reflection": {
+            "es": "La oración es el oxígeno del espíritu. Al elevar tu voz al Padre, has permitido que Su gracia fluya libremente por tu vida. Que tu descanso sea el cierre perfecto de una jornada vivida en Su presencia.",
+            "en": "Prayer is the oxygen of the spirit. By lifting your voice to the Father, you have allowed His grace to flow freely through your life. May your rest be the perfect end to a day lived in His presence.",
+            "pt": "A oração é o oxigênio do espírito. Ao elevar sua voz ao Pai, você permitiu que Sua graça fluísse livremente por sua vida. Que seu descanso seja o encerramento perfeito de uma jornada vivida em Sua presença.",
+            "fr": "La prière est l'oxygène de l'esprit. En élevant ta voix vers le Père, tu as permis à Sa grâce de couler librement dans ta vie. Que ton repos soit la fin parfaite d'une journée vécue en Sa présence."
+          }
+        },
+        {
+          "id": "vinculo_fraterno",
+          "label": {
+            "es": "Comunidad de fe",
+            "en": "Faith community",
+            "pt": "Comunidade de fé",
+            "fr": "Communauté de foi"
+          },
+          "responseTitle": {
+            "es": "Fortaleza en unidad",
+            "en": "Strength in unity",
+            "pt": "Fortaleza em unidade",
+            "fr": "La force dans l'unité"
+          },
+          "responseText": {
+            "es": "Has cultivado tus raíces a través del ánimo mutuo.",
+            "en": "You have nurtured your roots through mutual encouragement.",
+            "pt": "Você cultivou suas raízes através do encorajamento mútuo.",
+            "fr": "Tu as cultivé tes racines par l'encouragement mutuel."
+          },
+          "verses": [
+            "Hebreos 10:24"
+          ],
+          "reflectionHeader": {
+            "es": "Unidos en el Reino",
+            "en": "United in the Kingdom",
+            "pt": "Unidos no Reino",
+            "fr": "Unis dans le Royaume"
+          },
+          "reflection": {
+            "es": "Nadie crece solo en el jardín del Señor. Al compartir con otros creyentes, tus propias raíces se fortalecen. Valora esos lazos espirituales que te ayudan a sostenerte cuando los vientos de la vida soplan.",
+            "en": "No one grows alone in the Lord's garden. By sharing with other believers, your own roots are strengthened. Value those spiritual bonds that help sustain you when the winds of life blow.",
+            "pt": "Ninguém cresce sozinho no jardim do Senhor. Ao compartilhar com outros crentes, suas próprias raízes se fortalecem. Valorize esses laços espirituais que ajudam a sustentá-lo quando os ventos da vida sopram.",
+            "fr": "Personne ne grandit seul dans le jardin du Seigneur. En partageant avec d'autres croyants, tes propres racines se fortifient. Valorise ces liens spirituels qui t'aident à tenir bon quand les vents de la vie soufflent."
+          }
+        },
+        {
+          "id": "obediencia_fiel",
+          "label": {
+            "es": "Viviendo Su Verdad",
+            "en": "Living His Truth",
+            "pt": "Vivendo Sua Verdade",
+            "fr": "Vivre Sa Vérité"
+          },
+          "responseTitle": {
+            "es": "Fe en movimiento",
+            "en": "Faith in motion",
+            "pt": "Fé em movimento",
+            "fr": "La foi en mouvement"
+          },
+          "responseText": {
+            "es": "Tus acciones de hoy reflejaron la voluntad del Maestro.",
+            "en": "Your actions today reflected the Master's will.",
+            "pt": "Suas ações de hoje refletiram a vontade do Mestre.",
+            "fr": "Tes actions aujourd'hui ont reflété la volonté du Maître."
+          },
+          "verses": [
+            "Juan 14:23"
+          ],
+          "reflectionHeader": {
+            "es": "Raíces en la acción",
+            "en": "Roots in action",
+            "pt": "Raízes na ação",
+            "fr": "Racines en action"
+          },
+          "reflection": {
+            "es": "La obediencia es la forma más profunda de nutrir la relación con Dios. Al elegir Su camino hoy, has demostrado que Él es tu prioridad. Descansa sabiendo que tu caminar está alineado con Su propósito eterno.",
+            "en": "Obedience is the deepest way to nourish your relationship with God. By choosing His path today, you have shown that He is your priority. Rest knowing that your walk is aligned with His eternal purpose.",
+            "pt": "A obediência é a forma mais profunda de nutrir o relacionamento com Deus. Ao escolher o Seu caminho hoje, você demonstrou que Ele é sua prioridade. Descanse sabendo que seu caminhar está alinhado com o Seu propósito eterno.",
+            "fr": "L'obéissance est la manière la plus profonde de nourrir la relation avec Dieu. En choisissant Son chemin aujourd'hui, tu as montré qu'Il est ta priorité. Repose-toi en sachant que ta marche est alignée sur Son dessein éternel."
+          }
+        },
+        {
+          "id": "alabanza_vital",
+          "label": {
+            "es": "Corazón que adora",
+            "en": "A heart that worships",
+            "pt": "Coração que adora",
+            "fr": "Un cœur qui adore"
+          },
+          "responseTitle": {
+            "es": "Cántico de vida",
+            "en": "Life's song",
+            "pt": "Cântico de vida",
+            "fr": "Chant de vie"
+          },
+          "responseText": {
+            "es": "Has enfocado tus ojos en Su grandeza sobre las circunstancias.",
+            "en": "You have focused your eyes on His greatness above circumstances.",
+            "pt": "Você focou seus olhos na Sua grandeza sobre as circunstâncias.",
+            "fr": "Tu as fixé tes yeux sur Sa grandeur au-dessus des circonstances."
+          },
+          "verses": [
+            "Salmos 63:3"
+          ],
+          "reflectionHeader": {
+            "es": "Perspectiva del cielo",
+            "en": "Heaven's perspective",
+            "pt": "Perspectiva do céu",
+            "fr": "Perspective du ciel"
+          },
+          "reflection": {
+            "es": "La adoración ensancha el espíritu. Al reconocer la bondad de Dios hoy, has permitido que Su luz inunde todo tu ser. Que esta noche tu corazón siga latiendo en acción de gracias por todo lo que Él es.",
+            "en": "Worship expands the spirit. By recognizing God's goodness today, you have allowed His light to flood your entire being. May your heart continue to beat in thanksgiving tonight for all that He is.",
+            "pt": "A adoração alarga o espírito. Ao reconhecer a bondade de Deus hoje, você permitiu que Sua luz inundasse todo o seu ser. Que esta noite seu coração continue batendo em ação de graças por tudo o que Ele é.",
+            "fr": "L'adoration élargit l'esprit. En reconnaissant la bonté de Dieu aujourd'hui, tu as permis à Sa lumière d'inonder tout ton être. Que ce soir, ton cœur continue de battre en action de grâces pour tout ce qu'Il est."
+          }
+        },
+        {
+          "id": "quietud_ante_dios",
+          "label": {
+            "es": "Espacio a solas",
+            "en": "Quiet time alone",
+            "pt": "Espaço a sós",
+            "fr": "Espace à part"
+          },
+          "responseTitle": {
+            "es": "Reposo del espíritu",
+            "en": "Rest of the spirit",
+            "pt": "Repouso do espírito",
+            "fr": "Repos de l'esprit"
+          },
+          "responseText": {
+            "es": "Buscaste el retiro necesario para escuchar Su voz suave.",
+            "en": "You sought the necessary retreat to hear His soft voice.",
+            "pt": "Você buscou o retiro necessário para ouvir Sua voz mansa.",
+            "fr": "Tu as cherché le retrait nécessaire pour écouter Sa voix douce."
+          },
+          "verses": [
+            "Marcos 6:31"
+          ],
+          "reflectionHeader": {
+            "es": "El silencio que sana",
+            "en": "Healing silence",
+            "pt": "O silêncio que cura",
+            "fr": "Le silence qui guérit"
+          },
+          "reflection": {
+            "es": "En el silencio, las raíces crecen con mayor libertad. Al apartarte del ruido del mundo hoy, has permitido que Dios hable directamente a tu alma. Duerme en esa quietud sagrada que solo Su presencia puede otorgar.",
+            "en": "In silence, roots grow with greater freedom. By stepping away from the world's noise today, you have allowed God to speak directly to your soul. Sleep in that sacred stillness that only His presence can grant.",
+            "pt": "No silêncio, as raízes crescem com maior liberdade. Ao afastar-se do barulho do mundo hoje, você permitiu que Deus falasse diretamente à sua alma. Durma nessa quietude sagrada que apenas a Sua presença pode conceder.",
+            "fr": "Dans le silence, les racines poussent avec plus de liberté. En t'éloignant du bruit du monde aujourd'hui, tu as permis à Dieu de parler directement à ton âme. Dors dans ce calme sacré que seule Sa présence peut accorder."
           }
         }
       ]
