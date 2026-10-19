@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-10-19",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -7358,6 +7358,236 @@
             "en": "In silence, roots grow with greater freedom. By stepping away from the world's noise today, you have allowed God to speak directly to your soul. Sleep in that sacred stillness that only His presence can grant.",
             "pt": "No silêncio, as raízes crescem com maior liberdade. Ao afastar-se do barulho do mundo hoje, você permitiu que Deus falasse diretamente à sua alma. Durma nessa quietude sagrada que apenas a Sua presença pode conceder.",
             "fr": "Dans le silence, les racines poussent avec plus de liberté. En t'éloignant du bruit du monde aujourd'hui, tu as permis à Dieu de parler directement à ton âme. Dors dans ce calme sacré que seule Sa présence peut accorder."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera permitiste que la luz de Dios iluminara tu entorno hoy?",
+        "en": "In what way did you allow God's light to illuminate your surroundings today?",
+        "pt": "De que maneira você permitiu que a luz de Deus iluminasse o seu ambiente hoje?",
+        "fr": "De quelle manière as-tu laissé la lumière de Dieu éclairer ton entourage aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "claridad_en_confusion",
+          "label": {
+            "es": "Aportando claridad",
+            "en": "Bringing clarity",
+            "pt": "Trazendo clareza",
+            "fr": "Apporter la clarté"
+          },
+          "responseTitle": {
+            "es": "La claridad que viene de lo alto",
+            "en": "Clarity that comes from above",
+            "pt": "A clareza que vem do alto",
+            "fr": "La clarté qui vient d'en haut"
+          },
+          "responseText": {
+            "es": "En momentos de duda, buscaste que la verdad de Dios fuera tu guía y la de otros.",
+            "en": "In moments of doubt, you sought God's truth to be your guide and that of others.",
+            "pt": "Em momentos de dúvida, você buscou que a verdade de Deus fosse o seu guia e o dos outros.",
+            "fr": "Dans les moments de doute, tu as cherché à ce que la vérité de Dieu soit ton guide et celui des autres."
+          },
+          "verses": [
+            "Santiago 1:17"
+          ],
+          "reflectionHeader": {
+            "es": "Un faro en medio de la niebla",
+            "en": "A lighthouse in the mist",
+            "pt": "Um farol no meio da névoa",
+            "fr": "Un phare au milieu du brouillard"
+          },
+          "reflection": {
+            "es": "Dios es luz y en Él no hay tinieblas. Al buscar Su claridad, permites que los demás encuentren un camino seguro. Descansa sabiendo que Su luz no se apaga.",
+            "en": "God is light and in Him there is no darkness. By seeking His clarity, you allow others to find a safe path. Rest knowing that His light never goes out.",
+            "pt": "Deus é luz e Nele não há trevas. Ao buscar Sua clareza, você permite que os outros encontrem um caminho seguro. Descanse sabendo que Sua luz não se apaga.",
+            "fr": "Dieu est lumière et en Lui il n'y a pas de ténèbres. En cherchant Sa clarté, tu permets aux autres de trouver un chemin sûr. Repose-toi en sachant que Sa lumière ne s'éteint jamais."
+          }
+        },
+        {
+          "id": "transparencia_vivida",
+          "label": {
+            "es": "Con integridad",
+            "en": "With integrity",
+            "pt": "Com integridade",
+            "fr": "Avec intégrité"
+          },
+          "responseTitle": {
+            "es": "Caminando en la luz de la verdad",
+            "en": "Walking in the light of truth",
+            "pt": "Caminhando na luz da verdade",
+            "fr": "Marcher dans la lumière de vérité"
+          },
+          "responseText": {
+            "es": "Decidiste actuar con transparencia y honestidad, reflejando el carácter de Cristo.",
+            "en": "You chose to act with transparency and honesty, reflecting the character of Christ.",
+            "pt": "Você decidiu agir com transparência e honestidade, refletindo o caráter de Cristo.",
+            "fr": "Tu as choisi d'agir avec transparence et honnêteté, reflétant le caractère de Christ."
+          },
+          "verses": [
+            "Efesios 5:8"
+          ],
+          "reflectionHeader": {
+            "es": "La belleza de la honestidad",
+            "en": "The beauty of honesty",
+            "pt": "A beleza da honestidade",
+            "fr": "La beauté de l'honnêteté"
+          },
+          "reflection": {
+            "es": "Vivir en integridad es permitir que la luz de Dios atraviese nuestras acciones. No hay nada que temer cuando caminamos bajo Su mirada amorosa y sincera.",
+            "en": "Living in integrity means allowing God's light to shine through our actions. There is nothing to fear when we walk under His loving and sincere gaze.",
+            "pt": "Viver em integridade é permitir que a luz de Deus atravesse nossas ações. Não há nada a temer quando caminhamos sob Seu olhar amoroso e sincero.",
+            "fr": "Vivre dans l'intégrité, c'est laisser la lumière de Dieu traverser nos actions. Il n'y a rien à craindre quand nous marchons sous Son regard aimant et sincère."
+          }
+        },
+        {
+          "id": "luz_de_esperanza",
+          "label": {
+            "es": "Dando ánimo",
+            "en": "Giving hope",
+            "pt": "Dando esperança",
+            "fr": "Donner espoir"
+          },
+          "responseTitle": {
+            "es": "Una chispa de esperanza para otros",
+            "en": "A spark of hope for others",
+            "pt": "Uma centelha de esperança",
+            "fr": "Une étincelle d'espoir"
+          },
+          "responseText": {
+            "es": "Tus palabras fueron un recordatorio de que la bondad de Dios sigue vigente.",
+            "en": "Your words were a reminder that God's goodness is still at work.",
+            "pt": "Suas palavras foram um lembrete de que a bondade de Deus continua vigente.",
+            "fr": "Tes paroles ont rappelé que la bonté de Dieu est toujours à l'œuvre."
+          },
+          "verses": [
+            "Mateo 5:16"
+          ],
+          "reflectionHeader": {
+            "es": "Alumbrando el camino ajeno",
+            "en": "Lighting someone else's path",
+            "pt": "Iluminando o caminho alheio",
+            "fr": "Éclairer le chemin d'autrui"
+          },
+          "reflection": {
+            "es": "A veces, una pequeña chispa de fe es suficiente para disipar la oscuridad de alguien más. Has sido un canal de la gracia divina en este día.",
+            "en": "Sometimes, a small spark of faith is enough to dispel someone else's darkness. You have been a channel of divine grace today.",
+            "pt": "Às vezes, uma pequena centelha de fé é suficiente para dissipar a escuridão de outra pessoa. Você foi um canal da graça divina neste dia.",
+            "fr": "Parfois, une petite étincelle de foi suffit à dissiper l'obscurité d'autrui. Tu as été un canal de la grâce divine en ce jour."
+          }
+        },
+        {
+          "id": "discernimiento_fiel",
+          "label": {
+            "es": "Sabia perspectiva",
+            "en": "Wise perspective",
+            "pt": "Sábia perspectiva",
+            "fr": "Sage perspective"
+          },
+          "responseTitle": {
+            "es": "La luz que abre el entendimiento",
+            "en": "Light that opens understanding",
+            "pt": "Luz que abre o entendimento",
+            "fr": "Lumière qui ouvre l'esprit"
+          },
+          "responseText": {
+            "es": "Pediste a Dios ver las situaciones desde Su lente eterno y no desde el temor.",
+            "en": "You asked God to see situations through His eternal lens and not through fear.",
+            "pt": "Você pediu a Deus para ver as situações através de Sua lente eterna e não pelo medo.",
+            "fr": "Tu as demandé à Dieu de voir les situations à travers Son regard éternel et non par la peur."
+          },
+          "verses": [
+            "Salmos 119:130"
+          ],
+          "reflectionHeader": {
+            "es": "Ojos abiertos a Su verdad",
+            "en": "Eyes open to His truth",
+            "pt": "Olhos abertos para Sua verdade",
+            "fr": "Yeux ouverts sur Sa vérité"
+          },
+          "reflection": {
+            "es": "La Palabra de Dios alumbra nuestro entendimiento. Al ver tu realidad a través de Su consejo, el temor desaparece y la confianza toma su lugar.",
+            "en": "The Word of God enlightens our understanding. By seeing your reality through His counsel, fear disappears and trust takes its place.",
+            "pt": "A Palavra de Deus ilumina o nosso entendimento. Ao ver a sua realidade através do Seu conselho, o medo desaparece e a confiança toma o seu lugar.",
+            "fr": "La Parole de Dieu éclaire notre intelligence. En voyant ta réalité à travers Ses conseils, la peur disparaît et la confiance prend sa place."
+          }
+        },
+        {
+          "id": "calidez_cristiana",
+          "label": {
+            "es": "Reflejando amor",
+            "en": "Reflecting love",
+            "pt": "Refletindo amor",
+            "fr": "Refléter l'amour"
+          },
+          "responseTitle": {
+            "es": "El calor de la presencia de Dios",
+            "en": "The warmth of God's presence",
+            "pt": "O calor da presença de Deus",
+            "fr": "La chaleur de Sa présence"
+          },
+          "responseText": {
+            "es": "Tu amabilidad hoy fue un reflejo del tierno y cálido amor del Padre.",
+            "en": "Your kindness today was a reflection of the Father's tender and warm love.",
+            "pt": "Sua amabilidade hoje foi um reflexo do tierno e caloroso amor do Pai.",
+            "fr": "Ta gentillesse aujourd'hui a été le reflet de l'amour tendre et chaleureux du Père."
+          },
+          "verses": [
+            "Juan 8:12"
+          ],
+          "reflectionHeader": {
+            "es": "Reflejos de Su compasión",
+            "en": "Reflections of His compassion",
+            "pt": "Reflexos de Sua compaixão",
+            "fr": "Reflets de Sa compassion"
+          },
+          "reflection": {
+            "es": "La luz de Cristo no solo ilumina, también calienta el corazón. Al tratar a otros con amor, compartes el refugio que Dios nos ofrece a todos.",
+            "en": "The light of Christ not only illuminates, it also warms the heart. By treating others with love, you share the refuge that God offers to us all.",
+            "pt": "A luz de Cristo não apenas ilumina, mas também aquece o coração. Ao tratar os outros com amor, você compartilha o refúgio que Deus nos oferece a todos.",
+            "fr": "La lumière de Christ n'éclaire pas seulement, elle réchauffe aussi le cœur. En traitant les autres avec amour, tu partages le refuge que Dieu nous offre à tous."
+          }
+        },
+        {
+          "id": "brillo_en_tormenta",
+          "label": {
+            "es": "Paz que brilla",
+            "en": "Shining peace",
+            "pt": "Paz que brilha",
+            "fr": "Paix qui brille"
+          },
+          "responseTitle": {
+            "es": "Un brillo que calma la tempestad",
+            "en": "A glow that calms the storm",
+            "pt": "Brilho que acalma a tempestade",
+            "fr": "Un éclat qui calme la tempête"
+          },
+          "responseText": {
+            "es": "Mantuviste la serenidad, confiando en que la soberanía de Dios es total.",
+            "en": "You maintained serenity, trusting that God's sovereignty is absolute.",
+            "pt": "Você manteve a serenidade, confiando que a soberania de Deus é total.",
+            "fr": "Tu as gardé la sérénité, confiant que la souveraineté de Dieu est totale."
+          },
+          "verses": [
+            "Isaías 60:1"
+          ],
+          "reflectionHeader": {
+            "es": "Resplandor en la prueba",
+            "en": "Radiance in the trial",
+            "pt": "Resplendor na prova",
+            "fr": "Éclat dans l'épreuve"
+          },
+          "reflection": {
+            "es": "Cuando el mundo parece oscuro, la paz de un hijo de Dios brilla con más fuerza. Tu confianza hoy ha sido un testimonio silencioso de Su poder.",
+            "en": "When the world seems dark, the peace of a child of God shines brightest. Your trust today has been a silent testimony to His power.",
+            "pt": "Quando o mundo parece escuro, a paz de um filho de Deus brilha com mais força. Sua confiança hoje foi um testemunho silencioso de Seu poder.",
+            "fr": "Quand le monde semble sombre, la paix d'un enfant de Dieu brille plus fort. Ta confiance aujourd'hui a été un témoignage silencieux de Sa puissance."
           }
         }
       ]
