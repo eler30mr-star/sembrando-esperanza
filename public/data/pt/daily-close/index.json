@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-20",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -7588,6 +7588,236 @@
             "en": "When the world seems dark, the peace of a child of God shines brightest. Your trust today has been a silent testimony to His power.",
             "pt": "Quando o mundo parece escuro, a paz de um filho de Deus brilha com mais força. Sua confiança hoje foi um testemunho silencioso de Seu poder.",
             "fr": "Quand le monde semble sombre, la paix d'un enfant de Dieu brille plus fort. Ta confiance aujourd'hui a été un témoignage silencieux de Sa puissance."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿Cómo usaste hoy el poder de tus palabras para construir o sanar?",
+        "en": "How did you use the power of your words to build or heal today?",
+        "pt": "Como você usou hoje o poder das suas palavras para construir ou curar?",
+        "fr": "Comment as-tu utilisé aujourd'hui le pouvoir de tes paroles pour construire ou guérir ?"
+      },
+      "options": [
+        {
+          "id": "aliento_sincero",
+          "label": {
+            "es": "Aliento sincero",
+            "en": "Sincere encouragement",
+            "pt": "Incentivo sincero",
+            "fr": "Encouragement sincère"
+          },
+          "responseTitle": {
+            "es": "Palabras que dan vida",
+            "en": "Words that give life",
+            "pt": "Palavras que dão vida",
+            "fr": "Des paroles qui donnent vie"
+          },
+          "responseText": {
+            "es": "Hoy decidiste levantar al caído con una palabra oportuna y llena de gracia.",
+            "en": "Today you chose to lift the fallen with a timely and graceful word.",
+            "pt": "Hoje você decidiu levantar o caído com uma palavra oportuna e cheia de graça.",
+            "fr": "Aujourd'hui, tu as choisi de relever celui qui est tombé par une parole opportune."
+          },
+          "verses": [
+            "Proverbios 12:25"
+          ],
+          "reflectionHeader": {
+            "es": "Eco de la bondad divina",
+            "en": "Echo of divine goodness",
+            "pt": "Eco da bondade divina",
+            "fr": "Écho de la bonté divine"
+          },
+          "reflection": {
+            "es": "Una palabra de ánimo puede cambiar el rumbo del día de alguien. Al elegir ser un canal de consuelo, reflejas el corazón de Dios, quien siempre nos sostiene en nuestras flaquezas. Descansa hoy sabiendo que sembraste paz.",
+            "en": "A word of encouragement can change the course of someone's day. By choosing to be a channel of comfort, you reflect the heart of God, who always sustains us in our weaknesses. Rest today knowing you sowed peace.",
+            "pt": "Uma palavra de encorajamento pode mudar o rumo do dia de alguém. Ao escolher ser um canal de consolo, você reflete o coração de Deus, que sempre nos sustenta em nossas fraquezas. Descanse hoje sabendo que semeou a paz.",
+            "fr": "Une parole d'encouragement peut changer le cours de la journée de quelqu'un. En choisissant d'être un canal de réconfort, tu reflètes le cœur de Dieu qui nous soutient toujours. Repose-toi en sachant que tu as semé la paix."
+          }
+        },
+        {
+          "id": "verdad_amorosa",
+          "label": {
+            "es": "Verdad con amor",
+            "en": "Truth in love",
+            "pt": "Verdade com amor",
+            "fr": "Vérité avec amour"
+          },
+          "responseTitle": {
+            "es": "Integridad y ternura",
+            "en": "Integrity and tenderness",
+            "pt": "Integridade e ternura",
+            "fr": "Intégrité et tendresse"
+          },
+          "responseText": {
+            "es": "Hablaste con sinceridad pero cuidando el corazón de quien te escuchaba.",
+            "en": "You spoke with sincerity while caring for the heart of the listener.",
+            "pt": "Você falou com sinceridade, mas cuidando do coração de quem o ouvia.",
+            "fr": "Tu as parlé avec sincérité tout en prenant soin du cœur de celui qui t'écoutait."
+          },
+          "verses": [
+            "Efesios 4:15"
+          ],
+          "reflectionHeader": {
+            "es": "El equilibrio de Cristo",
+            "en": "The balance of Christ",
+            "pt": "O equilíbrio de Cristo",
+            "fr": "L'équilibre de Christ"
+          },
+          "reflection": {
+            "es": "Decir la verdad sin amor puede herir, y amar sin verdad puede engañar. Hoy buscaste el equilibrio que Cristo nos enseñó. Esa madurez espiritual permite que tus relaciones crezcan sobre fundamentos sólidos y redentores.",
+            "en": "Speaking the truth without love can hurt, and loving without truth can deceive. Today you sought the balance that Christ taught us. This spiritual maturity allows your relationships to grow on solid and redemptive foundations.",
+            "pt": "Dizer a verdade sem amor pode ferir, e amar sem verdade pode enganar. Hoje você buscou o equilíbrio que Cristo nos ensinou. Essa maturidade espiritual permite que seus relacionamentos cresçam sobre fundamentos sólidos e redentores.",
+            "fr": "Dire la vérité sans amour peut blesser, et aimer sans vérité peut tromper. Aujourd'hui, tu as cherché l'équilibre que Christ nous a enseigné. Cette maturité permet à tes relations de grandir sur des fondements solides."
+          }
+        },
+        {
+          "id": "silencio_sabio",
+          "label": {
+            "es": "Silencio sabio",
+            "en": "Wise silence",
+            "pt": "Silêncio sábio",
+            "fr": "Silence sage"
+          },
+          "responseTitle": {
+            "es": "Prudencia que protege",
+            "en": "Prudence that protects",
+            "pt": "Prudência que protege",
+            "fr": "La prudence qui protège"
+          },
+          "responseText": {
+            "es": "Elegiste callar en el momento justo, evitando conflictos innecesarios.",
+            "en": "You chose to be silent at the right time, avoiding unnecessary conflict.",
+            "pt": "Você escolheu calar no momento certo, evitando conflitos desnecessários.",
+            "fr": "Tu as choisi de te taire au bon moment, évitant ainsi des conflits inutiles."
+          },
+          "verses": [
+            "Proverbios 10:19"
+          ],
+          "reflectionHeader": {
+            "es": "Dominio sobre la lengua",
+            "en": "Mastery over the tongue",
+            "pt": "Domínio sobre a língua",
+            "fr": "Maîtrise de la langue"
+          },
+          "reflection": {
+            "es": "A veces, la respuesta más poderosa es el silencio. Al refrenar tus impulsos, permites que Dios sea quien tome el control de las situaciones. Tu dominio propio hoy fue una victoria espiritual que honra al Espíritu Santo.",
+            "en": "Sometimes, the most powerful response is silence. By restraining your impulses, you allow God to take control of situations. Your self-control today was a spiritual victory that honors the Holy Spirit.",
+            "pt": "Às vezes, a resposta mais poderosa é o silêncio. Ao refrear seus impulsos, você permite que Deus assuma o controle das situações. Seu domínio próprio hoje foi uma vitória espiritual que honra o Espírito Santo.",
+            "fr": "Parfois, la réponse la plus puissante est le silence. En freinant tes impulsions, tu laisses Dieu prendre le contrôle des situations. Ta maîtrise de toi a été aujourd'hui une victoire spirituelle qui honore le Saint-Esprit."
+          }
+        },
+        {
+          "id": "gratitud_viva",
+          "label": {
+            "es": "Gratitud viva",
+            "en": "Living gratitude",
+            "pt": "Gratidão viva",
+            "fr": "Gratitude vivante"
+          },
+          "responseTitle": {
+            "es": "Alabanza constante",
+            "en": "Constant praise",
+            "pt": "Louvor constante",
+            "fr": "Louange constante"
+          },
+          "responseText": {
+            "es": "Tus labios expresaron agradecimiento a Dios y a quienes te rodean.",
+            "en": "Your lips expressed gratitude to God and to those around you.",
+            "pt": "Seus lábios expressaram gratidão a Deus e aos que o rodeiam.",
+            "fr": "Tes lèvres ont exprimé leur reconnaissance envers Dieu et ton entourage."
+          },
+          "verses": [
+            "Salmos 34:1"
+          ],
+          "reflectionHeader": {
+            "es": "Atmósfera de bendición",
+            "en": "Atmosphere of blessing",
+            "pt": "Atmosfera de bênção",
+            "fr": "Atmosphère de bénédiction"
+          },
+          "reflection": {
+            "es": "La gratitud verbalizada transforma el ambiente. Al reconocer las bondades de Dios en voz alta, fortaleces tu propia fe y animas a los demás. Que este espíritu de agradecimiento sea la última nota de tu día antes de dormir.",
+            "en": "Verbalized gratitude transforms the environment. By recognizing God's goodness out loud, you strengthen your own faith and encourage others. Let this spirit of thankfulness be the final note of your day before sleep.",
+            "pt": "A gratidão verbalizada transforma o ambiente. Ao reconhecer as bondades de Deus em voz alta, você fortalece sua própria fé e encoraja os outros. Que este espírito de gratidão seja a nota final do seu dia antes de dormir.",
+            "fr": "La gratitude exprimée transforme l'atmosphère. En reconnaissant les bienfaits de Dieu à voix haute, tu fortifies ta foi et encourages les autres. Que cet esprit de reconnaissance soit la note finale de ta journée."
+          }
+        },
+        {
+          "id": "sanando_heridas",
+          "label": {
+            "es": "Sanando heridas",
+            "en": "Healing wounds",
+            "pt": "Curando feridas",
+            "fr": "Guérir les blessures"
+          },
+          "responseTitle": {
+            "es": "La respuesta blanda",
+            "en": "The soft answer",
+            "pt": "A resposta branda",
+            "fr": "La réponse douce"
+          },
+          "responseText": {
+            "es": "Respondiste con mansedumbre ante la aspereza de otros hoy.",
+            "en": "You responded with meekness to the harshness of others today.",
+            "pt": "Você respondeu com mansidão à aspereza de outros hoje.",
+            "fr": "Tu as répondu avec douceur à la rudesse des autres aujourd'hui."
+          },
+          "verses": [
+            "Proverbios 15:1"
+          ],
+          "reflectionHeader": {
+            "es": "Paz que desarma",
+            "en": "Peace that disarms",
+            "pt": "Paz que desarma",
+            "fr": "Une paix qui désarme"
+          },
+          "reflection": {
+            "es": "Una respuesta dulce tiene el poder de apagar el fuego de la ira. Al elegir la mansedumbre, detuviste el ciclo del conflicto y actuaste como un verdadero pacificador. Dios se complace en quienes siembran armonía con sus palabras.",
+            "en": "A soft answer has the power to quench the fire of anger. By choosing meekness, you stopped the cycle of conflict and acted as a true peacemaker. God delights in those who sow harmony with their words.",
+            "pt": "Uma resposta branda tem o poder de apagar o fogo da ira. Ao escolher a mansidão, você interrompeu o ciclo do conflito e agiu como um verdadeiro pacificador. Deus se agrada daqueles que semeiam harmonia com suas palavras.",
+            "fr": "Une réponse douce a le pouvoir d'éteindre le feu de la colère. En choisissant la douceur, tu as arrêté le cycle du conflit. Dieu se réjouit de ceux qui sèment l'harmonie par leurs paroles."
+          }
+        },
+        {
+          "id": "intercesion_vocal",
+          "label": {
+            "es": "Intercesión",
+            "en": "Intercession",
+            "pt": "Intercessão",
+            "fr": "Intercession"
+          },
+          "responseTitle": {
+            "es": "Clamor por el otro",
+            "en": "Crying out for others",
+            "pt": "Clamor pelo outro",
+            "fr": "Crier pour l'autre"
+          },
+          "responseText": {
+            "es": "Dedicaste palabras para interceder por las necesidades de tu prójimo.",
+            "en": "You dedicated words to intercede for the needs of your neighbor.",
+            "pt": "Você dedicou palavras para interceder pelas necessidades do seu próximo.",
+            "fr": "Tu as consacré des paroles pour intercéder pour les besoins de ton prochain."
+          },
+          "verses": [
+            "Santiago 5:16"
+          ],
+          "reflectionHeader": {
+            "es": "Voz que llega al cielo",
+            "en": "Voice that reaches heaven",
+            "pt": "Voz que chega ao céu",
+            "fr": "Une voix qui touche le ciel"
+          },
+          "reflection": {
+            "es": "Hablar con Dios a favor de otros es una de las mayores muestras de amor. Tus oraciones hoy movieron el corazón del Padre por alguien más. Confía en que el Señor escucha y que ninguna palabra dirigida a Él vuelve vacía.",
+            "en": "Talking to God on behalf of others is one of the greatest expressions of love. Your prayers today moved the Father's heart for someone else. Trust that the Lord hears and that no word directed to Him returns empty.",
+            "pt": "Falar com Deus em favor de outros é uma das maiores demonstrações de amor. Suas orações hoje moveram o coração do Pai por outra pessoa. Confie que o Senhor ouve e que nenhuma palavra dirigida a Ele volta vazia.",
+            "fr": "Parler à Dieu en faveur des autres est l'une des plus grandes preuves d'amour. Tes prières ont touché le cœur du Père aujourd'hui. Aie confiance : le Seigneur écoute et aucune parole dirigée vers Lui ne revient sans effet."
           }
         }
       ]
