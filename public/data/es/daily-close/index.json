@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20",
+  "updatedAt": "2026-10-21",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -7818,6 +7818,236 @@
             "en": "Talking to God on behalf of others is one of the greatest expressions of love. Your prayers today moved the Father's heart for someone else. Trust that the Lord hears and that no word directed to Him returns empty.",
             "pt": "Falar com Deus em favor de outros é uma das maiores demonstrações de amor. Suas orações hoje moveram o coração do Pai por outra pessoa. Confie que o Senhor ouve e que nenhuma palavra dirigida a Ele volta vazia.",
             "fr": "Parler à Dieu en faveur des autres est l'une des plus grandes preuves d'amour. Tes prières ont touché le cœur du Père aujourd'hui. Aie confiance : le Seigneur écoute et aucune parole dirigée vers Lui ne revient sans effet."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera experimentaste hoy la guía del Espíritu en tus decisiones cotidianas?",
+        "en": "How did you experience the Spirit's guidance in your daily decisions today?",
+        "pt": "De que maneira você experimentou hoje a direção do Espírito em suas decisões cotidianas?",
+        "fr": "De quelle manière as-tu goûté aujourd'hui à la direction de l'Esprit dans tes choix ?"
+      },
+      "options": [
+        {
+          "id": "spirit_speech_guidance",
+          "label": {
+            "es": "Al conversar",
+            "en": "In conversation",
+            "pt": "Ao conversar",
+            "fr": "En discutant"
+          },
+          "responseTitle": {
+            "es": "Palabras con propósito",
+            "en": "Purposeful words",
+            "pt": "Palavras com propósito",
+            "fr": "Paroles de sens"
+          },
+          "responseText": {
+            "es": "Sentiste que no estabas solo al hablar, sino que una sabiduría mayor dirigía tus palabras hacia la gracia.",
+            "en": "You felt you weren't alone while speaking, but a greater wisdom directed your words toward grace.",
+            "pt": "Você sentiu que não estava só ao falar, mas que uma sabedoria maior direcionava suas palavras à graça.",
+            "fr": "Tu as senti que tu n'étais pas seul en parlant, mais qu'une sagesse supérieure guidait tes mots."
+          },
+          "verses": [
+            "Lucas 12:12"
+          ],
+          "reflectionHeader": {
+            "es": "El eco de la voz divina",
+            "en": "The echo of the divine voice",
+            "pt": "O eco da voz divina",
+            "fr": "L'écho de la voix divine"
+          },
+          "reflection": {
+            "es": "El Espíritu Santo no solo nos guía en grandes misiones, sino en la sutileza de nuestros diálogos. Al descansar hoy, agradece por esos momentos donde el amor de Dios fluyó a través de tu voz.",
+            "en": "The Holy Spirit guides us not only in great missions but in the subtlety of our dialogues. As you rest today, give thanks for those moments where God's love flowed through your voice.",
+            "pt": "O Espírito Santo não nos guia apenas em grandes missões, mas na sutileza dos nossos diálogos. Ao descansar hoje, agradeça por esses momentos onde o amor de Deus fluiu através da sua voz.",
+            "fr": "Le Saint-Esprit ne nous guide pas seulement dans les grandes missions, mais aussi dans la subtilité de nos échanges. En te reposant ce soir, rends grâce pour ces moments où l'amour de Dieu a coulé par ta voix."
+          }
+        },
+        {
+          "id": "daily_integrity_choice",
+          "label": {
+            "es": "Eligiendo lo recto",
+            "en": "Choosing integrity",
+            "pt": "Escolhendo o bem",
+            "fr": "Choisir le bien"
+          },
+          "responseTitle": {
+            "es": "Caminando en verdad",
+            "en": "Walking in truth",
+            "pt": "Caminhando na verdade",
+            "fr": "Marcher dans la vérité"
+          },
+          "responseText": {
+            "es": "La voz del Espíritu te recordó tus valores cristianos en el momento justo de tomar una determinación honesta.",
+            "en": "The Spirit's voice reminded you of your Christian values at the exact moment of making an honest decision.",
+            "pt": "A voz do Espírito lembrou você dos seus valores cristãos no momento exato de tomar uma decisão honesta.",
+            "fr": "La voix de l'Esprit t'a rappelé tes valeurs chrétiennes au moment précis de prendre une décision honnête."
+          },
+          "verses": [
+            "Salmos 25:5"
+          ],
+          "reflectionHeader": {
+            "es": "La brújula del carácter",
+            "en": "The compass of character",
+            "pt": "A bússola do caráter",
+            "fr": "La boussole du caractère"
+          },
+          "reflection": {
+            "es": "Integridad es lo que hacemos cuando nadie mira, impulsados por la verdad que Dios ha depositado en nosotros. Tu decisión de hoy honra al Padre y fortalece tu testimonio personal.",
+            "en": "Integrity is what we do when no one is watching, driven by the truth God has placed within us. Your decision today honors the Father and strengthens your personal testimony.",
+            "pt": "Integridade é o que fazemos quando ninguém está olhando, impulsionados pela verdade que Deus depositou em nós. Sua decisão de hoje honra ao Pai e fortalece seu testemunho pessoal.",
+            "fr": "L'intégrité, c'est ce que nous faisons quand personne ne regarde, portés par la vérité que Dieu a mise en nous. Ta décision d'aujourd'hui honore le Père et fortifie ton témoignage."
+          }
+        },
+        {
+          "id": "calmness_under_pressure",
+          "label": {
+            "es": "Manteniendo la paz",
+            "en": "Keeping peace",
+            "pt": "Mantendo a paz",
+            "fr": "Garder la paix"
+          },
+          "responseTitle": {
+            "es": "Fruto en la tempestad",
+            "en": "Fruit in the storm",
+            "pt": "Fruto na tempestade",
+            "fr": "Fruit dans la tempête"
+          },
+          "responseText": {
+            "es": "Tu reacción ante el estrés no fue impulsiva, sino marcada por un control que solo proviene de Dios.",
+            "en": "Your reaction to stress was not impulsive, but marked by a control that only comes from God.",
+            "pt": "Sua reação ao estresse não foi impulsiva, mas marcada por um controle que só provém de Deus.",
+            "fr": "Ta réaction face au stress n'a pas été impulsive, mais marquée par un calme qui ne vient que de Dieu."
+          },
+          "verses": [
+            "Gálatas 5:22"
+          ],
+          "reflectionHeader": {
+            "es": "Serenidad que testifica",
+            "en": "Serenity that testifies",
+            "pt": "Serenidade que testifica",
+            "fr": "La sérénité témoigne"
+          },
+          "reflection": {
+            "es": "El dominio propio es una señal clara de la presencia del Espíritu. Al elegir la calma hoy, permitiste que la paz de Cristo gobernara tu entorno y protegiera tu bienestar espiritual.",
+            "en": "Self-control is a clear sign of the Spirit's presence. By choosing calm today, you allowed Christ's peace to govern your environment and protect your spiritual well-being.",
+            "pt": "O domínio próprio é um sinal claro da presença do Espírito. Ao escolher a calma hoje, você permitiu que a paz de Cristo governasse seu ambiente e protegesse seu bem-estar espiritual.",
+            "fr": "La maîtrise de soi est un signe clair de la présence de l'Esprit. En choisissant le calme aujourd'hui, tu as laissé la paix du Christ régner sur ton entourage."
+          }
+        },
+        {
+          "id": "selfless_service_act",
+          "label": {
+            "es": "Sirviendo al otro",
+            "en": "Serving others",
+            "pt": "Servindo o próximo",
+            "fr": "Servir autrui"
+          },
+          "responseTitle": {
+            "es": "Impulso de amor",
+            "en": "Impulse of love",
+            "pt": "Impulso de amor",
+            "fr": "Élan d'amour"
+          },
+          "responseText": {
+            "es": "Sentiste el llamado interno de detenerte y ayudar a alguien, reflejando el carácter servicial de Jesús.",
+            "en": "You felt the inner call to stop and help someone, reflecting Jesus' servant character.",
+            "pt": "Você sentiu o chamado interno de parar e ajudar alguém, refletindo o caráter servo de Jesus.",
+            "fr": "Tu as ressenti l'appel intérieur de t'arrêter pour aider quelqu'un, reflétant le cœur de serviteur de Jésus."
+          },
+          "verses": [
+            "Hechos 10:38"
+          ],
+          "reflectionHeader": {
+            "es": "Manos que obedecen",
+            "en": "Hands that obey",
+            "pt": "Mãos que obedecem",
+            "fr": "Des mains qui obéissent"
+          },
+          "reflection": {
+            "es": "Servir es la forma más práctica de demostrar nuestra fe. Ese pequeño gesto que hiciste hoy fue orquestado por el Espíritu para llevar un destello de esperanza a quien lo necesitaba.",
+            "en": "Serving is the most practical way to demonstrate our faith. That small gesture you made today was orchestrated by the Spirit to bring a glimmer of hope to someone in need.",
+            "pt": "Servir é a forma mais prática de demonstrar nossa fé. Esse pequeno gesto que você fez hoje foi orquestrado pelo Espírito para levar um brilho de esperança a quem precisava.",
+            "fr": "Servir est la manière la plus concrète de montrer notre foi. Ce petit geste d'aujourd'hui a été orchestré par l'Esprit pour apporter de l'espoir à celui qui en avait besoin."
+          }
+        },
+        {
+          "id": "divine_redirection_path",
+          "label": {
+            "es": "Cambiando el rumbo",
+            "en": "Changing course",
+            "pt": "Mudando o rumo",
+            "fr": "Changer de cap"
+          },
+          "responseTitle": {
+            "es": "Dirección divina",
+            "en": "Divine direction",
+            "pt": "Direção divina",
+            "fr": "Direction divine"
+          },
+          "responseText": {
+            "es": "Aceptaste un cambio de planes inesperado con la certeza de que Dios conoce mejor el camino que debes seguir.",
+            "en": "You accepted an unexpected change of plans with the certainty that God knows better the path you should follow.",
+            "pt": "Você aceitou uma mudança inesperada de planos com a certeza de que Deus conhece melhor o caminho que você deve seguir.",
+            "fr": "Tu as accepté un changement de programme imprévu avec la certitude que Dieu connaît mieux le chemin à suivre."
+          },
+          "verses": [
+            "Isaías 30:21"
+          ],
+          "reflectionHeader": {
+            "es": "Oídos atentos al guía",
+            "en": "Ears open to the guide",
+            "pt": "Ouvidos atentos ao guia",
+            "fr": "À l'écoute du guide"
+          },
+          "reflection": {
+            "es": "A veces, el Espíritu nos detiene para protegernos o redirigirnos hacia algo mejor. Tu flexibilidad hoy es un acto de confianza profunda en la soberanía de Dios sobre tu tiempo.",
+            "en": "Sometimes the Spirit stops us to protect us or redirect us toward something better. Your flexibility today is an act of deep trust in God's sovereignty over your time.",
+            "pt": "Às vezes, o Espírito nos detém para nos proteger ou nos redirecionar para algo melhor. Sua flexibilidade hoje é um ato de confiança profunda na soberania de Deus sobre o seu tempo.",
+            "fr": "Parfois, l'Esprit nous arrête pour nous protéger ou nous rediriger. Ta flexibilité aujourd'hui est un acte de confiance profonde en la souveraineté de Dieu sur ton temps."
+          }
+        },
+        {
+          "id": "prayerful_clarity_moment",
+          "label": {
+            "es": "En la oración",
+            "en": "In prayer",
+            "pt": "Na oração",
+            "fr": "Dans la prière"
+          },
+          "responseTitle": {
+            "es": "Claridad interior",
+            "en": "Inner clarity",
+            "pt": "Clareza interior",
+            "fr": "Clarté intérieure"
+          },
+          "responseText": {
+            "es": "Al buscar al Señor hoy, las dudas se disiparon y encontraste la paz necesaria para dar el siguiente paso.",
+            "en": "By seeking the Lord today, doubts dissipated and you found the necessary peace to take the next step.",
+            "pt": "Ao buscar ao Senhor hoje, as dúvidas se dissiparam e você encontrou a paz necessária para dar o próximo passo.",
+            "fr": "En cherchant le Seigneur aujourd'hui, tes doutes se sont dissipés et tu as trouvé la paix pour avancer."
+          },
+          "verses": [
+            "Salmos 143:10"
+          ],
+          "reflectionHeader": {
+            "es": "Sintonía con el cielo",
+            "en": "In tune with heaven",
+            "pt": "Sintonia com o céu",
+            "fr": "En phase avec le ciel"
+          },
+          "reflection": {
+            "es": "La oración es el espacio donde el Espíritu alinea nuestro corazón con el de Dios. Descansa sabiendo que el camino se aclara cuando caminas de la mano con tu Creador.",
+            "en": "Prayer is the space where the Spirit aligns our heart with God's. Rest knowing that the path clears when you walk hand in hand with your Creator.",
+            "pt": "A oração é o espaço onde o Espírito alinha nosso coração com o de Deus. Descanse sabendo que o caminho se esclarece quando você caminha de mãos dadas com seu Criador.",
+            "fr": "La prière est l'espace où l'Esprit aligne notre cœur sur celui de Dieu. Repose-toi en sachant que le chemin s'éclaire quand tu marches main dans la main avec ton Créateur."
           }
         }
       ]
