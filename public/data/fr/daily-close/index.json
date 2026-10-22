@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21",
+  "updatedAt": "2026-10-22",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -8048,6 +8048,236 @@
             "en": "Prayer is the space where the Spirit aligns our heart with God's. Rest knowing that the path clears when you walk hand in hand with your Creator.",
             "pt": "A oração é o espaço onde o Espírito alinha nosso coração com o de Deus. Descanse sabendo que o caminho se esclarece quando você caminha de mãos dadas com seu Criador.",
             "fr": "La prière est l'espace où l'Esprit aligne notre cœur sur celui de Dieu. Repose-toi en sachant que le chemin s'éclaire quand tu marches main dans la main avec ton Créateur."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera reflejó hoy tu corazón la bondad de Dios hacia quienes te rodean?",
+        "en": "In what way did your heart reflect God's goodness to those around you today?",
+        "pt": "De que maneira o seu coração refletiu hoje a bondade de Deus para com as pessoas ao seu redor?",
+        "fr": "De quelle manière votre cœur a-t-il reflété aujourd'hui la bonté de Dieu envers votre entourage ?"
+      },
+      "options": [
+        {
+          "id": "gestos_amables",
+          "label": {
+            "es": "Gestos amables",
+            "en": "Kind gestures",
+            "pt": "Gestos gentis",
+            "fr": "Gestes aimables"
+          },
+          "responseTitle": {
+            "es": "Sembrando bondad",
+            "en": "Sowing goodness",
+            "pt": "Semeando bondade",
+            "fr": "Semer la bonté"
+          },
+          "responseText": {
+            "es": "Cada pequeña acción de cortesía es una semilla del Reino de los cielos en la tierra.",
+            "en": "Every small act of courtesy is a seed of the Kingdom of Heaven on earth.",
+            "pt": "Cada pequena ação de cortesia é uma semente do Reino dos céus na terra.",
+            "fr": "Chaque petit acte de courtoisie est une semence du Royaume des cieux sur terre."
+          },
+          "verses": [
+            "Efesios 4:32"
+          ],
+          "reflectionHeader": {
+            "es": "Manos que bendicen",
+            "en": "Hands that bless",
+            "pt": "Mãos que abençoam",
+            "fr": "Des mains qui bénissent"
+          },
+          "reflection": {
+            "es": "Un acto sencillo de amabilidad puede ser el consuelo que alguien necesitaba desesperadamente hoy. Al actuar con dulzura, recordaste al mundo que servimos a un Dios cuyo amor no tiene límites.",
+            "en": "A simple act of kindness may be the comfort someone desperately needed today. By acting with sweetness, you reminded the world that we serve a God whose love has no limits.",
+            "pt": "Um simples ato de bondade pode ser o consolo que alguém precisava desesperadamente hoje. Ao agir com doçura, você lembrou ao mundo que servimos a um Deus cujo amor não tem limites.",
+            "fr": "Un simple acte de bonté peut être le réconfort dont quelqu'un avait désespérément besoin aujourd'hui. En agissant avec douceur, vous avez rappelé au monde que nous servons un Dieu dont l'amour n'a pas de limites."
+          }
+        },
+        {
+          "id": "escucha_paciente",
+          "label": {
+            "es": "Escucha paciente",
+            "en": "Patient listening",
+            "pt": "Escuta paciente",
+            "fr": "Écoute patiente"
+          },
+          "responseTitle": {
+            "es": "Refugio en el oído",
+            "en": "Refuge in listening",
+            "pt": "Refúgio na escuta",
+            "fr": "Refuge dans l'écoute"
+          },
+          "responseText": {
+            "es": "Al callar para escuchar, diste un hogar al alma del otro, reflejando al Padre que nos oye.",
+            "en": "By being silent to listen, you gave a home to another's soul, reflecting the Father who hears us.",
+            "pt": "Ao calar-se para ouvir, você deu um lar à alma do outro, refletindo o Pai que nos ouve.",
+            "fr": "En faisant silence pour écouter, vous avez offert un foyer à l'âme de l'autre, reflétant le Père qui nous entend."
+          },
+          "verses": [
+            "Santiago 1:19"
+          ],
+          "reflectionHeader": {
+            "es": "El valor del silencio",
+            "en": "The value of silence",
+            "pt": "O valor do silêncio",
+            "fr": "La valeur du silence"
+          },
+          "reflection": {
+            "es": "Escuchar es una de las formas más altas de caridad. Hoy, tu paciencia permitió que alguien se sintiera valorado y amado por Dios a través de tu atención genuina. Descansa sabiendo que fuiste un canal de Su paz.",
+            "en": "Listening is one of the highest forms of charity. Today, your patience allowed someone to feel valued and loved by God through your genuine attention. Rest knowing you were a channel of His peace.",
+            "pt": "Ouvir é uma das formas mais elevadas de caridade. Hoje, sua paciência permitiu que alguém se sentisse valorizado e amado por Deus através de sua atenção genuína. Descanse sabendo que você foi um canal de Sua paz.",
+            "fr": "L'écoute est l'une des formes les plus élevées de charité. Aujourd'hui, votre patience a permis à quelqu'un de se sentir valorisé et aimé de Dieu à travers votre attention sincère. Reposez-vous en sachant que vous avez été un canal de Sa paix."
+          }
+        },
+        {
+          "id": "generosidad_viva",
+          "label": {
+            "es": "Generosidad",
+            "en": "Generosity",
+            "pt": "Generosidade",
+            "fr": "Générosité"
+          },
+          "responseTitle": {
+            "es": "Manos abiertas",
+            "en": "Open hands",
+            "pt": "Mãos abertas",
+            "fr": "Mains ouvertes"
+          },
+          "responseText": {
+            "es": "Dar de lo que tienes es reconocer que todo lo que posees viene de la mano generosa de Dios.",
+            "en": "Giving from what you have is recognizing that everything you possess comes from God's generous hand.",
+            "pt": "Dar do que você tem é reconhecer que tudo o que possui vem da mão generosa de Deus.",
+            "fr": "Donner de ce que l'on a, c'est reconnaître que tout ce que l'on possède vient de la main généreuse de Dieu."
+          },
+          "verses": [
+            "2 Corintios 9:11"
+          ],
+          "reflectionHeader": {
+            "es": "El fluir de la gracia",
+            "en": "The flow of grace",
+            "pt": "O fluir da graça",
+            "fr": "Le flux de la grâce"
+          },
+          "reflection": {
+            "es": "La generosidad no se trata de la cantidad, sino del corazón que confía en la providencia. Hoy experimentaste el gozo de ser un administrador de las bendiciones divinas para el bienestar de tu prójimo.",
+            "en": "Generosity is not about the amount, but about the heart that trusts in providence. Today you experienced the joy of being a steward of divine blessings for the well-being of your neighbor.",
+            "pt": "A generosidade não trata da quantidade, mas do coração que confia na providência. Hoje você experimentou a alegria de ser um administrador das bênçãos divinas para o bem-estar do seu próximo.",
+            "fr": "La générosité ne dépend pas de la quantité, mais du cœur qui fait confiance à la providence. Aujourd'hui, vous avez goûté à la joie d'être un intendant des bénédictions divines pour le bien-être de votre prochain."
+          }
+        },
+        {
+          "id": "perdon_liberador",
+          "label": {
+            "es": "Perdonar",
+            "en": "Forgiving",
+            "pt": "Perdoar",
+            "fr": "Pardonner"
+          },
+          "responseTitle": {
+            "es": "Libertad en la gracia",
+            "en": "Freedom in grace",
+            "pt": "Liberdade na graça",
+            "fr": "Liberté dans la grâce"
+          },
+          "responseText": {
+            "es": "Soltar la ofensa es el reflejo más puro de la misericordia que Dios nos otorga cada día.",
+            "en": "Letting go of offense is the purest reflection of the mercy God grants us every day.",
+            "pt": "Soltar a ofensa é o reflexo mais puro da misericórdia que Deus nos concede todos os dias.",
+            "fr": "Lâcher l'offense est le reflet le plus pur de la miséricorde que Dieu nous accorde chaque jour."
+          },
+          "verses": [
+            "Colosenses 3:13"
+          ],
+          "reflectionHeader": {
+            "es": "Corazón ligero",
+            "en": "Light heart",
+            "pt": "Coração leve",
+            "fr": "Cœur léger"
+          },
+          "reflection": {
+            "es": "Al elegir el perdón sobre el resentimiento, permitiste que la luz de Cristo sanara una posible herida. Esa decisión no solo bendice al otro, sino que libera tu propio espíritu para descansar en la paz del Señor.",
+            "en": "By choosing forgiveness over resentment, you allowed Christ's light to heal a potential wound. That decision not only blesses the other but frees your own spirit to rest in the Lord's peace.",
+            "pt": "Ao escolher o perdão em vez do ressentimento, você permitiu que a luz de Cristo curasse uma possível ferida. Essa decisão não apenas abençoa o outro, mas liberta seu próprio espírito para descansar na paz do Senhor.",
+            "fr": "En choisissant le pardon plutôt que la rancœur, vous avez laissé la lumière du Christ guérir une blessure potentielle. Cette décision ne bénit pas seulement l'autre, elle libère aussi votre esprit pour reposer dans la paix du Seigneur."
+          }
+        },
+        {
+          "id": "compasion_activa",
+          "label": {
+            "es": "Compasión",
+            "en": "Compassion",
+            "pt": "Compaixão",
+            "fr": "Compassion"
+          },
+          "responseTitle": {
+            "es": "Ojos de misericordia",
+            "en": "Eyes of mercy",
+            "pt": "Olhos de misericórdia",
+            "fr": "Yeux de miséricorde"
+          },
+          "responseText": {
+            "es": "Mirar con compasión es ver a los demás a través del amor incondicional que Cristo nos tiene.",
+            "en": "Looking with compassion is seeing others through the unconditional love Christ has for us.",
+            "pt": "Olhar com compaixão é ver os outros através do amor incondicional que Cristo tem por nós.",
+            "fr": "Regarder avec compassion, c'est voir les autres à travers l'amour inconditionnel que le Christ nous porte."
+          },
+          "verses": [
+            "Lucas 6:36"
+          ],
+          "reflectionHeader": {
+            "es": "Reflejo del Padre",
+            "en": "Reflection of the Father",
+            "pt": "Reflexo do Pai",
+            "fr": "Reflet du Père"
+          },
+          "reflection": {
+            "es": "La compasión nos mueve a actuar y a sentir el dolor ajeno como propio. Hoy, al mostrar misericordia, te acercaste más al corazón de Dios, quien se compadece de todas sus criaturas con ternura eterna.",
+            "en": "Compassion moves us to act and to feel others' pain as our own. Today, by showing mercy, you drew closer to the heart of God, who pities all His creatures with eternal tenderness.",
+            "pt": "A compaixão nos move a agir e a sentir a dor alheia como nossa. Hoje, ao mostrar misericórdia, você se aproximou mais do coração de Deus, que se compadece de todas as suas criaturas com ternura eterna.",
+            "fr": "La compassion nous pousse à agir et à ressentir la douleur d'autrui comme la nôtre. Aujourd'hui, en faisant preuve de miséricorde, vous vous êtes approché du cœur de Dieu, qui a pitié de toutes ses créatures avec une tendresse éternelle."
+          }
+        },
+        {
+          "id": "servicio_discreto",
+          "label": {
+            "es": "Servicio",
+            "en": "Service",
+            "pt": "Serviço",
+            "fr": "Service"
+          },
+          "responseTitle": {
+            "es": "Grandeza en lo bajo",
+            "en": "Greatness in lowliness",
+            "pt": "Grandeza na humildade",
+            "fr": "Grandeur dans l'humilité"
+          },
+          "responseText": {
+            "es": "Servir a otros por amor es la expresión más práctica y poderosa de nuestra fe en Jesús.",
+            "en": "Serving others out of love is the most practical and powerful expression of our faith in Jesus.",
+            "pt": "Servir aos outros por amor é a expressão mais prática e poderosa da nossa fé em Jesus.",
+            "fr": "Servir les autres par amour est l'expression la plus pratique et la plus puissante de notre foi en Jésus."
+          },
+          "verses": [
+            "Gálatas 5:13"
+          ],
+          "reflectionHeader": {
+            "es": "El camino del siervo",
+            "en": "The servant's path",
+            "pt": "O caminho do servo",
+            "fr": "Le chemin du serviteur"
+          },
+          "reflection": {
+            "es": "El servicio desinteresado es el lenguaje del Reino. Al poner las necesidades de otros antes que las tuyas, encontraste la verdadera libertad y el gozo que solo se halla al seguir las huellas del Maestro.",
+            "en": "Selfless service is the language of the Kingdom. By putting others' needs before your own, you found true freedom and the joy that is only found in following the Master's footsteps.",
+            "pt": "O serviço desinteressado é a linguagem do Reino. Ao colocar as necessidades dos outros antes das suas, você encontrou a verdadeira liberdade e a alegria que só se encontra ao seguir as pegadas do Mestre.",
+            "fr": "Le service désintéressé est le langage du Royaume. En faisant passer les besoins des autres avant les vôtres, vous avez trouvé la vraie liberté et la joie qui ne se trouvent qu'en suivant les traces du Maître."
           }
         }
       ]
