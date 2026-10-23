@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22",
+  "updatedAt": "2026-10-23",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -8278,6 +8278,236 @@
             "en": "Selfless service is the language of the Kingdom. By putting others' needs before your own, you found true freedom and the joy that is only found in following the Master's footsteps.",
             "pt": "O serviço desinteressado é a linguagem do Reino. Ao colocar as necessidades dos outros antes das suas, você encontrou a verdadeira liberdade e a alegria que só se encontra ao seguir as pegadas do Mestre.",
             "fr": "Le service désintéressé est le langage du Royaume. En faisant passer les besoins des autres avant les vôtres, vous avez trouvé la vraie liberté et la joie qui ne se trouvent qu'en suivant les traces du Maître."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿En qué aspecto del ritmo de tu día percibiste hoy la huella del Creador?",
+        "en": "In what aspect of your day's rhythm did you perceive the Creator's footprint today?",
+        "pt": "Em que aspecto do ritmo do seu dia você percebeu hoje a marca do Criador?",
+        "fr": "Dans quel aspect du rythme de ta journée as-tu perçu aujourd'hui l'empreinte du Créateur ?"
+      },
+      "options": [
+        {
+          "id": "belleza_cotidiana",
+          "label": {
+            "es": "Belleza sencilla",
+            "en": "Simple beauty",
+            "pt": "Beleza simples",
+            "fr": "Beauté simple"
+          },
+          "responseTitle": {
+            "es": "Dios en los detalles",
+            "en": "God in the details",
+            "pt": "Deus nos detalhes",
+            "fr": "Dieu dans les détails"
+          },
+          "responseText": {
+            "es": "Hoy encontraste a Dios en la armonía de lo pequeño, reconociendo Su diseño en lo que otros pasan por alto.",
+            "en": "Today you found God in the harmony of small things, recognizing His design in what others overlook.",
+            "pt": "Hoje você encontrou Deus na harmonia das pequenas coisas, reconhecendo Seu design no que outros ignoram.",
+            "fr": "Aujourd'hui, tu as trouvé Dieu dans l'harmonie des petites choses, reconnaissant Son dessein là où d'autres ne voient rien."
+          },
+          "verses": [
+            "Salmos 104:24"
+          ],
+          "reflectionHeader": {
+            "es": "Un rastro de Su gloria",
+            "en": "A trace of His glory",
+            "pt": "Um rastro de Sua glória",
+            "fr": "Une trace de Sa gloire"
+          },
+          "reflection": {
+            "es": "La creación no solo está en los grandes paisajes, sino en el orden de tu jornada. Al notar Su mano en lo cotidiano, conviertes lo ordinario en un altar de adoración. Descansa sabiendo que el Autor de la vida cuida cada detalle de tu existencia.",
+            "en": "Creation is not only in grand landscapes, but in the order of your day. By noticing His hand in the everyday, you turn the ordinary into an altar of worship. Rest knowing that the Author of life cares for every detail of your existence.",
+            "pt": "A criação não está apenas nas grandes paisagens, mas na ordem da sua jornada. Ao notar Sua mão no cotidiano, você transforma o comum em um altar de adoração. Descanse sabendo que o Autor da vida cuida de cada detalhe da sua existência.",
+            "fr": "La création ne se trouve pas seulement dans les grands paysages, mais aussi dans l'ordre de ta journée. En remarquant Sa main dans le quotidien, tu transformes l'ordinaire en un autel d'adoration. Repose-toi en sachant que l'Auteur de la vie prend soin de chaque détail de ton existence."
+          }
+        },
+        {
+          "id": "excelencia_laboral",
+          "label": {
+            "es": "Labor con propósito",
+            "en": "Purposeful labor",
+            "pt": "Trabalho com propósito",
+            "fr": "Travail avec sens"
+          },
+          "responseTitle": {
+            "es": "Tu trabajo como ofrenda",
+            "en": "Your work as an offering",
+            "pt": "Seu trabalho como oferta",
+            "fr": "Ton travail comme offrande"
+          },
+          "responseText": {
+            "es": "Al realizar tus tareas con integridad, permitiste que la luz de Dios se manifestara a través de tu esfuerzo y diligencia.",
+            "en": "By performing your tasks with integrity, you allowed God's light to manifest through your effort and diligence.",
+            "pt": "Ao realizar suas tarefas com integridade, você permitiu que a luz de Deus se manifestasse através do seu esforço e diligência.",
+            "fr": "En accomplissant tes tâches avec intégrité, tu as permis à la lumière de Dieu de se manifester à travers ton effort et ta diligence."
+          },
+          "verses": [
+            "Colosenses 3:23"
+          ],
+          "reflectionHeader": {
+            "es": "Manos que sirven al Rey",
+            "en": "Hands that serve the King",
+            "pt": "Mãos que servem ao Rei",
+            "fr": "Des mains au service du Roi"
+          },
+          "reflection": {
+            "es": "Cada responsabilidad cumplida es una oportunidad para reflejar el carácter de Dios. Él ve la dedicación que pones en lo que haces. Al cerrar este día, entrega tus logros y cansancio al Señor, sabiendo que tu labor tiene un valor eterno cuando se hace para Él.",
+            "en": "Every responsibility fulfilled is an opportunity to reflect God's character. He sees the dedication you put into what you do. As you close this day, hand over your achievements and weariness to the Lord, knowing that your work has eternal value when done for Him.",
+            "pt": "Cada responsabilidade cumprida é uma oportunidade para refletir o caráter de Deus. Ele vê a dedicação que você coloca no que faz. Ao encerrar este dia, entregue suas conquistas e cansaço ao Senhor, sabendo que seu trabalho tem um valor eterno quando feito para Ele.",
+            "fr": "Chaque responsabilité accomplie est une occasion de refléter le caractère de Dieu. Il voit le dévouement que tu mets dans ce que tu fais. En terminant cette journée, remets tes réussites et ta fatigue au Seigneur, sachant que ton travail a une valeur éternelle lorsqu'il est fait pour Lui."
+          }
+        },
+        {
+          "id": "pausa_restauradora",
+          "label": {
+            "es": "Silencio restaurador",
+            "en": "Restorative silence",
+            "pt": "Silêncio restaurador",
+            "fr": "Silence restaurateur"
+          },
+          "responseTitle": {
+            "es": "Paz en la quietud",
+            "en": "Peace in the stillness",
+            "pt": "Paz na quietude",
+            "fr": "La paix dans le calme"
+          },
+          "responseText": {
+            "es": "Encontraste un refugio en el silencio, permitiendo que la presencia de Dios renovara tu espíritu lejos del ruido del mundo.",
+            "en": "You found a refuge in silence, allowing God's presence to renew your spirit away from the noise of the world.",
+            "pt": "Você encontrou um refúgio no silêncio, permitindo que a presença de Deus renovasse seu espírito longe do ruído do mundo.",
+            "fr": "Tu as trouvé un refuge dans le silence, permettant à la présence de Dieu de renouveler ton esprit loin du bruit du monde."
+          },
+          "verses": [
+            "Sofonías 3:17"
+          ],
+          "reflectionHeader": {
+            "es": "Callar para escuchar",
+            "en": "Shushing to listen",
+            "pt": "Calar para ouvir",
+            "fr": "Se taire pour écouter"
+          },
+          "reflection": {
+            "es": "A veces, la huella más clara de Dios no está en las palabras, sino en la paz que sobrepasa entendimiento. En ese espacio de quietud, Su amor te abraza y te asegura que no estás solo. Duerme con la certeza de que Él se regocija sobre ti con cánticos.",
+            "en": "Sometimes, God's clearest footprint is not in words, but in the peace that passes understanding. In that space of stillness, His love embraces you and assures you that you are not alone. Sleep with the certainty that He rejoices over you with singing.",
+            "pt": "Às vezes, a marca mais clara de Deus não está nas palavras, mas na paz que excede todo o entendimento. Nesse espaço de quietude, Seu amor o abraça e lhe assegura que você não está sozinho. Durma com a certeza de que Ele se regozija sobre você com cânticos.",
+            "fr": "Parfois, l'empreinte la plus claire de Dieu n'est pas dans les mots, mais dans la paix qui dépasse l'intelligence. Dans cet espace de calme, Son amour t'entoure et t'assure que tu n'es pas seul. Dors avec la certitude qu'Il se réjouit de toi par des chants."
+          }
+        },
+        {
+          "id": "conexion_sincera",
+          "label": {
+            "es": "Vínculo sincero",
+            "en": "Sincere bond",
+            "pt": "Vínculo sincero",
+            "fr": "Lien sincère"
+          },
+          "responseTitle": {
+            "es": "Dios a través del otro",
+            "en": "God through others",
+            "pt": "Deus através do outro",
+            "fr": "Dieu à travers l'autre"
+          },
+          "responseText": {
+            "es": "Hoy percibiste al Creador en una conversación, en un abrazo o en el apoyo mutuo con alguien que cruzó tu camino.",
+            "en": "Today you perceived the Creator in a conversation, in a hug, or in mutual support with someone who crossed your path.",
+            "pt": "Hoje você percebeu o Criador em uma conversa, em um abraço ou no apoio mútuo com alguém que cruzou seu caminho.",
+            "fr": "Aujourd'hui, tu as perçu le Créateur dans une conversation, un câlin ou dans le soutien mutuel avec quelqu'un qui a croisé ton chemin."
+          },
+          "verses": [
+            "Proverbios 17:17"
+          ],
+          "reflectionHeader": {
+            "es": "Reflejados en comunidad",
+            "en": "Reflected in community",
+            "pt": "Refletidos em comunidade",
+            "fr": "Refletés en communauté"
+          },
+          "reflection": {
+            "es": "Fuimos creados para la conexión. Cuando compartimos la carga o la alegría con otro, estamos viviendo el diseño relacional de Dios. Da gracias por las personas que hoy fueron instrumentos de Su gracia para ti y descansa en Su amor compartido.",
+            "en": "We were created for connection. When we share a burden or joy with another, we are living out God's relational design. Give thanks for the people who were instruments of His grace for you today and rest in His shared love.",
+            "pt": "Fomos criados para a conexão. Quando compartilhamos um fardo ou alegria com outro, estamos vivendo o design relacional de Deus. Dê graças pelas pessoas que hoje foram instrumentos da Sua graça para você e descanse no Seu amor compartilhado.",
+            "fr": "Nous avons été créés pour le lien. Quand nous partageons un fardeau ou une joie avec un autre, nous vivons le dessein relationnel de Dieu. Rends grâce pour les personnes qui ont été aujourd'hui des instruments de Sa grâce pour toi et repose-toi dans Son amour partagé."
+          }
+        },
+        {
+          "id": "paciencia_activa",
+          "label": {
+            "es": "Calma en la espera",
+            "en": "Calm in waiting",
+            "pt": "Calma na espera",
+            "fr": "Calme dans l'attente"
+          },
+          "responseTitle": {
+            "es": "Confianza en Su tiempo",
+            "en": "Trust in His timing",
+            "pt": "Confiança no Seu tempo",
+            "fr": "Confiance en Son temps"
+          },
+          "responseText": {
+            "es": "En lugar de la frustración, elegiste la paciencia hoy, reconociendo que Dios está obrando aun cuando parece que nada sucede.",
+            "en": "Instead of frustration, you chose patience today, recognizing that God is working even when it seems nothing is happening.",
+            "pt": "Em vez de frustração, você escolheu a paciência hoje, reconhecendo que Deus está operando mesmo quando parece que nada acontece.",
+            "fr": "Au lieu de la frustration, tu as choisi la patience aujourd'hui, reconnaissant que Dieu est à l'œuvre même quand il semble que rien ne se passe."
+          },
+          "verses": [
+            "Salmos 37:7"
+          ],
+          "reflectionHeader": {
+            "es": "El arte de esperar",
+            "en": "The art of waiting",
+            "pt": "A arte de esperar",
+            "fr": "L'art d'attendre"
+          },
+          "reflection": {
+            "es": "Esperar no es tiempo perdido si se espera en el Señor. Hoy demostraste que confías más en Su soberanía que en tu propio reloj. Esa calma es una huella profunda de Su Espíritu en ti. Entregue tu futuro a Aquel que nunca llega tarde.",
+            "en": "Waiting is not wasted time if you wait on the Lord. Today you showed that you trust His sovereignty more than your own clock. That calm is a deep footprint of His Spirit in you. Commend your future to the One who is never late.",
+            "pt": "Esperar não é tempo perdido se você espera no Senhor. Hoje você mostrou que confia mais na soberania Dele do que no seu próprio relógio. Essa calma é uma marca profunda do Seu Espírito em você. Entregue seu futuro Àquele que nunca chega tarde.",
+            "fr": "Attendre n'est pas du temps perdu si l'on attend le Seigneur. Aujourd'hui, tu as montré que tu as plus confiance en Sa souveraineté qu'en ta propre montre. Ce calme est une empreinte profonde de Son Esprit en toi. Remets ton avenir à Celui qui n'est jamais en retard."
+          }
+        },
+        {
+          "id": "sabiduria_practica",
+          "label": {
+            "es": "Sabiduría aplicada",
+            "en": "Applied wisdom",
+            "pt": "Sabedoria aplicada",
+            "fr": "Sagesse appliquée"
+          },
+          "responseTitle": {
+            "es": "Guiado por la verdad",
+            "en": "Guided by truth",
+            "pt": "Guiado pela verdade",
+            "fr": "Guidé par la vérité"
+          },
+          "responseText": {
+            "es": "Hoy tomaste decisiones basadas en principios eternos, viendo cómo la sabiduría de Dios te libraba de caminos inciertos.",
+            "en": "Today you made decisions based on eternal principles, seeing how God's wisdom delivered you from uncertain paths.",
+            "pt": "Hoje você tomou decisões baseadas em princípios eternos, vendo como a sabedoria de Deus o livrou de caminhos incertos.",
+            "fr": "Aujourd'hui, tu as pris des décisions basées sur des principes éternels, voyant comment la sagesse de Dieu t'a préservé des chemins incertains."
+          },
+          "verses": [
+            "Proverbios 2:6"
+          ],
+          "reflectionHeader": {
+            "es": "Caminar con entendimiento",
+            "en": "Walking with understanding",
+            "pt": "Caminhar com entendimento",
+            "fr": "Marcher avec intelligence"
+          },
+          "reflection": {
+            "es": "La sabiduría no es solo conocimiento, es vivir la voluntad de Dios en cada elección. Al buscar Su dirección hoy, permitiste que Él enderezara tus sendas. Cierra los ojos con la paz de haber caminado bajo Su instrucción y buen consejo.",
+            "en": "Wisdom is not just knowledge; it is living God's will in every choice. By seeking His direction today, you allowed Him to make your paths straight. Close your eyes with the peace of having walked under His instruction and good counsel.",
+            "pt": "A sabedoria não é apenas conhecimento; é viver a vontade de Deus em cada escolha. Ao buscar Sua direção hoje, você permitiu que Ele endireitasse suas veredas. Feche os olhos com a paz de ter caminhado sob Sua instrução e bom conselho.",
+            "fr": "La sagesse n'est pas seulement une connaissance, c'est vivre la volonté de Dieu dans chaque choix. En cherchant Sa direction aujourd'hui, tu Lui as permis de rendre tes sentiers droits. Ferme les yeux avec la paix d'avoir marché sous Son instruction et Ses bons conseils."
           }
         }
       ]
