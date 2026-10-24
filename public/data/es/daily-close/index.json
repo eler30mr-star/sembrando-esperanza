@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23",
+  "updatedAt": "2026-10-24",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -8508,6 +8508,236 @@
             "en": "Wisdom is not just knowledge; it is living God's will in every choice. By seeking His direction today, you allowed Him to make your paths straight. Close your eyes with the peace of having walked under His instruction and good counsel.",
             "pt": "A sabedoria não é apenas conhecimento; é viver a vontade de Deus em cada escolha. Ao buscar Sua direção hoje, você permitiu que Ele endireitasse suas veredas. Feche os olhos com a paz de ter caminhado sob Sua instrução e bom conselho.",
             "fr": "La sagesse n'est pas seulement une connaissance, c'est vivre la volonté de Dieu dans chaque choix. En cherchant Sa direction aujourd'hui, tu Lui as permis de rendre tes sentiers droits. Ferme les yeux avec la paix d'avoir marché sous Son instruction et Ses bons conseils."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera cultivaste hoy la apacibilidad y el dominio propio en tu caminar?",
+        "en": "In what way did you cultivate gentleness and self-control in your walk today?",
+        "pt": "De que maneira você cultivou hoje a mansidão e o domínio próprio em sua jornada?",
+        "fr": "De quelle manière as-tu cultivé aujourd'hui la douceur et la maîtrise de soi ?"
+      },
+      "options": [
+        {
+          "id": "freno_en_la_ira",
+          "label": {
+            "es": "Refrenando la ira",
+            "en": "Restraining anger",
+            "pt": "Refreando a ira",
+            "fr": "Retenant la colère"
+          },
+          "responseTitle": {
+            "es": "Dominio que honra a Dios",
+            "en": "Self-control honoring God",
+            "pt": "Domínio que honra a Deus",
+            "fr": "Maîtrise qui honore Dieu"
+          },
+          "responseText": {
+            "es": "Elegiste la calma frente a la provocación, permitiendo que la serenidad del Espíritu frenara impulsos innecesarios.",
+            "en": "You chose calm in the face of provocation, allowing the Spirit's serenity to curb unnecessary impulses.",
+            "pt": "Você escolheu a calma diante da provocação, permitindo que a serenidade do Espírito contivesse impulsos desnecessários.",
+            "fr": "Tu as choisi la calme face à la provocation, laissant la sérénité de l'Esprit freiner les impulsions inutiles."
+          },
+          "verses": [
+            "Proverbios 16:32"
+          ],
+          "reflectionHeader": {
+            "es": "La fuerza de la serenidad",
+            "en": "The strength of serenity",
+            "pt": "A força da serenidade",
+            "fr": "La force de la sérénité"
+          },
+          "reflection": {
+            "es": "Vencer una reacción apresurada es una gran victoria espiritual. Al guardar el corazón del enojo, demuestras que el amor de Dios reina sobre tus emociones y protege tu paz nocturna.",
+            "en": "Overcoming a hasty reaction is a great spiritual victory. By guarding your heart from anger, you demonstrate that God's love rules over your emotions and protects your nightly peace.",
+            "pt": "Vencer uma reação apressada é uma grande vitória espiritual. Ao guardar o coração da ira, você demonstra que o amor de Deus reina sobre suas emoções e protege sua paz noturna.",
+            "fr": "Surmonter une réaction hâtive est une grande victoire spirituelle. En gardant ton cœur de la colère, tu montres que l'amour de Dieu règne sur tes émotions et protège ta paix nocturne."
+          }
+        },
+        {
+          "id": "pensamiento_limpio",
+          "label": {
+            "es": "Guardando la mente",
+            "en": "Guarding the mind",
+            "pt": "Guardando a mente",
+            "fr": "Garder son esprit"
+          },
+          "responseTitle": {
+            "es": "Pensamientos que edifican",
+            "en": "Thoughts that build up",
+            "pt": "Pensamentos que edificam",
+            "fr": "Pensées qui édifient"
+          },
+          "responseText": {
+            "es": "Filtro a filtro, cuidaste lo que permitiste habitar en tus pensamientos durante las tareas cotidianas.",
+            "en": "Filter by filter, you guarded what you allowed to dwell in your thoughts throughout daily tasks.",
+            "pt": "Filtro a filtro, você cuidou do que permitiu habitar em seus pensamentos durante as tarefas diárias.",
+            "fr": "Filtre après filtre, tu as veillé sur ce que tu laissais habiter tes pensées au long de la journée."
+          },
+          "verses": [
+            "Filipenses 4:8"
+          ],
+          "reflectionHeader": {
+            "es": "Enfoque en lo puro",
+            "en": "Focusing on the pure",
+            "pt": "Foco no que é puro",
+            "fr": "Focus sur le pur"
+          },
+          "reflection": {
+            "es": "Una mente enfocada en lo verdadero y lo amable no deja espacio al desánimo ni a la amargura. Al entregar tus pensamientos al Señor, preparas tu mente para descansar en completa quietud.",
+            "en": "A mind focused on what is true and lovely leaves no space for discouragement or bitterness. By surrendering your thoughts to the Lord, you prepare your mind to rest in complete quietness.",
+            "pt": "Uma mente focada no que é verdadeiro e amável não deixa espaço para o desânimo ou a amargura. Ao entregar seus pensamentos ao Senhor, você prepara sua mente para descansar em completa quietude.",
+            "fr": "Un esprit concentré sur ce qui est vrai et aimable ne laisse pas de place au découragement ni à l'amertume. En confiant tes pensées au Seigneur, tu prépares ton esprit à se reposer dans un calme total."
+          }
+        },
+        {
+          "id": "respuesta_blanda",
+          "label": {
+            "es": "Respondiendo con paz",
+            "en": "Answering with peace",
+            "pt": "Respondendo com paz",
+            "fr": "Répondre avec paix"
+          },
+          "responseTitle": {
+            "es": "Palabras con gracia",
+            "en": "Words filled with grace",
+            "pt": "Palavras com graça",
+            "fr": "Paroles pleines de grâce"
+          },
+          "responseText": {
+            "es": "Preferiste responder con afabilidad y gracia antes que alimentar desacuerdos innecesarios.",
+            "en": "You preferred to respond with gentleness and grace rather than feed unnecessary disagreements.",
+            "pt": "Você preferiu responder com afabilidade e graça em vez de alimentar desacordos desnecessários.",
+            "fr": "Tu as préféré répondre avec amabilité et grâce plutôt que de nourrir des désaccords inutiles."
+          },
+          "verses": [
+            "Colosenses 4:6"
+          ],
+          "reflectionHeader": {
+            "es": "Bálsamo en la conversación",
+            "en": "Balm in conversation",
+            "pt": "Bálsamo na conversa",
+            "fr": "Baume dans l'échange"
+          },
+          "reflection": {
+            "es": "La gracia al hablar desarma la tensión y siembra concordia en los lugares por donde pasas. Agradece a Dios por darte la sabiduría de ser un puente de diálogo apacible en este día.",
+            "en": "Grace in speech disarms tension and sows harmony wherever you go. Thank God for giving you the wisdom to be a bridge of peaceful dialogue today.",
+            "pt": "A graça ao falar desarma a tensão e semeia concórdia por onde você passa. Agradeça a Deus por lhe dar a sabedoria de ser uma ponte de diálogo pacífico neste dia.",
+            "fr": "La grâce dans la parole désarme la tension et sème la concorde partout où tu passes. Remercie Dieu de t'avoir donné la sagesse d'être un pont de dialogue paisible en ce jour."
+          }
+        },
+        {
+          "id": "pausa_ante_impulso",
+          "label": {
+            "es": "Pausa en la prisa",
+            "en": "Pausing in rush",
+            "pt": "Pausa na pressa",
+            "fr": "Pause dans la hâte"
+          },
+          "responseTitle": {
+            "es": "Prudencia al actuar",
+            "en": "Prudence in action",
+            "pt": "Prudência ao agir",
+            "fr": "Prudence dans l'action"
+          },
+          "responseText": {
+            "es": "Tomaste un respiro consciente antes de actuar o decidir, evitando el apresuramiento de la carne.",
+            "en": "You took a conscious breath before acting or deciding, avoiding the haste of the flesh.",
+            "pt": "Você respirou fundo antes de agir ou decidir, evitando a pressa da carne.",
+            "fr": "Tu as pris un temps de réflexion avant d'agir ou de décider, évitant ainsi la précipitation."
+          },
+          "verses": [
+            "Proverbios 14:29"
+          ],
+          "reflectionHeader": {
+            "es": "Un respiro oportuno",
+            "en": "A timely breather",
+            "pt": "Um respiro oportuno",
+            "fr": "Un répit bienvenu"
+          },
+          "reflection": {
+            "es": "La paciencia nos enseña a valorar el ritmo de Dios sobre las prisiones de la inmediatez. Saber esperar en medio de la jornada demuestra un espíritu maduro que confía en el control divino.",
+            "en": "Patience teaches us to value God's timing over the traps of immediacy. Knowing how to wait in the middle of the day reveals a mature spirit that trusts divine control.",
+            "pt": "A paciência nos ensina a valorizar o ritmo de Deus em vez do imediatismo. Saber esperar no meio da jornada demonstra um espírito maduro que confia no controle divino.",
+            "fr": "La patience nous apprend à apprécier le rythme de Dieu plutôt que la hâte du moment. Savoir attendre au milieu de la journée témoigne d'un esprit mûr qui se fie au contrôle divin."
+          }
+        },
+        {
+          "id": "moderacion_diaria",
+          "label": {
+            "es": "Moderación serena",
+            "en": "Serene moderation",
+            "pt": "Moderação serena",
+            "fr": "Sereine modération"
+          },
+          "responseTitle": {
+            "es": "Vida sobria y recta",
+            "en": "Sober and upright life",
+            "pt": "Vida sóbria e reta",
+            "fr": "Vie sobre et droite"
+          },
+          "responseText": {
+            "es": "Buscaste el equilibrio en tus hábitos y demandas cotidianas, viviendo con sencillez y moderación.",
+            "en": "You sought balance in your habits and daily demands, living with simplicity and moderation.",
+            "pt": "Você buscou o equilíbrio em seus hábitos e demandas diárias, vivendo com simplicidade e moderação.",
+            "fr": "Tu as cherché l'équilibre dans tes habitudes et exigences quotidiennes, vivant avec simplicité et modération."
+          },
+          "verses": [
+            "Tito 2:12"
+          ],
+          "reflectionHeader": {
+            "es": "Equilibrio que fortalece",
+            "en": "Balance that strengthens",
+            "pt": "Equilíbrio que fortalece",
+            "fr": "Équilibre fortifiant"
+          },
+          "reflection": {
+            "es": "La moderación cuida el templo del Espíritu y evita los excesos que perturban el alma. Al mantener la sobriedad en tus actos, proteges la salud de tu espíritu para servir mejor a Dios.",
+            "en": "Moderation protects the temple of the Spirit and prevents excesses that disturb the soul. By maintaining sobriety in your actions, you protect the health of your spirit to serve God better.",
+            "pt": "A moderação cuida do templo do Espírito e evita os excessos que perturbam a alma. Ao manter a sobriedade em seus atos, você protege a saúde do seu espírito para servir melhor a Deus.",
+            "fr": "La modération protège le temple de l'Esprit et évite les excès qui troublent l'âme. En gardant la sobriété dans tes actes, tu préserves la santé de ton esprit pour mieux servir Dieu."
+          }
+        },
+        {
+          "id": "perdon_inmediato",
+          "label": {
+            "es": "Soltando agravios",
+            "en": "Releasing offenses",
+            "pt": "Soltando ofensas",
+            "fr": "Lâchant les offenses"
+          },
+          "responseTitle": {
+            "es": "Corazón libre de rencor",
+            "en": "Heart free from grudge",
+            "pt": "Coração livre de rancor",
+            "fr": "Cœur libre de rancune"
+          },
+          "responseText": {
+            "es": "Decidiste no guardar pequeños roces ni ofensas, soltando el resentimiento a los pies del Señor.",
+            "en": "You decided not to hold onto small friction or offenses, releasing resentment at the Lord's feet.",
+            "pt": "Você decidiu não guardar pequenas atritos ou ofensas, entregando o ressentimento aos pés do Senhor.",
+            "fr": "Tu as décidé de ne pas garder de frictions ni d'offenses, déposant le ressentiment aux pieds du Seigneur."
+          },
+          "verses": [
+            "1 Corintios 13:5"
+          ],
+          "reflectionHeader": {
+            "es": "Libertad en el amor",
+            "en": "Freedom in love",
+            "pt": "Liberdade no amor",
+            "fr": "Liberté dans l'amour"
+          },
+          "reflection": {
+            "es": "El amor verdadero no lleva la cuenta del mal sufrido. Acostarte con un corazón perdonador alivia la carga de la jornada y abre las puertas a un sueño reparador en la presencia de Dios.",
+            "en": "True love keeps no record of wrongs suffered. Going to bed with a forgiving heart lightens the day's burden and opens the door to restful sleep in God's presence.",
+            "pt": "O verdadeiro amor não guarda rancor do mal sofrido. Ir para a cama com um coração perdoador alivia o peso do dia e abre portas para um sono reparador na presença de Deus.",
+            "fr": "L'amour vrai ne tient pas compte du mal subi. Te coucher avec un cœur pardonnant allège la charge de la journée et ouvre la porte à un sommeil réparateur en la présence de Dieu."
           }
         }
       ]
