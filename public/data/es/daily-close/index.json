@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24",
+  "updatedAt": "2026-10-25",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -8738,6 +8738,236 @@
             "en": "True love keeps no record of wrongs suffered. Going to bed with a forgiving heart lightens the day's burden and opens the door to restful sleep in God's presence.",
             "pt": "O verdadeiro amor não guarda rancor do mal sofrido. Ir para a cama com um coração perdoador alivia o peso do dia e abre portas para um sono reparador na presença de Deus.",
             "fr": "L'amour vrai ne tient pas compte du mal subi. Te coucher avec un cœur pardonnant allège la charge de la journée et ouvre la porte à un sommeil réparateur en la présence de Dieu."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera cuidaste hoy la paz y pureza de tu corazón?",
+        "en": "In what way did you protect the peace and purity of your heart today?",
+        "pt": "De que maneira você cuidou hoje da paz e pureza do seu coração?",
+        "fr": "De quelle manière as-tu veillé aujourd'hui sur la paix de ton cœur ?"
+      },
+      "options": [
+        {
+          "id": "guardar_mente",
+          "label": {
+            "es": "Filtrando pensamientos",
+            "en": "Filtering thoughts",
+            "pt": "Filtrando pensamentos",
+            "fr": "Filtrant mes pensées"
+          },
+          "responseTitle": {
+            "es": "Mente protegida por la Verdad",
+            "en": "A mind protected by Truth",
+            "pt": "Mente protegida pela Verdade",
+            "fr": "Un esprit protégé par la Vérité"
+          },
+          "responseText": {
+            "es": "Elegiste no permitir que pensamientos destructivos echaran raíces en ti hoy, buscando en cambio la verdad de Dios.",
+            "en": "You chose not to let destructive thoughts take root in you today, seeking God's truth instead.",
+            "pt": "Você escolheu não permitir que pensamentos destrutivos criassem raízes em você hoje, buscando a verdade de Deus.",
+            "fr": "Tu as choisi de ne pas laisser des pensées destructrices prendre racine en toi aujourd'hui, en cherchant plutôt la vérité de Dieu."
+          },
+          "verses": [
+            "Salmos 119:11"
+          ],
+          "reflectionHeader": {
+            "es": "Pensamientos alineados con Dios",
+            "en": "Thoughts aligned with God",
+            "pt": "Pensamentos alinhados a Deus",
+            "fr": "Pensées alignées sur Dieu"
+          },
+          "reflection": {
+            "es": "Al cerrar la jornada, reconoce el valor de haber velado por tu mente. Cada pensamiento rendido a Cristo es una victoria de paz. Al descansar, entrega al Señor cualquier inquietud restante y confía en que Su Palabra guarda tus pensamientos durante la noche.",
+            "en": "As the day ends, recognize the value of having guarded your mind. Every thought surrendered to Christ is a victory of peace. As you rest, commit any remaining worry to the Lord and trust His Word to keep your thoughts safe through the night.",
+            "pt": "Ao encerrar o dia, reconheça o valor de ter guardado sua mente. Cada pensamento entregue a Cristo é uma vitória de paz. Ao descansar, entregue ao Senhor qualquer inquietação restante e confie que Sua Palavra guarda seus pensamentos durante a noite.",
+            "fr": "En terminant cette journée, reconnais la valeur d'avoir veillé sur ton esprit. Chaque pensée soumise à Christ est une victoire de paix. En te reposant, confie au Seigneur toute inquiétude restante et crois que Sa Parole garde tes pensées durant la nuit."
+          }
+        },
+        {
+          "id": "lejos_de_comparacion",
+          "label": {
+            "es": "Sin compararme",
+            "en": "Avoiding comparison",
+            "pt": "Sem me comparar",
+            "fr": "Sans me comparer"
+          },
+          "responseTitle": {
+            "es": "Gratitud por mi propio camino",
+            "en": "Gratitude for my own path",
+            "pt": "Gratidão pelo meu caminho",
+            "fr": "Gratitude pour mon chemin"
+          },
+          "responseText": {
+            "es": "Decidiste valorar el camino singular que Dios ha trazado para ti, sin medir tu valor a través de la vida de otros.",
+            "en": "You decided to value the unique path God has outlined for you, without measuring your worth through others' lives.",
+            "pt": "Você decidiu valorizar o caminho único que Deus traçou para você, sem medir seu valor através da vida de outros.",
+            "fr": "Tu as décidé de valoriser le chemin unique que Dieu a tracé pour toi, sans mesurer ta valeur à travers la vie des autres."
+          },
+          "verses": [
+            "Gálatas 6:4"
+          ],
+          "reflectionHeader": {
+            "es": "El valor de tu propio diseño",
+            "en": "The value of your own path",
+            "pt": "O valor do seu próprio caminho",
+            "fr": "La valeur de ton propre chemin"
+          },
+          "reflection": {
+            "es": "La comparación roba el gozo que Dios depositó en tus manos. Al descansar hoy, celebra el diseño único con el que fuiste creado y los frutos sencillos pero reales de tu día. Dios no te compara con nadie; te ama y te guía personalmente.",
+            "en": "Comparison steals the joy God placed in your hands. As you rest today, celebrate the unique design with which you were created and the simple yet real fruits of your day. God does not compare you to anyone; He loves and guides you personally.",
+            "pt": "A comparação rouba a alegria que Deus depositou em suas mãos. Ao descansar hoje, celebre o design único com o qual foi criado e os frutos simples, mas reais, do seu dia. Deus não compara você com ninguém; Ele ama e guia você pessoalmente.",
+            "fr": "La comparaison vole la joie que Dieu a déposée entre tes mains. En te reposant aujourd'hui, célèbre le dessein unique avec lequel tu as été créé et les fruits simples mais réels de ta journée. Dieu ne te compare à personne ; Il t'aime et te guide personnellement."
+          }
+        },
+        {
+          "id": "evitando_contiendas",
+          "label": {
+            "es": "Evitando contiendas",
+            "en": "Avoiding strife",
+            "pt": "Evitando contendas",
+            "fr": "Évitant les querelles"
+          },
+          "responseTitle": {
+            "es": "Elección de la concordia",
+            "en": "Choosing peaceful unity",
+            "pt": "Escolha da concórdia",
+            "fr": "Choix de la concorde"
+          },
+          "responseText": {
+            "es": "Optaste por guardar silencio o responder con mansedumbre, protegiendo la paz por encima de tener la última palabra.",
+            "en": "You chose to remain silent or answer with gentleness, protecting peace over having the last word.",
+            "pt": "Você optou por guardar silêncio ou responder com mansidão, protegendo a paz acima de ter a última palavra.",
+            "fr": "Tu as choisi de garder le silence ou de répondre avec douceur, préservant la paix plutôt que d'avoir le dernier mot."
+          },
+          "verses": [
+            "Proverbios 17:1"
+          ],
+          "reflectionHeader": {
+            "es": "Guardia sobre tus reacciones",
+            "en": "Guarding your reactions",
+            "pt": "Guarda sobre suas reações",
+            "fr": "Garde tes réactions"
+          },
+          "reflection": {
+            "es": "Renunciar a discusiones innecesarias no es debilidad, sino la fuerza de un corazón sabio. Dios observa cuando prefieres la concordia antes que el orgullo. Que esta noche te traiga el descanso profundo que solo reciben los buscadores de paz.",
+            "en": "Refraining from unnecessary arguments is not weakness, but the strength of a wise heart. God notices when you prefer peace over pride. May this night bring you the deep rest that only peacemakers receive.",
+            "pt": "Renunciar a discussões desnecessárias não é fraqueza, mas a força de um coração sábio. Deus observa quando você prefere a concórdia ao orgulho. Que esta noite lhe traga o descanso profundo que só os pacificadores recebem.",
+            "fr": "Renoncer aux discussions inutiles n'est pas une faiblesse, mais la force d'un cœur sage. Dieu voit quand tu préfères la paix à l'orgueil. Que cette nuit t'apporte le repos profond que seuls reçoivent les artisans de paix."
+          }
+        },
+        {
+          "id": "foco_en_lo_bueno",
+          "label": {
+            "es": "Desechando amargura",
+            "en": "Casting off bitterness",
+            "pt": "Afastando a amargura",
+            "fr": "Rejetant l'amertume"
+          },
+          "responseTitle": {
+            "es": "Limpieza del alma al anochecer",
+            "en": "Soul cleansing at dusk",
+            "pt": "Limpeza da alma ao anoitecer",
+            "fr": "Purification de l'âme le soir"
+          },
+          "responseText": {
+            "es": "Decidiste soltar las ofensas o contratiempos del día, impidiendo que el resentimiento echara raíces en tu alma.",
+            "en": "You chose to let go of offenses or setbacks from the day, preventing resentment from taking root in your soul.",
+            "pt": "Você decidiu soltar as ofensas ou contratempos do dia, impedindo que o ressentimento criasse raízes em sua alma.",
+            "fr": "Tu as décidé de lâcher prise sur les offenses ou travers de la journée, empêchant le ressentiment de prendre racine dans ton âme."
+          },
+          "verses": [
+            "Hebreos 12:15"
+          ],
+          "reflectionHeader": {
+            "es": "Libre de cargas nocivas",
+            "en": "Free from harmful burdens",
+            "pt": "Livre de fardos nocivos",
+            "fr": "Libéré des fardeaux toxiques"
+          },
+          "reflection": {
+            "es": "Perdonar y soltar no cambia el pasado, pero libera completamente tu presente. Al acostarte, agradece al Señor por la gracia de empezar cada mañana con un corazón limpio. Su perdón renovado es el mejor refugio para tu descanso.",
+            "en": "Forgiving and letting go does not change the past, but it fully liberates your present. As you lie down, thank the Lord for the grace to start every morning with a clean heart. His renewed forgiveness is the best shelter for your rest.",
+            "pt": "Perdoar e soltar não muda o passado, mas liberta completamente o seu presente. Ao se deitar, agradeça ao Senhor pela graça de começar cada manhã com um coração limpo. O perdão renovado d'Ele é o melhor refúgio para o seu descanso.",
+            "fr": "Pardonner et lâcher prise ne change pas le passé, mais libère pleinement ton présent. En te couchant, remercie le Seigneur pour la grâce de commencer chaque matin avec un cœur pur. Son pardon renouvelé est le meilleur refuge pour ton repos."
+          }
+        },
+        {
+          "id": "refugio_oracion",
+          "label": {
+            "es": "Refugio secreto",
+            "en": "Secret sanctuary",
+            "pt": "Refúgio secreto",
+            "fr": "Refuge secret"
+          },
+          "responseTitle": {
+            "es": "Intimidad redentora con Dios",
+            "en": "Restorative intimacy with God",
+            "pt": "Intimidade com Deus",
+            "fr": "Intimité avec Dieu"
+          },
+          "responseText": {
+            "es": "Buscaste momentos a solas con Dios para entregarle lo vivido y reponer fuerzas en Su presencia reconfortante.",
+            "en": "You sought moments alone with God to hand over your day and replenish your strength in His comforting presence.",
+            "pt": "Você buscou momentos a sós com Deus para entregar o que viveu e renovar forças em Sua presença confortante.",
+            "fr": "Tu as cherché des moments seul avec Dieu pour Lui remettre ce que tu as vécu et renouveler tes forces dans Sa présence réconfortante."
+          },
+          "verses": [
+            "Salmos 91:1"
+          ],
+          "reflectionHeader": {
+            "es": "La fortaleza de tu santuario",
+            "en": "Strength of your sanctuary",
+            "pt": "A fortaleza do seu santuário",
+            "fr": "La force de ton sanctuaire"
+          },
+          "reflection": {
+            "es": "El lugar secreto de oración es el mejor resguardo contra la fatiga del mundo. Allí Dios restaura tus fuerzas y renueva tus esperanzas. Duerme sabiendo que el Altísimo cuida de ti y que nada puede separarte de Su fidelidad.",
+            "en": "The secret place of prayer is the best shield against the world's weariness. There, God restores your strength and renews your hopes. Sleep knowing the Most High watches over you and nothing can separate you from His faithfulness.",
+            "pt": "O lugar secreto de oração é a melhor proteção contra o cansaço do mundo. Ali Deus restaura suas forças e renova suas esperanças. Durma sabendo que o Altíssimo cuida de você e nada pode separá-lo de Sua fidelidade.",
+            "fr": "Le lieu secret de la prière est le meilleur abri contre la fatigue du monde. Là, Dieu restaure tes forces et renouvelle tes espérances. Dors en sachant que le Très-Haut veille sur toi et que rien ne peut te séparer de Sa fidélité."
+          }
+        },
+        {
+          "id": "caminar_sincero",
+          "label": {
+            "es": "Caminar transparente",
+            "en": "Walking transparently",
+            "pt": "Caminhar transparente",
+            "fr": "Marche transparente"
+          },
+          "responseTitle": {
+            "es": "Integridad ante el Señor",
+            "en": "Integrity before the Lord",
+            "pt": "Integridade diante do Senhor",
+            "fr": "Intégrité devant le Seigneur"
+          },
+          "responseText": {
+            "es": "Procuraste actuar con honestidad y transparencia en tus deberes, viviendo en armonía con lo que crees.",
+            "en": "You sought to act with honesty and transparency in your duties, living in harmony with what you believe.",
+            "pt": "Você procurou agir com honestidade e transparência em seus deveres, vivendo em harmonia com o que crê.",
+            "fr": "Tu as cherché à agir avec honnêteté et transparence dans tes devoirs, en vivant en harmonie avec ce que tu crois."
+          },
+          "verses": [
+            "Proverbios 10:9"
+          ],
+          "reflectionHeader": {
+            "es": "La paz de una conciencia limpia",
+            "en": "Peace of a clean conscience",
+            "pt": "A paz de uma consciência limpa",
+            "fr": "La paix d'une conscience pure"
+          },
+          "reflection": {
+            "es": "Caminar en integridad produce un descanso sereno que ningún bien material puede comprar. Cuando tus acciones coinciden con tu fe, el alma encuentra una calma profunda. Descansa en la certeza de que Dios bendice la rectitud de tu corazón.",
+            "en": "Walking in integrity yields a peaceful rest that no material good can buy. When your actions align with your faith, the soul finds deep calm. Rest in the certainty that God blesses the uprightness of your heart.",
+            "pt": "Caminhar em integridade produz um descanso sereno que nenhum bem material pode comprar. Quando suas ações coincidem com sua fé, a alma encontra uma calma profunda. Descanse na certeza de que Deus abençoa a retidão do seu coração.",
+            "fr": "Marcher dans l'intégrité procure un repos serein qu'aucun bien matériel ne peut acheter. Lorsque tes actes s'accordent avec ta foi, l'âme trouve un calme profond. Repose-toi avec la certitude que Dieu bénit la droiture de ton cœur."
           }
         }
       ]
