@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -8968,6 +8968,236 @@
             "en": "Walking in integrity yields a peaceful rest that no material good can buy. When your actions align with your faith, the soul finds deep calm. Rest in the certainty that God blesses the uprightness of your heart.",
             "pt": "Caminhar em integridade produz um descanso sereno que nenhum bem material pode comprar. Quando suas ações coincidem com sua fé, a alma encontra uma calma profunda. Descanse na certeza de que Deus abençoa a retidão do seu coração.",
             "fr": "Marcher dans l'intégrité procure un repos serein qu'aucun bien matériel ne peut acheter. Lorsque tes actes s'accordent avec ta foi, l'âme trouve un calme profond. Repose-toi avec la certitude que Dieu bénit la droiture de ton cœur."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera pusiste hoy tus dones al servicio del propósito de Dios?",
+        "en": "How did you use your gifts to serve God's purpose today?",
+        "pt": "De que maneira você colocou hoje seus dons a serviço do propósito de Deus?",
+        "fr": "De quelle manière as-tu mis tes dons au service du dessein de Dieu aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "diligencia_fiel",
+          "label": {
+            "es": "Diligencia fiel",
+            "en": "Faithful diligence",
+            "pt": "Diligência fiel",
+            "fr": "Diligence fidèle"
+          },
+          "responseTitle": {
+            "es": "Trabajo con excelencia",
+            "en": "Working with excellence",
+            "pt": "Trabalho com excelência",
+            "fr": "Travailler avec excellence"
+          },
+          "responseText": {
+            "es": "Tu compromiso con las tareas diarias, hechas como para el Señor, es un acto de adoración que no pasa desapercibido.",
+            "en": "Your commitment to daily tasks, done as for the Lord, is an act of worship that does not go unnoticed.",
+            "pt": "Seu compromisso com as tarefas diárias, feitas como para o Senhor, é um ato de adoração que não passa despercebido.",
+            "fr": "Ton engagement dans les tâches quotidiennes, faites comme pour le Seigneur, est un acte d'adoration qui ne passe pas inaperçu."
+          },
+          "verses": [
+            "Proverbios 22:29"
+          ],
+          "reflectionHeader": {
+            "es": "Tu esfuerzo honra a Dios",
+            "en": "Your effort honors God",
+            "pt": "Seu esforço honra a Deus",
+            "fr": "Ton effort honore Dieu"
+          },
+          "reflection": {
+            "es": "Al aplicar tu talento con esmero, demuestras que Dios es el centro de tu vida. Descansa sabiendo que tu labor tiene un valor eterno.",
+            "en": "By applying your talent with care, you show that God is the center of your life. Rest knowing that your labor has eternal value.",
+            "pt": "Ao aplicar seu talento com esmero, você demonstra que Deus é o centro de sua vida. Descanse sabendo que seu trabalho tem um valor eterno.",
+            "fr": "En appliquant ton talent avec soin, tu montres que Dieu est au centre de ta vie. Repose-toi en sachant que ton labeur a une valeur éternelle."
+          }
+        },
+        {
+          "id": "creatividad_divina",
+          "label": {
+            "es": "Creatividad activa",
+            "en": "Active creativity",
+            "pt": "Criatividade ativa",
+            "fr": "Créativité active"
+          },
+          "responseTitle": {
+            "es": "Inspiración del Creador",
+            "en": "Inspiration from the Creator",
+            "pt": "Inspiração do Criador",
+            "fr": "Inspiration du Créateur"
+          },
+          "responseText": {
+            "es": "Usar tu ingenio para resolver problemas o crear algo nuevo refleja la naturaleza creativa de Dios en ti.",
+            "en": "Using your ingenuity to solve problems or create something new reflects God's creative nature in you.",
+            "pt": "Usar seu engenho para resolver problemas ou criar algo novo reflete a natureza criativa de Deus em você.",
+            "fr": "Utiliser ton ingéniosité pour résoudre des problèmes ou créer quelque chose de nouveau reflète la nature créative de Dieu en toi."
+          },
+          "verses": [
+            "Éxodo 35:31"
+          ],
+          "reflectionHeader": {
+            "es": "Reflejo de Su imagen",
+            "en": "Reflection of His image",
+            "pt": "Reflexo de Sua imagem",
+            "fr": "Reflet de Son image"
+          },
+          "reflection": {
+            "es": "Cada idea inspirada y cada solución encontrada es una oportunidad para glorificar a Aquel que te dio la capacidad de innovar.",
+            "en": "Every inspired idea and every solution found is an opportunity to glorify the One who gave you the ability to innovate.",
+            "pt": "Cada ideia inspirada e cada solução encontrada é uma oportunidade para glorificar Aquele que lhe deu a capacidade de inovar.",
+            "fr": "Chaque idée inspirée et chaque solution trouvée est une occasion de glorifier Celui qui t'a donné la capacité d'innover."
+          }
+        },
+        {
+          "id": "edificar_otros",
+          "label": {
+            "es": "Edificar a otros",
+            "en": "Edifying others",
+            "pt": "Edificar outros",
+            "fr": "Édifier les autres"
+          },
+          "responseTitle": {
+            "es": "Palabras que elevan",
+            "en": "Words that lift",
+            "pt": "Palavras que elevam",
+            "fr": "Des mots qui élèvent"
+          },
+          "responseText": {
+            "es": "Has usado tu capacidad de comunicación para fortalecer el ánimo de quienes te rodean hoy.",
+            "en": "You have used your communication skills to strengthen the spirits of those around you today.",
+            "pt": "Você usou sua capacidade de comunicação para fortalecer o ânimo de quem está ao seu redor hoje.",
+            "fr": "Tu as utilisé ta capacité de communication pour fortifier le moral de ceux qui t'entourent aujourd'hui."
+          },
+          "verses": [
+            "1 Tesalonicenses 5:11"
+          ],
+          "reflectionHeader": {
+            "es": "Construyendo el Reino",
+            "en": "Building the Kingdom",
+            "pt": "Construindo o Reino",
+            "fr": "Bâtir le Royaume"
+          },
+          "reflection": {
+            "es": "El don de la exhortación y el ánimo es vital. Al levantar al caído, estás extendiendo la mano misma de Cristo en la tierra.",
+            "en": "The gift of encouragement and exhortation is vital. By lifting up the fallen, you are extending Christ's own hand on earth.",
+            "pt": "O dom da exortação e do ânimo é vital. Ao levantar o caído, você está estendendo a própria mão de Cristo na terra.",
+            "fr": "Le don d'exhortation et d'encouragement est vital. En relevant celui qui tombe, tu tends la main même du Christ sur terre."
+          }
+        },
+        {
+          "id": "mayordomia_fiel",
+          "label": {
+            "es": "Administrando bien",
+            "en": "Managing well",
+            "pt": "Administrando bem",
+            "fr": "Bien administrer"
+          },
+          "responseTitle": {
+            "es": "Gestión con propósito",
+            "en": "Purposeful management",
+            "pt": "Gestão com propósito",
+            "fr": "Gestion avec but"
+          },
+          "responseText": {
+            "es": "Cuidar los recursos y el tiempo que Dios te confió es una muestra de madurez espiritual y confianza.",
+            "en": "Taking care of the resources and time God entrusted to you is a sign of spiritual maturity and trust.",
+            "pt": "Cuidar dos recursos e do tempo que Deus lhe confiou é uma prova de maturidade espiritual e confiança.",
+            "fr": "Prendre soin des ressources et du temps que Dieu t'a confiés est un signe de maturité spirituelle et de confiance."
+          },
+          "verses": [
+            "1 Corintios 4:2"
+          ],
+          "reflectionHeader": {
+            "es": "Fidelidad en lo poco",
+            "en": "Faithfulness in little",
+            "pt": "Fidelidade no pouco",
+            "fr": "Fidélité dans les petites choses"
+          },
+          "reflection": {
+            "es": "Ser un buen mayordomo significa reconocer que todo le pertenece a Él. Tu orden hoy prepara el camino para mayores bendiciones.",
+            "en": "Being a good steward means recognizing that everything belongs to Him. Your order today paves the way for greater blessings.",
+            "pt": "Ser um bom mordomo significa reconhecer que tudo pertence a Ele. Sua organização hoje prepara o caminho para maiores bênçãos.",
+            "fr": "Être un bon intendant signifie reconnaître que tout Lui appartient. Ton sens de l'ordre aujourd'hui prépare le chemin pour de plus grandes bénédictions."
+          }
+        },
+        {
+          "id": "servicio_discreto",
+          "label": {
+            "es": "Servicio discreto",
+            "en": "Discrete service",
+            "pt": "Serviço discreto",
+            "fr": "Service discret"
+          },
+          "responseTitle": {
+            "es": "Amor sin aplausos",
+            "en": "Love without applause",
+            "pt": "Amor sem aplausos",
+            "fr": "Amour sans applaudissements"
+          },
+          "responseText": {
+            "es": "Servir en lo oculto, sin buscar reconocimiento humano, es donde el corazón se une profundamente con el Padre.",
+            "en": "Serving in secret, without seeking human recognition, is where the heart deeply unites with the Father.",
+            "pt": "Servir no oculto, sem buscar reconhecimento humano, é onde o coração se une profundamente com o Pai.",
+            "fr": "Servir dans le secret, sans chercher de reconnaissance humaine, c'est là que le cœur s'unit profondément au Père."
+          },
+          "verses": [
+            "Mateo 6:4"
+          ],
+          "reflectionHeader": {
+            "es": "Visto por el Padre",
+            "en": "Seen by the Father",
+            "pt": "Visto pelo Pai",
+            "fr": "Vu par le Père"
+          },
+          "reflection": {
+            "es": "Dios se deleita en la humildad. Esas acciones que nadie vio son semillas de gran valor en Su Reino celestial.",
+            "en": "God delights in humility. Those actions no one saw are seeds of great value in His heavenly Kingdom.",
+            "pt": "Deus se deleita na humildade. Essas ações que ninguém viu são sementes de grande valor em Seu Reino celestial.",
+            "fr": "Dieu se délaisse l'orgueil et se réjouit de l'humilité. Ces actions que personne n'a vues sont des semences de grande valeur dans Son Royaume céleste."
+          }
+        },
+        {
+          "id": "sembrar_sabiduria",
+          "label": {
+            "es": "Compartir vivencias",
+            "en": "Sharing experience",
+            "pt": "Compartilhar vivência",
+            "fr": "Partager l'expérience"
+          },
+          "responseTitle": {
+            "es": "Sembrar en otros",
+            "en": "Sowing in others",
+            "pt": "Semear em outros",
+            "fr": "Semer dans les autres"
+          },
+          "responseText": {
+            "es": "Tu ejemplo y tus enseñanzas han servido hoy de guía para alguien que necesitaba una luz en su camino.",
+            "en": "Your example and your teachings have served as a guide today for someone who needed light on their path.",
+            "pt": "Seu exemplo e seus ensinamentos serviram hoje de guia para alguém que precisava de uma luz em seu caminho.",
+            "fr": "Ton exemple et tes enseignements ont servi de guide aujourd'hui à quelqu'un qui avait besoin d'une lumière sur son chemin."
+          },
+          "verses": [
+            "Tito 2:7"
+          ],
+          "reflectionHeader": {
+            "es": "Legado de fe",
+            "en": "Legacy of faith",
+            "pt": "Legado de fé",
+            "fr": "Héritage de foi"
+          },
+          "reflection": {
+            "es": "El don de enseñar se manifiesta en la integridad de tu vida. Al compartir lo que Dios te ha dado, multiplicas Su gracia.",
+            "en": "The gift of teaching manifests in the integrity of your life. By sharing what God has given you, you multiply His grace.",
+            "pt": "O dom de ensinar se manifesta na integridade de sua vida. Ao compartilhar o que Deus lhe deu, você multiplica Sua graça.",
+            "fr": "Le don d'enseigner se manifeste dans l'intégrité de ta vie. En partageant ce que Dieu t'a donné, tu multiplies Sa grâce."
           }
         }
       ]
