@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26",
+  "updatedAt": "2026-10-27",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -9198,6 +9198,236 @@
             "en": "The gift of teaching manifests in the integrity of your life. By sharing what God has given you, you multiply His grace.",
             "pt": "O dom de ensinar se manifesta na integridade de sua vida. Ao compartilhar o que Deus lhe deu, você multiplica Sua graça.",
             "fr": "Le don d'enseigner se manifeste dans l'intégrité de ta vie. En partageant ce que Dieu t'a donné, tu multiplies Sa grâce."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿Cómo reconociste hoy la fidelidad de Dios en los detalles imprevistos de tu día?",
+        "en": "How did you recognize God's faithfulness in the unexpected details of your day?",
+        "pt": "Como você reconheceu hoje a fidelidade de Deus nos detalhes imprevistos do seu dia?",
+        "fr": "Comment as-tu reconnu aujourd'hui la fidélité de Dieu dans les imprévus de ta journée ?"
+      },
+      "options": [
+        {
+          "id": "paz_en_el_cambio",
+          "label": {
+            "es": "Paz en los cambios",
+            "en": "Peace in change",
+            "pt": "Paz nas mudanças",
+            "fr": "Paix dans le changement"
+          },
+          "responseTitle": {
+            "es": "Dios permanece constante",
+            "en": "God remains constant",
+            "pt": "Deus permanece constante",
+            "fr": "Dieu reste constant"
+          },
+          "responseText": {
+            "es": "Aunque los planes del día hayan cambiado, experimentaste una serenidad que no depende de las circunstancias, sino de la inmutable presencia del Señor.",
+            "en": "Even when today's plans shifted, you experienced a serenity that does not depend on circumstances, but on the immutable presence of the Lord.",
+            "pt": "Mesmo quando os planos do dia mudaram, você experimentou uma serenidade que não depende das circunstâncias, mas da presença imutável do Senhor.",
+            "fr": "Même si les plans de la journée ont changé, tu as goûté à une sérénité qui ne dépend pas des circonstances, mais de la présence immuable du Seigneur."
+          },
+          "verses": [
+            "Malaquías 3:6"
+          ],
+          "reflectionHeader": {
+            "es": "Un ancla firme en la marea",
+            "en": "A firm anchor in the tide",
+            "pt": "Uma âncora firme na maré",
+            "fr": "Une ancre ferme dans la marée"
+          },
+          "reflection": {
+            "es": "El mundo que nos rodea cambia de forma constante, pero el carácter de Dios se mantiene firme. Al cerrar la jornada, descansa en la certeza de que Aquel que sostuvo tu día sigue cuidando de tu mañana con la misma fidelidad perfecta.",
+            "en": "The world around us changes constantly, but God's character remains steadfast. As you close the day, rest in the certainty that the One who sustained your day will keep caring for your tomorrow with the same perfect faithfulness.",
+            "pt": "O mundo ao nosso redor muda constantemente, mas o caráter de Deus permanece firme. Ao encerrar o dia, descanse na certeza de que Aquele que sustentou o seu dia continuará cuidando do seu amanhã com a mesma fidelidade perfeita.",
+            "fr": "Le monde qui nous entoure change constamment, mais la nature de Dieu demeure inébranlable. En concluant cette journée, repose-toi dans la certitude que Celui qui t'a soutenu continuera de prendre soin de ton lendemain avec la même fidélité."
+          }
+        },
+        {
+          "id": "socorro_oportuno",
+          "label": {
+            "es": "Socorro oportuno",
+            "en": "Timely help",
+            "pt": "Socorro oportuno",
+            "fr": "Secours opportun"
+          },
+          "responseTitle": {
+            "es": "Su gracia llegó a tiempo",
+            "en": "His grace arrived on time",
+            "pt": "Sua graça chegou a tempo",
+            "fr": "Sa grâce est venue à temps"
+          },
+          "responseText": {
+            "es": "Frente a un momento de necesidad o tensión, encontraste la ayuda necesaria justo en el instante preciso, confirmando que Dios escucha el clamor sencillo.",
+            "en": "Facing a moment of need or tension, you found the necessary help right on time, confirming that God listens to simple cries for help.",
+            "pt": "Diante de um momento de necessidade ou tensão, você encontrou a ajuda necessária no instante preciso, confirmando que Deus ouve o clamor simples.",
+            "fr": "Face à un moment de besoin ou de tension, tu as trouvé l'aide nécessaire au moment précis, confirmant que Dieu écoute la prière sincère."
+          },
+          "verses": [
+            "Hebreos 4:16"
+          ],
+          "reflectionHeader": {
+            "es": "Ayuda precisa al clamar",
+            "en": "Precise help when calling",
+            "pt": "Ajuda precisa ao clamar",
+            "fr": "Aide précise dans le besoin"
+          },
+          "reflection": {
+            "es": "Dios nunca llega tarde ni actúa a medias. Su auxilio se manifiesta a menudo en el momento exacto en que soltamos el autosuficiencia. Da gracias esta noche por esa mano invisible que te sostuvo cuando más lo necesitabas.",
+            "en": "God is never late and never acts halfway. His help often manifests at the exact moment we release self-reliance. Give thanks tonight for that invisible hand that sustained you when you needed it most.",
+            "pt": "Deus nunca chega atrasado nem age pela metade. Seu auxílio se manifesta frequentemente no momento exato em que soltamos a autossuficiência. Dê graças esta noite por essa mão invisível que o sustentou quando você mais precisou.",
+            "fr": "Dieu n'arrive jamais en retard et n'agit pas à moitié. Son secours se manifeste souvent au moment précis où nous abandonnons l'autosuffisance. Rends grâce ce soir pour cette main invisible qui t'a soutenu."
+          }
+        },
+        {
+          "id": "detalles_de_amor",
+          "label": {
+            "es": "Pequeñas muestras",
+            "en": "Small tokens",
+            "pt": "Pequenos gestos",
+            "fr": "Petites attentions"
+          },
+          "responseTitle": {
+            "es": "Detalles que alegran el alma",
+            "en": "Details that bring joy",
+            "pt": "Detalhes que alegram a alma",
+            "fr": "Détails qui réjouissent l'âme"
+          },
+          "responseText": {
+            "es": "Notaste pequeños gestos, palabras oportunas o sonrisas imprevistas que te recordaron el afecto personal del Padre por ti en medio de la rutina.",
+            "en": "You noticed small gestures, timely words, or unexpected smiles that reminded you of the Father's personal affection for you amidst the routine.",
+            "pt": "Você notou pequenos gestos, palavras oportunas ou sorrisos imprevistos que lhe lembraram o afeto pessoal do Pai por você em meio à rotina.",
+            "fr": "Tu as remarqué de petites attentions, des mots bienveillants ou des sourires inattendus qui t'ont rappelé la tendresse du Père au milieu de la routine."
+          },
+          "verses": [
+            "Salmos 103:2"
+          ],
+          "reflectionHeader": {
+            "es": "El amor de Dios en lo pequeño",
+            "en": "God's love in small things",
+            "pt": "O amor de Deus no pequeno",
+            "fr": "L'amour de Dieu dans l'infime"
+          },
+          "reflection": {
+            "es": "A veces esperamos grandes prodigios para reconocer a Dios, pero Él suele hablar en el murmullo suave de los pequeños detalles diarios. Guardar memoria de estos regalos renueva el corazón y nos prepara para dormir en paz.",
+            "en": "Sometimes we expect great wonders to recognize God, but He often speaks in the gentle whisper of small daily details. Remembering these gifts renews the heart and prepares us for peaceful rest.",
+            "pt": "Às vezes esperamos grandes prodígios para reconhecer a Deus, mas Ele costuma falar no sussurro suave dos pequenos detalhes diários. Guardar a memória desses presentes renova o coração e nos prepara para dormir em paz.",
+            "fr": "Parfois nous attendons de grands prodiges pour reconnaître Dieu, mais Il parle souvent dans le murmure doux des détails quotidiens. Garder le souvenir de ces dons meuble le cœur et prépare un sommeil paisible."
+          }
+        },
+        {
+          "id": "puertas_que_se_abren",
+          "label": {
+            "es": "Caminos abiertos",
+            "en": "Open pathways",
+            "pt": "Caminhos abertos",
+            "fr": "Chemins ouverts"
+          },
+          "responseTitle": {
+            "es": "Dios abre nuevas vías",
+            "en": "God opens new ways",
+            "pt": "Deus abre novos caminhos",
+            "fr": "Dieu ouvre de nouvelles voies"
+          },
+          "responseText": {
+            "es": "Percibiste cómo un obstáculo se destrabó o una nueva oportunidad se presentó sin que la hubieras buscado con esfuerzo propio.",
+            "en": "You perceived how an obstacle cleared or a new opportunity presented itself without you striving for it on your own.",
+            "pt": "Você percebeu como um obstáculo foi removido ou uma nova oportunidade se apresentou sem que você a tivesse buscado com esforço próprio.",
+            "fr": "Tu as vu un obstacle se débloquer ou une opportunité se présenter sans que tu aies eu à forcer les portes."
+          },
+          "verses": [
+            "Apocalipsis 3:8"
+          ],
+          "reflectionHeader": {
+            "es": "Confianza ante lo nuevo",
+            "en": "Trust facing the new",
+            "pt": "Confiança diante do novo",
+            "fr": "Confiance devant la nouveauté"
+          },
+          "reflection": {
+            "es": "Cuando Dios abre una puerta, nadie la puede cerrar. Reconocer Su soberanía en el avance de nuestras actividades nos libra del cansancio de querer controlar el futuro. Esta noche, encomienda a Él cada paso futuro.",
+            "en": "When God opens a door, no one can shut it. Recognizing His sovereignty in our progress frees us from the fatigue of trying to control the future. Tonight, entrust every next step to Him.",
+            "pt": "Quando Deus abre uma porta, ninguém a pode fechar. Reconhecer Sua soberania no avanço das nossas atividades nos liberta do cansaço de querer controlar o futuro. Esta noite, entregue a Ele cada passo futuro.",
+            "fr": "Quand Dieu ouvre une porte, nul ne peut la fermer. Reconnaître Sa souveraineté dans le déroulement de nos journées nous libère de l'épuisement à vouloir tout contrôler. Ce soir, confie-Lui la suite du chemin."
+          }
+        },
+        {
+          "id": "proteccion_discreta",
+          "label": {
+            "es": "Protección invisible",
+            "en": "Invisible protection",
+            "pt": "Proteção invisível",
+            "fr": "Protection invisible"
+          },
+          "responseTitle": {
+            "es": "Guardado a cada paso",
+            "en": "Guarded at every step",
+            "pt": "Guardado a cada passo",
+            "fr": "Gardé à chaque pas"
+          },
+          "responseText": {
+            "es": "Sentiste la certeza de haber sido librado de males o distracciones que habrían alterado tu tranquilidad o bienestar durante el día.",
+            "en": "You felt the certainty of having been kept from harm or distractions that would have disrupted your peace or well-being during the day.",
+            "pt": "Você sentiu a certeza de ter sido livre de males ou distrações que teriam alterado sua tranquilidade ou bem-estar durante o dia.",
+            "fr": "Tu as eu la certitude d'avoir été préservé de dangers ou de distractions qui auraient pu troubler ta sérénité au cours de la journée."
+          },
+          "verses": [
+            "Salmos 121:8"
+          ],
+          "reflectionHeader": {
+            "es": "Su cuidado constante",
+            "en": "His constant care",
+            "pt": "Seu cuidado constante",
+            "fr": "Son soin constant"
+          },
+          "reflection": {
+            "es": "Muchas veces Dios nos cuida de peligros que ni siquiera llegamos a notar. Su protección nos rodea en la ida y en el retorno. Puedes descansar con la certeza de que el mismo Guardián de tu día vela tu sueño esta noche.",
+            "en": "Many times God protects us from dangers we do not even notice. His protection surrounds our going out and coming in. You can rest knowing that the same Guardian of your day watches over your sleep tonight.",
+            "pt": "Muitas vezes Deus nos protege de perigos que nem chegamos a notar. Sua proteção nos cerca na ida e na volta. Você pode descansar com a certeza de que o mesmo Guardião do seu dia vela o seu sono esta noite.",
+            "fr": "Bien souvent, Dieu nous préserve de doutes ou de risques que nous n'avons même pas remarqués. Sa protection entoure nos allées et venues. Repose-toi en sachant que le même Gardien veille sur ton sommeil ce soir."
+          }
+        },
+        {
+          "id": "paciencia_en_la_espera",
+          "label": {
+            "es": "Espera confiada",
+            "en": "Patient waiting",
+            "pt": "Espera confiante",
+            "fr": "Attente confiante"
+          },
+          "responseTitle": {
+            "es": "Esperando en Su tiempo",
+            "en": "Waiting on His time",
+            "pt": "Esperando no tempo Dele",
+            "fr": "Attendre Son moment"
+          },
+          "responseText": {
+            "es": "Aprendiste a guardar calma ante una respuesta que no llegó hoy, depositando tus expectativas en los tiempos perfectos del Señor.",
+            "en": "You learned to remain calm facing an answer that didn't arrive today, placing your expectations in the Lord's perfect timing.",
+            "pt": "Você aprendeu a manter a calma diante de uma resposta que não chegou hoje, depositando suas expectativas nos tempos perfeitos do Senhor.",
+            "fr": "Tu as appris à garder ton calme face à une réponse qui n'est pas venue aujourd'hui, remettant tes attentes entre les mains du Seigneur."
+          },
+          "verses": [
+            "Salmos 130:5"
+          ],
+          "reflectionHeader": {
+            "es": "Descanso en Su soberanía",
+            "en": "Rest in His sovereignty",
+            "pt": "Descanso em Sua soberania",
+            "fr": "Repos dans Sa souveraineté"
+          },
+          "reflection": {
+            "es": "La espera creyente no es pasividad, sino una muestra madura de confianza. Dios sigue trabajando silenciosamente aun cuando no vemos resultados inmediatos. Suelta la prisa y duerme con un corazón en reposo.",
+            "en": "Faithful waiting is not passivity, but a mature expression of trust. God continues working silently even when we don't see immediate results. Release the rush and sleep with a heart at rest.",
+            "pt": "A espera crente não é passividade, mas uma demonstração madura de confiança. Deus continua trabalhando silenciosamente mesmo quando não vemos resultados imediatos. Solte a pressa e dorme com um coração em repouso.",
+            "fr": "L'attente confiante n'est pas de la passivité, mais une preuve de maturité spirituelle. Dieu continue d'agir en silence même quand les fruits tardent a venir. Dépose la hâte et endors-toi le cœur apaisé."
           }
         }
       ]
