@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27",
+  "updatedAt": "2026-10-28",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -9428,6 +9428,236 @@
             "en": "Faithful waiting is not passivity, but a mature expression of trust. God continues working silently even when we don't see immediate results. Release the rush and sleep with a heart at rest.",
             "pt": "A espera crente não é passividade, mas uma demonstração madura de confiança. Deus continua trabalhando silenciosamente mesmo quando não vemos resultados imediatos. Solte a pressa e dorme com um coração em repouso.",
             "fr": "L'attente confiante n'est pas de la passivité, mais une preuve de maturité spirituelle. Dieu continue d'agir en silence même quand les fruits tardent a venir. Dépose la hâte et endors-toi le cœur apaisé."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera sostuviste hoy tu esperanza afianzándote en las promesas de Dios?",
+        "en": "In what way did you sustain your hope today by leaning on God's promises?",
+        "pt": "De que maneira você sustentou hoje sua esperança firmando-se nas promessas de Deus?",
+        "fr": "De quelle manière as-tu soutenu ton espérance aujourd'hui en t'appuyant sur les promesses de Dieu ?"
+      },
+      "options": [
+        {
+          "id": "meditando_promesas",
+          "label": {
+            "es": "Meditando Su Palabra",
+            "en": "Meditating Word",
+            "pt": "Meditando a Palavra",
+            "fr": "Méditant Sa Parole"
+          },
+          "responseTitle": {
+            "es": "La verdad que permanece",
+            "en": "The truth that remains",
+            "pt": "A verdade que permanece",
+            "fr": "La vérité qui demeure"
+          },
+          "responseText": {
+            "es": "Encontraste firmeza al acudir a lo que Dios ha escrito para ti.",
+            "en": "You found firmness by turning to what God has written for you.",
+            "pt": "Você encontrou firmeza ao recorrer ao que Deus escreveu para você.",
+            "fr": "Tu as trouvé la fermeté en te tournant vers ce que Dieu a écrit pour toi."
+          },
+          "verses": [
+            "Salmos 119:49"
+          ],
+          "reflectionHeader": {
+            "es": "Ancla para la mente",
+            "en": "Anchor for the mind",
+            "pt": "Âncora para a mente",
+            "fr": "Ancre pour l'esprit"
+          },
+          "reflection": {
+            "es": "Al cerrar el día, deja que la Palabra le dé forma a tus pensamientos nocturnos.",
+            "en": "As the day ends, let the Word shape your evening thoughts.",
+            "pt": "Ao fechar o dia, deixe que a Palavra dê forma aos seus pensamentos noturnos.",
+            "fr": "En fin de journée, laisse la Parole façonner tes pensées nocturnes."
+          }
+        },
+        {
+          "id": "memorias_de_fidelidad",
+          "label": {
+            "es": "Recordando el pasado",
+            "en": "Remembering past",
+            "pt": "Lembrando o passado",
+            "fr": "Se rappelant le passé"
+          },
+          "responseTitle": {
+            "es": "Dios ya ha sido fiel",
+            "en": "God has been faithful",
+            "pt": "Deus já foi fiel",
+            "fr": "Dieu a déjà été fidèle"
+          },
+          "responseText": {
+            "es": "Traer a la memoria el cuidado de Dios fortalece tus pasos presentes.",
+            "en": "Bringing God's care to mind strengthens your present steps.",
+            "pt": "Trazer à memória o cuidado de Deus fortalece seus passos presentes.",
+            "fr": "Se rappeler le soin de Dieu fortifie tes pas présents."
+          },
+          "verses": [
+            "1 Samuel 7:12"
+          ],
+          "reflectionHeader": {
+            "es": "Testimonio que alienta",
+            "en": "Encouraging testimony",
+            "pt": "Testemunho que alenta",
+            "fr": "Témoignage qui encourage"
+          },
+          "reflection": {
+            "es": "Cada ayuda recibida en el pasado es una garantía para tu futuro.",
+            "en": "Every help received in the past is a guarantee for your future.",
+            "pt": "Cada ajuda recebida no passado é uma garantia para o seu futuro.",
+            "fr": "Chaque aide reçue par le passé est une garantie pour ton avenir."
+          }
+        },
+        {
+          "id": "oracion_de_confianza",
+          "label": {
+            "es": "Orando con convicción",
+            "en": "Praying with faith",
+            "pt": "Orando com convicção",
+            "fr": "Priant avec foi"
+          },
+          "responseTitle": {
+            "es": "Certeza en lo invisible",
+            "en": "Certainty in the unseen",
+            "pt": "Certeza no invisível",
+            "fr": "Certitude dans l'invisible"
+          },
+          "responseText": {
+            "es": "Presentaste tus anhelos sabiendo que Dios escucha con amor paternal.",
+            "en": "You presented your desires knowing God listens with paternal love.",
+            "pt": "Você apresentou seus anseios sabendo que Deus ouve com amor paternal.",
+            "fr": "Tu as présenté tes désirs en sachant que Dieu écoute avec un amour paternel."
+          },
+          "verses": [
+            "Hebreos 11:1"
+          ],
+          "reflectionHeader": {
+            "es": "Descanso en la fe",
+            "en": "Resting in faith",
+            "pt": "Descanso na fé",
+            "fr": "Repos dans la foi"
+          },
+          "reflection": {
+            "es": "La fe no exige ver todo el camino, solo dar el siguiente paso en Dios.",
+            "en": "Faith does not require seeing the whole path, just taking the next step in God.",
+            "pt": "A fé não exige ver todo o caminho, apenas dar o próximo passo em Deus.",
+            "fr": "La foi n'exige pas de voir tout le chemin, mais de faire le pas suivant en Dieu."
+          }
+        },
+        {
+          "id": "mutuo_aliento",
+          "label": {
+            "es": "Compartiendo la fe",
+            "en": "Sharing faith",
+            "pt": "Compartilhando a fé",
+            "fr": "Partageant la foi"
+          },
+          "responseTitle": {
+            "es": "Fuerza en comunidad",
+            "en": "Strength in community",
+            "pt": "Força em comunidade",
+            "fr": "Force en communauté"
+          },
+          "responseText": {
+            "es": "Buscaste el ánimo en otros creyentes para sostener la mirada en Cristo.",
+            "en": "You sought encouragement from other believers to keep your eyes on Christ.",
+            "pt": "Você buscou encorajamento em outros crentes para manter os olhos em Cristo.",
+            "fr": "Tu as cherché l'encouragement auprès d'autres croyants pour garder les yeux sur le Christ."
+          },
+          "verses": [
+            "Hebreos 3:13"
+          ],
+          "reflectionHeader": {
+            "es": "Caminar en compañía",
+            "en": "Walking together",
+            "pt": "Caminhar acompanhado",
+            "fr": "Marcher ensemble"
+          },
+          "reflection": {
+            "es": "Dios nos diseñó para animarnos mutuamente cuando la esperanza flaquea.",
+            "en": "God designed us to encourage one another when hope wavers.",
+            "pt": "Deus nos projetou para nos encorajarmos mutuamente quando a esperança vacila.",
+            "fr": "Dieu nous a conçus pour nous encourager mutuellement quand l'espérance vacille."
+          }
+        },
+        {
+          "id": "espera_paciente",
+          "label": {
+            "es": "Confianza en Su tiempo",
+            "en": "Trusting His timing",
+            "pt": "Confiança no Seu tempo",
+            "fr": "Confiance en Son temps"
+          },
+          "responseTitle": {
+            "es": "Paz en la espera",
+            "en": "Peace in waiting",
+            "pt": "Paz na espera",
+            "fr": "Paix dans l'attente"
+          },
+          "responseText": {
+            "es": "Elegiste aguardar en calma sin adelantarte a los tiempos del Señor.",
+            "en": "You chose to wait calmly without rushing ahead of the Lord's timing.",
+            "pt": "Você escolheu aguardar em calma sem se adiantar ao tempo do Senhor.",
+            "fr": "Tu as choisi d'attendre calmement sans devancer le temps du Seigneur."
+          },
+          "verses": [
+            "Lamentaciones 3:26"
+          ],
+          "reflectionHeader": {
+            "es": "Madurez en la paciencia",
+            "en": "Maturity in patience",
+            "pt": "Maturidade na paciência",
+            "fr": "Maturité dans la patience"
+          },
+          "reflection": {
+            "es": "Aguardar en silencio es una de las expresiones más altas de confianza.",
+            "en": "Waiting in silence is one of the highest expressions of trust.",
+            "pt": "Aguardar em silêncio é uma das expressões mais altas de confiança.",
+            "fr": "Attendre en silence est l'une des plus hautes expressions de confiance."
+          }
+        },
+        {
+          "id": "reposo_en_fidelidad",
+          "label": {
+            "es": "Soltando el control",
+            "en": "Surrendering control",
+            "pt": "Soltando o controle",
+            "fr": "Lâchant le contrôle"
+          },
+          "responseTitle": {
+            "es": "Fidelidad garantizada",
+            "en": "Guaranteed faithfulness",
+            "pt": "Fidelidade garantida",
+            "fr": "Fidélité garantie"
+          },
+          "responseText": {
+            "es": "Descansaste en que todas las promesas divinas se cumplen en Cristo.",
+            "en": "You rested knowing that all divine promises are fulfilled in Christ.",
+            "pt": "Você descansou sabendo que todas as promessas divinas se cumprem em Cristo.",
+            "fr": "Tu t'es reposé en sachant que toutes les promesses divines s'accomplissent en Christ."
+          },
+          "verses": [
+            "2 Corintios 1:20"
+          ],
+          "reflectionHeader": {
+            "es": "Seguridad inquebrantable",
+            "en": "Unshakable security",
+            "pt": "Segurança inabalável",
+            "fr": "Sécurité inébranlable"
+          },
+          "reflection": {
+            "es": "Que tu corazón duerma hoy con la certeza de que Dios cumple lo que dice.",
+            "en": "May your heart sleep tonight with the certainty that God fulfills His word.",
+            "pt": "Que seu coração durma hoje com a certeza de que Deus cumpre o que diz.",
+            "fr": "Que ton cœur dorme ce soir avec la certitude que Dieu accomplit ce qu'Il dit."
           }
         }
       ]
