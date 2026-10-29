@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-10-29",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -9658,6 +9658,236 @@
             "en": "May your heart sleep tonight with the certainty that God fulfills His word.",
             "pt": "Que seu coração durma hoje com a certeza de que Deus cumpre o que diz.",
             "fr": "Que ton cœur dorme ce soir avec la certitude que Dieu accomplit ce qu'Il dit."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera experimentaste hoy la gracia de Dios frente a tus propias limitaciones?",
+        "en": "In what way did you experience God's grace in the face of your own limitations today?",
+        "pt": "De que maneira você experimentou hoje a graça de Deus diante de suas próprias limitações?",
+        "fr": "De quelle manière as-tu éprouvé aujourd'hui la grâce de Dieu face à tes propres limites ?"
+      },
+      "options": [
+        {
+          "id": "pedir_ayuda_humilde",
+          "label": {
+            "es": "Pidiendo ayuda",
+            "en": "Asking for help",
+            "pt": "Pedindo ajuda",
+            "fr": "Demander de l'aide"
+          },
+          "responseTitle": {
+            "es": "Su poder en la debilidad",
+            "en": "His power in weakness",
+            "pt": "Seu poder na fraqueza",
+            "fr": "Sa puissance dans la faiblesse"
+          },
+          "responseText": {
+            "es": "Reconocer que no podías solo fue un acto de humildad que abrió paso a la sustentación de Dios a través de otros.",
+            "en": "Recognizing that you couldn't do it alone was an act of humility that paved the way for God's support through others.",
+            "pt": "Reconhecer que você não podia sozinho foi um ato de humildade que abriu caminho para o sustento de Deus através de outros.",
+            "fr": "Reconnaître que tu ne pouvais pas y arriver seul a été un acte d'humilité qui a ouvert la voie au soutien de Dieu."
+          },
+          "verses": [
+            "2 Corintios 12:9"
+          ],
+          "reflectionHeader": {
+            "es": "Gracia en la vulnerabilidad",
+            "en": "Grace in vulnerability",
+            "pt": "Graça na vulnerabilidade",
+            "fr": "La grâce dans la vulnérabilité"
+          },
+          "reflection": {
+            "es": "No fuimos creados para ser autosuficientes, sino para vivir en dependencia de Dios y en comunidad. Dar el paso de pedir ayuda alivia la carga de la autosuficiencia y nos recuerda que el Señor sostiene nuestras vidas mediante el amor de quienes nos rodean. Al cerrar este día, da gracias por los brazos y oídos que Dios pone a tu disposición.",
+            "en": "We were not created to be self-sufficient, but to live in dependence on God and in community. Taking the step to ask for help relieves the burden of self-reliance and reminds us that the Lord sustains our lives through the love of those around us. As you close this day, give thanks for the hands and hearts God places in your path.",
+            "pt": "Não fomos criados para ser autossuficientes, mas para viver em dependência de Deus e em comunidade. Dar o passo de pedir ajuda alivia o peso da autossuficiência e nos lembra que o Senhor sustenta nossas vidas por meio do amor dos outros. Ao fechar este dia, dê graças pelos braços e corações que Deus coloca em seu caminho.",
+            "fr": "Nous n'avons pas été créés pour être autosuffisants, mais pour vivre dans la dépendance de Dieu et en communauté. Demander de l'aide allège le fardeau de l'autonomie et nous rappelle que le Seigneur soutient nos vies à travers l'amour de notre entourage. En achevant cette journée, rends grâce pour les mains que Dieu place sur ton chemin."
+          }
+        },
+        {
+          "id": "reconocer_errores",
+          "label": {
+            "es": "Admitiendo una falta",
+            "en": "Admitting a fault",
+            "pt": "Admitindo uma falha",
+            "fr": "Reconnaître une faute"
+          },
+          "responseTitle": {
+            "es": "El perdón que restaura",
+            "en": "Forgiveness that restores",
+            "pt": "O perdão que restaura",
+            "fr": "Le pardon qui restaure"
+          },
+          "responseText": {
+            "es": "Tener la valentía de reconocer una equivocación hoy trajo paz a tu conciencia y espacio para la restauración divina.",
+            "en": "Having the courage to acknowledge a mistake today brought peace to your conscience and room for divine restoration.",
+            "pt": "Ter a coragem de reconhecer um erro hoje trouxe paz à sua consciência e espaço para a restauração divina.",
+            "fr": "Avoir le courage de reconnaître une erreur aujourd'hui a apporté la paix à ta conscience et ouvert la voie à la restauration."
+          },
+          "verses": [
+            "Proverbios 28:13"
+          ],
+          "reflectionHeader": {
+            "es": "La libertad de la verdad",
+            "en": "The freedom of truth",
+            "pt": "A liberdade da verdade",
+            "fr": "La liberté de la vérité"
+          },
+          "reflection": {
+            "es": "La verdadera fortaleza espiritual no reside en aparentar perfección, sino en reconocer nuestras faltas ante Dios y los demás. Al confesar tus errores, te quitas el peso del orgullo y abres las puertas al perdón que sana. Descansa esta noche sabiendo que la gracia del Señor es suficiente para cubrir tus tropiezos y guiarte hacia un nuevo comienzo.",
+            "en": "True spiritual strength lies not in pretending to be perfect, but in acknowledging our flaws before God and others. Confessing your mistakes removes the weight of pride and opens the door to healing forgiveness. Rest tonight knowing that the Lord's grace is sufficient to cover your slips and lead you toward a fresh start.",
+            "pt": "A verdadeira força espiritual não está em parecer perfeito, mas em reconhecer nossas falhas diante de Deus e dos outros. Ao confessar seus erros, você tira o peso do orgulho e abre portas para o perdão que cura. Descanse esta noite sabendo que a graça do Senhor é suficiente para cobrir seus tropeços e guiá-lo a um novo começo.",
+            "fr": "La vraie force spirituelle ne consiste pas à feindre la perfection, mais à reconnaître nos fautes devant Dieu et les autres. En confessant tes erreurs, tu te libères de l'orgueil et ouvres la porte au pardon qui guérit. Repose-toi ce soir en sachant que la grâce du Seigneur suffit pour couvrir tes manquements et t'offrir un nouveau départ."
+          }
+        },
+        {
+          "id": "corazon_ensenable",
+          "label": {
+            "es": "Escuchando consejos",
+            "en": "Listening to advice",
+            "pt": "Ouvindo conselhos",
+            "fr": "Écouter les conseils"
+          },
+          "responseTitle": {
+            "es": "Creciendo en sabiduría",
+            "en": "Growing in wisdom",
+            "pt": "Crescendo em sabedoria",
+            "fr": "Grandir en sagesse"
+          },
+          "responseText": {
+            "es": "Abrir tu oído a la observación bienintencionada te permitió aprender y cultivar un espíritu enseñable hoy.",
+            "en": "Opening your ears to well-meaning guidance allowed you to learn and cultivate a teachable spirit today.",
+            "pt": "Abrir seus ouvidos para orientações sinceras permitiu que você aprendesse e cultivasse um espírito ensinável hoje.",
+            "fr": "Ouvrir ton oreille à des conseils bienveillants t'a permis d'apprendre et de cultiver un esprit docile aujourd'hui."
+          },
+          "verses": [
+            "Proverbios 19:20"
+          ],
+          "reflectionHeader": {
+            "es": "Humildad para aprender",
+            "en": "Humility to learn",
+            "pt": "Humildade para aprender",
+            "fr": "Humilité pour apprendre"
+          },
+          "reflection": {
+            "es": "Un corazón enseñable es un terreno fértil donde Dios siembra sabiduría. Al recibir correcciones o sugerencias con mansedumbre, demuestras que tu deseo de madurar supera el temor a equivocarte. Dale gracias a Dios por cada instrucción recibida hoy, pues las personas sabias se construyen escuchando con atención y paciencia.",
+            "en": "A teachable heart is fertile ground where God sows wisdom. By receiving corrections or suggestions with gentleness, you show that your desire to grow is greater than the fear of making mistakes. Thank God for every piece of guidance received today, for wise individuals are built through attentive and patient listening.",
+            "pt": "Um coração ensinável é solo fértil onde Deus semeia sabedoria. Ao receber correções ou sugestões com mansidão, você demonstra que seu desejo de amadurecer é maior que o medo de errar. Agradeça a Deus por cada orientação recebida hoje, pois as pessoas sábias são construídas ouvindo com atenção e paciência.",
+            "fr": "Un cœur docile est une terre fertile où Dieu sème la sagesse. En accueillant les conseils avec douceur, tu montres que ton désir de grandir est plus fort que la peur de te tromper. Remercie Dieu pour chaque instruction reçue aujourd'hui, car c'est en écoutant patiemment que l'on devient sage."
+          }
+        },
+        {
+          "id": "pausa_necesaria",
+          "label": {
+            "es": "Aceptando el cansancio",
+            "en": "Accepting fatigue",
+            "pt": "Aceitando o cansaço",
+            "fr": "Accepter la fatigue"
+          },
+          "responseTitle": {
+            "es": "Dios conoce nuestra forma",
+            "en": "God knows our frame",
+            "pt": "Deus conhece nossa estrutura",
+            "fr": "Dieu connaît notre nature"
+          },
+          "responseText": {
+            "es": "Reconocer tu agotamiento físico o mental te llevó a frenar y confiar en que Dios sostiene el mundo sin tu esfuerzo continuo.",
+            "en": "Acknowledging your physical or mental exhaustion led you to pause and trust that God holds the world without your endless effort.",
+            "pt": "Reconhecer seu cansaço físico ou mental o levou a desacelerar e confiar que Deus sustenta o mundo sem o seu esforço contínuo.",
+            "fr": "Reconnaître ta fatigue t'a poussé à ralentir et à faire confiance à Dieu qui soutient toute chose sans ton effort perpétuel."
+          },
+          "verses": [
+            "Salmos 103:14"
+          ],
+          "reflectionHeader": {
+            "es": "El reposo como acto de fe",
+            "en": "Rest as an act of faith",
+            "pt": "O descanso como ato de fé",
+            "fr": "Le repos comme acte de foi"
+          },
+          "reflection": {
+            "es": "El descanso no es una pérdida de tiempo, sino una declaración de que Dios es quien gobierna y no nosotros. Aceptar tus límites corporales honra al Creador que diseñó el ritmo del trabajo y del reposo. Esta noche, entrega tu fatiga al Señor, sabiendo que Él cuida de ti aun mientras duermes.",
+            "en": "Rest is not a waste of time, but a declaration that God is the one in control, not us. Accepting your physical boundaries honors the Creator who designed the rhythm of work and rest. Tonight, surrender your weariness to the Lord, knowing He watches over you even while you sleep.",
+            "pt": "O descanso não é uma perda de tempo, mas uma declaração de que Deus é quem governa, não nós. Aceitar seus limites corporais honra o Criador que desenhou o ritmo do trabalho e do repouso. Esta noite, entregue seu cansaço ao Senhor, sabendo que Ele cuida de você mesmo enquanto dorme.",
+            "fr": "Le repos n'est pas une perte de temps, mais l'affirmation que Dieu est au contrôle, et non nous. Accepter tes limites physiques honore le Créateur qui a conçu le rythme du travail et de la pause. Ce soir, remets ta fatigue au Seigneur, sachant qu'Il veille sur toi pendant ton sommeil."
+          }
+        },
+        {
+          "id": "cediendo_el_control",
+          "label": {
+            "es": "Cediendo el control",
+            "en": "Surrendering control",
+            "pt": "Cedendo o controle",
+            "fr": "Lâcher le contrôle"
+          },
+          "responseTitle": {
+            "es": "Confianza sin reservas",
+            "en": "Unreserved trust",
+            "pt": "Confiança sem reservas",
+            "fr": "Confiance sans réserve"
+          },
+          "responseText": {
+            "es": "Al darte cuenta de que no podías cambiar las circunstancias, elegiste encomendárselas a Dios mediante la oración sincera.",
+            "en": "Realizing you couldn't change the circumstances, you chose to entrust them to God through sincere prayer.",
+            "pt": "Ao perceber que não podia mudar as circunstâncias, você escolheu entregá-las a Deus por meio da oração sincera.",
+            "fr": "En réalisant que tu ne pouvais pas changer la situation, tu as choisi de la confier à Dieu par la prière."
+          },
+          "verses": [
+            "1 Pedro 5:7"
+          ],
+          "reflectionHeader": {
+            "es": "Paz al soltar",
+            "en": "Peace in letting go",
+            "pt": "Paz ao soltar",
+            "fr": "La paix en lâchant prise"
+          },
+          "reflection": {
+            "es": "Tratar de controlar cada detalle de la vida produce ansiedad, pero depositar esas cargas en el Señor llena el alma de serena paz. Reconocer que Dios tiene un panorama más amplio te permite descansar de la exigencia de resolverlo todo. Suelta los pendientes en Sus manos soberanas al cerrar la jornada.",
+            "en": "Trying to control every detail of life produces anxiety, but placing those burdens on the Lord fills the soul with serene peace. Recognizing that God sees the bigger picture allows you to rest from the pressure of solving everything. Release your concerns into His sovereign hands as the day ends.",
+            "pt": "Tentar controlar cada detalhe da vida produz ansiedade, mas depositar esses fardos no Senhor enche a alma de serena paz. Reconhecer que Deus tem uma visão mais ampla permite que você descanse da exigência de resolver tudo. Solte suas preocupações nas mãos soberanas d'Ele ao encerrar o dia.",
+            "fr": "Chercher à tout contrôler génère de l'anxiété, mais déposer tes fardeaux auprès du Seigneur remplit l'âme d'une douce paix. Reconnaître que Dieu a une vision plus large te permet de te reposer de l'exigence de tout résoudre. Remets tes inquiétudes entre Ses mains souveraines à la fin de cette journée."
+          }
+        },
+        {
+          "id": "paciencia_propia",
+          "label": {
+            "es": "Avance con paciencia",
+            "en": "Patient progress",
+            "pt": "Avanço com paciência",
+            "fr": "Progrès patient"
+          },
+          "responseTitle": {
+            "es": "Obra en progreso",
+            "en": "Work in progress",
+            "pt": "Obra em progresso",
+            "fr": "Œuvre en cours"
+          },
+          "responseText": {
+            "es": "Entendiste hoy que la transformación personal es un proceso paulatino y elegiste tenerte la misma paciencia que Dios te tiene.",
+            "en": "You understood today that personal transformation is a gradual process and chose to extend to yourself the same patience God shows you.",
+            "pt": "Você entendeu hoje que a transformação pessoal é um processo gradual e escolheu ter consigo a mesma paciência que Deus tem.",
+            "fr": "Tu as compris aujourd'hui que la transformation est un processus graduel et tu as choisi d'avoir envers toi-même la patience de Dieu."
+          },
+          "verses": [
+            "Filipenses 1:6"
+          ],
+          "reflectionHeader": {
+            "es": "La constancia del Creador",
+            "en": "The Creator's faithfulness",
+            "pt": "A constância do Criador",
+            "fr": "La fidélité du Créateur"
+          },
+          "reflection": {
+            "es": "Dios no perfecciona nuestra vida de la noche a la mañana, sino a través de un caminar diario lleno de gracia. No te desalientes por la distancia que sientes que te falta recorrer; celebra el progreso constante que el Espíritu realiza en ti. El Creador que comenzó la buena obra en tu vida sabrá llevarla a su feliz cumplimiento.",
+            "en": "God does not perfect our lives overnight, but through a daily walk filled with grace. Do not be discouraged by how far you feel you have to go; celebrate the steady progress the Spirit is making in you. The Creator who began the good work in you will faithfully bring it to completion.",
+            "pt": "Deus não aperfeiçoa nossa vida de um dia para o outro, mas por meio de uma caminhada diária cheia de graça. Não desanime pela distância que parece faltar; celebre o progresso constante que o Espírito realiza em você. O Criador que começou a boa obra em sua vida saberá levá-la a um bom cumprimento.",
+            "fr": "Dieu ne perfectionne pas notre vie du jour au lendemain, mais à travers un cheminement quotidien rempli de grâce. Ne te décourage pas par la distance qu'il te reste à parcourir; célèbre les progrès constants que l'Esprit réalise en toi. Le Créateur qui a commencé cette bonne œuvre la mènera à son terme."
           }
         }
       ]
