@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29",
+  "updatedAt": "2026-10-30",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -9888,6 +9888,236 @@
             "en": "God does not perfect our lives overnight, but through a daily walk filled with grace. Do not be discouraged by how far you feel you have to go; celebrate the steady progress the Spirit is making in you. The Creator who began the good work in you will faithfully bring it to completion.",
             "pt": "Deus não aperfeiçoa nossa vida de um dia para o outro, mas por meio de uma caminhada diária cheia de graça. Não desanime pela distância que parece faltar; celebre o progresso constante que o Espírito realiza em você. O Criador que começou a boa obra em sua vida saberá levá-la a um bom cumprimento.",
             "fr": "Dieu ne perfectionne pas notre vie du jour au lendemain, mais à travers un cheminement quotidien rempli de grâce. Ne te décourage pas par la distance qu'il te reste à parcourir; célèbre les progrès constants que l'Esprit réalise en toi. Le Créateur qui a commencé cette bonne œuvre la mènera à son terme."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera lograste hoy dirigir tus pensamientos hacia lo que es verdadero y digno?",
+        "en": "In what way were you able to direct your thoughts toward what is true and worthy today?",
+        "pt": "De que maneira você conseguiu hoje direcionar seus pensamentos para o que é verdadeiro e digno?",
+        "fr": "De quelle manière as-tu réussi aujourd'hui à tourner tes pensées vers ce qui est vrai et digne ?"
+      },
+      "options": [
+        {
+          "id": "mentalidad_verdadera",
+          "label": {
+            "es": "Eligiendo la verdad",
+            "en": "Choosing truth",
+            "pt": "Escolhendo a verdade",
+            "fr": "Choisir la vérité"
+          },
+          "responseTitle": {
+            "es": "Cimiento en la Verdad",
+            "en": "Grounded in Truth",
+            "pt": "Alicerce na Verdade",
+            "fr": "Fondé sur la Vérité"
+          },
+          "responseText": {
+            "es": "Hoy decidiste rechazar las mentiras del desánimo para abrazar lo que Dios dice de ti.",
+            "en": "Today you chose to reject the lies of discouragement to embrace what God says about you.",
+            "pt": "Hoje você decidiu rejeitar as mentiras do desânimo para abraçar o que Deus diz de você.",
+            "fr": "Aujourd'hui, tu as choisi de rejeter les mensonges du découragement pour embrasser ce que Dieu dit de toi."
+          },
+          "verses": [
+            "Juan 8:32"
+          ],
+          "reflectionHeader": {
+            "es": "Libertad en la luz",
+            "en": "Freedom in the light",
+            "pt": "Liberdade na luz",
+            "fr": "Liberté dans la lumière"
+          },
+          "reflection": {
+            "es": "La verdad de Dios no solo nos guía, sino que nos libera de las prisiones mentales que nosotros mismos construimos. Al cerrar el día, descansa en la certeza de Su palabra.",
+            "en": "God's truth not only guides us, but also sets us free from the mental prisons we build ourselves. As the day ends, rest in the certainty of His word.",
+            "pt": "A verdade de Deus não apenas nos guia, mas nos liberta das prisões mentais que nós mesmos construímos. Ao fechar o dia, descanse na certeza da Sua palavra.",
+            "fr": "La vérité de Dieu ne nous guide pas seulement, elle nous libère des prisons mentales que nous construisons nous-mêmes. En fin de journée, repose-toi dans la certitude de Sa parole."
+          }
+        },
+        {
+          "id": "foco_virtuoso",
+          "label": {
+            "es": "Mirando lo bueno",
+            "en": "Looking at the good",
+            "pt": "Olhando o bem",
+            "fr": "Regarder le bien"
+          },
+          "responseTitle": {
+            "es": "Enfoque en lo Virtuoso",
+            "en": "Focus on Virtue",
+            "pt": "Foco no Virtuoso",
+            "fr": "Focus sur la Vertu"
+          },
+          "responseText": {
+            "es": "Tu mente buscó activamente la belleza y la virtud en medio de la rutina cotidiana.",
+            "en": "Your mind actively sought beauty and virtue in the midst of daily routine.",
+            "pt": "Sua mente buscou ativamente a beleza e a virtude em meio à rotina cotidiana.",
+            "fr": "Ton esprit a activement cherché la beauté et la vertu au milieu de la routine quotidienne."
+          },
+          "verses": [
+            "Filipenses 4:8"
+          ],
+          "reflectionHeader": {
+            "es": "Entorno renovado",
+            "en": "Renewed environment",
+            "pt": "Ambiente renovado",
+            "fr": "Environnement renouvelé"
+          },
+          "reflection": {
+            "es": "Donde pones tu atención, allí se dirige tu paz. Al enfocarte en lo noble y justo, permites que el Espíritu Santo renueve tu perspectiva y restaure tu gozo.",
+            "en": "Where you place your attention, your peace follows. By focusing on what is noble and just, you allow the Holy Spirit to renew your perspective and restore your joy.",
+            "pt": "Onde você coloca sua atenção, para lá se dirige sua paz. Ao focar no que é nobre e justo, você permite que o Espírito Santo renove sua perspectiva e restaure sua alegria.",
+            "fr": "Là où tu portes ton attention, ta paix se dirige aussi. En te concentrant sur ce qui est noble et juste, tu permets au Saint-Esprit de renouveler ta perspective et de restaurer ta joie."
+          }
+        },
+        {
+          "id": "reposo_mental",
+          "label": {
+            "es": "Silencio del alma",
+            "en": "Soul's silence",
+            "pt": "Silêncio da alma",
+            "fr": "Silence de l'âme"
+          },
+          "responseTitle": {
+            "es": "Calma en el Interior",
+            "en": "Inner Calm",
+            "pt": "Calma no Interior",
+            "fr": "Calme Intérieur"
+          },
+          "responseText": {
+            "es": "Lograste acallar las voces del caos para escuchar el susurro de la paz divina.",
+            "en": "You managed to quiet the voices of chaos to hear the whisper of divine peace.",
+            "pt": "Você conseguiu calar as vozes do caos para ouvir o sussurro da paz divina.",
+            "fr": "Tu as réussi à faire taire les voix du chaos pour écouter le murmure de la paix divine."
+          },
+          "verses": [
+            "Salmos 131:2"
+          ],
+          "reflectionHeader": {
+            "es": "Sosegar el corazón",
+            "en": "Quieting the heart",
+            "pt": "Sossegar o coração",
+            "fr": "Apaiser le cœur"
+          },
+          "reflection": {
+            "es": "Un alma acallada es un alma que confía. No necesitas entenderlo todo esta noche; basta con saber que estás seguro en los brazos del Padre como un niño pequeño.",
+            "en": "A quieted soul is a trusting soul. You don't need to understand everything tonight; it is enough to know you are safe in the Father's arms like a little child.",
+            "pt": "Uma alma aquietada é uma alma que confia. Você não precisa entender tudo esta noite; basta saber que está seguro nos braços do Pai como uma criança pequena.",
+            "fr": "Une âme apaisée est une âme qui a confiance. Tu n'as pas besoin de tout comprendre ce soir ; il suffit de savoir que tu es en sécurité dans les bras du Père comme un petit enfant."
+          }
+        },
+        {
+          "id": "vision_celestial",
+          "label": {
+            "es": "Mirada eterna",
+            "en": "Eternal gaze",
+            "pt": "Olhar eterno",
+            "fr": "Regard éternel"
+          },
+          "responseTitle": {
+            "es": "Más allá de lo Visible",
+            "en": "Beyond the Visible",
+            "pt": "Além do Visível",
+            "fr": "Au-delà du Visible"
+          },
+          "responseText": {
+            "es": "Elevaste tu perspectiva por encima de los problemas temporales hacia el Reino de Dios.",
+            "en": "You raised your perspective above temporary problems toward the Kingdom of God.",
+            "pt": "Você elevou sua perspectiva acima dos problemas temporais em direção ao Reino de Deus.",
+            "fr": "Tu as élevé ta perspective au-dessus des problèmes passagers vers le Royaume de Dieu."
+          },
+          "verses": [
+            "Colosenses 3:2"
+          ],
+          "reflectionHeader": {
+            "es": "Prioridad del Cielo",
+            "en": "Heaven's Priority",
+            "pt": "Prioridade do Céu",
+            "fr": "Priorité du Ciel"
+          },
+          "reflection": {
+            "es": "Cuando miramos desde la eternidad, las cargas de hoy recuperan su tamaño real. Mantener los ojos en Cristo te da la fuerza necesaria para terminar el día con esperanza.",
+            "en": "When we look from eternity, today's burdens regain their true size. Keeping your eyes on Christ gives you the strength needed to end the day with hope.",
+            "pt": "Quando olhamos a partir da eternidade, os fardos de hoje recuperam seu tamanho real. Manter os olhos em Cristo lhe dá a força necessária para terminar o dia com esperança.",
+            "fr": "Quand nous regardons depuis l'éternité, les fardeaux d'aujourd'hui retrouvent leur taille réelle. Garder les yeux sur Christ te donne la force nécessaire pour finir la journée avec espérance."
+          }
+        },
+        {
+          "id": "filtro_mental",
+          "label": {
+            "es": "Protegiendo la mente",
+            "en": "Guarding the mind",
+            "pt": "Protegendo a mente",
+            "fr": "Protéger l'esprit"
+          },
+          "responseTitle": {
+            "es": "Corazón Resguardado",
+            "en": "Guarded Heart",
+            "pt": "Coração Resguardado",
+            "fr": "Cœur Préservé"
+          },
+          "responseText": {
+            "es": "Cuidaste lo que dejaste entrar en tus pensamientos, filtrando todo con sabiduría.",
+            "en": "You took care of what you let into your thoughts, filtering everything with wisdom.",
+            "pt": "Você cuidou do que deixou entrar em seus pensamentos, filtrando tudo com sabedoria.",
+            "fr": "Tu as veillé sur ce que tu laissais entrer dans tes pensées, filtrant tout avec sagesse."
+          },
+          "verses": [
+            "Proverbios 4:23"
+          ],
+          "reflectionHeader": {
+            "es": "Vigilancia espiritual",
+            "en": "Spiritual vigilance",
+            "pt": "Vigilância espiritual",
+            "fr": "Vigilance spirituelle"
+          },
+          "reflection": {
+            "es": "Nuestra mente es un jardín que requiere cuidado constante. Al proteger tus pensamientos, proteges la fuente misma de tu vida y tu conexión con el Creador.",
+            "en": "Our mind is a garden that requires constant care. By protecting your thoughts, you protect the very source of your life and your connection with the Creator.",
+            "pt": "Nossa mente é um jardim que requer cuidado constante. Ao proteger seus pensamentos, você protege a própria fonte de sua vida e sua conexão com o Criador.",
+            "fr": "Notre esprit est un jardin qui nécessite un soin constant. En protégeant tes pensées, tu protèges la source même de ta vie et ton lien avec le Créateur."
+          }
+        },
+        {
+          "id": "oracion_reflexiva",
+          "label": {
+            "es": "Diálogo constante",
+            "en": "Constant dialogue",
+            "pt": "Diálogo constante",
+            "fr": "Dialogue constant"
+          },
+          "responseTitle": {
+            "es": "Comunión Mental",
+            "en": "Mental Communion",
+            "pt": "Comunhão Mental",
+            "fr": "Communion Mentale"
+          },
+          "responseText": {
+            "es": "Mantuviste una conversación abierta con Dios a través de tus pensamientos durante el día.",
+            "en": "You kept an open conversation with God through your thoughts during the day.",
+            "pt": "Você manteve uma conversa aberta com Deus através de seus pensamentos durante o dia.",
+            "fr": "Tu as maintenu une conversation ouverte avec Dieu à travers tes pensées durant la journée."
+          },
+          "verses": [
+            "1 Tesalonicenses 5:17"
+          ],
+          "reflectionHeader": {
+            "es": "Presencia continua",
+            "en": "Continuous presence",
+            "pt": "Presença contínua",
+            "fr": "Présence continue"
+          },
+          "reflection": {
+            "es": "Orar sin cesar es hacer de cada pensamiento una oportunidad para encontrarse con Dios. Gracias por invitarle a ser parte de tu mundo interior hoy.",
+            "en": "Praying without ceasing is making every thought an opportunity to meet God. Thank you for inviting Him to be part of your inner world today.",
+            "pt": "Orar sem cessar é fazer de cada pensamento uma oportunidade para encontrar-se com Deus. Obrigado por convidá-Lo a fazer parte do seu mundo interior hoje.",
+            "fr": "Prier sans cesse, c'est faire de chaque pensée une occasion de rencontrer Dieu. Merci de L'avoir invité à faire partie de ton monde intérieur aujourd'hui."
           }
         }
       ]
