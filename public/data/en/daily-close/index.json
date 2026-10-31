@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30",
+  "updatedAt": "2026-10-31",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -10118,6 +10118,236 @@
             "en": "Praying without ceasing is making every thought an opportunity to meet God. Thank you for inviting Him to be part of your inner world today.",
             "pt": "Orar sem cessar é fazer de cada pensamento uma oportunidade para encontrar-se com Deus. Obrigado por convidá-Lo a fazer parte do seu mundo interior hoje.",
             "fr": "Prier sans cesse, c'est faire de chaque pensée une occasion de rencontrer Dieu. Merci de L'avoir invité à faire partie de ton monde intérieur aujourd'hui."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿Cómo buscaste hoy la presencia de Dios en medio de tus tareas cotidianas?",
+        "en": "How did you seek God's presence in the midst of your daily tasks today?",
+        "pt": "Como você buscou hoje a presença de Deus em meio às suas tarefas cotidianas?",
+        "fr": "Comment as-tu cherché la présence de Dieu au milieu de tes tâches quotidiennes aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "trabajo_consagrado",
+          "label": {
+            "es": "Trabajo con propósito",
+            "en": "Work with purpose",
+            "pt": "Trabalho com propósito",
+            "fr": "Travail avec sens"
+          },
+          "responseTitle": {
+            "es": "Labor ofrecida al Señor",
+            "en": "Work offered to the Lord",
+            "pt": "Trabalho oferecido ao Senhor",
+            "fr": "Travail offert au Seigneur"
+          },
+          "responseText": {
+            "es": "Has visto tu labor no como una carga, sino como un acto de servicio para Su gloria.",
+            "en": "You have seen your work not as a burden, but as an act of service for His glory.",
+            "pt": "Você viu seu trabalho não como um fardo, mas como um ato de serviço para Sua glória.",
+            "fr": "Tu as vu ton travail non pas comme un fardeau, mais comme un acte de service pour Sa gloire."
+          },
+          "verses": [
+            "Colosenses 3:23"
+          ],
+          "reflectionHeader": {
+            "es": "Excelencia que adora",
+            "en": "Excellence that worships",
+            "pt": "Excelência que adora",
+            "fr": "L'excellence qui adore"
+          },
+          "reflection": {
+            "es": "Cuando realizamos nuestras actividades diarias con dedicación y honestidad, estamos rindiendo un culto genuino. Dios se agrada de un corazón que pone amor en lo ordinario.",
+            "en": "When we perform our daily activities with dedication and honesty, we are offering genuine worship. God is pleased with a heart that puts love into the ordinary.",
+            "pt": "Quando realizamos nossas atividades diárias com dedicação e honestidade, estamos prestando um culto genuíno. Deus se agrada de um coração que coloca amor no que é comum.",
+            "fr": "Lorsque nous accomplissons nos activités quotidiennes avec dévouement et honnêteté, nous rendons un culte authentique. Dieu se réjouit d'un cœur qui met de l'amour dans l'ordinaire."
+          }
+        },
+        {
+          "id": "oracion_al_vuelo",
+          "label": {
+            "es": "Breves oraciones",
+            "en": "Brief prayers",
+            "pt": "Breves orações",
+            "fr": "Prières brèves"
+          },
+          "responseTitle": {
+            "es": "Diálogo constante",
+            "en": "Constant dialogue",
+            "pt": "Diálogo constante",
+            "fr": "Dialogue constant"
+          },
+          "responseText": {
+            "es": "Convertiste tus minutos de transición en pequeños altares de comunicación con Dios.",
+            "en": "You turned your transition minutes into small altars of communication with God.",
+            "pt": "Você transformou seus minutos de transição em pequenos altares de comunicação com Deus.",
+            "fr": "Tu as transformé tes moments de transition en petits autels de communication avec Dieu."
+          },
+          "verses": [
+            "Salmos 141:2"
+          ],
+          "reflectionHeader": {
+            "es": "Incienso en la pausa",
+            "en": "Incense in the pause",
+            "pt": "Incenso na pausa",
+            "fr": "Encens dans la pause"
+          },
+          "reflection": {
+            "es": "La oración no requiere siempre de largos periodos; un suspiro dirigido al cielo en medio del ajetreo mantiene el alma conectada a su Fuente de vida.",
+            "en": "Prayer does not always require long periods; a sigh directed toward heaven in the midst of busyness keeps the soul connected to its Source of life.",
+            "pt": "A oração nem sempre exige longos períodos; um suspiro dirigido ao céu em meio à agitação mantém a alma conectada à sua Fonte de vida.",
+            "fr": "La prière ne nécessite pas toujours de longues périodes ; un soupir dirigé vers le ciel au milieu de l'agitation garde l'âme connectée à sa Source de vie."
+          }
+        },
+        {
+          "id": "asombro_cotidiano",
+          "label": {
+            "es": "Belleza en lo simple",
+            "en": "Beauty in simplicity",
+            "pt": "Beleza no simples",
+            "fr": "Beauté du simple"
+          },
+          "responseTitle": {
+            "es": "Ojos para lo eterno",
+            "en": "Eyes for the eternal",
+            "pt": "Olhos para o eterno",
+            "fr": "Des yeux pour l'éternel"
+          },
+          "responseText": {
+            "es": "Reconociste la mano del Creador en los detalles más sencillos de tu entorno hoy.",
+            "en": "You recognized the Creator's hand in the simplest details of your surroundings today.",
+            "pt": "Você reconheceu a mão do Criador nos detalhes mais simples do seu ambiente hoje.",
+            "fr": "Tu as reconnu la main du Créateur dans les détails les plus simples de ton environnement aujourd'hui."
+          },
+          "verses": [
+            "Salmos 19:1"
+          ],
+          "reflectionHeader": {
+            "es": "Rastros de Su gloria",
+            "en": "Traces of His glory",
+            "pt": "Rastros de Sua glória",
+            "fr": "Traces de Sa gloire"
+          },
+          "reflection": {
+            "es": "El mundo está lleno de la gloria de Dios. Al detenerte a contemplar una flor o la luz del sol, alimentas tu espíritu con la majestad de quien sostiene el universo.",
+            "en": "The world is full of God's glory. By stopping to contemplate a flower or the sunlight, you nourish your spirit with the majesty of the One who sustains the universe.",
+            "pt": "O mundo está cheio da glória de Deus. Ao parar para contemplar uma flor ou a luz do sol, você nutre seu espírito com a majestade Daquele que sustenta o universo.",
+            "fr": "Le monde est rempli de la gloire de Dieu. En t'arrêtant pour contempler une fleur ou la lumière du soleil, tu nourris ton esprit de la majesté de Celui qui soutient l'univers."
+          }
+        },
+        {
+          "id": "servicio_fraterno",
+          "label": {
+            "es": "Cristo en el prójimo",
+            "en": "Christ in others",
+            "pt": "Cristo no próximo",
+            "fr": "Le Christ en l'autre"
+          },
+          "responseTitle": {
+            "es": "Amor en acción",
+            "en": "Love in action",
+            "pt": "Amor em ação",
+            "fr": "L'amour en action"
+          },
+          "responseText": {
+            "es": "Viste a Jesús en las personas con las que interactuaste, sirviéndoles con paciencia.",
+            "en": "You saw Jesus in the people you interacted with, serving them with patience.",
+            "pt": "Você viu Jesus nas pessoas com quem interagiu, servindo-as com paciência.",
+            "fr": "Tu as vu Jésus dans les personnes avec qui tu as interagi, les servant avec patience."
+          },
+          "verses": [
+            "Mateo 25:40"
+          ],
+          "reflectionHeader": {
+            "es": "Encuentros sagrados",
+            "en": "Sacred encounters",
+            "pt": "Encontros sagrados",
+            "fr": "Rencontres sacrées"
+          },
+          "reflection": {
+            "es": "Cada interacción es una oportunidad para amar a Dios a través del hermano. Al tratar a los demás con gracia, permites que Su presencia se haga tangible en la tierra.",
+            "en": "Every interaction is an opportunity to love God through our neighbor. By treating others with grace, you allow His presence to become tangible on earth.",
+            "pt": "Cada interação é uma oportunidade de amar a Deus através do próximo. Ao tratar os outros com graça, você permite que Sua presença se torne tangível na terra.",
+            "fr": "Chaque interaction est une occasion d'aimer Dieu à travers son prochain. En traitant les autres avec grâce, tu permets à Sa présence de devenir tangible sur terre."
+          }
+        },
+        {
+          "id": "gratitud_habitual",
+          "label": {
+            "es": "Gratitud constante",
+            "en": "Constant gratitude",
+            "pt": "Gratidão constante",
+            "fr": "Gratitude constante"
+          },
+          "responseTitle": {
+            "es": "Corazón agradecido",
+            "en": "Grateful heart",
+            "pt": "Coração agradecido",
+            "fr": "Cœur reconnaissant"
+          },
+          "responseText": {
+            "es": "Encontraste motivos para dar gracias incluso en las rutinas más repetitivas.",
+            "en": "You found reasons to give thanks even in the most repetitive routines.",
+            "pt": "Você encontrou motivos para dar graças até mesmo nas rotinas mais repetitivas.",
+            "fr": "Tu as trouvé des raisons de rendre grâce même dans les routines les plus répétitives."
+          },
+          "verses": [
+            "1 Tesalonicenses 5:18"
+          ],
+          "reflectionHeader": {
+            "es": "Ritmo de acción de gracias",
+            "en": "Rhythm of thanksgiving",
+            "pt": "Ritmo de ação de graças",
+            "fr": "Rythme d'action de grâce"
+          },
+          "reflection": {
+            "es": "La gratitud transforma nuestra perspectiva. Al agradecer por el pan cotidiano y las tareas diarias, el hogar y el trabajo se convierten en lugares de bendición.",
+            "en": "Gratitude transforms our perspective. By giving thanks for daily bread and everyday tasks, the home and workplace become places of blessing.",
+            "pt": "A gratidão transforma nossa perspectiva. Ao agradecer pelo pão cotidiano e pelas tarefas diárias, o lar e o trabalho tornam-se lugares de bênção.",
+            "fr": "La gratitude transforme notre perspective. En rendant grâce pour le pain quotidien et les tâches journalières, le foyer et le travail deviennent des lieux de bénédiction."
+          }
+        },
+        {
+          "id": "paz_activa",
+          "label": {
+            "es": "Paz en la actividad",
+            "en": "Peace in activity",
+            "pt": "Paz na atividade",
+            "fr": "Paix dans l'activité"
+          },
+          "responseTitle": {
+            "es": "Mente fija en Él",
+            "en": "Mind stayed on Him",
+            "pt": "Mente focada n'Ele",
+            "fr": "L'esprit fixé sur Lui"
+          },
+          "responseText": {
+            "es": "Lograste mantener una calma interior a pesar del ruido y las exigencias exteriores.",
+            "en": "You managed to maintain an inner calm despite the noise and external demands.",
+            "pt": "Você conseguiu manter uma calma interior apesar do ruído e das exigências externas.",
+            "fr": "Tu as réussi à maintenir un calme intérieur malgré le bruit et les exigences extérieures."
+          },
+          "verses": [
+            "Isaías 26:3"
+          ],
+          "reflectionHeader": {
+            "es": "Santuario interior",
+            "en": "Inner sanctuary",
+            "pt": "Santuário interior",
+            "fr": "Sanctuaire intérieur"
+          },
+          "reflection": {
+            "es": "La verdadera paz no depende de la ausencia de ocupaciones, sino de la presencia del Espíritu Santo en el centro de nuestra mente y voluntad.",
+            "en": "True peace does not depend on the absence of business, but on the presence of the Holy Spirit at the center of our mind and will.",
+            "pt": "A verdadeira paz não depende da ausência de ocupações, mas da presença do Espírito Santo no centro de nossa mente e vontade.",
+            "fr": "La véritable paix ne dépend pas de l'absence d'occupations, mais de la présence du Saint-Esprit au centre de notre esprit et de notre volonté."
           }
         }
       ]
