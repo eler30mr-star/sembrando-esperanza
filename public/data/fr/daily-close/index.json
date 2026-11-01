@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31",
+  "updatedAt": "2026-11-01",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -10348,6 +10348,236 @@
             "en": "True peace does not depend on the absence of business, but on the presence of the Holy Spirit at the center of our mind and will.",
             "pt": "A verdadeira paz não depende da ausência de ocupações, mas da presença do Espírito Santo no centro de nossa mente e vontade.",
             "fr": "La véritable paix ne dépend pas de l'absence d'occupations, mais de la présence du Saint-Esprit au centre de notre esprit et de notre volonté."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera confiaste hoy tu jornada en el cuidado soberano del Señor?",
+        "en": "How did you entrust your day to the Lord's sovereign care today?",
+        "pt": "De que maneira você confiou hoje o seu dia ao cuidado soberano do Senhor?",
+        "fr": "De quelle manière as-tu confié ta journée au soin souverain du Seigneur ?"
+      },
+      "options": [
+        {
+          "id": "soltando_afan",
+          "label": {
+            "es": "Soltando el afán",
+            "en": "Releasing anxiety",
+            "pt": "Soltando a ansiedade",
+            "fr": "Lâcher prise"
+          },
+          "responseTitle": {
+            "es": "Descanso en Su soberanía",
+            "en": "Resting in His sovereignty",
+            "pt": "Descanso em Sua soberania",
+            "fr": "Repos en Sa souveraineté"
+          },
+          "responseText": {
+            "es": "Hoy entregaste tus preocupaciones en las manos del Creador, reconociendo que Él sostiene el mañana.",
+            "en": "Today you placed your worries in the Creator's hands, recognizing that He holds tomorrow.",
+            "pt": "Hoje você entregou suas preocupações nas mãos do Criador, reconhecendo que Ele sustenta o amanhã.",
+            "fr": "Aujourd'hui, tu as remis tes inquiétudes entre les mains du Créateur, sachant qu'Il tient demain."
+          },
+          "verses": [
+            "Salmos 55:22"
+          ],
+          "reflectionHeader": {
+            "es": "Tu carga está segura en Él",
+            "en": "Your burden is safe with Him",
+            "pt": "Sua carga está segura Nele",
+            "fr": "Ton fardeau est en sécurité"
+          },
+          "reflection": {
+            "es": "Soltar el control requiere fe. Al cerrar tus ojos esta noche, confía en que Dios vela mientras descansas y renueva tus fuerzas para el nuevo día.",
+            "en": "Letting go of control requires faith. As you close your eyes tonight, trust that God watches over you while you rest and renews your strength.",
+            "pt": "Soltar o controle exige fé. Ao fechar os olhos esta noite, confie que Deus cuida de você enquanto descansa e renova suas forças.",
+            "fr": "Lâcher le contrôle demande de la foi. En fermant les yeux ce soir, fais confiance à Dieu qui veille sur toi pendant ton repos."
+          }
+        },
+        {
+          "id": "gratitud_nocturna",
+          "label": {
+            "es": "Gratitud al velar",
+            "en": "Nightly gratitude",
+            "pt": "Gratidão ao velar",
+            "fr": "Gratitude du soir"
+          },
+          "responseTitle": {
+            "es": "Un corazón grato rinde paz",
+            "en": "A thankful heart yields peace",
+            "pt": "Um coração grato produz paz",
+            "fr": "Un cœur reconnaissant rend la paix"
+          },
+          "responseText": {
+            "es": "Reconociste los beneficios del Señor antes de dormir, guardando en tu memoria Su constante fidelidad.",
+            "en": "You remembered the Lord's benefits before sleeping, treasuring His constant faithfulness in your heart.",
+            "pt": "Você reconheceu os benefícios do Senhor antes de dormir, guardando no coração Sua constante fidelidade.",
+            "fr": "Tu as reconnu les bienfaits du Seigneur avant de dormir, gardant dans ton cœur Sa fidélité constante."
+          },
+          "verses": [
+            "Salmos 92:2"
+          ],
+          "reflectionHeader": {
+            "es": "Memoria de Su fidelidad",
+            "en": "Remembering His faithfulness",
+            "pt": "Memória de Sua fidelidade",
+            "fr": "Souvenir de Sa fidélité"
+          },
+          "reflection": {
+            "es": "La gratitud transforma el descanso. Al contar tus bendiciones al final del día, abres espacio para que la paz de Cristo guarde tu mente durante la noche.",
+            "en": "Gratitude transforms rest. As you count your blessings at the end of the day, you make room for Christ's peace to guard your mind through the night.",
+            "pt": "A gratidão transforma o descanso. Ao contar suas bênçãos no final do dia, você abre espaço para que a paz de Cristo guarde sua mente durante a noite.",
+            "fr": "La gratitude transforme le repos. En comptant tes bénédictions à la fin de la journée, tu laisses la paix du Christ garder ton esprit toute la nuit."
+          }
+        },
+        {
+          "id": "perdon_de_corazon",
+          "label": {
+            "es": "Soltando la ofensa",
+            "en": "Releasing offense",
+            "pt": "Soltando a ofensa",
+            "fr": "Libérer l'offense"
+          },
+          "responseTitle": {
+            "es": "Corazón ligero para descansar",
+            "en": "A light heart ready for rest",
+            "pt": "Coração leve para descansar",
+            "fr": "Un cœur léger pour dormir"
+          },
+          "responseText": {
+            "es": "Decidiste no acostarte guardando resentimiento, eligiendo la libertad del perdón sobre el peso de la amargura.",
+            "en": "You chose not to go to bed holding resentment, preferring the freedom of forgiveness over the weight of bitterness.",
+            "pt": "Você decidiu não se deitar guardando ressentimento, escolhendo a liberdade do perdão em vez do peso da amargura.",
+            "fr": "Tu as choisi de ne pas te coucher avec de la rancœur, préférant la liberté du pardon au poids de l'amertume."
+          },
+          "verses": [
+            "Efesios 4:26"
+          ],
+          "reflectionHeader": {
+            "es": "Libertad mediante el perdón",
+            "en": "Freedom through forgiveness",
+            "pt": "Liberdade pelo perdão",
+            "fr": "La liberté par le pardon"
+          },
+          "reflection": {
+            "es": "El perdón es un regalo que te das a ti mismo y a tu prójimo. Al soltar toda molestia antes de dormir, tu espíritu queda libre para recibir el sueño sanador de Dios.",
+            "en": "Forgiveness is a gift you give to yourself and others. By letting go of grievances before sleep, your spirit is freed to receive God's healing rest.",
+            "pt": "O perdão é um presente que você dá a si mesmo e ao próximo. Ao soltar qualquer ressentimento antes de dormir, seu espírito fica livre para o descanso restaurador.",
+            "fr": "Le pardon est un cadeau pour toi-même et pour les autres. En abandonnant toute rancœur avant de dormir, ton esprit s'ouvre au repos guérisseur de Dieu."
+          }
+        },
+        {
+          "id": "oracion_silenciosa",
+          "label": {
+            "es": "Oración en quietud",
+            "en": "Quiet prayer",
+            "pt": "Oração em quietude",
+            "fr": "Prière silencieuse"
+          },
+          "responseTitle": {
+            "es": "Diálogo íntimo al atardecer",
+            "en": "Intimate dialogue at dusk",
+            "pt": "Diálogo íntimo ao anoitecer",
+            "fr": "Dialogue intime du soir"
+          },
+          "responseText": {
+            "es": "Buscaste un momento a solas para hablar con el Padre, entregándole tus anhelos y cansancios en voz baja.",
+            "en": "You sought a quiet moment alone to talk with the Father, whispering your hopes and weariness to Him.",
+            "pt": "Você buscou um momento a sós para falar com o Pai, entregando-Lhe seus anseios e cansaço em voz baixa.",
+            "fr": "Tu as cherché un moment seul pour parler au Père, Lui confiant tes désirs et ta fatigue à voix basse."
+          },
+          "verses": [
+            "Salmos 4:8"
+          ],
+          "reflectionHeader": {
+            "es": "En paz me acostaré",
+            "en": "In peace I will lie down",
+            "pt": "Em paz me deitarei",
+            "fr": "En paix je me coucherai"
+          },
+          "reflection": {
+            "es": "El Señor escucha hasta el suspiro más tenue. Confiarle la noche en oración profunda te asegura que no estás solo y que Su presencia te envuelve plenamente.",
+            "en": "The Lord hears even the quietest whisper. Entrusting the night to Him in deep prayer reassures you that you are never alone and His presence enfolds you.",
+            "pt": "O Senhor ouve até o sussurro mais suave. Confiar-Lhe a noite em oração profunda garante que você não está sozinho e que Sua presença o envolve plenamente.",
+            "fr": "Le Seigneur entend même le moindre soupir. Lui confier la nuit dans la prière te rappelle que tu n'es pas seul et que Sa présence t'entoure."
+          }
+        },
+        {
+          "id": "refugio_nocturno",
+          "label": {
+            "es": "Bajo Su amparo",
+            "en": "Under His shelter",
+            "pt": "Sob Seu amparo",
+            "fr": "Sous Sa protection"
+          },
+          "responseTitle": {
+            "es": "Amparado en el Altísimo",
+            "en": "Sheltered in the Almighty",
+            "pt": "Amparado no Altíssimo",
+            "fr": "À l'ombre du Très-Haut"
+          },
+          "responseText": {
+            "es": "Refugiaste tu mente en la certeza de que el Guardián de Israel no duerme ni se adormece jamás.",
+            "en": "You anchored your mind in the certainty that Israel's Guardian neither slumbers nor sleeps.",
+            "pt": "Você refugiou sua mente na certeza de que o Guarda de Israel não dorme nem adormece jamais.",
+            "fr": "Tu as ancré ton esprit dans la certitude que le Gardien d'Israël ne sommeille ni ne dort."
+          },
+          "verses": [
+            "Salmos 121:4"
+          ],
+          "reflectionHeader": {
+            "es": "Dios vela tu descanso",
+            "en": "God guards your sleep",
+            "pt": "Deus cuida do seu sono",
+            "fr": "Dieu veille sur ton sommeil"
+          },
+          "reflection": {
+            "es": "Puedes dormir tranquilo porque Dios está al mando. Su fidelidad es tu escudo nocturno y Su amor vela la entrada y la salida de tu hogar en todo instante.",
+            "en": "You can sleep peacefully because God is in control. His faithfulness is your night shield, and His love watches over your home at all times.",
+            "pt": "Você pode dormir tranquilo porque Deus está no controle. Sua fidelidade é seu escudo noturno e Seu amor guarda seu lar a todo instante.",
+            "fr": "Tu peux dormir paisiblement car Dieu contrôle tout. Sa fidélité est ton bouclier nocturne et Son amour veille sur ton foyer à chaque instant."
+          }
+        },
+        {
+          "id": "esperanza_manana",
+          "label": {
+            "es": "Esperando el mañana",
+            "en": "Waiting for tomorrow",
+            "pt": "Esperando o amanhã",
+            "fr": "Espérer le lendemain"
+          },
+          "responseTitle": {
+            "es": "Nuevas misericordias te esperan",
+            "en": "New mercies await you",
+            "pt": "Novas misericórdias te esperam",
+            "fr": "De nouvelles miséricordes"
+          },
+          "responseText": {
+            "es": "Acabas el día con la vista puesta en las promesas de Dios, sabiendo que Su gracia se renueva al amanecer.",
+            "en": "You end the day with your eyes fixed on God's promises, knowing His grace is renewed at dawn.",
+            "pt": "Você termina o dia com os olhos fixos nas promessas de Deus, sabendo que Sua graça se renova ao amanhecer.",
+            "fr": "Tu termines la journée les yeux fixés sur les promesses de Dieu, sachant que Sa grâce se renouvelle à l'aube."
+          },
+          "verses": [
+            "Lamentaciones 3:22"
+          ],
+          "reflectionHeader": {
+            "es": "Cada amanecer trae gracia",
+            "en": "Each dawn brings grace",
+            "pt": "Cada amanhecer traz graça",
+            "fr": "Chaque aube apporte la grâce"
+          },
+          "reflection": {
+            "es": "Mañana será una nueva oportunidad para caminar con el Señor. Cierra hoy con fe, sabiendo que la historia de tu vida se escribe en Sus amorosas manos.",
+            "en": "Tomorrow will be a new opportunity to walk with the Lord. Close today with faith, knowing your life story is written in His loving hands.",
+            "pt": "Amanhã será uma nova oportunidade para caminhar com o Senhor. Feche o dia com fé, sabendo que a história da sua vida está escrita em Suas amorosas mãos.",
+            "fr": "Demain sera une nouvelle occasion de marcher avec le Seigneur. Conclus cette journée avec foi, sachant que ta vie est entre Ses mains aimantes."
           }
         }
       ]
