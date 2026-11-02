@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-02",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -10578,6 +10578,236 @@
             "en": "Tomorrow will be a new opportunity to walk with the Lord. Close today with faith, knowing your life story is written in His loving hands.",
             "pt": "Amanhã será uma nova oportunidade para caminhar com o Senhor. Feche o dia com fé, sabendo que a história da sua vida está escrita em Suas amorosas mãos.",
             "fr": "Demain sera une nouvelle occasion de marcher avec le Seigneur. Conclus cette journée avec foi, sachant que ta vie est entre Ses mains aimantes."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera permitiste que la humildad de Cristo guiara tus acciones hoy?",
+        "en": "In what way did you allow the humility of Christ to guide your actions today?",
+        "pt": "De que maneira você permitiu que a humildade de Cristo guiasse suas ações hoje?",
+        "fr": "De quelle manière as-tu laissé l'humilité du Christ guider tes actions aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "listening_heart",
+          "label": {
+            "es": "Escucha atenta",
+            "en": "Attentive listening",
+            "pt": "Escuta atenta",
+            "fr": "Écoute attentive"
+          },
+          "responseTitle": {
+            "es": "El valor de la escucha",
+            "en": "The value of listening",
+            "pt": "O valor da escuta",
+            "fr": "La valeur de l'écoute"
+          },
+          "responseText": {
+            "es": "Has decidido dar prioridad a las palabras de los demás antes que a las tuyas.",
+            "en": "You decided to prioritize others' words before your own.",
+            "pt": "Você decidiu priorizar as palavras dos outros antes das suas.",
+            "fr": "Tu as décidé de donner la priorité aux paroles des autres avant les tiennes."
+          },
+          "verses": [
+            "Santiago 1:19"
+          ],
+          "reflectionHeader": {
+            "es": "Sabiduría en el silencio",
+            "en": "Wisdom in silence",
+            "pt": "Sabedoria no silêncio",
+            "fr": "Sagesse dans le silence"
+          },
+          "reflection": {
+            "es": "Escuchar es un acto de amor y humildad. Al callar para entender al otro, reflejas el corazón de Jesús, quien siempre estuvo presente para los necesitados. Descansa sabiendo que tu atención fue un regalo para alguien hoy.",
+            "en": "Listening is an act of love and humility. By staying silent to understand another, you reflect the heart of Jesus, who was always present for those in need. Rest knowing your attention was a gift to someone today.",
+            "pt": "Ouvir é um ato de amor e humildade. Ao calar-se para entender o outro, você reflete o coração de Jesus, que sempre esteve presente para os necessitados. Descanse sabendo que sua atenção foi um presente para alguém hoje.",
+            "fr": "L'écoute est un acte d'amour et d'humilité. En te taisant pour comprendre l'autre, tu reflètes le cœur de Jésus, qui était toujours présent pour ceux qui en avaient besoin. Repose-toi en sachant que ton attention a été un cadeau pour quelqu'un aujourd'hui."
+          }
+        },
+        {
+          "id": "owning_faults",
+          "label": {
+            "es": "Aceptar un error",
+            "en": "Admitting a mistake",
+            "pt": "Aceitar um erro",
+            "fr": "Admettre une erreur"
+          },
+          "responseTitle": {
+            "es": "Sinceridad que libera",
+            "en": "Sincerity that frees",
+            "pt": "Sinceridade que liberta",
+            "fr": "La sincérité qui libère"
+          },
+          "responseText": {
+            "es": "Reconocer una falta requiere valentía y una dependencia total de la gracia de Dios.",
+            "en": "Acknowledging a fault requires courage and total dependence on God's grace.",
+            "pt": "Reconhecer uma falha requer coragem e total dependência da graça de Deus.",
+            "fr": "Reconnaître une faute exige du courage et une dépendance totale à la grâce de Dieu."
+          },
+          "verses": [
+            "1 Juan 1:9"
+          ],
+          "reflectionHeader": {
+            "es": "Paz en la honestidad",
+            "en": "Peace in honesty",
+            "pt": "Paz na honestidade",
+            "fr": "La paix dans l'honnêteté"
+          },
+          "reflection": {
+            "es": "No hay carga más pesada que pretender ser perfectos. Al admitir tus errores, permites que la luz de Dios sane tus relaciones y limpie tu conciencia. Duerme en la paz de haber actuado con integridad.",
+            "en": "There is no heavier burden than pretending to be perfect. By admitting your mistakes, you allow God's light to heal your relationships and cleanse your conscience. Sleep in the peace of having acted with integrity.",
+            "pt": "Não há fardo mais pesado do que pretender ser perfeito. Ao admitir seus erros, você permite que a luz de Deus cure seus relacionamentos e limpe sua consciência. Durma na paz de ter agido com integridade.",
+            "fr": "Il n'y a pas de fardeau plus lourd que de prétendre être parfait. En admettant tes erreurs, tu permets à la lumière de Dieu de guérir tes relations et de purifier ta conscience. Dors dans la paix d'avoir agi avec intégrité."
+          }
+        },
+        {
+          "id": "silent_service",
+          "label": {
+            "es": "Servicio oculto",
+            "en": "Hidden service",
+            "pt": "Serviço oculto",
+            "fr": "Service discret"
+          },
+          "responseTitle": {
+            "es": "Visto por el Padre",
+            "en": "Seen by the Father",
+            "pt": "Visto pelo Pai",
+            "fr": "Vu par le Père"
+          },
+          "responseText": {
+            "es": "Serviste sin buscar aplausos, encontrando gozo solo en agradar al Señor.",
+            "en": "You served without seeking applause, finding joy only in pleasing the Lord.",
+            "pt": "Você serviu sem buscar aplausos, encontrando alegria apenas em agradar ao Senhor.",
+            "fr": "Tu as servi sans chercher d'applaudissements, trouvant ta joie uniquement à plaire au Seigneur."
+          },
+          "verses": [
+            "Mateo 6:3"
+          ],
+          "reflectionHeader": {
+            "es": "Recompensa celestial",
+            "en": "Heavenly reward",
+            "pt": "Recompensa celestial",
+            "fr": "Récompense céleste"
+          },
+          "reflection": {
+            "es": "El servicio que nadie ve es el que más se parece al de Cristo. Él lavó pies en la intimidad y se entregó por amor. Tu labor discreta hoy ha sembrado eternidad en lo cotidiano. Dios sonríe ante tu entrega.",
+            "en": "The service no one sees is the one that most resembles Christ's. He washed feet in private and gave Himself for love. Your discreet labor today has sown eternity in the everyday. God smiles at your devotion.",
+            "pt": "O serviço que ninguém vê é o que mais se assemelha ao de Cristo. Ele lavou pés na intimidade e se entregou por amor. Seu trabalho discreto hoje semeou eternidade no cotidiano. Deus sorri diante da sua entrega.",
+            "fr": "Le service que personne ne voit est celui qui ressemble le plus à celui du Christ. Il a lavé les pieds en privé et s'est donné par amour. Ton travail discret aujourd'hui a semé l'éternité dans le quotidien. Dieu sourit devant ton don de soi."
+          }
+        },
+        {
+          "id": "honoring_others",
+          "label": {
+            "es": "Honrar a otros",
+            "en": "Honoring others",
+            "pt": "Honrar os outros",
+            "fr": "Honorer les autres"
+          },
+          "responseTitle": {
+            "es": "Exaltar al prójimo",
+            "en": "Exalting your neighbor",
+            "pt": "Exaltar o próximo",
+            "fr": "Exalter son prochain"
+          },
+          "responseText": {
+            "es": "Hoy decidiste reconocer las virtudes de los demás por encima de tus propios logros.",
+            "en": "Today you chose to recognize the virtues of others above your own achievements.",
+            "pt": "Hoje você decidiu reconhecer as virtudes dos outros acima das suas próprias conquistas.",
+            "fr": "Aujourd'hui, tu as choisi de reconnaître les vertus des autres au-dessus de tes propres réussites."
+          },
+          "verses": [
+            "Filipenses 2:3"
+          ],
+          "reflectionHeader": {
+            "es": "Corazón de siervo",
+            "en": "Servant's heart",
+            "pt": "Coração de servo",
+            "fr": "Cœur de serviteur"
+          },
+          "reflection": {
+            "es": "Cuando honramos a otros, estamos reconociendo la obra de Dios en ellos. Esta actitud rompe el orgullo y construye puentes de unidad. Que tu descanso sea dulce tras haber sido un canal de honra hoy.",
+            "en": "When we honor others, we are recognizing God's work in them. This attitude breaks pride and builds bridges of unity. May your rest be sweet after having been a channel of honor today.",
+            "pt": "Quando honramos os outros, estamos reconhecendo a obra de Deus neles. Esta atitude quebra o orgulho e constrói pontes de unidade. Que seu descanso seja doce após ter sido um canal de honra hoje.",
+            "fr": "Quand nous honorons les autres, nous reconnaissons l'œuvre de Dieu en eux. Cette attitude brise l'orgueil et bâtit des ponts d'unité. Que ton repos soit doux après avoir été un canal d'honneur aujourd'hui."
+          }
+        },
+        {
+          "id": "gentle_rebuttal",
+          "label": {
+            "es": "Calma ante juicio",
+            "en": "Calm facing judgment",
+            "pt": "Calma perante o juízo",
+            "fr": "Calme face au jugement"
+          },
+          "responseTitle": {
+            "es": "Fuerza en la mansedumbre",
+            "en": "Strength in meekness",
+            "pt": "Força na mansidão",
+            "fr": "Force dans la douceur"
+          },
+          "responseText": {
+            "es": "Elegiste no defenderte con dureza, confiando tu causa al Juez justo.",
+            "en": "You chose not to defend yourself harshly, entrusting your cause to the righteous Judge.",
+            "pt": "Você escolheu não se defender com dureza, confiando sua causa ao justo Juiz.",
+            "fr": "Tu as choisi de ne pas te défendre avec dureté, confiant ta cause au Juge juste."
+          },
+          "verses": [
+            "1 Pedro 3:9"
+          ],
+          "reflectionHeader": {
+            "es": "Escudo de paz",
+            "en": "Shield of peace",
+            "pt": "Escudo de paz",
+            "fr": "Bouclier de paix"
+          },
+          "reflection": {
+            "es": "Responder con bendición ante la crítica es una de las mayores muestras de madurez espiritual. Al no devolver mal por mal, permites que la paz de Cristo guarde tu corazón y el de los demás. Duerme tranquilo en Su justicia.",
+            "en": "Responding with blessing to criticism is one of the greatest signs of spiritual maturity. By not returning evil for evil, you allow the peace of Christ to guard your heart and the hearts of others. Sleep peacefully in His justice.",
+            "pt": "Responder com bênção diante da crítica é uma das maiores demonstrações de maturidade espiritual. Ao não retribuir mal com mal, você permite que a paz de Cristo guarde seu coração e o dos outros. Durma tranquilo em Sua justiça.",
+            "fr": "Répondre par une bénédiction face à la critique est l'une des plus grandes preuves de maturité spirituelle. En ne rendant pas le mal pour le mal, tu laisses la paix du Christ garder ton cœur et celui des autres. Dors tranquille dans Sa justice."
+          }
+        },
+        {
+          "id": "teachable_spirit",
+          "label": {
+            "es": "Recibir consejo",
+            "en": "Receiving counsel",
+            "pt": "Receber conselho",
+            "fr": "Recevoir un conseil"
+          },
+          "responseTitle": {
+            "es": "Mente enseñable",
+            "en": "Teachable mind",
+            "pt": "Mente ensinável",
+            "fr": "Esprit ouvert"
+          },
+          "responseText": {
+            "es": "Has mostrado humildad al aceptar la instrucción y corregir tu camino con sabiduría.",
+            "en": "You have shown humility by accepting instruction and correcting your path with wisdom.",
+            "pt": "Você mostrou humildade ao aceitar a instrução e corrigir seu caminho com sabedoria.",
+            "fr": "Tu as fait preuve d'humilité en acceptant l'instruction et en corrigeant ta voie avec sagesse."
+          },
+          "verses": [
+            "Proverbios 10:17"
+          ],
+          "reflectionHeader": {
+            "es": "Crecimiento constante",
+            "en": "Constant growth",
+            "pt": "Crescimento constante",
+            "fr": "Croissance constante"
+          },
+          "reflection": {
+            "es": "La persona humilde sabe que siempre hay algo nuevo que aprender. Al recibir corrección, te mantienes en el camino de la vida y la madurez. Gracias a Dios por las personas que Él pone para guiarte. Descansa en Su instrucción.",
+            "en": "The humble person knows there is always something new to learn. By receiving correction, you stay on the path of life and maturity. Thank God for the people He places to guide you. Rest in His instruction.",
+            "pt": "A pessoa humilde sabe que sempre há algo novo para aprender. Ao receber correção, você se mantém no caminho da vida e da maturidade. Agradeça a Deus pelas pessoas que Ele coloca para guiá-lo. Descanse em Sua instrução.",
+            "fr": "L'humble sait qu'il y a toujours quelque chose de nouveau à apprendre. En recevant la correction, tu restes sur le chemin de la vie et de la maturité. Merci à Dieu pour les personnes qu'Il place pour te guider. Repose-toi dans Son instruction."
           }
         }
       ]
