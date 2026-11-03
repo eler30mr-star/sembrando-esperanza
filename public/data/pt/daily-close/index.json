@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02",
+  "updatedAt": "2026-11-03",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -10808,6 +10808,236 @@
             "en": "The humble person knows there is always something new to learn. By receiving correction, you stay on the path of life and maturity. Thank God for the people He places to guide you. Rest in His instruction.",
             "pt": "A pessoa humilde sabe que sempre há algo novo para aprender. Ao receber correção, você se mantém no caminho da vida e da maturidade. Agradeça a Deus pelas pessoas que Ele coloca para guiá-lo. Descanse em Sua instrução.",
             "fr": "L'humble sait qu'il y a toujours quelque chose de nouveau à apprendre. En recevant la correction, tu restes sur le chemin de la vie et de la maturité. Merci à Dieu pour les personnes qu'Il place pour te guider. Repose-toi dans Son instruction."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera fortaleciste hoy la integridad y la verdad en tu caminar diario?",
+        "en": "In what way did you strengthen integrity and truth in your daily walk today?",
+        "pt": "De que maneira você fortaleceu hoje a integridade e a verdade em seu caminhar diário?",
+        "fr": "De quelle manière as-tu fortifié l'intégrité et la vérité dans ta marche quotidienne ?"
+      },
+      "options": [
+        {
+          "id": "truth_in_words",
+          "label": {
+            "es": "Palabras honestas",
+            "en": "Honest words",
+            "pt": "Palavras honestas",
+            "fr": "Paroles honnêtes"
+          },
+          "responseTitle": {
+            "es": "Tu verdad agrada a Dios",
+            "en": "Your truth pleases God",
+            "pt": "Sua verdade agrada a Deus",
+            "fr": "Ta vérité plaît à Dieu"
+          },
+          "responseText": {
+            "es": "Hablar con la verdad, incluso en lo pequeño, refleja el carácter de Cristo en ti.",
+            "en": "Speaking the truth, even in small things, reflects the character of Christ in you.",
+            "pt": "Falar a verdade, mesmo nas pequenas coisas, reflete o caráter de Cristo em você.",
+            "fr": "Dire la vérité, même dans les petites choses, reflète le caractère de Christ en toi."
+          },
+          "verses": [
+            "Proverbios 12:22"
+          ],
+          "reflectionHeader": {
+            "es": "Un reflejo de sinceridad",
+            "en": "A reflection of sincerity",
+            "pt": "Um reflexo de sinceridade",
+            "fr": "Un reflet de sincérité"
+          },
+          "reflection": {
+            "es": "La honestidad no es solo un valor ético, sino un fruto de un corazón que teme al Señor. Al ser veraz, permites que la luz de Dios brille a través de tu vida.",
+            "en": "Honesty is not just an ethical value, but the fruit of a heart that fears the Lord. By being truthful, you allow God's light to shine through your life.",
+            "pt": "A honestidade não é apenas um valor ético, mas o fruto de um coração que teme ao Senhor. Ao ser verdadeiro, você permite que a luz de Deus brilhe através de sua vida.",
+            "fr": "L'honnêteté n'est pas seulement une valeur éthique, mais le fruit d'un cœur qui craint le Seigneur. En étant véridique, tu laisses la lumière de Dieu briller à travers ta vie."
+          }
+        },
+        {
+          "id": "character_consistency",
+          "label": {
+            "es": "Coherencia de fe",
+            "en": "Consistent faith",
+            "pt": "Coerência de fé",
+            "fr": "Foi cohérente"
+          },
+          "responseTitle": {
+            "es": "Vivir lo que crees",
+            "en": "Living what you believe",
+            "pt": "Viver o que você crê",
+            "fr": "Vivre ce que tu crois"
+          },
+          "responseText": {
+            "es": "Has buscado que tus acciones coincidan con tu fe, honrando al Señor con tu conducta.",
+            "en": "You have sought for your actions to match your faith, honoring the Lord with your conduct.",
+            "pt": "Você buscou que suas ações coincidissem com sua fé, honrando ao Senhor com sua conduta.",
+            "fr": "Tu as cherché à ce que tes actions correspondent à ta foi, honorant le Seigneur par ta conduite."
+          },
+          "verses": [
+            "Santiago 1:22"
+          ],
+          "reflectionHeader": {
+            "es": "La belleza de la coherencia",
+            "en": "The beauty of consistency",
+            "pt": "A beleza da coerência",
+            "fr": "La beauté de la cohérence"
+          },
+          "reflection": {
+            "es": "Ser hacedores de la Palabra y no tan solo oidores trae una paz profunda al alma. Hoy has caminado en esa dirección, permitiendo que tu fe se vuelva tangible.",
+            "en": "Being doers of the Word and not just hearers brings deep peace to the soul. Today you walked in that direction, allowing your faith to become tangible.",
+            "pt": "Ser praticantes da Palavra e não apenas ouvintes traz uma paz profunda à alma. Hoje você caminhou nessa direção, permitindo que sua fé se tornasse tangível.",
+            "fr": "Mettre en pratique la Parole et ne pas seulement l'écouter apporte une paix profonde à l'âme. Aujourd'hui, tu as marché dans cette direction, rendant ta foi concrète."
+          }
+        },
+        {
+          "id": "keeping_promises",
+          "label": {
+            "es": "Palabra cumplida",
+            "en": "Kept promises",
+            "pt": "Palavra cumprida",
+            "fr": "Promesses tenues"
+          },
+          "responseTitle": {
+            "es": "Fidelidad en lo dicho",
+            "en": "Faithful to your word",
+            "pt": "Fidelidade no que foi dito",
+            "fr": "Fidèle à ta parole"
+          },
+          "responseText": {
+            "es": "Cumplir con tus compromisos demuestra que el Espíritu de verdad gobierna tu voluntad.",
+            "en": "Fulfilling your commitments shows that the Spirit of truth governs your will.",
+            "pt": "Cumprir seus compromissos demonstra que o Espírito da verdade governa sua vontade.",
+            "fr": "Respecter tes engagements montre que l'Esprit de vérité gouverne ta volonté."
+          },
+          "verses": [
+            "Mateo 5:37"
+          ],
+          "reflectionHeader": {
+            "es": "Tu sí es valioso",
+            "en": "Your yes is valuable",
+            "pt": "Seu sim é valioso",
+            "fr": "Ton oui est précieux"
+          },
+          "reflection": {
+            "es": "Cuando nuestra palabra es confiable, honramos al Dios que cumple todas sus promesas. Tu integridad al mantener tu palabra construye puentes de confianza con otros.",
+            "en": "When our word is reliable, we honor the God who keeps all His promises. Your integrity in keeping your word builds bridges of trust with others.",
+            "pt": "Quando nossa palavra é confiável, honramos ao Deus que cumpre todas as Suas promessas. Sua integridade ao manter sua palavra constrói pontes de confiança com os outros.",
+            "fr": "Quand notre parole est fiable, nous honorons le Dieu qui tient toutes ses promesses. Ton intégrité à tenir parole bâtit des ponts de confiance avec les autres."
+          }
+        },
+        {
+          "id": "walking_transparently",
+          "label": {
+            "es": "Transparencia total",
+            "en": "Total transparency",
+            "pt": "Transparência total",
+            "fr": "Transparence totale"
+          },
+          "responseTitle": {
+            "es": "Un corazón sin doblez",
+            "en": "A heart without deceit",
+            "pt": "Um coração sem dolo",
+            "fr": "Un cœur sans ruse"
+          },
+          "responseText": {
+            "es": "Caminar con transparencia te libera del peso de las apariencias y te acerca a Dios.",
+            "en": "Walking with transparency frees you from the weight of appearances and brings you closer to God.",
+            "pt": "Caminhar com transparência liberta você do peso das aparências e o aproxima de Deus.",
+            "fr": "Marcher avec transparence te libère du poids des apparences et te rapproche de Dieu."
+          },
+          "verses": [
+            "Salmos 15:2"
+          ],
+          "reflectionHeader": {
+            "es": "Vivir en la luz",
+            "en": "Living in the light",
+            "pt": "Viver na luz",
+            "fr": "Vivre dans la lumière"
+          },
+          "reflection": {
+            "es": "No hay mayor libertad que no tener nada que ocultar. La transparencia ante Dios y los hombres permite que la comunión sea genuina y sin barreras.",
+            "en": "There is no greater freedom than having nothing to hide. Transparency before God and men allows communion to be genuine and without barriers.",
+            "pt": "Não há maior liberdade do que não ter nada a esconder. A transparência diante de Deus e dos homens permite que a comunhão seja genuína e sem barreiras.",
+            "fr": "Il n'y a pas de plus grande liberté que de n'avoir rien à cacher. La transparence devant Dieu et les hommes permet une communion authentique et sans barrières."
+          }
+        },
+        {
+          "id": "acting_justly",
+          "label": {
+            "es": "Actuando con justicia",
+            "en": "Acting justly",
+            "pt": "Agindo com justiça",
+            "fr": "Agir avec justice"
+          },
+          "responseTitle": {
+            "es": "Justicia en tus manos",
+            "en": "Justice in your hands",
+            "pt": "Justiça em suas mãos",
+            "fr": "La justice entre tes mains"
+          },
+          "responseText": {
+            "es": "Has buscado lo que es justo y recto, tratando a los demás con la equidad del Reino.",
+            "en": "You have sought what is just and right, treating others with the equity of the Kingdom.",
+            "pt": "Você buscou o que é justo e reto, tratando os outros com a equidade do Reino.",
+            "fr": "Tu as cherché ce qui est juste et droit, traitant les autres avec l'équité du Royaume."
+          },
+          "verses": [
+            "Miqueas 6:8"
+          ],
+          "reflectionHeader": {
+            "es": "El llamado a la rectitud",
+            "en": "The call to uprightness",
+            "pt": "O chamado à retidão",
+            "fr": "L'appel à la droiture"
+          },
+          "reflection": {
+            "es": "Dios nos pide caminar humildemente ante Él y actuar con justicia. Al elegir lo que es correcto sobre lo que es conveniente, manifiestas la soberanía de Dios en la tierra.",
+            "en": "God asks us to walk humbly before Him and to act justly. By choosing what is right over what is convenient, you manifest God's sovereignty on earth.",
+            "pt": "Deus nos pede para caminhar humildemente diante dEle e agir com justiça. Ao escolher o que é certo em vez do que é conveniente, você manifesta a soberania de Deus na terra.",
+            "fr": "Dieu nous demande de marcher humblement devant Lui et d'agir avec justice. En choisissant ce qui est juste plutôt que ce qui est pratique, tu manifestes la souveraineté de Dieu sur terre."
+          }
+        },
+        {
+          "id": "private_integrity",
+          "label": {
+            "es": "Rectitud en lo oculto",
+            "en": "Private uprightness",
+            "pt": "Retidão no oculto",
+            "fr": "Droiture secrète"
+          },
+          "responseTitle": {
+            "es": "Fiel ante el Invisible",
+            "en": "Faithful before the Invisible",
+            "pt": "Fiel diante do Invisível",
+            "fr": "Fidèle devant l'Invisible"
+          },
+          "responseText": {
+            "es": "Dios ve tu corazón cuando nadie más está mirando y se goza en tu fidelidad silenciosa.",
+            "en": "God sees your heart when no one else is looking and rejoices in your silent faithfulness.",
+            "pt": "Deus vê o seu coração quando ninguém mais está olhando e se alegra em sua fidelidade silenciosa.",
+            "fr": "Dieu voit ton cœur quand personne d'autre ne regarde et se réjouit de ta fidélité silencieuse."
+          },
+          "verses": [
+            "Salmos 139:23"
+          ],
+          "reflectionHeader": {
+            "es": "Donde nace el carácter",
+            "en": "Where character is born",
+            "pt": "Onde nasce o caráter",
+            "fr": "Où naît le caractère"
+          },
+          "reflection": {
+            "es": "La verdadera integridad se prueba en la soledad. Descansa hoy sabiendo que el Señor conoce tus intenciones más profundas y camina a tu lado en todo momento.",
+            "en": "True integrity is tested in solitude. Rest today knowing that the Lord knows your deepest intentions and walks by your side at all times.",
+            "pt": "A verdadeira integridade é testada na solidão. Descanse hoje sabendo que o Senhor conhece suas intenções mais profundas e caminha ao seu lado em todos os momentos.",
+            "fr": "La véritable intégrité se teste dans la solitude. Repose-toi aujourd'hui en sachant que le Seigneur connaît tes intentions les plus profondes et marche à tes côtés à chaque instant."
           }
         }
       ]
