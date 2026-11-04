@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03",
+  "updatedAt": "2026-11-04",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -11038,6 +11038,236 @@
             "en": "True integrity is tested in solitude. Rest today knowing that the Lord knows your deepest intentions and walks by your side at all times.",
             "pt": "A verdadeira integridade é testada na solidão. Descanse hoje sabendo que o Senhor conhece suas intenções mais profundas e caminha ao seu lado em todos os momentos.",
             "fr": "La véritable intégrité se teste dans la solitude. Repose-toi aujourd'hui en sachant que le Seigneur connaît tes intentions les plus profondes et marche à tes côtés à chaque instant."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera cultivaste hoy el gozo del Señor como tu fortaleza?",
+        "en": "In what way did you cultivate the joy of the Lord as your strength today?",
+        "pt": "De que maneira você cultivou hoje a alegria do Senhor como sua força?",
+        "fr": "De quelle manière as-tu cultivé aujourd'hui la joie du Seigneur comme ta force ?"
+      },
+      "options": [
+        {
+          "id": "joy_small_blessings",
+          "label": {
+            "es": "Detalles simples",
+            "en": "Simple details",
+            "pt": "Detalhes simples",
+            "fr": "Détails simples"
+          },
+          "responseTitle": {
+            "es": "El gozo en lo cotidiano",
+            "en": "Joy in the everyday",
+            "pt": "A alegria no cotidiano",
+            "fr": "La joie au quotidien"
+          },
+          "responseText": {
+            "es": "Has sabido reconocer que cada pequeño momento es un regalo directo del Creador para tu alma.",
+            "en": "You have recognized that every small moment is a direct gift from the Creator to your soul.",
+            "pt": "Você reconheceu que cada pequeno momento é um presente direto do Criador para sua alma.",
+            "fr": "Tu as su reconnaître que chaque petit moment est un cadeau direct du Créateur pour ton âme."
+          },
+          "verses": [
+            "Salmos 118:24"
+          ],
+          "reflectionHeader": {
+            "es": "Celebrando Su creación",
+            "en": "Celebrating His creation",
+            "pt": "Celebrando Sua criação",
+            "fr": "Célébrer Sa création"
+          },
+          "reflection": {
+            "es": "El gozo no depende de grandes eventos, sino de la capacidad de ver la mano de Dios en lo sencillo. Al cerrar tus ojos, agradece por esas pequeñas luces que iluminaron tu jornada.",
+            "en": "Joy does not depend on great events, but on the ability to see God's hand in the simple things. As you close your eyes, give thanks for those small lights that brightened your day.",
+            "pt": "A alegria não depende de grandes eventos, mas da capacidade de ver a mão de Deus no que é simples. Ao fechar os olhos, agradeça por essas pequenas luzes que iluminaram sua jornada.",
+            "fr": "La joie ne dépend pas de grands événements, mais de la capacité à voir la main de Dieu dans la simplicité. En fermant les yeux, remercie pour ces petites lumières qui ont éclairé ta journée."
+          }
+        },
+        {
+          "id": "joy_encouraging_others",
+          "label": {
+            "es": "Alentar a otros",
+            "en": "Encouraging others",
+            "pt": "Encorajar outros",
+            "fr": "Encourager les autres"
+          },
+          "responseTitle": {
+            "es": "Reflejando Su luz",
+            "en": "Reflecting His light",
+            "pt": "Refletindo Sua luz",
+            "fr": "Refléter Sa lumière"
+          },
+          "responseText": {
+            "es": "Al compartir una palabra de aliento, el gozo del Señor se multiplicó en tu propio corazón.",
+            "en": "By sharing a word of encouragement, the joy of the Lord multiplied in your own heart.",
+            "pt": "Ao compartilhar uma palavra de encorajamento, a alegria do Senhor se multiplicou em seu próprio coração.",
+            "fr": "En partageant une parole d'encouragement, la joie du Seigneur s'est multipliée dans ton propre cœur."
+          },
+          "verses": [
+            "Proverbios 15:13"
+          ],
+          "reflectionHeader": {
+            "es": "Un corazón radiante",
+            "en": "A radiant heart",
+            "pt": "Um coração radiante",
+            "fr": "Un cœur rayonnant"
+          },
+          "reflection": {
+            "es": "Hay una gracia especial en ser portadores de esperanza. Tu disposición para levantar el ánimo de otros es un testimonio vivo del amor de Cristo que habita en ti.",
+            "en": "There is a special grace in being bearers of hope. Your willingness to lift the spirits of others is a living testimony of the love of Christ dwelling in you.",
+            "pt": "Há uma graça especial em ser portador de esperança. Sua disposição de animar os outros é um testemunho vivo do amor de Cristo que habita em você.",
+            "fr": "Il y a une grâce spéciale à être porteur d'espérance. Ta volonté de remonter le moral des autres est un témoignage vivant de l'amour du Christ qui habite en toi."
+          }
+        },
+        {
+          "id": "joy_inner_calm",
+          "label": {
+            "es": "Calma interior",
+            "en": "Inner calm",
+            "pt": "Calma interior",
+            "fr": "Calme intérieur"
+          },
+          "responseTitle": {
+            "es": "Paz que genera gozo",
+            "en": "Peace that yields joy",
+            "pt": "Paz que gera alegria",
+            "fr": "La paix qui génère la joie"
+          },
+          "responseText": {
+            "es": "Buscaste refugio en la presencia de Dios, permitiendo que Su paz guardara tu alegría interna.",
+            "en": "You sought refuge in God's presence, allowing His peace to guard your internal joy.",
+            "pt": "Você buscou refúgio na presença de Deus, permitindo que Sua paz guardasse sua alegria interna.",
+            "fr": "Tu as cherché refuge dans la présence de Dieu, laissant Sa paix garder ta joie intérieure."
+          },
+          "verses": [
+            "Juan 16:22"
+          ],
+          "reflectionHeader": {
+            "es": "Tesoro inamovible",
+            "en": "Unshakable treasure",
+            "pt": "Tesouro inabalável",
+            "fr": "Trésor inébranlable"
+          },
+          "reflection": {
+            "es": "El mundo no puede quitarte el gozo que Cristo te ha dado. Descansa esta noche sabiendo que tu alegría está anclada en una promesa eterna, no en circunstancias variables.",
+            "en": "The world cannot take away the joy that Christ has given you. Rest tonight knowing your joy is anchored in an eternal promise, not in shifting circumstances.",
+            "pt": "O mundo não pode tirar a alegria que Cristo lhe deu. Descanse esta noite sabendo que sua alegria está ancorada em uma promessa eterna, não em circunstâncias variáveis.",
+            "fr": "Le monde ne peut pas t'enlever la joie que le Christ t'a donnée. Repose-toi ce soir en sachant que ta joie est ancrée dans une promesse éternelle, et non dans des circonstances changeantes."
+          }
+        },
+        {
+          "id": "joy_sincere_gratitude",
+          "label": {
+            "es": "Gratitud sincera",
+            "en": "Sincere gratitude",
+            "pt": "Gratidão sincera",
+            "fr": "Gratitude sincère"
+          },
+          "responseTitle": {
+            "es": "Cosechando con alegría",
+            "en": "Harvesting with joy",
+            "pt": "Colhendo com alegria",
+            "fr": "Moissonner avec joie"
+          },
+          "responseText": {
+            "es": "Al enumerar tus bendiciones, has descubierto que el gozo es el fruto natural de un corazón agradecido.",
+            "en": "By listing your blessings, you have discovered that joy is the natural fruit of a grateful heart.",
+            "pt": "Ao enumerar suas bênçãos, você descobriu que a alegria é o fruto natural de um coração grato.",
+            "fr": "En énumérant tes bénédictions, tu as découvert que la joie est le fruit naturel d'un cœur reconnaissant."
+          },
+          "verses": [
+            "Salmos 126:3"
+          ],
+          "reflectionHeader": {
+            "es": "Memoria de Su bondad",
+            "en": "Memory of His goodness",
+            "pt": "Memória de Sua bondade",
+            "fr": "Mémoire de Sa bonté"
+          },
+          "reflection": {
+            "es": "La gratitud abre nuestros ojos a la abundancia espiritual. Recordar lo que el Señor ha hecho por ti hoy fortalece tu espíritu para enfrentar los desafíos de mañana.",
+            "en": "Gratitude opens our eyes to spiritual abundance. Remembering what the Lord has done for you today strengthens your spirit to face tomorrow's challenges.",
+            "pt": "A gratidão abre nossos olhos para a abundância espiritual. Lembrar o que o Senhor fez por você hoje fortalece seu espírito para enfrentar os desafios de amanhã.",
+            "fr": "La gratitude ouvre nos yeux sur l'abondance spirituelle. Se souvenir de ce que le Seigneur a fait pour toi aujourd'hui fortifie ton esprit pour affronter les défis de demain."
+          }
+        },
+        {
+          "id": "joy_perseverance",
+          "label": {
+            "es": "Perseverancia",
+            "en": "Perseverance",
+            "pt": "Perseverança",
+            "fr": "Persévérance"
+          },
+          "responseTitle": {
+            "es": "Gozo en la espera",
+            "en": "Joy in the waiting",
+            "pt": "Alegria na espera",
+            "fr": "La joie dans l'attente"
+          },
+          "responseText": {
+            "es": "Incluso ante la dificultad, elegiste confiar, hallando en Dios un gozo que trasciende los problemas.",
+            "en": "Even in the face of difficulty, you chose to trust, finding in God a joy that transcends problems.",
+            "pt": "Mesmo diante da dificuldade, você escolheu confiar, encontrando em Deus uma alegria que transcende os problemas.",
+            "fr": "Même face à la difficulté, tu as choisi de faire confiance, trouvant en Dieu une joie qui transcende les problèmes."
+          },
+          "verses": [
+            "Habacuc 3:18"
+          ],
+          "reflectionHeader": {
+            "es": "Fuerza que no desmaya",
+            "en": "Strength that faints not",
+            "pt": "Força que não desmaia",
+            "fr": "Une force qui ne faiblit pas"
+          },
+          "reflection": {
+            "es": "Elegir el gozo en tiempos de prueba es un acto de valentía espiritual. Esa determinación es la que te mantiene firme y te permite descansar en los brazos del Padre.",
+            "en": "Choosing joy in times of trial is an act of spiritual courage. This determination is what keeps you steady and allows you to rest in the Father's arms.",
+            "pt": "Escolher a alegria em tempos de provação é um ato de coragem espiritual. Essa determinação é o que o mantém firme e permite que você descanse nos braços do Pai.",
+            "fr": "Choisir la joie en temps d'épreuve est un acte de courage spirituel. Cette détermination est ce qui te maintient ferme et te permet de te reposer dans les bras du Père."
+          }
+        },
+        {
+          "id": "joy_living_praise",
+          "label": {
+            "es": "Alabanza viva",
+            "en": "Living praise",
+            "pt": "Louvor vivo",
+            "fr": "Louange vivante"
+          },
+          "responseTitle": {
+            "es": "Canto del alma",
+            "en": "Song of the soul",
+            "pt": "Canto da alma",
+            "fr": "Chant de l'âme"
+          },
+          "responseText": {
+            "es": "Tu corazón se elevó en adoración hoy, reconociendo la soberanía y belleza de nuestro Dios.",
+            "en": "Your heart rose in worship today, recognizing the sovereignty and beauty of our God.",
+            "pt": "Seu coração se elevou em adoração hoje, reconhecendo a soberania e beleza do nosso Deus.",
+            "fr": "Ton cœur s'est élevé dans l'adoration aujourd'hui, reconnaissant la souveraineté et la beauté de notre Dieu."
+          },
+          "verses": [
+            "Salmos 147:1"
+          ],
+          "reflectionHeader": {
+            "es": "Melodía de fe",
+            "en": "Melody of faith",
+            "pt": "Melodia de fé",
+            "fr": "Mélodie de foi"
+          },
+          "reflection": {
+            "es": "La alabanza es la medicina del alma. Al exaltar a Dios, nuestras cargas se vuelven ligeras y nuestro espíritu se llena de una vitalidad que solo proviene del cielo.",
+            "en": "Praise is the medicine of the soul. By exalting God, our burdens become light and our spirit is filled with a vitality that only comes from heaven.",
+            "pt": "O louvor é o remédio da alma. Ao exaltar a Deus, nossos fardos tornam-se leves e nosso espírito se enche de uma vitalidade que só vem do céu.",
+            "fr": "La louange est le remède de l'âme. En exaltant Dieu, nos fardeaux deviennent légers et notre esprit se remplit d'une vitalité qui ne vient que du ciel."
           }
         }
       ]
