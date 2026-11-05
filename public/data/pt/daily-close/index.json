@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-05",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -11268,6 +11268,236 @@
             "en": "Praise is the medicine of the soul. By exalting God, our burdens become light and our spirit is filled with a vitality that only comes from heaven.",
             "pt": "O louvor é o remédio da alma. Ao exaltar a Deus, nossos fardos tornam-se leves e nosso espírito se enche de uma vitalidade que só vem do céu.",
             "fr": "La louange est le remède de l'âme. En exaltant Dieu, nos fardeaux deviennent légers et notre esprit se remplit d'une vitalité qui ne vient que du ciel."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera permitiste que la luz de Cristo guiara tus decisiones en este día?",
+        "en": "How did you allow Christ's light to guide your decisions today?",
+        "pt": "De que maneira você permitiu que a luz de Cristo guiasse suas decisões hoje?",
+        "fr": "De quelle manière as-tu laissé la lumière du Christ guider tes choix aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "luz_en_palabras",
+          "label": {
+            "es": "Palabras con gracia",
+            "en": "Words with grace",
+            "pt": "Palavras com graça",
+            "fr": "Paroles avec grâce"
+          },
+          "responseTitle": {
+            "es": "El poder de bendecir al hablar",
+            "en": "The power to bless through speech",
+            "pt": "O poder de abençoar ao falar",
+            "fr": "Le pouvoir de bénir par la parole"
+          },
+          "responseText": {
+            "es": "Hoy decidiste que tus palabras construyeran en lugar de destruir, llevando consuelo y verdad a quienes te escucharon.",
+            "en": "Today you chose for your words to build up rather than tear down, bringing comfort and truth to those who heard you.",
+            "pt": "Hoje você decidiu que suas palavras construíssem em vez de destruir, levando consolo e verdade aos que o ouviram.",
+            "fr": "Aujourd'hui, tu as choisi d'édifier par tes paroles plutôt que de détruire, apportant réconfort et vérité à ceux qui t'ont écouté."
+          },
+          "verses": [
+            "Efesios 4:29"
+          ],
+          "reflectionHeader": {
+            "es": "Semillas de vida en tus conversaciones",
+            "en": "Seeds of life in your conversations",
+            "pt": "Sementes de vida em suas conversas",
+            "fr": "Semences de vie dans tes échanges"
+          },
+          "reflection": {
+            "es": "Al concluir la jornada, reconoce el impacto de hablar con amabilidad. Guardar tu lengua de la aspereza es un testimonio de la paz de Cristo. Que al dormir encuentres reposo en la certidumbre de haber sido canal de bendición.",
+            "en": "As the day ends, recognize the impact of speaking with kindness. Guarding your tongue from harshness is a testimony of Christ's peace. May you rest tonight knowing you were a channel of blessing.",
+            "pt": "Ao concluir o dia, reconheça o impacto de falar com bondade. Guardar a língua da aspereza é um testemunho da paz de Cristo. Que ao dormir você encontre descanso na certeza de ter sido um canal de bênção.",
+            "fr": "En achevant cette journée, reconnais l'impact de parler avec bonté. Préserver ta langue de l'amertume est un témoignage de la paix du Christ. Puisse ton sommeil être doux en sachant que tu as été un canal de bénédiction."
+          }
+        },
+        {
+          "id": "discernimiento_fiel",
+          "label": {
+            "es": "Buscando sabiduría",
+            "en": "Seeking wisdom",
+            "pt": "Buscando sabedoria",
+            "fr": "Chercher la sagesse"
+          },
+          "responseTitle": {
+            "es": "La guía divina en la incertidumbre",
+            "en": "Divine guidance in uncertainty",
+            "pt": "A guia divina na incerteza",
+            "fr": "La guidance divine dans l'incertitude"
+          },
+          "responseText": {
+            "es": "Frente a dilemas o dudas, preferiste hacer una pausa y buscar la dirección del Espíritu Santo antes de actuar.",
+            "en": "Faced with dilemmas or doubts, you chose to pause and seek the Holy Spirit's direction before taking action.",
+            "pt": "Diante de dilemas ou dúvidas, você preferiu fazer uma pausa e buscar a direção do Espírito Santo antes de agir.",
+            "fr": "Face aux dilemmes ou aux doutes, tu as préféré faire une pause et chercher la direction du Saint-Esprit avant d'agir."
+          },
+          "verses": [
+            "Santiago 1:5"
+          ],
+          "reflectionHeader": {
+            "es": "Luz divina para cada paso",
+            "en": "Divine light for every step",
+            "pt": "Luz divina para cada passo",
+            "fr": "Une lumière divine pour chaque pas"
+          },
+          "reflection": {
+            "es": "Dios promete conceder sabiduría generosa a quien se la pida con fe. Habiendo buscado Su consejo en las decisiones de hoy, puedes entregarle los resultados y descansar sabiendo que Él endereza tus sendas.",
+            "en": "God promises to give wisdom generously to whoever asks in faith. Having sought His counsel in today's choices, you can surrender the outcomes to Him and rest knowing He makes your paths straight.",
+            "pt": "Deus promete conceder sabedoria generosa a quem a pedir com fé. Tendo buscado O Seu conselho nas decisões de hoje, você pode entregar os resultados a Ele e descansar sabendo que Ele endireita as suas veredas.",
+            "fr": "Dieu promet de donner la sagesse avec générosité à quiconque la demande avec foi. Ayant cherché Son conseil dans tes choix aujourd'hui, tu peux Lui remettre les résultats et te reposer en sachant Qu'il aplanit tes sentiers."
+          }
+        },
+        {
+          "id": "caminho_pacifico",
+          "label": {
+            "es": "Sembrando la paz",
+            "en": "Sowing peace",
+            "pt": "Semeando a paz",
+            "fr": "Semer la paix"
+          },
+          "responseTitle": {
+            "es": "El llamado de los pacificadores",
+            "en": "The calling of peacemakers",
+            "pt": "O chamado dos pacificadores",
+            "fr": "L'appel des artisans de paix"
+          },
+          "responseText": {
+            "es": "Elegiste desactivar tensiones y promover la armonía en tu entorno, actuando como un puente de conciliación.",
+            "en": "You chose to de-escalate tension and promote harmony around you, acting as a bridge of reconciliation.",
+            "pt": "Você escolheu desarmar tensões e promover a harmonia ao seu redor, atuando como uma ponte de conciliação.",
+            "fr": "Tu as choisi de désamorcer les tensions et de promouvoir l'harmonie autour de toi, agissant comme un pont de réconciliation."
+          },
+          "verses": [
+            "Mateo 5:9"
+          ],
+          "reflectionHeader": {
+            "es": "Un descanso que nace de la concordia",
+            "en": "A rest born of harmony",
+            "pt": "Um descanso que nasce da concórdia",
+            "fr": "Un repos né de l'harmonie"
+          },
+          "reflection": {
+            "es": "Ser un pacificador requiere madurez espiritual y renuncia al orgullo. Al sembrar paz en la cotidianidad, reflejas el corazón de Dios. Acuéstate esta noche guardado por esa misma paz superior a todo entendimiento.",
+            "en": "Being a peacemaker requires spiritual maturity and letting go of pride. By sowing peace in daily life, you reflect God's heart. Sleep tonight guarded by that very peace that surpasses understanding.",
+            "pt": "Ser um pacificador requer maturidade espiritual e renúncia ao orgulho. Ao semear a paz no cotidiano, você reflete o coração de Deus. Deite-se esta noite guardado por essa mesma paz que excede todo o entendimento.",
+            "fr": "Être un artisan de paix exige de la maturité spirituelle et l'abandon de l'orgueil. En semant la paix au quotidien, tu reflètes le cœur de Dieu. Couche-toi ce soir gardé par cette paix qui dépasse toute intelligence."
+          }
+        },
+        {
+          "id": "refugio_de_oracion",
+          "label": {
+            "es": "Pausa de oración",
+            "en": "Prayer pause",
+            "pt": "Pausa de oração",
+            "fr": "Pause de prière"
+          },
+          "responseTitle": {
+            "es": "Consultando al Señor en todo",
+            "en": "Consulting the Lord in all things",
+            "pt": "Consultando o Senhor em tudo",
+            "fr": "Consulter le Seigneur en tout"
+          },
+          "responseText": {
+            "es": "Buscaste momentos a lo largo del día para reconectar con Dios, entregándole tus cargas antes de decidir.",
+            "en": "You sought moments throughout the day to reconnect with God, surrendering your burdens before acting.",
+            "pt": "Você buscou momentos ao longo do dia para se reconectar com Deus, entregando Suas cargas antes de decidir.",
+            "fr": "Tu as cherché des moments au long de la journée pour te reconnecter à Dieu, Lui remettant tes fardeaux avant d'agir."
+          },
+          "verses": [
+            "Salmos 5:3"
+          ],
+          "reflectionHeader": {
+            "es": "La oración como brújula nocturna",
+            "en": "Prayer as a nightly compass",
+            "pt": "A oração como bússola noturna",
+            "fr": "La prière comme boussole nocturne"
+          },
+          "reflection": {
+            "es": "Mantener una conversación constante con el Padre transforma la prisa en serenidad. Habiendo encomendado tu día a Él, puedes cerrar los ojos confiado en que Su mirada atenta nunca deja de velar por ti.",
+            "en": "Maintaining a constant conversation with the Father transforms rush into serenity. Having entrusted your day to Him, you can close your eyes confident that His watchful eyes never leave you.",
+            "pt": "Manter uma conversa constante com o Pai transforma a pressa em serenidade. Tendo encomendado o seu dia a Ele, você pode fechar os olhos confiante de que o Seu olhar atento nunca deixa de cuidar de você.",
+            "fr": "Maintenir un dialogue constant avec le Père transforme la précipitation en sérénité. Ayant confié ta journée au Seigneur, tu peux fermer les yeux avec la certitude que Son regard attentif veille sur toi."
+          }
+        },
+        {
+          "id": "rectitud_de_corazon",
+          "label": {
+            "es": "Fidelidad sencilla",
+            "en": "Simple faithfulness",
+            "pt": "Fidelidade simples",
+            "fr": "Fidélité simple"
+          },
+          "responseTitle": {
+            "es": "Honor a Dios en lo pequeño",
+            "en": "Honoring God in small things",
+            "pt": "Honrando a Deus no pequeno",
+            "fr": "Honorer Dieu dans les petites choses"
+          },
+          "responseText": {
+            "es": "Procuraste actuar con rectitud y honestidad en las pequeñas responsabilidades invisibles para los demás.",
+            "en": "You strived to act with uprightness and honesty in the small responsibilities invisible to others.",
+            "pt": "Você procurou agir com retidão e honestidade nas pequenas responsabilidades invisíveis para os outros.",
+            "fr": "Tu as veillé à agir avec droiture et honnêteté dans les petites responsabilités invisibles aux yeux des autres."
+          },
+          "verses": [
+            "Lucas 16:10"
+          ],
+          "reflectionHeader": {
+            "es": "La grandeza de los pequeños gestos",
+            "en": "The greatness of small actions",
+            "pt": "A grandeza dos pequenos gestos",
+            "fr": "La grandeur des petits gestes"
+          },
+          "reflection": {
+            "es": "La fidelidad en lo poco prepara el corazón para grandes propósitos. Dios observa con agrado la integridad silenciosa. Descanse tu alma sabiendo que tus obras hechas en sinceridad tienen recompensa eterna.",
+            "en": "Faithfulness in small things prepares the heart for greater purposes. God delights in quiet integrity. Rest your soul knowing that acts done in sincerity carry an eternal reward.",
+            "pt": "A fidelidade no pouco prepara o coração para grandes propósitos. Deus observa com agrado a integridade silenciosa. Descanse a sua alma sabendo que suas obras feitas em sinceridade têm recompensa eterna.",
+            "fr": "La fidélité dans les petites choses prépare le cœur à de grands desseins. Dieu contemple avec joie l'intégrité silencieuse. Que ton âme se repose en sachant que tes actions sincères ont une récompense éternelle."
+          }
+        },
+        {
+          "id": "perdon_restaurador",
+          "label": {
+            "es": "Soltando la ofensa",
+            "en": "Releasing offenses",
+            "pt": "Soltando a ofensa",
+            "fr": "Libérer l'offense"
+          },
+          "responseTitle": {
+            "es": "La libertad de perdonar de corazón",
+            "en": "The freedom of heartfelt forgiveness",
+            "pt": "A liberdade de perdoar de coração",
+            "fr": "La liberté de pardonner de cœur"
+          },
+          "responseText": {
+            "es": "Decidiste no alimentar el rencor ante un malentendido o roce, optando por extender el perdón recibido de Dios.",
+            "en": "You chose not to harbor resentment over a misunderstanding, opting to extend the forgiveness you received from God.",
+            "pt": "Você decidiu não alimentar o rancor diante de um desentendimento, optando por estender o perdão recebido de Deus.",
+            "fr": "Tu as décidé de ne pas nourrir la rancœur face à un malentendu, choisissant de manifester le pardon reçu de Dieu."
+          },
+          "verses": [
+            "Marcos 11:25"
+          ],
+          "reflectionHeader": {
+            "es": "Corazón liviano para descansar",
+            "en": "A light heart for resting",
+            "pt": "Coração leve para descansar",
+            "fr": "Un cœur léger pour se reposer"
+          },
+          "reflection": {
+            "es": "Soltar la ofensa libera el alma del peso de la amargura y permite que la gracia llene cada rincón de la vida. Te acuestas hoy con un corazón limpio y despejado, listo para recibir el descanso de Dios.",
+            "en": "Releasing offenses frees the soul from the weight of bitterness and lets grace fill every corner of life. You go to bed tonight with a clean, clear heart, ready to receive God's restful peace.",
+            "pt": "Soltar a ofensa liberta a alma do peso da amargura e permite que a graça preencha cada canto da vida. Você se deita hoje com um coração limpo e leve, pronto para receber o descanso de Deus.",
+            "fr": "Libérer l'offense délivre l'âme du poids de l'amertume et permet à la grâce de remplir chaque espace de ta vie. Tu te couches ce soir le cœur pur et léger, prêt a recevoir le repos de Dieu."
           }
         }
       ]
