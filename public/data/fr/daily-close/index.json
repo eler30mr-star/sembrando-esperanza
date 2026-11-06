@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05",
+  "updatedAt": "2026-11-06",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -11498,6 +11498,236 @@
             "en": "Releasing offenses frees the soul from the weight of bitterness and lets grace fill every corner of life. You go to bed tonight with a clean, clear heart, ready to receive God's restful peace.",
             "pt": "Soltar a ofensa liberta a alma do peso da amargura e permite que a graça preencha cada canto da vida. Você se deita hoje com um coração limpo e leve, pronto para receber o descanso de Deus.",
             "fr": "Libérer l'offense délivre l'âme du poids de l'amertume et permet à la grâce de remplir chaque espace de ta vie. Tu te couches ce soir le cœur pur et léger, prêt a recevoir le repos de Dieu."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera manifestaste hoy el amor de Cristo en tus relaciones cotidianas?",
+        "en": "In what way did you demonstrate Christ's love in your daily relationships today?",
+        "pt": "De que maneira você demonstrou hoje o amor de Cristo em suas relações diárias?",
+        "fr": "De quelle manière as-tu manifesté l'amour du Christ dans tes relations aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "escucha_paciente",
+          "label": {
+            "es": "Escucha paciente",
+            "en": "Patient listening",
+            "pt": "Escuta paciente",
+            "fr": "Écoute patiente"
+          },
+          "responseTitle": {
+            "es": "Escuchar con atención y empatía",
+            "en": "Listening with care and empathy",
+            "pt": "Escutar com atenção e empatia",
+            "fr": "Écouter avec attention et empathie"
+          },
+          "responseText": {
+            "es": "Al dar tiempo para escuchar sin prisa ni juicio, ofreciste un refugio seguro a alguien que necesitaba ser comprendido.",
+            "en": "By taking time to listen without haste or judgment, you offered a safe haven to someone needing to be understood.",
+            "pt": "Ao dedicar tempo para ouvir sem pressa nem julgamento, você ofereceu um refúgio seguro a alguém que precisava ser compreendido.",
+            "fr": "En prenant le temps d'écouter sans hâte ni jugement, tu as offert un refuge sûr à quelqu'un qui avait besoin d'être compris."
+          },
+          "verses": [
+            "1 Pedro 3:8"
+          ],
+          "reflectionHeader": {
+            "es": "La calma que sabe escuchar",
+            "en": "The calm of truly listening",
+            "pt": "A calma que sabe escutar",
+            "fr": "Le calme d'une écoute attentive"
+          },
+          "reflection": {
+            "es": "Escuchar con amor es una forma profunda de reflejar la paciencia de Dios. Al apagar el ruido de tus propias ocupaciones para prestar atención al otro, transformas un momento común en un acto sagrado de cuidado pastoral. Descansa esta noche sabiendo que tu presencia atenta sembró consuelo en el corazón de quien te rodea.",
+            "en": "Listening with love is a profound way to reflect God's patience. By setting aside your own busyness to pay attention to another, you turn an ordinary moment into a sacred act of care. Rest tonight knowing that your attentive presence sowed comfort in another's heart.",
+            "pt": "Escutar com amor é uma forma profunda de refletir a paciência de Deus. Ao desligar o ruído das suas próprias tarefas para dar atenção ao outro, você transforma um momento comum em um ato sagrado de cuidado. Descanse esta noite sabendo que sua presença atenta semeou consolo no coração de quem esteve ao seu lado.",
+            "fr": "Écouter avec amour est une façon profonde de refléter la patience de Dieu. En faisant taire le bruit de tes propres occupations pour prêter attention à l'autre, tu transformes un moment ordinaire en un acte sacré d'amour. Repose-toi ce soir en sachant que ta présence attentive a semé du réconfort dans le cœur de ton prochain."
+          }
+        },
+        {
+          "id": "palabras_amables",
+          "label": {
+            "es": "Palabras amables",
+            "en": "Kind words",
+            "pt": "Palavras bondosas",
+            "fr": "Mots bienveillants"
+          },
+          "responseTitle": {
+            "es": "Edificar a través de tus palabras",
+            "en": "Building others up through words",
+            "pt": "Edificar através de suas palavras",
+            "fr": "Édifier à travers tes paroles"
+          },
+          "responseText": {
+            "es": "Elegiste hablar con dulzura y aliento, trayendo medicina y esperanza a la vida de las personas que cruzaron tu camino hoy.",
+            "en": "You chose to speak with sweetness and encouragement, bringing healing and hope to the lives of those you met today.",
+            "pt": "Você escolheu falar com doçura e encorajamento, trazendo restauração e esperança para a vida daqueles que cruzaram seu caminho hoje.",
+            "fr": "Tu as choisi de parler avec douceur et encouragement, apportant guérison et espérance dans la vie de ceux que tu as croisés aujourd'hui."
+          },
+          "verses": [
+            "Proverbios 16:24"
+          ],
+          "reflectionHeader": {
+            "es": "El poder de una palabra dulce",
+            "en": "The power of a gentle word",
+            "pt": "O poder de uma palavra doce",
+            "fr": "Le pouvoir d'une douce parole"
+          },
+          "reflection": {
+            "es": "Las palabras inspiradas por el Espíritu tienen la facultad de sanar ánimos decaídos y afianzar confianzas rotas. Cada expresión de gratitud, elogio sincero o consuelo que diste hoy fue una semilla de vida eterna. Permite que el Señor guarde tus labios y repose tu mente en la paz que da haber sido un canal de bendición.",
+            "en": "Words inspired by the Spirit have the power to heal weary souls and restore broken trust. Every expression of gratitude, sincere praise, or comfort you gave today was a seed of life. May the Lord guard your lips and rest your mind in the peace of being a channel of blessing.",
+            "pt": "As palavras inspiradas pelo Espírito têm a faculdade de curar ânimos abatidos e restaurar a confiança. Cada expressão de gratidão, elogio sincero ou consolo que você deu hoje foi uma semente de vida. Permita que o Senhor guarde seus lábios e repouse sua mente na paz de ter sido um canal de bênção.",
+            "fr": "Les paroles inspirées par l'Esprit ont le pouvoir de guérir les esprits abattus et de restaurer la confiance. Chaque expression de gratitude, d'éloge sincère ou de réconfort offerte aujourd'hui a été une semence de vie. Que le Seigneur garde tes lèvres et apaise ton esprit dans la paix d'avoir été un canal de bénédiction."
+          }
+        },
+        {
+          "id": "perdon_oportuno",
+          "label": {
+            "es": "Perdón oportuno",
+            "en": "Prompt forgiveness",
+            "pt": "Perdão oportuno",
+            "fr": "Pardon spontané"
+          },
+          "responseTitle": {
+            "es": "Liberar el corazón de rencores",
+            "en": "Freeing your heart from resentment",
+            "pt": "Libertar o coração de ressentimentos",
+            "fr": "Libérer ton cœur du ressentiment"
+          },
+          "responseText": {
+            "es": "Decidiste no guardar cuentas del mal recibido, abriendo paso a la reconciliación y a la libertad interior que Cristo nos regala.",
+            "en": "You decided not to keep a record of wrongs, making room for reconciliation and the inner freedom Christ bestows on us.",
+            "pt": "Você decidiu não guardar mágoas pelo mal recebido, abrindo espaço para a reconciliação e a liberdade interior que Cristo nos dá.",
+            "fr": "Tu as décidé de ne pas tenir compte del mal reçu, ouvrant la voie à la réconciliation et à la liberté intérieure que le Christ nous donne."
+          },
+          "verses": [
+            "Colosenses 3:13"
+          ],
+          "reflectionHeader": {
+            "es": "El descanso de perdonar",
+            "en": "The rest found in forgiveness",
+            "pt": "O descanso do perdão",
+            "fr": "Le repos du pardon"
+          },
+          "reflection": {
+            "es": "Perdonar de corazón no siempre es fácil, pero es el camino más directo hacia la paz del alma. Al soltar las ofensas antes de que termine el día, te alineas con la gracia inagotable que Dios ha derramado sobre tu vida. Duerme en total libertad, sabiendo que el amor victorioso de Jesús limpia todo peso de tu espíritu.",
+            "en": "Forgiving from the heart is not always easy, but it is the most direct path to peace of soul. By letting go of offenses before the day ends, you align yourself with the endless grace God poured over your life. Sleep in complete freedom, knowing Jesus' victorious love lifts every heavy weight.",
+            "pt": "Perdoar de coração nem sempre é fácil, mas é o caminho mais direto para a paz da alma. Ao soltar as ofensas antes que o dia termine, você se alinha com a graça inesgotável que Deus derramou sobre sua vida. Durma em total liberdade, sabendo que o amor vitorioso de Jesus retira todo peso do seu espírito.",
+            "fr": "Pardonner du fond du cœur n'est pas toujours facile, mais c'est le chemin le plus direct vers la paix de l'âme. En abandonnant les offenses avant la fin de la journée, tu te confórmes à la grâce inépuisable que Dieu a versée sur ta vie. Dors en toute liberté, sachant que l'amour victorieux de Jésus enlève tout poids."
+          }
+        },
+        {
+          "id": "ayuda_desinteresada",
+          "label": {
+            "es": "Ayuda desinteresada",
+            "en": "Generous help",
+            "pt": "Ajuda desinteressada",
+            "fr": "Aide désintéressée"
+          },
+          "responseTitle": {
+            "es": "Servir al prójimo con alegría",
+            "en": "Serving others with a joyful heart",
+            "pt": "Servir ao próximo com alegria",
+            "fr": "Servir son prochain avec joie"
+          },
+          "responseText": {
+            "es": "Extendiste una mano práctica sin esperar nada a cambio, reflejando el carácter generoso de nuestro Padre Celestial.",
+            "en": "You extended a helping hand without expecting anything in return, reflecting the generous character of our Heavenly Father.",
+            "pt": "Você estendeu a mão sem esperar nada em troca, refletindo o caráter generoso do nosso Pai Celestial.",
+            "fr": "Tu as tendu une main secourable sans rien attendre en retour, reflétant le caractère généreux de notre Père céleste."
+          },
+          "verses": [
+            "Gálatas 6:10"
+          ],
+          "reflectionHeader": {
+            "es": "La huella del servicio humilde",
+            "en": "The mark of humble service",
+            "pt": "A marca do serviço humilde",
+            "fr": "L'empreinte du service humble"
+          },
+          "reflection": {
+            "es": "Cada pequeño gesto de ayuda, por insignificante que parezca, tiene un valor eterno cuando se hace con amor. Servir a los demás es adoración en acción. Al cerrar esta jornada, entrega al Señor el fruto de tus esfuerzos y confía en que ninguna obra hecha en Su nombre cae en saco roto. Que Su reposo inunde tu cuerpo y tu alma.",
+            "en": "Every small gesture of help, no matter how insignificant it seems, carries eternal worth when done in love. Serving others is worship in action. As you end this day, hand over the fruit of your efforts to the Lord, trusting that no work done in His name is in vain. May His rest flood your body and soul.",
+            "pt": "Cada pequeno gesto de ajuda, por mais simples que pareça, tem um valor eterno quando feito com amor. Servir aos outros é adoração em ação. Ao encerrar esta jornada, entregue ao Senhor o fruto dos seus esforços e confie que nenhuma obra feita em Seu nome é em vão. Que o descanso dEle inunde seu corpo e sua alma.",
+            "fr": "Chaque petit geste d'aide, aussi modeste qu'il paraisse, a une valeur éternelle lorsqu'il est accompli avec amour. Servir les autres est un acte d'adoration. En concluant cette journée, remets au Seigneur le fruit de tes efforts, confiant qu'aucun travail fait en Son nom n'est vains. Que Son repos inonde ton corps et ton esprit."
+          }
+        },
+        {
+          "id": "paz_ante_roce",
+          "label": {
+            "es": "Paz ante el roce",
+            "en": "Peace in friction",
+            "pt": "Paz na tensão",
+            "fr": "Paix dans la tension"
+          },
+          "responseTitle": {
+            "es": "Mantener la paz frente al conflicto",
+            "en": "Maintaining peace amidst friction",
+            "pt": "Manter a paz diante dos conflitos",
+            "fr": "Garder la paix face aux tensions"
+          },
+          "responseText": {
+            "es": "Frente a la tensión o el desacuerdo, respondiste con serenidad, deteniendo el avance del enojo y resguardando la armonía.",
+            "en": "Faced with tension or disagreement, you responded with calmness, turning away anger and safeguarding harmony.",
+            "pt": "Diante da tensão ou do desentendimento, você respondeu com serenidade, travando o avanço da ira e resguardando a harmonia.",
+            "fr": "Face à la tension ou au désaccord, tu as répondu avec sérénité, apaisant la colère et préservant l'harmonie."
+          },
+          "verses": [
+            "Proverbios 15:1"
+          ],
+          "reflectionHeader": {
+            "es": "La serenidad ante la discordia",
+            "en": "Serenity in times of discord",
+            "pt": "A serenidade diante da discórdia",
+            "fr": "La sérénité face à la discorde"
+          },
+          "reflection": {
+            "es": "La mansedumbre no es debilidad, sino fortaleza bajo el control del Espíritu Santo. Responder con suavidad cuando el ambiente exige reacción requiere verdadera fe. Dios ha visto tu paciencia y se complace en tu esfuerzo por ser pacificador. Que la quietud de Su presencia guarde tu corazón durante todas las horas de esta noche.",
+            "en": "Gentleness is not weakness, but strength under the Holy Spirit's control. Answering softly when tension pushes for reaction takes genuine faith. God has seen your patience and delights in your effort to be a peacemaker. May the stillness of His presence keep your heart throughout the night.",
+            "pt": "A mansidão não é fraqueza, mas força sob o controle do Espírito Santo. Responder com suavidade quando o ambiente exige reação exige fé verdadeira. Deus viu a sua paciência e se agrada do seu esforço para ser um pacificador. Que a quietude da presença dEle guarde o seu coração durante esta noite.",
+            "fr": "La douceur n'est pas une faiblesse, mais une force contrôlée par l'Esprit Saint. Répondre avec douceur lorsque l'atmosphère incite à la réaction demande une foi profonde. Dieu a vu ta patience et se réjouit de tes efforts d'artisan de paix. Que le calme de Sa présence garde ton cœur tout au long de cette nuit."
+          }
+        },
+        {
+          "id": "compania_sincera",
+          "label": {
+            "es": "Compañía sincera",
+            "en": "Sincere presence",
+            "pt": "Companhia sincera",
+            "fr": "Présence sincère"
+          },
+          "responseTitle": {
+            "es": "Acompañar con un corazón cercano",
+            "en": "Accompanying others with care",
+            "pt": "Acompanhar com um coração próximo",
+            "fr": "Accompagner avec un cœur proche"
+          },
+          "responseText": {
+            "es": "Compartiste el gozo o la pena de alguien cercano, demostrando que en el cuerpo de Cristo caminamos unidos en todo tiempo.",
+            "en": "You shared in someone's joy or sorrow, showing that in the body of Christ we walk united at all times.",
+            "pt": "Você compartilhou a alegria ou a dor de alguém próximo, demonstrando que no corpo de Cristo caminhamos unidos em todo tempo.",
+            "fr": "Tu as partagé la joie ou la peine de quelqu'un, montrant que dans le corps du Christ nous marchons unis en tout temps."
+          },
+          "verses": [
+            "Romanos 12:15"
+          ],
+          "reflectionHeader": {
+            "es": "El consuelo del amor presente",
+            "en": "The comfort of being present",
+            "pt": "O consolo do amor presente",
+            "fr": "Le réconfort d'une présence"
+          },
+          "reflection": {
+            "es": "Caminar al lado del que sufre o alegrarse genuinamente con el que prospera es una muestra viva de comunión fraternal. Dios te usó hoy para recordar a alguien que no está solo en este mundo. Entrega tus cargas y la de tus hermanos en oración, sabiendo que el Gran Pastor vela sin descanso por cada uno de Sus hijos.",
+            "en": "Walking alongside those who suffer or genuinely rejoicing with those who thrive is a living testament to brotherly love. God used you today to remind someone that they are not alone. Entrust your burdens and those of your brothers to Him in prayer, knowing the Chief Shepherd constantly watches over His children.",
+            "pt": "Caminhar ao lado de quem sofre ou se alegrar genuinamente com quem prospera é uma demonstração viva de comunhão fraternal. Deus usou você hoje para lembrar a alguém que não está só. Entregue suas cargas e as dos seus irmãos em oração, sabendo que o Grande Pastor cuida sem cessar de cada um de Seus filhos.",
+            "fr": "Marcher aux côtés de celui qui souffre ou se réjouir sincèrement avec celui qui réussit est une preuve vivante d'amour frère. Dieu t'a utilisé aujourd'hui pour rappeler à quelqu'un qu'il n'est pas seul. Confie tes fardeaux et ceux de tes proches dans la prière, sachant que le Grand Berger veille sans cesse sur Ses enfants."
           }
         }
       ]
