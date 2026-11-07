@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-07",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -11728,6 +11728,236 @@
             "en": "Walking alongside those who suffer or genuinely rejoicing with those who thrive is a living testament to brotherly love. God used you today to remind someone that they are not alone. Entrust your burdens and those of your brothers to Him in prayer, knowing the Chief Shepherd constantly watches over His children.",
             "pt": "Caminhar ao lado de quem sofre ou se alegrar genuinamente com quem prospera é uma demonstração viva de comunhão fraternal. Deus usou você hoje para lembrar a alguém que não está só. Entregue suas cargas e as dos seus irmãos em oração, sabendo que o Grande Pastor cuida sem cessar de cada um de Seus filhos.",
             "fr": "Marcher aux côtés de celui qui souffre ou se réjouir sincèrement avec celui qui réussit est une preuve vivante d'amour frère. Dieu t'a utilisé aujourd'hui pour rappeler à quelqu'un qu'il n'est pas seul. Confie tes fardeaux et ceux de tes proches dans la prière, sachant que le Grand Berger veille sans cesse sur Ses enfants."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera buscaste hoy cimentar tu vida sobre la roca que es Cristo?",
+        "en": "How did you seek to ground your life on the Rock, which is Christ, today?",
+        "pt": "De que maneira você buscou hoje fundamentar sua vida na Rocha que é Cristo?",
+        "fr": "De quelle manière as-tu cherché aujourd'hui à fonder ta vie sur le Rocher qu'est le Christ ?"
+      },
+      "options": [
+        {
+          "id": "roca_obediencia",
+          "label": {
+            "es": "Obediencia diaria",
+            "en": "Daily obedience",
+            "pt": "Obediência diária",
+            "fr": "Obéissance quotidienne"
+          },
+          "responseTitle": {
+            "es": "Construcción sólida",
+            "en": "Solid construction",
+            "pt": "Construção sólida",
+            "fr": "Construction solide"
+          },
+          "responseText": {
+            "es": "Has elegido poner en práctica la Palabra, lo cual fortalece tus cimientos espirituales frente a cualquier tormenta.",
+            "en": "You have chosen to put the Word into practice, which strengthens your spiritual foundations against any storm.",
+            "pt": "Você escolheu colocar a Palavra em prática, o que fortalece seus alicerces espirituais contra qualquer tempestade.",
+            "fr": "Tu as choisi de mettre la Parole en pratique, ce qui fortifie tes fondations spirituelles face à toute tempête."
+          },
+          "verses": [
+            "Mateo 7:24"
+          ],
+          "reflectionHeader": {
+            "es": "Un fundamento inamovible",
+            "en": "An immovable foundation",
+            "pt": "Um fundamento inabalável",
+            "fr": "Un fondement inébranlable"
+          },
+          "reflection": {
+            "es": "Escuchar a Dios es el primer paso, pero actuar según su voluntad es lo que realmente nos establece sobre la Roca. Al terminar este día, descansa sabiendo que tu obediencia no es en vano; es la estructura que sostiene tu paz y protege tu futuro bajo el amparo del Señor.",
+            "en": "Listening to God is the first step, but acting according to His will is what truly establishes us on the Rock. As this day ends, rest knowing that your obedience is not in vain; it is the structure that sustains your peace and protects your future under the Lord's care.",
+            "pt": "Ouvir a Deus é o primeiro passo, mas agir de acordo com a Sua vontade é o que realmente nos estabelece sobre a Rocha. Ao terminar este dia, descanse sabendo que sua obediência não é em vão; é a estrutura que sustenta sua paz e protege seu futuro sob o amparo do Senhor.",
+            "fr": "Écouter Dieu est la première étape, mais agir selon sa volonté est ce qui nous établit vraiment sur le Rocher. À la fin de cette journée, repose-toi en sachant que ton obéissance n'est pas vaine ; c'est la structure qui soutient ta paix et protège ton avenir sous la protection du Seigneur."
+          }
+        },
+        {
+          "id": "roca_silencio",
+          "label": {
+            "es": "Reposo en Su paz",
+            "en": "Resting in His peace",
+            "pt": "Repouso em Sua paz",
+            "fr": "Repos en Sa paix"
+          },
+          "responseTitle": {
+            "es": "Quietud del alma",
+            "en": "Stillness of the soul",
+            "pt": "Quietude da alma",
+            "fr": "Calme de l'âme"
+          },
+          "responseText": {
+            "es": "Buscaste refugio en la presencia de Dios, reconociendo que solo en Él tu alma halla verdadero descanso.",
+            "en": "You sought refuge in God's presence, recognizing that only in Him does your soul find true rest.",
+            "pt": "Você buscou refúgio na presença de Deus, reconhecendo que somente Nele sua alma encontra o verdadeiro descanso.",
+            "fr": "Tu as cherché refuge dans la présence de Dieu, reconnaissant qu'en lui seul ton âme trouve le vrai repos."
+          },
+          "verses": [
+            "Salmos 62:2"
+          ],
+          "reflectionHeader": {
+            "es": "La paz que sobrepasa todo",
+            "en": "The peace that surpasses all",
+            "pt": "A paz que excede tudo",
+            "fr": "La paix qui surpasse tout"
+          },
+          "reflection": {
+            "es": "En un mundo ruidoso, encontrar silencio ante el Señor es un acto de fe profunda. Has permitido que tu corazón se asiente en la seguridad de Su soberanía. Esta noche, deja que esa quietud sea el suelo firme donde deposites tus preocupaciones, confiando en que tu Roca nunca se conmoverá.",
+            "en": "In a noisy world, finding silence before the Lord is an act of deep faith. You have allowed your heart to settle in the security of His sovereignty. Tonight, let that stillness be the firm ground where you lay your worries, trusting that your Rock will never be shaken.",
+            "pt": "Em um mundo barulhento, encontrar silêncio diante do Senhor é um ato de fé profunda. Você permitiu que seu coração se firmasse na segurança de Sua soberania. Esta noite, deixe que essa quietude seja o solo firme onde você deposita suas preocupações, confiando que sua Rocha nunca será abalada.",
+            "fr": "Dans un monde bruyant, trouver le silence devant le Seigneur est un acte de foi profonde. Tu as permis à ton cœur de s'établir dans la sécurité de sa souveraineté. Ce soir, laisse ce calme être le sol ferme où tu déposes tes soucis, confiant que ton Rocher ne sera jamais ébranlé."
+          }
+        },
+        {
+          "id": "roca_firmeza",
+          "label": {
+            "es": "Firmeza constante",
+            "en": "Constant steadfastness",
+            "pt": "Firmeza constante",
+            "fr": "Fermeté constante"
+          },
+          "responseTitle": {
+            "es": "Permanecer en Cristo",
+            "en": "Abiding in Christ",
+            "pt": "Permanecer em Cristo",
+            "fr": "Demeurer en Christ"
+          },
+          "responseText": {
+            "es": "Ante las presiones del día, te mantuviste firme, sin permitir que las circunstancias desviaran tu fe.",
+            "en": "In the face of the day's pressures, you stood firm, not allowing circumstances to divert your faith.",
+            "pt": "Diante das pressões do dia, você se manteve firme, não permitindo que as circunstâncias desviassem sua fé.",
+            "fr": "Face aux pressions de la journée, tu es resté ferme, ne laissant pas les circonstances détourner ta foi."
+          },
+          "verses": [
+            "1 Corintios 15:58"
+          ],
+          "reflectionHeader": {
+            "es": "Inquebrantables en el Señor",
+            "en": "Unshakable in the Lord",
+            "pt": "Inabaláveis no Senhor",
+            "fr": "Inébranlables dans le Seigneur"
+          },
+          "reflection": {
+            "es": "La constancia no es falta de luchas, sino la decisión de no moverse de la verdad de Dios a pesar de ellas. Tu perseverancia hoy ha sido un testimonio de que tu cimiento es eterno. Sigue adelante con la certeza de que cada paso firme que das honra a Aquel que te sostiene con Su mano poderosa.",
+            "en": "Steadfastness is not the absence of struggles, but the decision not to move from God's truth despite them. Your perseverance today has been a testimony that your foundation is eternal. Move forward with the certainty that every steady step you take honors the One who holds you with His mighty hand.",
+            "pt": "A constância não é a ausência de lutas, mas a decisão de não se afastar da verdade de Deus apesar delas. Sua perseverança hoje foi um testemunho de que seu fundamento é eterno. Siga em frente com a certeza de que cada passo firme que você dá honra Aquele que o sustenta com Sua mão poderosa.",
+            "fr": "La constance n'est pas l'absence de luttes, mais la décision de ne pas s'éloigner de la vérité de Dieu malgré elles. Ta persévérance aujourd'hui a été un témoignage que ton fondement est éternel. Continue d'avancer avec la certitude que chaque pas ferme que tu fais honore Celui qui te tient par sa main puissante."
+          }
+        },
+        {
+          "id": "roca_eternidad",
+          "label": {
+            "es": "Perspectiva eterna",
+            "en": "Eternal perspective",
+            "pt": "Perspectiva eterna",
+            "fr": "Perspective éternelle"
+          },
+          "responseTitle": {
+            "es": "Mirada en lo invisible",
+            "en": "Focus on the invisible",
+            "pt": "Foco no invisível",
+            "fr": "Regard sur l'invisible"
+          },
+          "responseText": {
+            "es": "Priorizaste los valores del Reino sobre las urgencias pasajeras, enfocando tu corazón en lo que permanece.",
+            "en": "You prioritized Kingdom values over temporary urgencies, focusing your heart on what remains.",
+            "pt": "Você priorizou os valores do Reino sobre as urgências passageiras, focando seu coração no que permanece.",
+            "fr": "Tu as privilégié les valeurs du Royaume par rapport aux urgences passagères, concentrant ton cœur sur ce qui demeure."
+          },
+          "verses": [
+            "2 Corintios 4:18"
+          ],
+          "reflectionHeader": {
+            "es": "Más allá de lo visible",
+            "en": "Beyond the visible",
+            "pt": "Além do visível",
+            "fr": "Au-delà du visible"
+          },
+          "reflection": {
+            "es": "A menudo nos distraemos con lo temporal, pero hoy buscaste ver a través de los ojos de la fe. Al cimentar tu día en lo eterno, has construido una paz que el mundo no puede dar ni quitar. Descansa hoy con la mente puesta en las promesas de Dios, que son sí y amén para siempre.",
+            "en": "We are often distracted by the temporary, but today you sought to see through the eyes of faith. By grounding your day in the eternal, you have built a peace that the world can neither give nor take away. Rest today with your mind set on God's promises, which are yes and amen forever.",
+            "pt": "Muitas vezes nos distraímos com o temporal, mas hoje você buscou ver através dos olhos da fé. Ao fundamentar seu dia no eterno, você construiu uma paz que o mundo não pode dar nem tirar. Descanse hoje com a mente voltada para as promessas de Deus, que são sim e amém para sempre.",
+            "fr": "Nous sommes souvent distraits par le temporel, mais aujourd'hui tu as cherché à voir à travers les yeux de la foi. En fondant ta journée sur l'éternel, tu as construit une paix que le monde ne peut ni donner ni reprendre. Repose-toi aujourd'hui avec l'esprit tourné vers les promesses de Dieu, qui sont oui et amen pour toujours."
+          }
+        },
+        {
+          "id": "roca_sabiduria",
+          "label": {
+            "es": "Discernimiento",
+            "en": "Discernment",
+            "pt": "Discernimento",
+            "fr": "Discernement"
+          },
+          "responseTitle": {
+            "es": "Sabiduría divina",
+            "en": "Divine wisdom",
+            "pt": "Sabedoria divina",
+            "fr": "Sagesse divine"
+          },
+          "responseText": {
+            "es": "Buscaste la guía del Espíritu para distinguir lo mejor de lo bueno, afirmando tu caminar en la verdad.",
+            "en": "You sought the Spirit's guidance to distinguish the best from the good, affirming your walk in truth.",
+            "pt": "Você buscou a orientação do Espírito para distinguir o melhor do bom, afirmando seu caminhar na verdade.",
+            "fr": "Tu as cherché la direction de l'Esprit pour distinguer le meilleur du bon, affirmant ta marche dans la vérité."
+          },
+          "verses": [
+            "Filipenses 1:10"
+          ],
+          "reflectionHeader": {
+            "es": "Caminando con prudencia",
+            "en": "Walking with prudence",
+            "pt": "Caminhando com prudência",
+            "fr": "Marcher avec prudence"
+          },
+          "reflection": {
+            "es": "El discernimiento es la brújula que mantiene nuestros pies sobre el fundamento correcto. Al elegir con sabiduría hoy, has evitado las arenas movedizas del error. Que el Señor siga iluminando tu entendimiento para que cada decisión fortalezca tu relación con Él y tu testimonio ante los demás.",
+            "en": "Discernment is the compass that keeps our feet on the right foundation. By choosing wisely today, you have avoided the quicksand of error. May the Lord continue to enlighten your understanding so that every decision strengthens your relationship with Him and your witness to others.",
+            "pt": "O discernimento é a bússola que mantém nossos pés no fundamento correto. Ao escolher com sabedoria hoje, você evitou as areias movediças do erro. Que o Senhor continue a iluminar seu entendimento para que cada decisão fortaleça seu relacionamento com Ele e seu testemunho perante os outros.",
+            "fr": "Le discernement est la boussole qui maintient nos pieds sur le bon fondement. En choisissant sagement aujourd'hui, tu as évité les sables mouvants de l'erreur. Que le Seigneur continue d'éclairer ton intelligence pour que chaque décision fortifie ta relation avec lui et ton témoignage devant les autres."
+          }
+        },
+        {
+          "id": "roca_paciencia",
+          "label": {
+            "es": "Confianza paciente",
+            "en": "Patient trust",
+            "pt": "Confiança paciente",
+            "fr": "Confiance patiente"
+          },
+          "responseTitle": {
+            "es": "Espera segura",
+            "en": "Secure waiting",
+            "pt": "Espera segura",
+            "fr": "Attente assurée"
+          },
+          "responseText": {
+            "es": "Decidiste no apresurarte, confiando en que el tiempo de Dios es perfecto y Su fundamento es inamovible.",
+            "en": "You decided not to rush, trusting that God's timing is perfect and His foundation is immovable.",
+            "pt": "Você decidiu não se apressar, confiando que o tempo de Deus é perfeito e Seu fundamento é inabalável.",
+            "fr": "Tu as décidé de ne pas te précipiter, confiant que le temps de Dieu est parfait et que son fondement est inébranlable."
+          },
+          "verses": [
+            "Isaías 28:16"
+          ],
+          "reflectionHeader": {
+            "es": "Sin apresuramientos",
+            "en": "Without rushing",
+            "pt": "Sem pressa",
+            "fr": "Sans précipitation"
+          },
+          "reflection": {
+            "es": "La fe verdadera sabe esperar sin desesperar, porque sabe en quién ha creído. Al no actuar por impulso, has demostrado que tu confianza está puesta en la Roca y no en tus propios esfuerzos. Esta noche, deja que esa paz de quien sabe esperar en Dios restaure todas tus fuerzas para un nuevo amanecer.",
+            "en": "True faith knows how to wait without despairing, because it knows whom it has believed. By not acting on impulse, you have shown that your trust is placed in the Rock and not in your own efforts. Tonight, let that peace of one who waits on God restore all your strength for a new dawn.",
+            "pt": "A verdadeira fé sabe esperar sem desesperar, pois sabe em quem tem crido. Ao não agir por impulso, você demonstrou que sua confiança está depositada na Rocha e não em seus próprios esforços. Esta noite, deixe que essa paz de quem sabe esperar em Deus restaure todas as suas forças para um novo amanhecer.",
+            "fr": "La vraie foi sait attendre sans désespérer, car elle sait en qui elle a cru. En n'agissant pas par impulsion, tu as montré que ta confiance est placée sur le Rocher et non sur tes propres efforts. Ce soir, laisse cette paix de celui qui sait attendre en Dieu restaurer toutes tes forces pour une nouvelle aube."
           }
         }
       ]
