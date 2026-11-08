@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -11958,6 +11958,236 @@
             "en": "True faith knows how to wait without despairing, because it knows whom it has believed. By not acting on impulse, you have shown that your trust is placed in the Rock and not in your own efforts. Tonight, let that peace of one who waits on God restore all your strength for a new dawn.",
             "pt": "A verdadeira fé sabe esperar sem desesperar, pois sabe em quem tem crido. Ao não agir por impulso, você demonstrou que sua confiança está depositada na Rocha e não em seus próprios esforços. Esta noite, deixe que essa paz de quem sabe esperar em Deus restaure todas as suas forças para um novo amanhecer.",
             "fr": "La vraie foi sait attendre sans désespérer, car elle sait en qui elle a cru. En n'agissant pas par impulsion, tu as montré que ta confiance est placée sur le Rocher et non sur tes propres efforts. Ce soir, laisse cette paix de celui qui sait attendre en Dieu restaurer toutes tes forces pour une nouvelle aube."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿Cómo experimentaste hoy el consuelo y refugio de Dios?",
+        "en": "How did you experience God's comfort and refuge today?",
+        "pt": "Como você experimentou hoje o consolo e refúgio de Deus?",
+        "fr": "Comment as-tu éprouvé le réconfort et le refuge de Dieu ?"
+      },
+      "options": [
+        {
+          "id": "refugio_oracion",
+          "label": {
+            "es": "Oración ferviente",
+            "en": "Fervent prayer",
+            "pt": "Oração fervente",
+            "fr": "Prière fervente"
+          },
+          "responseTitle": {
+            "es": "Dios escucha tu clamor",
+            "en": "God hears your cry",
+            "pt": "Deus ouve o seu clamor",
+            "fr": "Dieu entend ton cri"
+          },
+          "responseText": {
+            "es": "Derramar el corazón ante el Señor en oración trae un alivio profundo que transforma la pesadez en paz interior.",
+            "en": "Pouring out your heart to the Lord in prayer brings a deep relief that transforms heaviness into inner peace.",
+            "pt": "Derramar o coração diante do Senhor em oração traz um alívio profundo que transforma o peso em paz interior.",
+            "fr": "Répandre ton cœur devant le Seigneur dans la prière apporte un soulagement profond qui transforme la lourdeur en paix intérieure."
+          },
+          "verses": [
+            "Salmos 34:4"
+          ],
+          "reflectionHeader": {
+            "es": "Un refugio en Su presencia",
+            "en": "A refuge in His presence",
+            "pt": "Um refúgio em Sua presença",
+            "fr": "Un refuge en Sa présence"
+          },
+          "reflection": {
+            "es": "Al concluir esta jornada, recuerda que tus palabras nunca caen en saco roto. Dios atiende con ternura cada suspiro de tu alma. Entrega lo que viviste hoy en Sus manos y descansa confiado en que Él cuida de ti.",
+            "en": "As this day ends, remember that your words never fall on deaf ears. God tenderly attends to every sigh of your soul. Hand over your day into His hands and rest confident that He cares for you.",
+            "pt": "Ao concluir este dia, lembre-se de que suas palavras nunca caem em solo infértil. Deus atende com ternura a cada suspiro da sua alma. Entregue o seu dia nas mãos Dele e descanse confiante de que Ele cuida de você.",
+            "fr": "En achevant cette journée, rappelle-toi que tes paroles ne restent jamais sans écho. Dieu accueille avec tendresse chaque soupir de ton âme. Remets ta journée entre Ses mains et repose-toi, confiant qu'Il prend soin de toi."
+          }
+        },
+        {
+          "id": "promesa_firme",
+          "label": {
+            "es": "Promesas divinas",
+            "en": "Divine promises",
+            "pt": "Promessas divinas",
+            "fr": "Promesses divines"
+          },
+          "responseTitle": {
+            "es": "Aliento en la Palabra",
+            "en": "Encouragement in the Word",
+            "pt": "Alento na Palavra",
+            "fr": "Encouragement dans la Parole"
+          },
+          "responseText": {
+            "es": "Recordar las promesas escritas en la Biblia renueva las fuerzas cuando las circunstancias parecen inciertas.",
+            "en": "Remembering the promises written in the Bible renews strength when circumstances seem uncertain.",
+            "pt": "Lembrar as promessas escritas na Bíblia renova as forças quando as circunstâncias parecem incertas.",
+            "fr": "Se rappeler les promesses écrites dans la Bible renouvelle les forces lorsque les circonstances semblent incertaines."
+          },
+          "verses": [
+            "Salmos 119:50"
+          ],
+          "reflectionHeader": {
+            "es": "La Palabra que da vida",
+            "en": "The Word that gives life",
+            "pt": "A Palavra que dá vida",
+            "fr": "La Parole qui donne vie"
+          },
+          "reflection": {
+            "es": "Las Escrituras son un ancla sólida para nuestra mente. Que los pasajes bíblicos que leíste o recordaste hoy sigan dando vida a tu fe durante la noche, disipando cualquier temor sobre el mañana.",
+            "en": "The Scriptures are a solid anchor for our minds. May the verses you read or remembered today continue to give life to your faith throughout the night, dispelling any fear about tomorrow.",
+            "pt": "As Escrituras são uma âncora sólida para a nossa mente. Que os versículos que você leu ou lembrou hoje continuem a dar vida à sua fé durante a noite, dissipando qualquer temor sobre o amanhã.",
+            "fr": "Les Écritures sont une ancre solide pour notre esprit. Que les versets que tu as lus ou remémorés aujourd'hui continuent de donner vie à ta foi durant la nuit, chassant toute crainte pour demain."
+          }
+        },
+        {
+          "id": "silencio_apacible",
+          "label": {
+            "es": "Silencio apacible",
+            "en": "Gentle silence",
+            "pt": "Silêncio manso",
+            "fr": "Douce quiétude"
+          },
+          "responseTitle": {
+            "es": "Paz en la quietud",
+            "en": "Peace in stillness",
+            "pt": "Paz na quietude",
+            "fr": "Paix dans le silence"
+          },
+          "responseText": {
+            "es": "En medio del ajetreo, hacer un alto para escuchar el murmullo apacible de Dios devuelve la calma al espíritu.",
+            "en": "In the midst of the rush, pausing to listen to God's gentle whisper restores calm to the spirit.",
+            "pt": "Em meio à correria, fazer uma pausa para ouvir o sussurro suave de Deus devolve a calma ao espírito.",
+            "fr": "Au milieu de l'agitation, faire une pause pour écouter le doux murmure de Dieu rend la sérénité à l'esprit."
+          },
+          "verses": [
+            "1 Reyes 19:12"
+          ],
+          "reflectionHeader": {
+            "es": "La voz suave del Señor",
+            "en": "The gentle voice of the Lord",
+            "pt": "A voz suave do Senhor",
+            "fr": "La voix douce du Seigneur"
+          },
+          "reflection": {
+            "es": "Dios no siempre habla en la tormenta o en el estruendo; a menudo revela Su consuelo en la brisa apacible del silencio. Agradece este momento de pausa nocturna para reposar en Su presencia serena.",
+            "en": "God does not always speak in the storm or the roar; He often reveals His comfort in the gentle breeze of silence. Be grateful for this night's pause to rest in His serene presence.",
+            "pt": "Deus nem sempre fala na tempestade ou no estrondo; muitas vezes revela Seu consolo na brisa suave do silêncio. Agradeça por este momento de pausa noturna para repousar em Sua presença serena.",
+            "fr": "Dieu ne parle pas toujours dans la tempête ou le fracas ; Il révèle souvent Son réconfort dans la douce brise du silence. Sois reconnaissant pour cette pause nocturne pour reposer dans Sa présence sereine."
+          }
+        },
+        {
+          "id": "abrazo_hermano",
+          "label": {
+            "es": "Apoyo fraterno",
+            "en": "Brotherly support",
+            "pt": "Apoio fraterno",
+            "fr": "Soutien fraternel"
+          },
+          "responseTitle": {
+            "es": "Consuelo en comunidad",
+            "en": "Comfort in community",
+            "pt": "Consolo em comunidade",
+            "fr": "Réconfort en communauté"
+          },
+          "responseText": {
+            "es": "Sentir la compañía, la palabra o el abrazo de un ser querido fue el canal que Dios usó hoy para reconfortarte.",
+            "en": "Feeling the fellowship, words, or embrace of a loved one was the channel God used to comfort you today.",
+            "pt": "Sentir a companhia, a palavra ou o abraço de alguém querido foi o canal que Deus usou hoje para reconfortar você.",
+            "fr": "Ressentir la présence, la parole ou l'étreinte d'un proche a été le canal que Dieu a utilisé aujourd'hui pour te réconforter."
+          },
+          "verses": [
+            "2 Corintios 7:6"
+          ],
+          "reflectionHeader": {
+            "es": "Dios sostiene mediante otros",
+            "en": "God sustains through others",
+            "pt": "Deus sustenta por outros",
+            "fr": "Dieu soutient par autrui"
+          },
+          "reflection": {
+            "es": "El amor del Señor se hace tangible a través de las personas que nos rodean. Dale gracias a Dios por quienes caminaron a tu lado hoy y sé también tú un reflejo de ese consuelo para los demás.",
+            "en": "The Lord's love becomes tangible through the people around us. Thank God for those who walked alongside you today, and be a reflection of that comfort for others as well.",
+            "pt": "O amor do Senhor se torna tangível por meio das pessoas ao nosso redor. Dê graças a Deus por quem caminhou ao seu lado hoje e seja você também um reflexo desse consolo para os outros.",
+            "fr": "L'amour du Seigneur devient tangible à travers les personnes qui nous entourent. Remercie Dieu pour ceux qui ont marché à tes côtés aujourd'hui et sois toi aussi un reflet de ce réconfort pour les autres."
+          }
+        },
+        {
+          "id": "reposo_alma",
+          "label": {
+            "es": "Reposo en Cristo",
+            "en": "Resting in Christ",
+            "pt": "Repouso em Cristo",
+            "fr": "Repos en Christ"
+          },
+          "responseTitle": {
+            "es": "Descanso para el alma",
+            "en": "Rest for your soul",
+            "pt": "Descanso para a alma",
+            "fr": "Repos pour l'âme"
+          },
+          "responseText": {
+            "es": "Soltar la carga del día a los pies de Jesús te permite descansar con la certeza de que Él cuida de tu futuro.",
+            "en": "Releasing the day's burden at Jesus' feet allows you to rest with the certainty that He takes care of your future.",
+            "pt": "Soltar o fardo do dia aos pés de Jesus permite que você descanse com a certeza de que Ele cuida do seu futuro.",
+            "fr": "Déposer le fardeau de la journée aux pieds de Jésus te permet de te reposer avec la certitude qu'Il prend soin de ton avenir."
+          },
+          "verses": [
+            "Mateo 11:28"
+          ],
+          "reflectionHeader": {
+            "es": "Carga ligera en Jesús",
+            "en": "Light burden in Jesus",
+            "pt": "Carga leve em Jesus",
+            "fr": "Fardeau léger en Jésus"
+          },
+          "reflection": {
+            "es": "No fuiste creado para llevar el peso del mundo sobre tus hombros. Jesús te invita a cambiar tus cargas agotadoras por Su reposo reconfortante. Duerme en tranquilidad sabiendo que estás en manos seguras.",
+            "en": "You were not created to carry the weight of the world on your shoulders. Jesus invites you to trade your exhausting burdens for His comforting rest. Sleep peacefully knowing you are in safe hands.",
+            "pt": "Você não foi criado para carregar o peso do mundo nos ombros. Jesus convida você a trocar seus fardos cansativos pelo Seu repouso reconfortante. Durma em tranquilidade sabendo que está em mãos seguras.",
+            "fr": "Tu n'as pas été créé pour porter le poids du monde sur tes épaules. Jésus t'invite à échanger tes fardeaux épuisants contre Son repos réconfortant. Dors paisiblement en sachant que tu es entre de bonnes mains."
+          }
+        },
+        {
+          "id": "cantico_amparo",
+          "label": {
+            "es": "Cántico de amparo",
+            "en": "Song of shelter",
+            "pt": "Cântico de amparo",
+            "fr": "Chant de refuge"
+          },
+          "responseTitle": {
+            "es": "Rodeado de alabanza",
+            "en": "Surrounded by praise",
+            "pt": "Cercado de louvor",
+            "fr": "Entouré de louange"
+          },
+          "responseText": {
+            "es": "Elevar un cántico de gratitud aun en la dificultad te recordó que Dios es tu escudo y fortaleza impenetrable.",
+            "en": "Lifting a song of gratitude even in difficulty reminded you that God is your shield and impenetrable fortress.",
+            "pt": "Elevar um cântico de gratidão mesmo na dificuldade lembrou você de que Deus é seu escudo e fortaleza impenetrável.",
+            "fr": "Élever un chant de gratitude même dans la difficulté t'a rappelé que Dieu est ton bouclier et ta forteresse inébranlable."
+          },
+          "verses": [
+            "Salmos 32:7"
+          ],
+          "reflectionHeader": {
+            "es": "Cánticos de liberación",
+            "en": "Songs of deliverance",
+            "pt": "Cânticos de libertação",
+            "fr": "Chants de délivrance"
+          },
+          "reflection": {
+            "es": "La alabanza cambia nuestra perspectiva y llena el espacio de la presencia divina. Al cerrar tus ojos esta noche, permite que el recuerdo de las bondades de Dios siga resonando como un canto de amparo en tu corazón.",
+            "en": "Praise changes our perspective and fills space with the divine presence. As you close your eyes tonight, let the memory of God's goodness continue to resonate as a song of shelter in your heart.",
+            "pt": "O louvor muda nossa perspectiva e preenche o espaço com a presença divina. Ao fechar os olhos esta noite, permita que a lembrança das bondades de Deus continue a ressoar como um cântico de amparo em seu coração.",
+            "fr": "La louange transforme notre perspective et remplit l'espace de la présence divine. En fermant les yeux ce soir, laisse le souvenir des bontés de Dieu continuer de résonner comme un chant de refuge dans ton cœur."
           }
         }
       ]
