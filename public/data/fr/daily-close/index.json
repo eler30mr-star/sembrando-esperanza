@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08",
+  "updatedAt": "2026-11-09",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -12188,6 +12188,236 @@
             "en": "Praise changes our perspective and fills space with the divine presence. As you close your eyes tonight, let the memory of God's goodness continue to resonate as a song of shelter in your heart.",
             "pt": "O louvor muda nossa perspectiva e preenche o espaço com a presença divina. Ao fechar os olhos esta noite, permita que a lembrança das bondades de Deus continue a ressoar como um cântico de amparo em seu coração.",
             "fr": "La louange transforme notre perspective et remplit l'espace de la présence divine. En fermant les yeux ce soir, laisse le souvenir des bontés de Dieu continuer de résonner comme un chant de refuge dans ton cœur."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera ejercitaste hoy la paciencia y la perseverancia en tu caminar?",
+        "en": "In what way did you practice patience and perseverance in your walk today?",
+        "pt": "De que maneira você exercitou hoje a paciência e a perseverança em sua caminhada?",
+        "fr": "De quelle manière as-tu exercé la patience et la persévérance aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "espera_paciente",
+          "label": {
+            "es": "Espera paciente",
+            "en": "Patient waiting",
+            "pt": "Espera paciente",
+            "fr": "Attente paciente"
+          },
+          "responseTitle": {
+            "es": "Confiaste en los tiempos perfectos de Dios",
+            "en": "You trusted in God's perfect timing",
+            "pt": "Você confiou nos tempos perfeitos de Deus",
+            "fr": "Tu as fait confiance aux temps de Dieu"
+          },
+          "responseText": {
+            "es": "Decidir no adelantarte a las circunstancias sino aguardar con calma en el Señor demuestra una fe madura y profunda.",
+            "en": "Choosing not to rush ahead of circumstances but to wait calmly on the Lord shows a mature and deep faith.",
+            "pt": "Decidir não se adiantar às circunstâncias, mas esperar com calma no Senhor demonstra uma fé madura e profunda.",
+            "fr": "Choisir de ne pas devancer les événements mais d'attendre calmement le Seigneur témoigne d'une foi mûre et profonde."
+          },
+          "verses": [
+            "Salmos 27:14"
+          ],
+          "reflectionHeader": {
+            "es": "Dios obra mientras tú esperas",
+            "en": "God works while you wait",
+            "pt": "Deus opera enquanto você espera",
+            "fr": "Dieu agit pendant que tu attends"
+          },
+          "reflection": {
+            "es": "La espera en Dios nunca es tiempo perdido. En el silencio del proceso, Él moldea tu corazón y fortalece tus alas para elevarte a su debido tiempo. Descansa esta noche sabiendo que tu futuro está bien guardado.",
+            "en": "Waiting on God is never wasted time. In the quiet of the process, He shapes your heart and strengthens your wings to lift you up in due time. Rest tonight knowing your future is well kept.",
+            "pt": "A espera em Deus nunca é tempo perdido. No silêncio do processo, Ele molda seu coração e fortalece suas asas para erguê-lo no tempo certo. Descanse esta noite sabendo que seu futuro está bem guardado.",
+            "fr": "L'attente en Dieu n'est jamais du temps perdu. Dans le silence du processus, Il façonne ton cœur et fortifie tes ailes pour t'élever en son temps. Repose-toi ce soir en sachant que ton avenir est bien gardé."
+          }
+        },
+        {
+          "id": "firmeza_en_prueba",
+          "label": {
+            "es": "Constancia en la prueba",
+            "en": "Steadfast in trials",
+            "pt": "Constância na provação",
+            "fr": "Fermeté dans l'épreuve"
+          },
+          "responseTitle": {
+            "es": "Mantuviste la fe frente al obstáculo",
+            "en": "You kept faith despite obstacles",
+            "pt": "Você manteve a fé diante do obstáculo",
+            "fr": "Tu as gardé la foi face à l'obstacle"
+          },
+          "responseText": {
+            "es": "Aunque la dificultad se presentó en tu camino, elegiste afirmarte en las verdades de Dios y no en las sombras del temor.",
+            "en": "Even when difficulty crossed your path, you chose to anchor yourself in God's truth rather than the shadows of fear.",
+            "pt": "Embora a dificuldade tenha surgido em seu caminho, você escolheu firmar-se nas verdades de Deus e não nas sombras do medo.",
+            "fr": "Même cuando la difficulté s'est dressée sur ton chemin, tu as choisi de t'ancrer dans la vérité de Dieu plutôt que dans les ombres de la peur."
+          },
+          "verses": [
+            "Santiago 1:12"
+          ],
+          "reflectionHeader": {
+            "es": "La prueba produce carácter y corona",
+            "en": "Trials build character and hope",
+            "pt": "A provação gera caráter e esperança",
+            "fr": "L'épreuve forge la persévérance"
+          },
+          "reflection": {
+            "es": "Cada desafío superado con fe deja una huella de fortaleza en tu espíritu. Dios reconoce tu esfuerzo silencioso y promete sostenerte cuando tus fuerzas mermen. Puedes dormir en paz porque Su gracia te cubre.",
+            "en": "Every challenge overcome with faith leaves a imprint of strength upon your spirit. God sees your silent endurance and promises to uphold you when your strength fades. Sleep peacefully in His grace.",
+            "pt": "Cada desafio superado com fé deixa uma marca de força em seu espírito. Deus reconhece seu esforço silencioso e promete sustentá-lo quando suas forças fraquejarem. Durma em paz sob a graça d'Ele.",
+            "fr": "Chaque défi surmonté avec foi laisse une empreinte de force dans ton esprit. Dieu voit ton endurance silencieuse et promet de te soutenir quand tes forces faiblissent. Dors paisiblement sous Sa grâce."
+          }
+        },
+        {
+          "id": "gentileza_ante_prisa",
+          "label": {
+            "es": "Calma ante la prisa",
+            "en": "Calm amid rush",
+            "pt": "Calma diante da pressa",
+            "fr": "Calme face à la hâte"
+          },
+          "responseTitle": {
+            "es": "Elegiste no reaccionar con impaciencia",
+            "en": "You chose not to react with impatience",
+            "pt": "Você escolheu não reagir com impaciência",
+            "fr": "Tu as choisi d'éviter l'impatience"
+          },
+          "responseText": {
+            "es": "Responder con mansedumbre y tranquilidad frente a la agitación de tu entorno refleja la presencia del Espíritu Santo en tu vida.",
+            "en": "Responding with meekness and calm amidst environmental agitation reflects the Holy Spirit's active presence in you.",
+            "pt": "Responder com mansidão e tranquilidade diante da agitação ao seu redor reflete a presença do Espírito Santo em sua vida.",
+            "fr": "Répondre avec douceur et calme au milieu de l'agitation ambiante reflète la présence de l'Esprit Saint dans ta vie."
+          },
+          "verses": [
+            "Efesios 4:2"
+          ],
+          "reflectionHeader": {
+            "es": "La mansedumbre guarda la armonía",
+            "en": "Meekness preserves inner harmony",
+            "pt": "A mansidão preserva a harmonia",
+            "fr": "La douceur préserve l'harmonie"
+          },
+          "reflection": {
+            "es": "Guardar la compostura y la amabilidad cuando otros se impacientan es un poderoso testimonio de paz interior. Que el Señor bendiga tu disposición y renueve tu espíritu con un descanso reparador.",
+            "en": "Keeping your composure and kindness when others grow impatient is a powerful testament to inner peace. May the Lord bless your disposition and renew your spirit with restorative rest.",
+            "pt": "Manter a calma e a gentileza quando os outros se impacientam é um poderoso testemunho de paz interior. Que o Senhor abençoe sua atitude e renove seu espírito com um descanso restaurador.",
+            "fr": "Garder ton calme et ta gentillesse quand d'autres s'impatientent est un puissant témoignage de paix intérieure. Que le Seigneur bénisse ton attitude et meuble ton esprit d'un repos réparateur."
+          }
+        },
+        {
+          "id": "siembra_perseverante",
+          "label": {
+            "es": "Perseverar al sembrar",
+            "en": "Persevere in sowing",
+            "pt": "Perseverar ao semear",
+            "fr": "Persévérer à semer"
+          },
+          "responseTitle": {
+            "es": "Seguiste haciendo el bien sin desmayar",
+            "en": "You kept doing good without growing weary",
+            "pt": "Você continuou fazendo o bem sem desanimar",
+            "fr": "Tu as continué à faire le bien sans faiblir"
+          },
+          "responseText": {
+            "es": "Continuar sembrando buenas obras y amor, aun cuando el cansancio se asoma, evidencia tu entrega al Reino de Dios.",
+            "en": "Continuing to sow good deeds and love, even when fatigue creeps in, shows your devotion to God's Kingdom.",
+            "pt": "Continuar semeando boas obras e amor, mesmo quando o cansaço surge, evidencia sua dedicação ao Reino de Deus.",
+            "fr": "Continuer à semer de bonnes œuvres et de l'amour, même quand la fatigue pointe, montre ton dévouement au Royaume de Dieu."
+          },
+          "verses": [
+            "Gálatas 6:9"
+          ],
+          "reflectionHeader": {
+            "es": "Cosecharás a su debido tiempo",
+            "en": "You will reap at the proper time",
+            "pt": "Você colherá no tempo certo",
+            "fr": "Tu récolteras en son temps"
+          },
+          "reflection": {
+            "es": "Ningún acto de bondad ni ningún esfuerzo hecho en el nombre del Señor pasa desapercibido. La semilla que hoy regaste con constancia dará su fruto en la estación perfecta de Dios. Confía y descansa.",
+            "en": "No act of kindness nor effort made in the Lord's name goes unnoticed. The seed you faithfully watered today will bear fruit in God's perfect season. Trust and find rest.",
+            "pt": "Nenhum ato de bondade ou esforço feito em nome do Senhor passa desapercebido. A semente que você regou com constância hoje dará fruto na estação perfeita de Deus. Confie e descanse.",
+            "fr": "Aucun acte de bonté ni aucun effort fait au nom du Seigneur ne passe inaperçu. La graine que tu as arrosée avec fidélité aujourd'hui portera du fruit en la saison de Dieu. Fais confiance et repose-toi."
+          }
+        },
+        {
+          "id": "fidelidad_en_silencio",
+          "label": {
+            "es": "Fidelidad constante",
+            "en": "Constant faithfulness",
+            "pt": "Fidelidade constante",
+            "fr": "Fidélité constante"
+          },
+          "responseTitle": {
+            "es": "Perseveraste aun cuando no veías frutos",
+            "en": "You persevered even without seeing fruit",
+            "pt": "Você perseverou mesmo sem ver frutos",
+            "fr": "Tu as persévéré sans voir de fruit"
+          },
+          "responseText": {
+            "es": "Permanecer fiel en las tareas cotidianas sin buscar aplausos demuestra la solidez de tu compromiso espiritual.",
+            "en": "Remaining faithful in everyday responsibilities without seeking applause shows the strength of your spiritual walk.",
+            "pt": "Permanecer fiel nas tarefas cotidianas sem buscar aplausos demonstra a solidez do seu compromisso espiritual.",
+            "fr": "Rester fidèle dans les tâches du quotidien sans chercher d'applaudissements montre la solidité de ton engagement spirituel."
+          },
+          "verses": [
+            "Hebreos 10:36"
+          ],
+          "reflectionHeader": {
+            "es": "La promesa se cumple al perseverar",
+            "en": "The promise is fulfilled in endurance",
+            "pt": "A promessa se cumpre na perseverança",
+            "fr": "La promesse s'accomplit par la foi"
+          },
+          "reflection": {
+            "es": "La verdadera perseverancia no depende de los resultados inmediatos, sino de la fidelidad del Dios que prometió. Él honra a quienes caminan en constancia diaria. Entrega tu cansancio al Señor en esta noche.",
+            "en": "True endurance does not rely on immediate results, but on the faithfulness of the God who promised. He honors those who walk with daily consistency. Hand your fatigue over to the Lord tonight.",
+            "pt": "A verdadeira perseverança não depende de resultados imediatos, mas da fidelidade do Deus que prometeu. Ele honra aqueles que caminham em constância diária. Entregue seu cansaço ao Senhor nesta noite.",
+            "fr": "La vraie persévérance ne dépend pas des résultats immédiats, mais de la fidélité du Dieu qui a promis. Il honore ceux qui marchent avec régularité quotidienne. Remets ta fatigue au Seigneur ce soir."
+          }
+        },
+        {
+          "id": "descanso_en_promesa",
+          "label": {
+            "es": "Reposo en la promesa",
+            "en": "Resting in promises",
+            "pt": "Repouso na promessa",
+            "fr": "Repos dans la promesse"
+          },
+          "responseTitle": {
+            "es": "Dejaste tus tiempos en manos del Señor",
+            "en": "You placed your timing in the Lord's hands",
+            "pt": "Você entregou seus tempos ao Senhor",
+            "fr": "Tu as remet tes temps au Seigneur"
+          },
+          "responseText": {
+            "es": "Reconocer que Dios gobierna cada etapa de tu vida te permite soltar la ansiedad y descansar en Su providencia.",
+            "en": "Recognizing that God governs every stage of your life allows you to release anxiety and rest in His providence.",
+            "pt": "Reconhecer que Deus governa cada etapa da sua vida permite soltar a ansiedade e descansar na providência d'Ele.",
+            "fr": "Reconnaître que Dieu régit chaque étape de ta vie te permet de lâcher l'anxiété et de te reposer sur Sa providence."
+          },
+          "verses": [
+            "Salmos 31:15"
+          ],
+          "reflectionHeader": {
+            "es": "Tus tiempos están seguros en Dios",
+            "en": "Your times are secure in God",
+            "pt": "Seus tempos estão seguros em Deus",
+            "fr": "Tes temps sont sûrs en Dieu"
+          },
+          "reflection": {
+            "es": "Tus días y tus estaciones están diseñados bajo la mirada amorosa del Creador. Nada se le escapa de las manos. Al cerrar los ojos hoy, confía en que mañana Su soberana bondad te volverá a sostener.",
+            "en": "Your days and seasons are ordered under the Creator's loving eye. Nothing escapes His hands. As you close your eyes tonight, trust that His sovereign goodness will uphold you again tomorrow.",
+            "pt": "Seus dias e suas estações estão desenhados sob o olhar amoroso do Criador. Nada escapa das mãos d'Ele. Ao fechar os olhos hoje, confie que amanhã Sua soberana bondade voltará a sustentá-lo.",
+            "fr": "Tes jours et tes saisons sont façonnés sous le regard aimant du Créateur. Rien ne Lui échappe. En fermant les yeux ce soir, aie confiance que Sa bonté souveraine te soutiendra encore demain."
           }
         }
       ]
