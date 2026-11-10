@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-10",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -12418,6 +12418,236 @@
             "en": "Your days and seasons are ordered under the Creator's loving eye. Nothing escapes His hands. As you close your eyes tonight, trust that His sovereign goodness will uphold you again tomorrow.",
             "pt": "Seus dias e suas estações estão desenhados sob o olhar amoroso do Criador. Nada escapa das mãos d'Ele. Ao fechar os olhos hoje, confie que amanhã Sua soberana bondade voltará a sustentá-lo.",
             "fr": "Tes jours et tes saisons sont façonnés sous le regard aimant du Créateur. Rien ne Lui échappe. En fermant les yeux ce soir, aie confiance que Sa bonté souveraine te soutiendra encore demain."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera permitiste que el Espíritu Santo renovara tu mirada en este día?",
+        "en": "In what way did you allow the Holy Spirit to renew your perspective today?",
+        "pt": "De que maneira você permitiu que o Espírito Santo renovasse seu olhar neste dia?",
+        "fr": "De quelle manière as-tu laissé le Saint-Esprit renouveler ton regard aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "mirada_compasiva",
+          "label": {
+            "es": "Mirada de compasión",
+            "en": "Compassionate gaze",
+            "pt": "Olhar de compaixão",
+            "fr": "Regard de compassion"
+          },
+          "responseTitle": {
+            "es": "Viendo como Cristo ve",
+            "en": "Seeing as Christ sees",
+            "pt": "Vendo como Cristo vê",
+            "fr": "Voir comme le Christ voit"
+          },
+          "responseText": {
+            "es": "Hoy decidiste mirar a los demás con misericordia, reconociendo el valor de cada alma.",
+            "en": "Today you chose to look at others with mercy, recognizing the value of every soul.",
+            "pt": "Hoje você decidiu olhar para os outros com misericórdia, reconhecendo o valor de cada alma.",
+            "fr": "Aujourd'hui, tu as choisi de regarder les autres avec merci, reconnaissant la valeur de chaque âme."
+          },
+          "verses": [
+            "Mateo 9:36"
+          ],
+          "reflectionHeader": {
+            "es": "El filtro del amor divino",
+            "en": "The filter of divine love",
+            "pt": "O filtro do amor divino",
+            "fr": "Le filtre de l'amour divin"
+          },
+          "reflection": {
+            "es": "Cuando el Espíritu Santo actúa en nosotros, las etiquetas desaparecen. Al cerrar los ojos hoy, agradece por esa capacidad de ver la necesidad y la dignidad en el prójimo, reflejando el corazón del Buen Pastor que se conmueve por sus ovejas.",
+            "en": "When the Holy Spirit acts within us, labels disappear. As you close your eyes today, give thanks for that ability to see the need and dignity in your neighbor, reflecting the heart of the Good Shepherd who is moved by His sheep.",
+            "pt": "Quando o Espírito Santo age em nós, os rótulos desaparecem. Ao fechar os olhos hoje, agradeça por essa capacidade de ver a necessidade e a dignidade no próximo, refletindo o coração do Bom Pastor que se comove pelas suas ovelhas.",
+            "fr": "Quand le Saint-Esprit agit en nous, les étiquettes disparaissent. En fermant les yeux ce soir, remercie pour cette capacité à voir le besoin et la dignité en ton prochain, reflétant le cœur du Bon Berger qui est ému par ses brebis."
+          }
+        },
+        {
+          "id": "mente_transformada",
+          "label": {
+            "es": "Mente transformada",
+            "en": "Transformed mind",
+            "pt": "Mente transformada",
+            "fr": "Esprit transformé"
+          },
+          "responseTitle": {
+            "es": "Renovación del pensamiento",
+            "en": "Renewal of thought",
+            "pt": "Renovação do pensamento",
+            "fr": "Renouveau de la pensée"
+          },
+          "responseText": {
+            "es": "Rechazaste los patrones del mundo para abrazar la voluntad de Dios, buena y perfecta.",
+            "en": "You rejected the world's patterns to embrace God's will, which is good and perfect.",
+            "pt": "Você rejeitou os padrões do mundo para abraçar a vontade de Deus, boa e perfeita.",
+            "fr": "Tu as rejeté les schémas du monde pour embrasser la volonté de Dieu, bonne et parfaite."
+          },
+          "verses": [
+            "Romanos 12:2"
+          ],
+          "reflectionHeader": {
+            "es": "Un nuevo entendimiento",
+            "en": "A new understanding",
+            "pt": "Um novo entendimento",
+            "fr": "Une nouvelle intelligence"
+          },
+          "reflection": {
+            "es": "La verdadera transformación comienza en la mente. Hoy permitiste que la Palabra de Dios pesara más que las presiones externas. Descansa sabiendo que tu identidad no depende de lo que haces, sino de lo que Dios dice que eres.",
+            "en": "True transformation begins in the mind. Today you allowed God's Word to weigh more than external pressures. Rest knowing that your identity does not depend on what you do, but on who God says you are.",
+            "pt": "A verdadeira transformação começa na mente. Hoje você permitiu que a Palavra de Deus pesasse mais do que as pressões externas. Descanse sabendo que sua identidade não depende do que você faz, mas do que Deus diz que você é.",
+            "fr": "La vraie transformation commence dans l'esprit. Aujourd'hui, tu as laissé la Parole de Dieu peser plus lourd que les pressions extérieures. Repose-toi en sachant que ton identité ne dépend pas de ce que tu fais, mais de qui Dieu dit que tu es."
+          }
+        },
+        {
+          "id": "fruto_mansedumbre",
+          "label": {
+            "es": "Cosecha de mansedumbre",
+            "en": "Harvest of gentleness",
+            "pt": "Colheita de mansidão",
+            "fr": "Récolte de douceur"
+          },
+          "responseTitle": {
+            "es": "Suavidad en el trato",
+            "en": "Gentleness in interaction",
+            "pt": "Suavidade no trato",
+            "fr": "Douceur dans l'échange"
+          },
+          "responseText": {
+            "es": "En lugar de reaccionar con dureza, el Espíritu produjo en ti una respuesta amable.",
+            "en": "Instead of reacting harshly, the Spirit produced a gentle response in you.",
+            "pt": "Em vez de reagir com dureza, o Espírito produziu em você uma resposta amável.",
+            "fr": "Au lieu de réagir avec dureté, l'Esprit a produit en toi une réponse aimable."
+          },
+          "verses": [
+            "Gálatas 5:23"
+          ],
+          "reflectionHeader": {
+            "es": "La fuerza de lo apacible",
+            "en": "The strength of the gentle",
+            "pt": "A força do que é pacífico",
+            "fr": "La force de la douceur"
+          },
+          "reflection": {
+            "es": "La mansedumbre no es debilidad, sino poder bajo control divino. Hoy, al elegir la suavidad, permitiste que el carácter de Cristo brillara. Esa semilla de paz que plantaste dará frutos de reconciliación y descanso para tu propia alma.",
+            "en": "Gentleness is not weakness, but power under divine control. Today, by choosing softness, you allowed Christ's character to shine. That seed of peace you planted will bear fruit of reconciliation and rest for your own soul.",
+            "pt": "A mansidão não é fraqueza, mas poder sob controle divino. Hoje, ao escolher a suavidade, você permitiu que o caráter de Cristo brilhasse. Essa semente de paz que você plantou dará frutos de reconciliação e descanso para sua própria alma.",
+            "fr": "La douceur n'est pas de la faiblesse, mais une force sous contrôle divin. Aujourd'hui, en choisissant la douceur, tu as laissé le caractère du Christ briller. Cette semence de paix que tu as plantée portera des fruits de réconciliation et de repos pour ton âme."
+          }
+        },
+        {
+          "id": "descanso_espiritual",
+          "label": {
+            "es": "Quietud del corazón",
+            "en": "Heart's stillness",
+            "pt": "Quietude do coração",
+            "fr": "Calme du cœur"
+          },
+          "responseTitle": {
+            "es": "Reposo en Su soberanía",
+            "en": "Resting in His sovereignty",
+            "pt": "Repouso em Sua soberania",
+            "fr": "Repos en Sa souveraineté"
+          },
+          "responseText": {
+            "es": "Lograste silenciar el ruido externo para reconocer que Dios sigue en control de todo.",
+            "en": "You managed to silence the external noise to recognize that God is still in control of everything.",
+            "pt": "Você conseguiu silenciar o ruído externo para reconhecer que Deus continua no controle de tudo.",
+            "fr": "Tu as réussi à faire taire le bruit extérieur pour reconnaître que Dieu garde le contrôle sur tout."
+          },
+          "verses": [
+            "Salmos 46:10"
+          ],
+          "reflectionHeader": {
+            "es": "Saber que Él es Dios",
+            "en": "Knowing He is God",
+            "pt": "Saber que Ele é Deus",
+            "fr": "Savoir qu'Il est Dieu"
+          },
+          "reflection": {
+            "es": "Estar quietos no es falta de actividad, sino un acto de confianza profunda. Al reconocer Su señorío sobre tus circunstancias, el cansancio se convierte en adoración. Entrega tus preocupaciones y duerme con la certeza de que Él no duerme.",
+            "en": "Being still is not a lack of activity, but an act of deep trust. By recognizing His lordship over your circumstances, weariness turns into worship. Surrender your worries and sleep with the certainty that He does not sleep.",
+            "pt": "Estar quieto não é falta de atividade, mas um ato de confiança profunda. Ao reconhecer o Seu senhorio sobre suas circunstâncias, o cansaço se torna adoração. Entregue suas preocupações e durma com a certeza de que Ele não dorme.",
+            "fr": "Être tranquille n'est pas un manque d'activité, mais un acte de confiance profonde. En reconnaissant Sa seigneurie sur tes circonstances, la fatigue se change en adoration. Remets tes soucis et dors avec la certitude qu'Il ne dort pas."
+          }
+        },
+        {
+          "id": "fortaleza_interna",
+          "label": {
+            "es": "Fortaleza interna",
+            "en": "Inner strength",
+            "pt": "Força interior",
+            "fr": "Force intérieure"
+          },
+          "responseTitle": {
+            "es": "Poder en el hombre interior",
+            "en": "Power in the inner man",
+            "pt": "Poder no homem interior",
+            "fr": "Puissance de l'être intérieur"
+          },
+          "responseText": {
+            "es": "Sentiste que tu espíritu fue fortalecido por Dios para enfrentar el cansancio del día.",
+            "en": "You felt your spirit was strengthened by God to face the day's weariness.",
+            "pt": "Você sentiu que seu espírito foi fortalecido por Deus para enfrentar o cansaço do dia.",
+            "fr": "Tu as senti que ton esprit était fortifié par Dieu pour affronter la fatigue du jour."
+          },
+          "verses": [
+            "Efesios 3:16"
+          ],
+          "reflectionHeader": {
+            "es": "Raíces profundas",
+            "en": "Deep roots",
+            "pt": "Raízes profundas",
+            "fr": "Racines profondes"
+          },
+          "reflection": {
+            "es": "Dios no siempre quita la carga, pero siempre fortalece la espalda que la lleva. Esa energía que experimentaste hoy no fue propia, sino el poder glorioso de Su Espíritu actuando en ti. Deja que esa misma fuerza te restaure durante el sueño.",
+            "en": "God doesn't always take away the burden, but He always strengthens the back that carries it. That energy you experienced today was not your own, but the glorious power of His Spirit working in you. Let that same strength restore you as you sleep.",
+            "pt": "Deus nem sempre tira o fardo, mas sempre fortalece as costas que o carregam. Essa energia que você experimentou hoje não foi própria, mas o poder glorioso do Seu Espírito agindo em você. Deixe que essa mesma força o restaure durante o sono.",
+            "fr": "Dieu n'enlève pas toujours le fardeau, mais Il fortifie toujours le dos qui le porte. Cette énergie éprouvée aujourd'hui n'était pas la tienne, mais la puissance glorieuse de Son Esprit agissant en toi. Laisse cette même force te restaurer durant ton sommeil."
+          }
+        },
+        {
+          "id": "discernimiento_diario",
+          "label": {
+            "es": "Sabiduría práctica",
+            "en": "Practical wisdom",
+            "pt": "Sabedoria prática",
+            "fr": "Sagesse pratique"
+          },
+          "responseTitle": {
+            "es": "Caminar con inteligencia",
+            "en": "Walking with wisdom",
+            "pt": "Caminhar com sabedoria",
+            "fr": "Marcher avec sagesse"
+          },
+          "responseText": {
+            "es": "Aprovechaste bien el tiempo y las oportunidades, actuando con discernimiento divino.",
+            "en": "You made good use of time and opportunities, acting with divine discernment.",
+            "pt": "Você aproveitou bem o tempo e as oportunidades, agindo com discernimento divino.",
+            "fr": "Tu as bien racheté le temps et les occasions, agissant avec un discernement divin."
+          },
+          "verses": [
+            "Colosenses 4:5"
+          ],
+          "reflectionHeader": {
+            "es": "Pasos con propósito",
+            "en": "Purposeful steps",
+            "pt": "Passos com propósito",
+            "fr": "Pas avec intention"
+          },
+          "reflection": {
+            "es": "Vivir sabiamente implica ver las oportunidades donde otros ven obstáculos. Hoy permitiste que el Espíritu te guiara en tus palabras y acciones hacia los demás. Cierra el día agradeciendo por la luz que Él puso en tu camino para no tropezar.",
+            "en": "Living wisely involves seeing opportunities where others see obstacles. Today you allowed the Spirit to guide your words and actions toward others. Close the day thanking God for the light He placed on your path so you would not stumble.",
+            "pt": "Viver sabiamente envolve ver oportunidades onde outros veem obstáculos. Hoje você permitiu que o Espírito guiasse suas palavras e ações em direção aos outros. Feche o dia agradecendo pela luz que Ele colocou em seu caminho para não tropeçar.",
+            "fr": "Vivre sagement implique de voir des opportunités là où d'autres voient des obstacles. Aujourd'hui, tu as laissé l'Esprit guider tes paroles et tes actes. Termine la journée en remerciant pour la lumière qu'Il a placée sur ton chemin pour ne pas trébucher."
           }
         }
       ]
