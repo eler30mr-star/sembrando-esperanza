@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-11",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -12648,6 +12648,236 @@
             "en": "Living wisely involves seeing opportunities where others see obstacles. Today you allowed the Spirit to guide your words and actions toward others. Close the day thanking God for the light He placed on your path so you would not stumble.",
             "pt": "Viver sabiamente envolve ver oportunidades onde outros veem obstáculos. Hoje você permitiu que o Espírito guiasse suas palavras e ações em direção aos outros. Feche o dia agradecendo pela luz que Ele colocou em seu caminho para não tropeçar.",
             "fr": "Vivre sagement implique de voir des opportunités là où d'autres voient des obstacles. Aujourd'hui, tu as laissé l'Esprit guider tes paroles et tes actes. Termine la journée en remerciant pour la lumière qu'Il a placée sur ton chemin pour ne pas trébucher."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera compartiste hoy la bondad de Dios a través de tus acciones?",
+        "en": "In what way did you share God's goodness through your actions today?",
+        "pt": "De que maneira você compartilhou hoje a bondade de Deus por meio de suas ações?",
+        "fr": "De quelle manière as-tu partagé la bonté de Dieu à travers tes actions aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "tiempo_para_otros",
+          "label": {
+            "es": "Tiempo para otros",
+            "en": "Time for others",
+            "pt": "Tempo para outros",
+            "fr": "Du temps pour autrui"
+          },
+          "responseTitle": {
+            "es": "Tu tiempo es un regalo",
+            "en": "Your time is a gift",
+            "pt": "Seu tempo é um presente",
+            "fr": "Ton temps est un don"
+          },
+          "responseText": {
+            "es": "Dedicar minutos a quien lo necesita refleja el corazón de Cristo.",
+            "en": "Dedicating minutes to those in need reflects the heart of Christ.",
+            "pt": "Dedicar minutos a quem precisa reflete o coração de Cristo.",
+            "fr": "Consacrer du temps à ceux qui en ont besoin reflète le cœur du Christ."
+          },
+          "verses": [
+            "Hebreos 13:16"
+          ],
+          "reflectionHeader": {
+            "es": "Inversión en la eternidad",
+            "en": "Investment in eternity",
+            "pt": "Investimento na eternidade",
+            "fr": "Investissement éternel"
+          },
+          "reflection": {
+            "es": "Cada segundo invertido en amar al prójimo es un tesoro en el cielo. Al dar de tu tiempo, estás entregando una parte de tu vida que no regresará, demostrando que valoras a los demás sobre tu propia agenda.",
+            "en": "Every second invested in loving your neighbor is a treasure in heaven. By giving your time, you are giving a part of your life that will not return, showing that you value others above your own agenda.",
+            "pt": "Cada segundo investido em amar o próximo é um tesouro no céu. Ao dar do seu tempo, você está entregando uma parte da sua vida que não voltará, demonstrando que valoriza os outros acima da sua própria agenda.",
+            "fr": "Chaque seconde investie à aimer son prochain est un trésor dans le ciel. En donnant de ton temps, tu donnes une part de ta vie qui ne reviendra pas, montrant que tu valorises les autres plus que ton propre emploi du temps."
+          }
+        },
+        {
+          "id": "palabras_de_aliento",
+          "label": {
+            "es": "Palabras de ánimo",
+            "en": "Words of encouragement",
+            "pt": "Palavras de ânimo",
+            "fr": "Paroles d'encouragement"
+          },
+          "responseTitle": {
+            "es": "Semillas de esperanza",
+            "en": "Seeds of hope",
+            "pt": "Sementes de esperança",
+            "fr": "Semences d'espoir"
+          },
+          "responseText": {
+            "es": "Una palabra oportuna puede levantar un espíritu decaído.",
+            "en": "A timely word can lift a fallen spirit.",
+            "pt": "Uma palavra oportuna pode levantar um espírito abatido.",
+            "fr": "Une parole opportune peut relever un esprit abattu."
+          },
+          "verses": [
+            "Proverbios 12:25"
+          ],
+          "reflectionHeader": {
+            "es": "El poder de hablar vida",
+            "en": "The power of speaking life",
+            "pt": "O poder de falar vida",
+            "fr": "Le pouvoir de parler vie"
+          },
+          "reflection": {
+            "es": "Dios usa tus labios para sanar y restaurar. Al elegir palabras que edifican en lugar de destruir, permites que Su gracia fluya a través de ti hacia aquellos que están cansados o desanimados en su caminar.",
+            "en": "God uses your lips to heal and restore. By choosing words that build up instead of destroy, you allow His grace to flow through you to those who are tired or discouraged in their walk.",
+            "pt": "Deus usa seus lábios para curar e restaurar. Ao escolher palavras que edificam em vez de destruir, você permite que Sua graça flua através de você para aqueles que estão cansados ou desanimados em sua caminhada.",
+            "fr": "Dieu utilise tes lèvres pour guérir et restaurer. En choisissant des mots qui édifient plutôt que de détruire, tu permets à Sa grâce de couler à travers toi vers ceux qui sont fatigués ou découragés dans leur marche."
+          }
+        },
+        {
+          "id": "recursos_compartidos",
+          "label": {
+            "es": "Compartir lo propio",
+            "en": "Sharing what is yours",
+            "pt": "Compartilhar o próprio",
+            "fr": "Partager ses biens"
+          },
+          "responseTitle": {
+            "es": "Corazón desprendido",
+            "en": "A selfless heart",
+            "pt": "Coração desprendido",
+            "fr": "Un cœur détaché"
+          },
+          "responseText": {
+            "es": "Compartir lo que tienes es reconocer que todo viene de Dios.",
+            "en": "Sharing what you have is recognizing that everything comes from God.",
+            "pt": "Compartilhar o que você tem é reconhecer que tudo vem de Deus.",
+            "fr": "Partager ce que tu as, c'est reconnaître que tout vient de Dieu."
+          },
+          "verses": [
+            "2 Corintios 9:7"
+          ],
+          "reflectionHeader": {
+            "es": "Administradores de la gracia",
+            "en": "Stewards of grace",
+            "pt": "Administradores da graça",
+            "fr": "Administrateurs de grâce"
+          },
+          "reflection": {
+            "es": "No somos dueños de nuestras posesiones, sino administradores. Cuando abres tu mano para dar con alegría, rompes el poder del egoísmo y te conviertes en un canal de bendición para la provisión de otros.",
+            "en": "We are not owners of our possessions, but stewards. When you open your hand to give with joy, you break the power of selfishness and become a channel of blessing for the provision of others.",
+            "pt": "Não somos donos de nossas posses, mas administradores. Quando você abre a mão para dar com alegria, quebra o poder do egoísmo e se torna um canal de bênção para a provisão de outros.",
+            "fr": "Nous ne sommes pas propriétaires de nos possessions, mais administrateurs. Quand tu ouvres ta main pour donner avec joie, tu brises le pouvoir de l'égoïsme et deviens un canal de bénédiction pour les autres."
+          }
+        },
+        {
+          "id": "ayuda_practica",
+          "label": {
+            "es": "Ayuda al prójimo",
+            "en": "Helping your neighbor",
+            "pt": "Ajuda ao próximo",
+            "fr": "Aide au prochain"
+          },
+          "responseTitle": {
+            "es": "Manos que sirven",
+            "en": "Hands that serve",
+            "pt": "Mãos que servem",
+            "fr": "Des mains qui servent"
+          },
+          "responseText": {
+            "es": "Ayudar en lo práctico es predicar el evangelio sin palabras.",
+            "en": "Helping in practical ways is preaching the gospel without words.",
+            "pt": "Ajudar na prática é pregar o evangelho sem palavras.",
+            "fr": "Aider concrètement, c'est prêcher l'Évangile sans paroles."
+          },
+          "verses": [
+            "Mateo 5:42"
+          ],
+          "reflectionHeader": {
+            "es": "El ejemplo del Maestro",
+            "en": "The Master's example",
+            "pt": "O exemplo do Mestre",
+            "fr": "L'exemple du Maître"
+          },
+          "reflection": {
+            "es": "Jesús no solo enseñó, Él sanó y alimentó. Al prestar tu fuerza o tus recursos para aliviar la carga de alguien hoy, has caminado en las mismas huellas de aquel que no vino para ser servido, sino para servir.",
+            "en": "Jesus didn't just teach; He healed and fed. By lending your strength or resources to lighten someone's load today, you have walked in the footsteps of the One who came not to be served, but to serve.",
+            "pt": "Jesus não apenas ensinou; Ele curou e alimentou. Ao emprestar sua força ou recursos para aliviar a carga de alguém hoje, você caminhou nos passos dAquele que não veio para ser servido, mas para servir.",
+            "fr": "Jésus n'a pas seulement enseigné, Il a guéri et nourri. En prêtant ta force ou tes ressources pour alléger le fardeau de quelqu'un aujourd'hui, tu as marché sur les traces de Celui qui n'est pas venu pour être servi, mais pour servir."
+          }
+        },
+        {
+          "id": "escucha_empatica",
+          "label": {
+            "es": "Escucha activa",
+            "en": "Active listening",
+            "pt": "Escuta ativa",
+            "fr": "Écoute active"
+          },
+          "responseTitle": {
+            "es": "El valor del silencio",
+            "en": "The value of silence",
+            "pt": "O valor do silêncio",
+            "fr": "La valeur du silence"
+          },
+          "responseText": {
+            "es": "Escuchar con amor es una de las formas más altas de respeto.",
+            "en": "Listening with love is one of the highest forms of respect.",
+            "pt": "Ouvir com amor é uma das formas mais altas de respeito.",
+            "fr": "Écouter avec amour est l'une des formes les plus élevées de respect."
+          },
+          "verses": [
+            "Santiago 1:19"
+          ],
+          "reflectionHeader": {
+            "es": "Presencia que consuela",
+            "en": "Comforting presence",
+            "pt": "Presença que consola",
+            "fr": "Présence qui console"
+          },
+          "reflection": {
+            "es": "A menudo, las personas no necesitan soluciones inmediatas, sino ser comprendidas. Tu disposición para escuchar sin juzgar ha sido un refugio seguro para alguien hoy, reflejando el oído atento de nuestro Dios.",
+            "en": "Often, people don't need immediate solutions, but to be understood. Your willingness to listen without judging has been a safe haven for someone today, reflecting the attentive ear of our God.",
+            "pt": "Muitas vezes, as pessoas não precisam de soluções imediatas, mas de serem compreendidas. Sua disposição para ouvir sem julgar foi um refúgio seguro para alguém hoje, refletindo o ouvido atento do nosso Deus.",
+            "fr": "Souvent, les gens n'ont pas besoin de solutions immédiates, mais d'être compris. Ta volonté d'écouter sans juger a été un refuge pour quelqu'un aujourd'hui, reflétant l'oreille attentive de notre Dieu."
+          }
+        },
+        {
+          "id": "bondad_inesperada",
+          "label": {
+            "es": "Gesto inesperado",
+            "en": "Unexpected gesture",
+            "pt": "Gesto inesperado",
+            "fr": "Geste inattendu"
+          },
+          "responseTitle": {
+            "es": "Belleza en la bondad",
+            "en": "Beauty in kindness",
+            "pt": "Beleza na bondade",
+            "fr": "Beauté de la bonté"
+          },
+          "responseText": {
+            "es": "Los actos sencillos de amor revelan la luz de Dios al mundo.",
+            "en": "Simple acts of love reveal God's light to the world.",
+            "pt": "Atos simples de amor revelam a luz de Deus ao mundo.",
+            "fr": "Des actes d'amour simples révèlent la lumière de Dieu au monde."
+          },
+          "verses": [
+            "Efesios 4:32"
+          ],
+          "reflectionHeader": {
+            "es": "Luz en lo cotidiano",
+            "en": "Light in the everyday",
+            "pt": "Luz no cotidiano",
+            "fr": "Lumière au quotidien"
+          },
+          "reflection": {
+            "es": "Un pequeño gesto puede cambiar el rumbo del día de una persona. La bondad no necesita ser ostentosa para ser poderosa; su origen en el fruto del Espíritu es lo que realmente impacta el alma de quienes te rodean.",
+            "en": "A small gesture can change the course of a person's day. Kindness doesn't need to be flashy to be powerful; its origin in the fruit of the Spirit is what truly impacts the souls of those around you.",
+            "pt": "Um pequeno gesto pode mudar o rumo do dia de uma pessoa. A bondade não precisa ser ostentosa para ser poderosa; sua origem no fruto do Espírito é o que realmente impacta a alma daqueles que o cercam.",
+            "fr": "Un petit geste peut changer le cours de la journée d'une personne. La bonté n'a pas besoin d'être ostentatoire pour être puissante ; son origine dans le fruit de l'Esprit est ce qui touche vraiment l'âme de ceux qui t'entourent."
           }
         }
       ]
