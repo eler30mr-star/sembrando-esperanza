@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11",
+  "updatedAt": "2026-11-12",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -12878,6 +12878,236 @@
             "en": "A small gesture can change the course of a person's day. Kindness doesn't need to be flashy to be powerful; its origin in the fruit of the Spirit is what truly impacts the souls of those around you.",
             "pt": "Um pequeno gesto pode mudar o rumo do dia de uma pessoa. A bondade não precisa ser ostentosa para ser poderosa; sua origem no fruto do Espírito é o que realmente impacta a alma daqueles que o cercam.",
             "fr": "Un petit geste peut changer le cours de la journée d'une personne. La bonté n'a pas besoin d'être ostentatoire pour être puissante ; son origine dans le fruit de l'Esprit est ce qui touche vraiment l'âme de ceux qui t'entourent."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera cultivaste hoy la buena semilla de la Palabra de Dios en tu corazón?",
+        "en": "In what way did you cultivate the good seed of God's Word in your heart today?",
+        "pt": "De que maneira você cultivou hoje a boa semente da Palavra de Deus em seu coração?",
+        "fr": "De quelle manière as-tu cultivé aujourd'hui la bonne semence de la Parole de Dieu dans ton cœur ?"
+      },
+      "options": [
+        {
+          "id": "interiorizar_verdades",
+          "label": {
+            "es": "Meditando en ella",
+            "en": "Meditating on it",
+            "pt": "Meditando nela",
+            "fr": "En la méditant"
+          },
+          "responseTitle": {
+            "es": "Silencio que alimenta",
+            "en": "Silence that feeds",
+            "pt": "Silêncio que alimenta",
+            "fr": "Silence nourricier"
+          },
+          "responseText": {
+            "es": "Has permitido que la verdad divina baje de la mente al corazón, transformando tus pensamientos en oración.",
+            "en": "You have allowed divine truth to move from your mind to your heart, transforming your thoughts into prayer.",
+            "pt": "Você permitiu que a verdade divina descesse da mente para o coração, transformando seus pensamentos em oração.",
+            "fr": "Tu as laissé la vérité divine descendre de ton esprit vers ton cœur, transformant tes pensées en prière."
+          },
+          "verses": [
+            "Josué 1:8"
+          ],
+          "reflectionHeader": {
+            "es": "Tesoro en el alma",
+            "en": "Treasure in the soul",
+            "pt": "Tesouro na alma",
+            "fr": "Trésor dans l'âme"
+          },
+          "reflection": {
+            "es": "La meditación constante en las promesas del Señor actúa como un ancla en medio de las tormentas diarias. Al cerrar el día, deja que esa Palabra sea el último susurro que escuche tu espíritu antes de dormir.",
+            "en": "Constant meditation on the Lord's promises acts as an anchor in the midst of daily storms. As the day ends, let that Word be the last whisper your spirit hears before sleep.",
+            "pt": "A meditação constante nas promessas do Senhor atua como uma âncora em meio às tempestades diárias. Ao encerrar o dia, deixe que essa Palavra seja o último sussurro que seu espírito ouça antes de dormir.",
+            "fr": "La méditation constante sur les promesses du Seigneur agit comme une ancre au milieu des tempêtes quotidiennes. En finissant la journée, laisse cette Parole être le dernier murmure que ton esprit entend avant de dormir."
+          }
+        },
+        {
+          "id": "proteccion_espiritual",
+          "label": {
+            "es": "Protegiendo la fe",
+            "en": "Protecting faith",
+            "pt": "Protegendo a fé",
+            "fr": "Protégeant la foi"
+          },
+          "responseTitle": {
+            "es": "Corazón resguardado",
+            "en": "Guarded heart",
+            "pt": "Coração resguardado",
+            "fr": "Cœur préservé"
+          },
+          "responseText": {
+            "es": "Hoy decidiste filtrar lo que escuchas y ves, cuidando que nada dañe la pureza de tu confianza en Dios.",
+            "en": "Today you chose to filter what you hear and see, ensuring nothing damages the purity of your trust in God.",
+            "pt": "Hoje você decidiu filtrar o que ouve e vê, cuidando para que nada prejudique a pureza de sua confiança em Deus.",
+            "fr": "Aujourd'hui, tu as choisi de filtrer ce que tu entends et vois, veillant à ce que rien n'altère la pureté de ta confiance en Dieu."
+          },
+          "verses": [
+            "Proverbios 4:23"
+          ],
+          "reflectionHeader": {
+            "es": "Vigilancia en amor",
+            "en": "Vigilance in love",
+            "pt": "Vigilância em amor",
+            "fr": "Vigilance dans l'amour"
+          },
+          "reflection": {
+            "es": "Cuidar el corazón no es cerrarse al mundo, sino abrirse exclusivamente a lo que edifica. Al descansar, entrega al Señor cualquier impureza que haya intentado entrar y recupera la paz de Su santidad.",
+            "en": "Guarding the heart is not about closing yourself off to the world, but opening yourself exclusively to what builds up. As you rest, give to the Lord any impurity that tried to enter and reclaim the peace of His holiness.",
+            "pt": "Cuidar do coração não é fechar-se para o mundo, mas abrir-se exclusivamente ao que edifica. Ao descansar, entregue ao Senhor qualquer impureza que tenha tentado entrar e recupere a paz de Sua santidade.",
+            "fr": "Garder son cœur, ce n'est pas se fermer au monde, mais s'ouvrir exclusivement à ce qui édifie. En te reposant, remets au Seigneur toute impureté qui aurait tenté d'entrer et retrouve la paix de Sa sainteté."
+          }
+        },
+        {
+          "id": "accion_y_verdad",
+          "label": {
+            "es": "Viviendo la verdad",
+            "en": "Living the truth",
+            "pt": "Vivendo a verdade",
+            "fr": "Vivre la vérité"
+          },
+          "responseTitle": {
+            "es": "Fruto evidente",
+            "en": "Evident fruit",
+            "pt": "Fruto evidente",
+            "fr": "Fruit évident"
+          },
+          "responseText": {
+            "es": "La Palabra no se quedó en papel; hoy se convirtió en una acción concreta, una palabra amable o un gesto de justicia.",
+            "en": "The Word did not stay on paper; today it became a concrete action, a kind word, or a gesture of justice.",
+            "pt": "A Palavra não ficou no papel; hoje ela se tornou uma ação concreta, uma palavra amável ou um gesto de justiça.",
+            "fr": "La Parole n'est pas restée sur le papier ; aujourd'hui, elle est devenue une action concrète, une parole aimable ou un geste de justice."
+          },
+          "verses": [
+            "Santiago 1:22"
+          ],
+          "reflectionHeader": {
+            "es": "Fe en movimiento",
+            "en": "Faith in motion",
+            "pt": "Fé em movimento",
+            "fr": "Foi en mouvement"
+          },
+          "reflection": {
+            "es": "Ser hacedores de la Palabra es la mayor muestra de amor hacia nuestro Maestro. Hoy has dejado una huella de luz en tu entorno; duerme con la satisfacción de haber sido un reflejo vivo del Evangelio.",
+            "en": "Being doers of the Word is the greatest sign of love toward our Master. Today you have left a trail of light in your surroundings; sleep with the satisfaction of having been a living reflection of the Gospel.",
+            "pt": "Ser praticantes da Palavra é a maior prova de amor ao nosso Mestre. Hoje você deixou um rastro de luz ao seu redor; durma com a satisfação de ter sido um reflexo vivo do Evangelho.",
+            "fr": "Mettre la Parole en pratique est la plus grande preuve d'amour envers notre Maître. Aujourd'hui, tu as laissé une trace de lumière autour de toi ; dors avec la satisfaction d'avoir été un reflet vivant de l'Évangile."
+          }
+        },
+        {
+          "id": "consuelo_en_promesas",
+          "label": {
+            "es": "Hallando consuelo",
+            "en": "Finding comfort",
+            "pt": "Encontrando consolo",
+            "fr": "Trouver du réconfort"
+          },
+          "responseTitle": {
+            "es": "Refugio seguro",
+            "en": "Safe refuge",
+            "pt": "Refúgio seguro",
+            "fr": "Refuge sûr"
+          },
+          "responseText": {
+            "es": "En medio de la presión, recordaste una promesa bíblica y encontraste el alivio que el mundo no puede ofrecer.",
+            "en": "In the midst of pressure, you remembered a biblical promise and found the relief that the world cannot offer.",
+            "pt": "No meio da pressão, você se lembrou de uma promessa bíblica e encontrou o alívio que o mundo não pode oferecer.",
+            "fr": "Au milieu de la pression, tu t'es souvenu d'une promesse biblique et tu as trouvé le soulagement que le monde ne peut offrir."
+          },
+          "verses": [
+            "Salmos 119:105"
+          ],
+          "reflectionHeader": {
+            "es": "Luz en la sombra",
+            "en": "Light in the shadow",
+            "pt": "Luz na sombra",
+            "fr": "Lumière dans l'ombre"
+          },
+          "reflection": {
+            "es": "La Palabra es una lámpara que no solo ilumina el camino, sino que también calienta el alma. Aunque el día haya sido difícil, esa luz sigue encendida para guiar tu descanso y darte un nuevo amanecer.",
+            "en": "The Word is a lamp that not only lights the path but also warms the soul. Even if the day was difficult, that light remains lit to guide your rest and give you a new dawn.",
+            "pt": "A Palavra é uma lâmpada que não apenas ilumina o caminho, mas também aquece a alma. Embora o dia tenha sido difícil, essa luz permanece acesa para guiar seu descanso e lhe dar um novo amanhecer.",
+            "fr": "La Parole est une lampe qui non seulement éclaire le chemin, mais réchauffe aussi l'âme. Même si la journée a été difficile, cette lumière reste allumée pour guider ton repos et t'offrir une nouvelle aube."
+          }
+        },
+        {
+          "id": "compartir_testimonio",
+          "label": {
+            "es": "Compartiendo vida",
+            "en": "Sharing life",
+            "pt": "Compartilhando vida",
+            "fr": "Partager la vie"
+          },
+          "responseTitle": {
+            "es": "Semilla extendida",
+            "en": "Spread seed",
+            "pt": "Semente estendida",
+            "fr": "Semence répandue"
+          },
+          "responseText": {
+            "es": "Hoy tus labios hablaron de la gracia de Dios, sembrando esperanza en el corazón de alguien más.",
+            "en": "Today your lips spoke of God's grace, sowing hope in the heart of someone else.",
+            "pt": "Hoje seus lábios falaram da graça de Deus, semeando esperança no coração de outra pessoa.",
+            "fr": "Aujourd'hui, tes lèvres ont parlé de la grâce de Dieu, semant l'espoir dans le cœur d'un autre."
+          },
+          "verses": [
+            "Colosenses 3:16"
+          ],
+          "reflectionHeader": {
+            "es": "Efecto multiplicador",
+            "en": "Multiplier effect",
+            "pt": "Efeito multiplicador",
+            "fr": "Effet multiplicateur"
+          },
+          "reflection": {
+            "es": "Al compartir lo que Dios ha puesto en ti, la semilla crece tanto en los demás como en ti mismo. Descansa sabiendo que el Espíritu Santo hará germinar lo que hoy te atreviste a decir con amor.",
+            "en": "By sharing what God has placed in you, the seed grows in others as much as in yourself. Rest knowing that the Holy Spirit will cause to sprout what you dared to say with love today.",
+            "pt": "Ao compartilhar o que Deus colocou em você, a semente cresce tanto nos outros quanto em você mesmo. Descanse sabendo que o Espírito Santo fará germinar o que hoje você se atreveu a dizer com amor.",
+            "fr": "En partageant ce que Dieu a mis en toi, la semence grandit chez les autres autant qu'en toi-même. Repose-toi en sachant que le Saint-Esprit fera germer ce que tu as osé dire avec amour aujourd'hui."
+          }
+        },
+        {
+          "id": "esperanza_en_promesa",
+          "label": {
+            "es": "Renovando esperanza",
+            "en": "Renewing hope",
+            "pt": "Renovando esperança",
+            "fr": "Renouveler l'espoir"
+          },
+          "responseTitle": {
+            "es": "Ancla del mañana",
+            "en": "Anchor of tomorrow",
+            "pt": "Âncora do amanhã",
+            "fr": "Ancre de demain"
+          },
+          "responseText": {
+            "es": "A pesar de las dudas, elegiste creer en lo que Dios ha dicho sobre tu futuro y tu propósito.",
+            "en": "Despite doubts, you chose to believe in what God has said about your future and your purpose.",
+            "pt": "Apesar das dúvidas, você escolheu acreditar no que Deus disse sobre seu futuro e seu propósito.",
+            "fr": "Malgré les doutes, tu as choisi de croire en ce que Dieu a dit concernant ton avenir et ton but."
+          },
+          "verses": [
+            "Romanos 15:4"
+          ],
+          "reflectionHeader": {
+            "es": "Firmeza espiritual",
+            "en": "Spiritual firmness",
+            "pt": "Firmeza espiritual",
+            "fr": "Fermeté spirituelle"
+          },
+          "reflection": {
+            "es": "Las Escrituras fueron escritas para darnos aliento. Hoy tu esperanza se ha fortalecido porque no miraste las olas, sino la Palabra de Aquel que camina sobre ellas. Duerme tranquilo, tu futuro está en Sus manos.",
+            "en": "The Scriptures were written to give us encouragement. Today your hope has been strengthened because you did not look at the waves, but at the Word of the One who walks upon them. Sleep peacefully; your future is in His hands.",
+            "pt": "As Escrituras foram escritas para nos dar ânimo. Hoje sua esperança foi fortalecida porque você não olhou para as ondas, mas para a Palavra Daquele que caminha sobre elas. Durma tranquilo; seu futuro está nas mãos Dele.",
+            "fr": "Les Écritures ont été écrites pour nous encourager. Aujourd'hui, ton espérance s'est fortifiée car tu n'as pas regardé les vagues, mais la Parole de Celui qui marche dessus. Dors tranquille ; ton avenir est entre Ses mains."
           }
         }
       ]
