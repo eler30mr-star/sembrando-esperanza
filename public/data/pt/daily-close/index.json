@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12",
+  "updatedAt": "2026-11-13",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -13108,6 +13108,236 @@
             "en": "The Scriptures were written to give us encouragement. Today your hope has been strengthened because you did not look at the waves, but at the Word of the One who walks upon them. Sleep peacefully; your future is in His hands.",
             "pt": "As Escrituras foram escritas para nos dar ânimo. Hoje sua esperança foi fortalecida porque você não olhou para as ondas, mas para a Palavra Daquele que caminha sobre elas. Durma tranquilo; seu futuro está nas mãos Dele.",
             "fr": "Les Écritures ont été écrites pour nous encourager. Aujourd'hui, ton espérance s'est fortifiée car tu n'as pas regardé les vagues, mais la Parole de Celui qui marche dessus. Dors tranquille ; ton avenir est entre Ses mains."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera encomendaste hoy tus planes y proyectos al Señor?",
+        "en": "In what way did you entrust your plans and projects to the Lord today?",
+        "pt": "De que maneira você entregou hoje seus planos e projetos ao Senhor?",
+        "fr": "De quelle manière as-tu confié aujourd'hui tes projets au Seigneur ?"
+      },
+      "options": [
+        {
+          "id": "orando_sus_proyectos",
+          "label": {
+            "es": "Oración por proyectos",
+            "en": "Prayer for plans",
+            "pt": "Oração por projetos",
+            "fr": "Prière pour projets"
+          },
+          "responseTitle": {
+            "es": "Poniendo tus metas en manos de Dios",
+            "en": "Placing your goals in God's hands",
+            "pt": "Colocando suas metas nas mãos de Deus",
+            "fr": "Placer tes objectifs entre les mains de Dieu"
+          },
+          "responseText": {
+            "es": "Presentar cada proyecto al Señor llena el alma de quietud y nos recuerda que Él es quien afirma cada uno de nuestros pasos.",
+            "en": "Presenting every project to the Lord fills the soul with quietness and reminds us that He establishes each of our steps.",
+            "pt": "Apresentar cada projeto ao Senhor enche a alma de serenidade e nos lembra que Ele confirma cada um dos nossos passos.",
+            "fr": "Présenter chaque projet au Seigneur remplit l'âme de quiétude et nous rappelle qu'Il affermit chacun de nos pas."
+          },
+          "verses": [
+            "Proverbios 16:3"
+          ],
+          "reflectionHeader": {
+            "es": "Seguridad bajo el propósito divino",
+            "en": "Security under divine purpose",
+            "pt": "Segurança sob o propósito divino",
+            "fr": "Sécurité sous le dessein divin"
+          },
+          "reflection": {
+            "es": "Al entregar tus planes antes de dormir, descansas sabiendo que la voluntad del Padre es buena, agradable y perfecta para tu vida.",
+            "en": "By surrendering your plans before sleep, you rest knowing that the Father's will is good, pleasing, and perfect for your life.",
+            "pt": "Ao entregar seus planos antes de dormir, você descansa sabendo que a vontade do Pai é boa, agradável e perfeita para sua vida.",
+            "fr": "En confiant tes projets avant de dormir, tu te reposes en sachant que la volonté du Père est bonne, agréable et parfaite."
+          }
+        },
+        {
+          "id": "soltar_el_control",
+          "label": {
+            "es": "Soltar el control",
+            "en": "Releasing control",
+            "pt": "Soltar o controle",
+            "fr": "Lâcher le contrôle"
+          },
+          "responseTitle": {
+            "es": "Rindiendo el deseo de dominar el futuro",
+            "en": "Surrendering the urge to control tomorrow",
+            "pt": "Rendendo o desejo de controlar o amanhã",
+            "fr": "Abandonner le désir de tout contrôler"
+          },
+          "responseText": {
+            "es": "Reconocer que no tenemos el control total es un acto de sabiduría que nos libera del estrés y abre espacio a la fe verdadera.",
+            "en": "Recognizing that we lack total control is an act of wisdom that frees us from stress and opens space for true faith.",
+            "pt": "Reconhecer que não temos o controle total é um ato de sabedoria que nos liberta do estresse e abre espaço para a verdadeira fé.",
+            "fr": "Reconnaître que nous n'avons pas le contrôle total est un acte de sagesse qui libère du stress et fait place à la vraie foi."
+          },
+          "verses": [
+            "Salmos 37:5"
+          ],
+          "reflectionHeader": {
+            "es": "Confianza en las manos del Creador",
+            "en": "Trusting in the Creator's hands",
+            "pt": "Confiança nas mãos do Criador",
+            "fr": "Confiance entre les mains du Créateur"
+          },
+          "reflection": {
+            "es": "Dios sostendrá el mañana con el mismo amor con que te ha guardado hoy. Puedes descansar esta noche en profunda paz.",
+            "en": "God will hold tomorrow with the same love He preserved you with today. You can rest tonight in deep peace.",
+            "pt": "Deus sustentará o amanhã com o mesmo amor com que guardou você hoje. Você pode descansar esta noite em profunda paz.",
+            "fr": "Dieu tiendra demain avec le même amour qu'Il t'a gardé aujourd'hui. Tu peux te reposer ce soir dans une paix profonde."
+          }
+        },
+        {
+          "id": "escuchar_direccion",
+          "label": {
+            "es": "Buscando dirección",
+            "en": "Seeking direction",
+            "pt": "Buscando direção",
+            "fr": "Chercher une voix"
+          },
+          "responseTitle": {
+            "es": "Atento a la guía del Espíritu",
+            "en": "Attentive to the Spirit's guidance",
+            "pt": "Atento à direção do Espírito",
+            "fr": "Attentif à la voix de l'Esprit"
+          },
+          "responseText": {
+            "es": "Cuando disponemos el corazón para escuchar la voz divina, nuestras decisiones se llenan de claridad y discernimiento.",
+            "en": "When we incline our hearts to hear the divine voice, our decisions become filled with clarity and discernment.",
+            "pt": "Quando dispomos o coração para ouvir a voz divina, nossas decisões se enchem de clareza e discernimento.",
+            "fr": "Lorsque nous disposons notre cœur à écouter la voix divine, nos choix se remplissent de clarté et de discernement."
+          },
+          "verses": [
+            "Isaías 30:21"
+          ],
+          "reflectionHeader": {
+            "es": "Pasos guiados por el Señor",
+            "en": "Steps guided by the Lord",
+            "pt": "Passos guiados pelo Senhor",
+            "fr": "Des pas guidés par le Seigneur"
+          },
+          "reflection": {
+            "es": "Al cerrar tus ojos, confía en que Dios alumbrará tu senda al amanecer y te dará la sabiduría exacta que necesitas.",
+            "en": "As you close your eyes, trust that God will illuminate your path at dawn and give you the exact wisdom you need.",
+            "pt": "Ao fechar os olhos, confie que Deus iluminará seu caminho ao amanhecer e lhe dará a sabedoria exata que você precisa.",
+            "fr": "En fermant les yeux, aie confiance que Dieu illuminera ton chemin à l'aube et te donnera la sagesse dont tu as besoin."
+          }
+        },
+        {
+          "id": "pasos_en_obediencia",
+          "label": {
+            "es": "Obediencia humilde",
+            "en": "Humble obedience",
+            "pt": "Obediência humilde",
+            "fr": "Obéissance humble"
+          },
+          "responseTitle": {
+            "es": "Aceptando el rumbo que Dios señala",
+            "en": "Accepting the course God points out",
+            "pt": "Aceitando o rumo que Deus aponta",
+            "fr": "Accepter la direction indiquée"
+          },
+          "responseText": {
+            "es": "Caminar en obediencia requiere fe, pero trae la seguridad inquebrantable de estar siempre bajo la bendición del Altísimo.",
+            "en": "Walking in obedience takes faith, but it brings the unshakable certainty of being under the Most High's blessing.",
+            "pt": "Caminhar em obediência exige fé, mas traz a certeza inabalável de estar sempre sob a bênção do Altíssimo.",
+            "fr": "Marcher dans l'obéissance exige de la foi, mais cela apporte la certitude d'être sous la bénédiction du Très-Haut."
+          },
+          "verses": [
+            "Proverbios 3:6"
+          ],
+          "reflectionHeader": {
+            "es": "La paz de la sumisión al Padre",
+            "en": "The peace of submission to the Father",
+            "pt": "A paz da submissão ao Pai",
+            "fr": "La paix de la soumission au Père"
+          },
+          "reflection": {
+            "es": "Tu disposición a obedecer abre puertas de gracia. Descansa esta noche sabiendo que tu vida está firme en Su rectitud.",
+            "en": "Your willingness to obey opens doors of grace. Rest tonight knowing your life stands firm in His righteousness.",
+            "pt": "Sua disposição de obedecer abre portas de graça. Descanse esta noite sabendo que sua vida está firme na retidão dEle.",
+            "fr": "Ta disposition à obéir ouvre des portes de grâce. Repose-toi ce soir en sachant que ta vie repose sur Sa droiture."
+          }
+        },
+        {
+          "id": "paz_en_la_espera",
+          "label": {
+            "es": "Paz en la espera",
+            "en": "Peace while waiting",
+            "pt": "Paz na espera",
+            "fr": "Paix dans l'attente"
+          },
+          "responseTitle": {
+            "es": "Apreciando los tiempos del Señor",
+            "en": "Appreciating the Lord's timing",
+            "pt": "Apreciando o tempo do Senhor",
+            "fr": "Apprécier le temps du Seigneur"
+          },
+          "responseText": {
+            "es": "Aceptar que Dios obra en Su propio tiempo renueva la paciencia y calma la ansiedad del cumplimiento de Sus promesas.",
+            "en": "Accepting that God works in His own timing renews patience and calms the anxiety over His fulfilled promises.",
+            "pt": "Aceitar que Deus opera no Seu próprio tempo renova a paciência e acalma a ansiedade do cumprimento de Suas promessas.",
+            "fr": "Accepter que Dieu agisse en Son temps renouvelle la patience et calme l'anxiété liée à l'accomplissement de Ses promesses."
+          },
+          "verses": [
+            "Romanos 8:28"
+          ],
+          "reflectionHeader": {
+            "es": "Dios obra en el silencio",
+            "en": "God works in the silence",
+            "pt": "Deus opera no silêncio",
+            "fr": "Dieu agit dans le silence"
+          },
+          "reflection": {
+            "es": "Aun cuando no veas avances inmediatos, Dios sigue tejiendo tu historia con un propósito perfecto. Duerme en verdadero sosiego.",
+            "en": "Even when you see no immediate progress, God continues weaving your story with perfect purpose. Sleep in true calm.",
+            "pt": "Mesmo quando não vê progressos imediatos, Deus continua tecendo sua história com um propósito perfeito. Durma em paz.",
+            "fr": "Même si tu ne vois pas de progrès immédiats, Dieu continue d'écrire ton histoire avec un dessein parfait. Dors en paix."
+          }
+        },
+        {
+          "id": "gratitud_por_lo_hecho",
+          "label": {
+            "es": "Gracias por hoy",
+            "en": "Thanks for today",
+            "pt": "Gratidão por hoje",
+            "fr": "Merci pour ce jour"
+          },
+          "responseTitle": {
+            "es": "Celebrando los pequeños avances",
+            "en": "Celebrating small steps forward",
+            "pt": "Celebrando os pequenos avanços",
+            "fr": "Célébrer les petits progrès"
+          },
+          "responseText": {
+            "es": "Dar gracias por lo logrado en el día nos ayuda a valorar la fidelidad de Dios antes de pensar en lo que falta por hacer.",
+            "en": "Giving thanks for today's achievements helps us value God's faithfulness before stressing over what remains to be done.",
+            "pt": "Agradecer pelo que foi alcançado no dia nos ajuda a valorizar a fidelidade de Deus antes de pensar no que falta fazer.",
+            "fr": "Rendre grâce pour ce qui a été accompli nous aide à apprécier la fidélité de Dieu avant de penser à la suite."
+          },
+          "verses": [
+            "Salmos 103:2"
+          ],
+          "reflectionHeader": {
+            "es": "Un corazón lleno de gratitud",
+            "en": "A heart full of gratitude",
+            "pt": "Um coração cheio de gratidão",
+            "fr": "Un cœur rempli de gratitude"
+          },
+          "reflection": {
+            "es": "Cada detalle de hoy fue respaldado por la gracia divina. Cierra la jornada reconociendo que el Señor ha sido bueno contigo.",
+            "en": "Every detail of today was sustained by divine grace. Close the day recognizing that the Lord has been good to you.",
+            "pt": "Cada detalhe de hoje foi sustentado pela graça divina. Feche o dia reconhecendo que o Senhor tem sido bom para você.",
+            "fr": "Chaque détail de la journée a été soutenu par la grâce divine. Termine la journée en reconnaissant la bonté du Seigneur."
           }
         }
       ]
