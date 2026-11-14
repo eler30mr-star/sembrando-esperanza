@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-14",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -13338,6 +13338,236 @@
             "en": "Every detail of today was sustained by divine grace. Close the day recognizing that the Lord has been good to you.",
             "pt": "Cada detalhe de hoje foi sustentado pela graça divina. Feche o dia reconhecendo que o Senhor tem sido bom para você.",
             "fr": "Chaque détail de la journée a été soutenu par la grâce divine. Termine la journée en reconnaissant la bonté du Seigneur."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera reconociste hoy la mano de Dios en los detalles de tu jornada?",
+        "en": "In what way did you recognize God's hand in the details of your day today?",
+        "pt": "De que maneira você reconheceu hoje a mão de Deus nos detalhes do seu dia?",
+        "fr": "De quelle manière as-tu reconnu la main de Dieu dans les détails de ta journée ?"
+      },
+      "options": [
+        {
+          "id": "silencio_agradecido",
+          "label": {
+            "es": "En la calma",
+            "en": "In quiet moments",
+            "pt": "Na calma do dia",
+            "fr": "Dans le calme"
+          },
+          "responseTitle": {
+            "es": "Gratitud por los pequeños regalos",
+            "en": "Gratitude for small blessings",
+            "pt": "Gratidão pelas pequenas bênçãos",
+            "fr": "Gratitude pour les petits dons"
+          },
+          "responseText": {
+            "es": "Reconocer la mano de Dios en los detalles apacibles llena el corazón de profunda adoración.",
+            "en": "Recognizing God's hand in quiet details fills the heart with deep worship.",
+            "pt": "Reconhecer a mão de Deus nos detalhes suaves enche o coração de profunda adoração.",
+            "fr": "Reconnaître la main de Dieu dans les détails paisibles remplit le cœur d'une profonde adoration."
+          },
+          "verses": [
+            "Salmos 143:8"
+          ],
+          "reflectionHeader": {
+            "es": "Dios se manifiesta en la paz",
+            "en": "God reveals Himself in peace",
+            "pt": "Deus se revela na paz",
+            "fr": "Dieu se révèle dans la paix"
+          },
+          "reflection": {
+            "es": "Al caer la noche, recuerda que el Señor no siempre habla en el torbellino, sino en el susurro apacible. Agradece por Su presencia constante.",
+            "en": "As night falls, remember that the Lord often speaks not in the whirlwind, but in a gentle whisper. Give thanks for His constant presence.",
+            "pt": "Ao cair da noite, lembre-se de que o Senhor nem sempre fala no torvelinho, mas no sussurro suave. Agradeça por Sua presença constante.",
+            "fr": "À la tombée de la nuit, rappelle-toi que le Seigneur parle souvent dans un murmure doux. Rends grâce pour Sa présence constante."
+          }
+        },
+        {
+          "id": "guia_en_obstaculos",
+          "label": {
+            "es": "Superando imprevistos",
+            "en": "Overcoming hurdles",
+            "pt": "Superando imprevistos",
+            "fr": "Surmonter l'imprévu"
+          },
+          "responseTitle": {
+            "es": "Dios redirige nuestros pasos",
+            "en": "God redirects our steps",
+            "pt": "Deus redireciona os passos",
+            "fr": "Dieu redirige nos pas"
+          },
+          "responseText": {
+            "es": "Aun cuando los planes cambian, la gracia divina sostiene y abre caminos donde no los había.",
+            "en": "Even when plans change, divine grace sustains us and opens pathways where there were none.",
+            "pt": "Mesmo quando os planos mudam, a graça divina sustenta e abre caminhos onde não havia.",
+            "fr": "Même quand les projets changent, la grâce divine nous soutient et ouvre des chemins."
+          },
+          "verses": [
+            "Proverbios 16:9"
+          ],
+          "reflectionHeader": {
+            "es": "Confianza en Su dirección",
+            "en": "Trust in His direction",
+            "pt": "Confança na Sua direção",
+            "fr": "Confiance en Sa direction"
+          },
+          "reflection": {
+            "es": "Descansa sabiendo que cada desvío de hoy estuvo bajo el cuidado del Padre. Él conduce tu vida con propósito y perfecta sabiduría.",
+            "en": "Rest knowing that today's detours were under the Father's care. He leads your life with purpose and perfect wisdom.",
+            "pt": "Descanse sabendo que cada desvio de hoje esteve sob o cuidado do Pai. Ele conduz sua vida com propósito e perfeita sabedoria.",
+            "fr": "Repose-toi en sachant que les détours d'aujourd'hui étaient sous le soin du Père. Il guide ta vie avec sagesse."
+          }
+        },
+        {
+          "id": "palabra_de_aliento",
+          "label": {
+            "es": "Charlas edificantes",
+            "en": "Uplifting talks",
+            "pt": "Conversas edificantes",
+            "fr": "Échanges fortifiants"
+          },
+          "responseTitle": {
+            "es": "La gracia en la conversación",
+            "en": "Grace in conversation",
+            "pt": "A graça na conversa",
+            "fr": "La grâce dans l'échange"
+          },
+          "responseText": {
+            "es": "Ver a Dios en un diálogo sincero fortalece la fe y recuerda que no caminamos solos.",
+            "en": "Seeing God in sincere dialogue strengthens faith and reminds us we do not walk alone.",
+            "pt": "Ver a Deus em um diálogo sincero fortalece a fé e lembra que não caminhamos sós.",
+            "fr": "Voir Dieu dans un dialogue sincère fortifie la foi et nous rappelle que nous ne sommes pas seuls."
+          },
+          "verses": [
+            "1 Tesalonicenses 5:11"
+          ],
+          "reflectionHeader": {
+            "es": "El don del aliento mutuo",
+            "en": "The gift of mutual cheer",
+            "pt": "O dom do encorajamento",
+            "fr": "Le don du réconfort"
+          },
+          "reflection": {
+            "es": "Termina el día agradeciendo por las personas que Dios puso en tu camino. Las palabras inspiradas por el Señor traen vida y consuelo.",
+            "en": "End the day thanking God for the people He placed in your path. Words inspired by the Lord bring life and comfort.",
+            "pt": "Termine o dia agradecendo pelas pessoas que Deus colocou em seu caminho. Palavras inspiradas pelo Senhor trazem vida e consolo.",
+            "fr": "Termine la journée en remerciant pour les personnes placées sur ton chemin. Les paroles inspirées par le Seigneur apportent la vie."
+          }
+        },
+        {
+          "id": "sustento_diario",
+          "label": {
+            "es": "Sustento cotidiano",
+            "en": "Daily provision",
+            "pt": "Sustento diário",
+            "fr": "Pourvoi quotidien"
+          },
+          "responseTitle": {
+            "es": "Fidelidad en el alimento y hogar",
+            "en": "Faithfulness in food and home",
+            "pt": "Fidelidade no pão e lar",
+            "fr": "Fidélité au foyer"
+          },
+          "responseText": {
+            "es": "Cada plato en la mesa y cada techo de refugio son muestras palpables de la bondad de Dios.",
+            "en": "Every meal on the table and every roof of shelter are tangible signs of God's goodness.",
+            "pt": "Cada refeição na mesa e cada abrigo são demonstrações palpáveis da bondade de Deus.",
+            "fr": "Chaque repas et chaque abri sont des preuves tangibles de la bonté de Dieu."
+          },
+          "verses": [
+            "Salmos 104:27"
+          ],
+          "reflectionHeader": {
+            "es": "Reconocer al Proveedor",
+            "en": "Acknowledge the Provider",
+            "pt": "Reconhecer o Provedor",
+            "fr": "Reconnaître le Pourvoyeur"
+          },
+          "reflection": {
+            "es": "Antes de dormir, reconoce que todo lo que tienes proviene de las manos generosas del Padre. Tu vida está resguardada en Su fidelidad.",
+            "en": "Before sleeping, acknowledge that all you have comes from the Father's generous hands. Your life is sheltered in His faithfulness.",
+            "pt": "Antes de dormir, reconheça que tudo o que você tem vem das mãos generosas do Pai. Sua vida está guardada na fidelidade dEle.",
+            "fr": "Avant de dormir, reconnais que tout vient des mains généreuses du Père. Ta vie est abritée sous Sa fidélité."
+          }
+        },
+        {
+          "id": "paz_en_la_espera",
+          "label": {
+            "es": "Serenidad en la espera",
+            "en": "Serenity in waiting",
+            "pt": "Serenidade na espera",
+            "fr": "Sérénité dans l'attente"
+          },
+          "responseTitle": {
+            "es": "La paz de Dios en la rutina",
+            "en": "God's peace in the routine",
+            "pt": "A paz de Deus na rotina",
+            "fr": "La paix de Dieu au quotidien"
+          },
+          "responseText": {
+            "es": "Incluso en los momentos de monotonía o espera, Dios obra en el corazón cultivando la fe.",
+            "en": "Even in moments of monotony or waiting, God works in the heart, cultivating faith.",
+            "pt": "Mesmo nos momentos de monotonia ou espera, Deus trabalha no coração cultivando a fé.",
+            "fr": "Même dans la routine ou l'attente, Dieu œuvre dans le cœur et cultive la foi."
+          },
+          "verses": [
+            "Lamentaciones 3:26"
+          ],
+          "reflectionHeader": {
+            "es": "Dios opera en el silencio",
+            "en": "God works in silence",
+            "pt": "Deus opera no silêncio",
+            "fr": "Dieu agit dans le silence"
+          },
+          "reflection": {
+            "es": "El Señor fortalece tu alma no solo en los grandes eventos, sino en la constancia paciente. Entrega tu noche a Aquel que guarda tus días.",
+            "en": "The Lord strengthens your soul not only in big events, but in patient endurance. Hand your night over to Him who keeps your days.",
+            "pt": "O Senhor fortalece sua alma não apenas nos grandes momentos, mas na constância paciente. Entregue sua noite Àquele que guarda seus dias.",
+            "fr": "Le Seigneur fortifie ton âme dans la constance patiente. Confie ta nuit à Celui qui veille sur tes jours."
+          }
+        },
+        {
+          "id": "amparo_en_el_camino",
+          "label": {
+            "es": "Protección en camino",
+            "en": "Protection on the path",
+            "pt": "Proteção no caminho",
+            "fr": "Protection sur la route"
+          },
+          "responseTitle": {
+            "es": "El amparo invisible de Dios",
+            "en": "God's invisible shield",
+            "pt": "O amparo invisível de Deus",
+            "fr": "La protection invisible de Dieu"
+          },
+          "responseText": {
+            "es": "Sentir la seguridad divina en cada ida y vuelta llena el espíritu de tranquilidad al terminar el día.",
+            "en": "Feeling divine security in every journey fills the spirit with tranquility at day's end.",
+            "pt": "Sentir a segurança divina em cada ida e vinda enche o espírito de tranquilidade ao terminar o dia.",
+            "fr": "Sentir la sécurité divine dans chaque déplacement remplit l'esprit de sérénité au soir."
+          },
+          "verses": [
+            "Salmos 121:8"
+          ],
+          "reflectionHeader": {
+            "es": "Bajo las alas del Altísimo",
+            "en": "Under the Most High's wings",
+            "pt": "Sob as asas do Altíssimo",
+            "fr": "Sous les ailes du Très-Haut"
+          },
+          "reflection": {
+            "es": "Dios cuidó de tus entradas y salidas hoy. Duerme con la certeza de que el mismo Guardián de Israel sostendrá tu descanso nocturno.",
+            "en": "God watched over your coming and going today. Sleep with the assurance that the Keeper of Israel will sustain your night's rest.",
+            "pt": "Deus cuidou das suas saídas e entradas hoje. Durma com a certeza de que o Guarda de Israel sustentará o seu descanso noturno.",
+            "fr": "Dieu a veillé sur tes allées et venues aujourd'hui. Dors avec la certitude que le Gardien d'Israël veillera sur ton repos."
           }
         }
       ]
