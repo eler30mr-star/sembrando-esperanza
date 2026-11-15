@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-15",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -13568,6 +13568,236 @@
             "en": "God watched over your coming and going today. Sleep with the assurance that the Keeper of Israel will sustain your night's rest.",
             "pt": "Deus cuidou das suas saídas e entradas hoje. Durma com a certeza de que o Guarda de Israel sustentará o seu descanso noturno.",
             "fr": "Dieu a veillé sur tes allées et venues aujourd'hui. Dors avec la certitude que le Gardien d'Israël veillera sur ton repos."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera guardaste hoy la paz y la prudencia en tu espíritu?",
+        "en": "In what way did you preserve peace and prudence in your spirit today?",
+        "pt": "De que maneira você guardou hoje a paz e a prudência em seu espírito?",
+        "fr": "De quelle manière as-tu préservé la paix et la prudence dans ton esprit ?"
+      },
+      "options": [
+        {
+          "id": "freno_a_la_queja",
+          "label": {
+            "es": "Sin quejas",
+            "en": "Without complaints",
+            "pt": "Sem queixas",
+            "fr": "Sans murmures"
+          },
+          "responseTitle": {
+            "es": "Prudencia en la palabra",
+            "en": "Prudence in speech",
+            "pt": "Prudência na palavra",
+            "fr": "Prudence dans les mots"
+          },
+          "responseText": {
+            "es": "Decidiste frenar la murmuración y buscar la calma en lugar de avivar la molestia.",
+            "en": "You chose to curb complaining and seek calm instead of fueling annoyance.",
+            "pt": "Você decidiu conter a murmuração e buscar a calma em vez de alimentar o incômodo.",
+            "fr": "Tu as choisi de freiner les murmures et de chercher le calme plutôt que de nourrir l'agacement."
+          },
+          "verses": [
+            "Filipenses 2:14"
+          ],
+          "reflectionHeader": {
+            "es": "El valor del silencio pacífico",
+            "en": "The value of peaceful silence",
+            "pt": "O valor do silêncio pacífico",
+            "fr": "La valeur du silence paisible"
+          },
+          "reflection": {
+            "es": "Guardar la boca de la queja desatada protege la quietud de tu alma. Al cerrar la jornada con una actitud afable, permites que la paz de Cristo alinee tus emociones.",
+            "en": "Keeping your mouth from uncontrolled complaining guards your soul's stillness. Ending the day with a gentle posture allows the peace of Christ to align your emotions.",
+            "pt": "Guardar a boca da murmuração descontrolada protege a quietude da sua alma. Ao terminar o dia com uma postura afável, você permite que a paz de Cristo alinhe suas emoções.",
+            "fr": "Garder sa bouche des murmures incontrôlés protège la quiétude de ton âme. En finissant la journée avec une posture douce, tu laisses la paix du Christ aligner tes émotions."
+          }
+        },
+        {
+          "id": "refugio_en_el_altisimo",
+          "label": {
+            "es": "Buscando Su amparo",
+            "en": "Seeking His shelter",
+            "pt": "Buscando Seu abrigo",
+            "fr": "Cherchant Son abri"
+          },
+          "responseTitle": {
+            "es": "Bajo la sombra del Omnipotente",
+            "en": "Under the Almighty's shadow",
+            "pt": "Sob a sombra do Onipotente",
+            "fr": "À l'ombre du Tout-Puissant"
+          },
+          "responseText": {
+            "es": "Acudiste a la oración en los momentos de tensión, refugiándote en el Altísimo.",
+            "en": "You turned to prayer during tense moments, taking refuge in the Most High.",
+            "pt": "Você recorreu à oração nos momentos de tensão, refugiando-se no Altíssimo.",
+            "fr": "Tu as recours à la prière dans les moments de tension, en te réfugiant auprès du Très-Haut."
+          },
+          "verses": [
+            "Salmos 91:1"
+          ],
+          "reflectionHeader": {
+            "es": "Seguridad para el descanso",
+            "en": "Safety for your rest",
+            "pt": "Segurança para o descanso",
+            "fr": "Sécurité pour le repos"
+          },
+          "reflection": {
+            "es": "Buscar el amparo del Señor no es huir, sino reconocer dónde está la verdadera fortaleza. Esta noche reposas sabiendo que Su protección rodea tu hogar y tu corazón.",
+            "en": "Seeking the Lord's shelter is not escaping, but recognizing where true strength lies. Tonight you rest knowing His protection surrounds your home and heart.",
+            "pt": "Buscar o abrigo do Senhor não é fugir, mas reconhecer onde está a verdadeira força. Esta noite você descansa sabendo que a proteção Dele cerca seu lar e seu coração.",
+            "fr": "Chercher l'abri du Seigneur n'est pas fuir, mais reconnaître où se trouve la vraie force. Ce soir tu te reposes en sachant que Sa protection entoure ton foyer et ton cœur."
+          }
+        },
+        {
+          "id": "guardar_el_pensamiento",
+          "label": {
+            "es": "Filtrando pensamientos",
+            "en": "Filtering thoughts",
+            "pt": "Filtrando pensamentos",
+            "fr": "Filtrant les pensées"
+          },
+          "responseTitle": {
+            "es": "Pensamientos guiados por Dios",
+            "en": "God-guided thoughts",
+            "pt": "Pensamentos guiados por Deus",
+            "fr": "Pensées guidées par Dieu"
+          },
+          "responseText": {
+            "es": "Rendiste las ideas obsesivas o destructivas ante la verdad de Cristo.",
+            "en": "You surrendered obsessive or destructive ideas to the truth of Christ.",
+            "pt": "Você entregou as ideias obsessivas ou destrutivas diante da verdade de Cristo.",
+            "fr": "Tu as soumis les idées obsédantes ou destructrices à la vérité du Christ."
+          },
+          "verses": [
+            "2 Corintios 10:5"
+          ],
+          "reflectionHeader": {
+            "es": "Serenidad en la mente",
+            "en": "Serenity in the mind",
+            "pt": "Serenidade na mente",
+            "fr": "Sérénité de l'esprit"
+          },
+          "reflection": {
+            "es": "No todo pensamiento que llega debe quedarse. Al filtrar tus reflexiones bajo la luz del Evangelio, la mente encuentra serenidad y libertad antes de conciliar el sueño.",
+            "en": "Not every incoming thought deserves to stay. By filtering your reflection in the light of the Gospel, your mind finds serenity and freedom before sleep.",
+            "pt": "Nem todo pensamento que surge deve permanecer. Ao filtrar suas reflexões sob a luz do Evangelho, a mente encontra serenidade e liberdade antes de adormecer.",
+            "fr": "Toute pensée qui survient n'a pas à rester. En filtrant tes réflexions à la lumière de l'Évangile, ton esprit trouve la sérénité et la liberté avant de s'endormir."
+          }
+        },
+        {
+          "id": "mansedumbre_en_el_trato",
+          "label": {
+            "es": "Respuesta amable",
+            "en": "Gentle response",
+            "pt": "Resposta branda",
+            "fr": "Réponse douce"
+          },
+          "responseTitle": {
+            "es": "Gracia en las palabras",
+            "en": "Grace in speech",
+            "pt": "Graça nas palavras",
+            "fr": "Grâce dans les paroles"
+          },
+          "responseText": {
+            "es": "Elegiste responder con mansedumbre ante conversaciones complejas o ásperas.",
+            "en": "You chose to respond gently in complex or harsh conversations.",
+            "pt": "Você escolheu responder com mansidão diante de conversas complexas ou difíceis.",
+            "fr": "Tu as choisi de répondre avec douceur lors de conversations complexes ou rudes."
+          },
+          "verses": [
+            "Colosenses 4:6"
+          ],
+          "reflectionHeader": {
+            "es": "Sembrando concordia y paz",
+            "en": "Sowing harmony and peace",
+            "pt": "Semeando concórdia e paz",
+            "fr": "Semer la concorde et la paix"
+          },
+          "reflection": {
+            "es": "La palabra sazonada con gracia calma el conflicto y demuestra la madurez del espíritu. Gracias a tu decisión de actuar con cordialidad, hoy sembraste paz a tu alrededor.",
+            "en": "Speech seasoned with grace calms conflict and demonstrates spiritual maturity. Because you chose cordiality, you sowed peace around you today.",
+            "pt": "A palavra temperada com graça acalma o conflito e demonstra a maturidade do espírito. Graças à sua decisão de agir com cordialidade, hoje você semeou paz ao seu redor.",
+            "fr": "La parole assaisonnée de grâce apaise le conflit et montre la maturité de l'esprit. Grâce à ton choix d'agir avec cordialité, tu as semé la paix autour de toi."
+          }
+        },
+        {
+          "id": "contentamiento_sincero",
+          "label": {
+            "es": "Corazón satisfecho",
+            "en": "Content heart",
+            "pt": "Coração satisfeito",
+            "fr": "Cœur satisfait"
+          },
+          "responseTitle": {
+            "es": "La riqueza del contentamiento",
+            "en": "The wealth of contentment",
+            "pt": "A riqueza do contentamento",
+            "fr": "La richesse du contentement"
+          },
+          "responseText": {
+            "es": "Apreciaste lo vivido hoy sin dejarte llevar por la envidia o la prisa.",
+            "en": "You appreciated what today brought without falling into envy or rush.",
+            "pt": "Você apreciou o que viveu hoje sem se deixar levar pela inveja ou pela pressa.",
+            "fr": "Tu as apprécié ce que la journée a apporté sans te laisser gagner par la hâte."
+          },
+          "verses": [
+            "1 Timoteo 6:6"
+          ],
+          "reflectionHeader": {
+            "es": "Gratitud por la porción de hoy",
+            "en": "Gratitude for today's portion",
+            "pt": "Gratidão pela porção de hoje",
+            "fr": "Gratitude pour la part du jour"
+          },
+          "reflection": {
+            "es": "El verdadero descanso proviene de un corazón que reconoce la suficiencia de la gracia divina. Al valorar tu provisión presente, encuentras la riqueza de una vida en paz.",
+            "en": "True rest stems from a heart that recognizes the sufficiency of divine grace. By valuing your present provision, you find the wealth of a peaceful life.",
+            "pt": "O verdadeiro descanso vem de um coração que reconhece a suficiência da graça divina. Ao valorizar sua provisão presente, você encontra a riqueza de uma vida em paz.",
+            "fr": "Le vrai repos découle d'un cœur qui reconnaît la suffisance de la grâce divine. En valorisant ce que tu as reçu aujourd'hui, tu trouves la richesse d'une vie paisible."
+          }
+        },
+        {
+          "id": "perdon_al_anochecer",
+          "label": {
+            "es": "Perdonar al cerrar",
+            "en": "Forgiving tonight",
+            "pt": "Perdoando à noite",
+            "fr": "Pardonner ce soir"
+          },
+          "responseTitle": {
+            "es": "Pasar por alto la ofensa",
+            "en": "Overlooking an offense",
+            "pt": "Passar por cima da ofensa",
+            "fr": "Passer sur l'offense"
+          },
+          "responseText": {
+            "es": "Elegiste no guardar resentimiento por los desacuerdos del día.",
+            "en": "You chose not to hold resentment over the disagreements of the day.",
+            "pt": "Você escolheu não guardar ressentimento pelos desentendimentos do dia.",
+            "fr": "Tu as choisi de ne pas garder de rancœur pour les désaccords de la journée."
+          },
+          "verses": [
+            "Proverbios 19:11"
+          ],
+          "reflectionHeader": {
+            "es": "Descansar con alma ligera",
+            "en": "Resting with a light soul",
+            "pt": "Descansar com a alma leve",
+            "fr": "Reposer l'âme légère"
+          },
+          "reflection": {
+            "es": "Soltar las faltas ajenas antes de dormir libera tu espíritu de cargas innecesarias. Quien perdona abre espacio para que el Señor renueve sus fuerzas durante la noche.",
+            "en": "Releasing others' faults before sleeping frees your spirit from unnecessary burdens. One who forgives opens space for the Lord to renew their strength overnight.",
+            "pt": "Liberar as falhas alheias antes de dormir liberta seu espírito de cargas desnecessárias. Quem perdoa abre espaço para o Senhor renovar suas forças durante a noite.",
+            "fr": "Relâcher les fautes d'autrui avant de dormir libère ton esprit de fardeaux inutiles. Celui qui pardonne laisse le Seigneur renouveler ses forces pendant la nuit."
           }
         }
       ]
