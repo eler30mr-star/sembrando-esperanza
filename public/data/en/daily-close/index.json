@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-16",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -13798,6 +13798,236 @@
             "en": "Releasing others' faults before sleeping frees your spirit from unnecessary burdens. One who forgives opens space for the Lord to renew their strength overnight.",
             "pt": "Liberar as falhas alheias antes de dormir liberta seu espírito de cargas desnecessárias. Quem perdoa abre espaço para o Senhor renovar suas forças durante a noite.",
             "fr": "Relâcher les fautes d'autrui avant de dormir libère ton esprit de fardeaux inutiles. Celui qui pardonne laisse le Seigneur renouveler ses forces pendant la nuit."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera cultivaste hoy un corazón compasivo y misericordioso?",
+        "en": "In what way did you cultivate a compassionate and merciful heart today?",
+        "pt": "De que maneira você cultivou hoje um coração compassivo e misericordioso?",
+        "fr": "De quelle manière as-tu cultivé un cœur compatissant et miséricordieux aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "misericordia_activa",
+          "label": {
+            "es": "Misericordia activa",
+            "en": "Active mercy",
+            "pt": "Misericórdia ativa",
+            "fr": "Miséricorde active"
+          },
+          "responseTitle": {
+            "es": "Extendiste gracia y empatía",
+            "en": "You extended grace and empathy",
+            "pt": "Você estendeu graça e empatia",
+            "fr": "Tu as offert grâce et empatie"
+          },
+          "responseText": {
+            "es": "Hoy elegiste ver las faltas o necesidades de otros a través del filtro del amor de Cristo, respondiendo con bondad en lugar de dureza.",
+            "en": "Today you chose to see the faults or needs of others through the lens of Christ's love, responding with kindness rather than harshness.",
+            "pt": "Hoje você escolheu ver as falhas ou necessidades dos outros através do amor de Cristo, respondendo com bondade em vez de dureza.",
+            "fr": "Aujourd'hui, tu as choisi de voir les manques ou besoins des autres à travers l'amour du Christ, répondant avec bonté."
+          },
+          "verses": [
+            "Mateo 5:7"
+          ],
+          "reflectionHeader": {
+            "es": "Bendición en mostrar gracia",
+            "en": "Blessing in showing grace",
+            "pt": "Bênção em mostrar graça",
+            "fr": "Bénédiction d'offrir la grâce"
+          },
+          "reflection": {
+            "es": "La misericordia transforma tanto a quien la recibe como a quien la imparte. Al acostarte esta noche, recuerda que el Señor multiplica sobre tu vida la misma compasión que derramas sobre tus semejantes.",
+            "en": "Mercy transforms both the one who receives it and the one who extends it. As you rest tonight, remember that the Lord multiplies upon you the very compassion you pour out onto others.",
+            "pt": "A misericórdia transforma tanto quem a recebe quanto quem a concede. Ao se deitar esta noite, lembre-se de que o Senhor multiplica em sua vida a mesma compaixão que você derrama sobre o próximo.",
+            "fr": "La miséricorde transforme autant celui qui la reçoit que celui qui la donne. Ce soir, rappelle-toi que le Seigneur multiplie sur ta vie la compassion que tu déverses sur tes semblables."
+          }
+        },
+        {
+          "id": "escuchar_con_empatia",
+          "label": {
+            "es": "Escuchar con empatía",
+            "en": "Listening with empathy",
+            "pt": "Escutar com empatia",
+            "fr": "Écouter avec empatie"
+          },
+          "responseTitle": {
+            "es": "Abriste tu oído al dolor ajeno",
+            "en": "You opened your ear to pain",
+            "pt": "Você abriu seu ouvido à dor",
+            "fr": "Tu as écouté avec attention"
+          },
+          "responseText": {
+            "es": "Tomaste tiempo para prestar atención sincera al corazón de alguien más, llevando su carga emocional en oración y compañía silenciosa.",
+            "en": "You took time to give sincere attention to someone else's heart, bearing their emotional burden through prayer and quiet presence.",
+            "pt": "Você dedicou tempo para dar atenção sincera ao coração de outra pessoa, levando a carga emocional dela em oração e presença.",
+            "fr": "Tu as pris le temps de porter une attention sincère au cœur d'autrui, partageant son fardeau par la prière et la présence."
+          },
+          "verses": [
+            "Gálatas 6:2"
+          ],
+          "reflectionHeader": {
+            "es": "Llevando las cargas en amor",
+            "en": "Bearing burdens in love",
+            "pt": "Levando as cargas em amor",
+            "fr": "Porter les fardeaux avec amour"
+          },
+          "reflection": {
+            "es": "Escuchar con paciencia es una expresión profunda del amor de Jesús. Deja ahora esas cargas compartidas en manos de Dios, sabiendo que Él es el único cuidador eterno del alma.",
+            "en": "Listening with patience is a profound expression of Jesus' love. Leave those shared burdens now in God's hands, knowing He is the ultimate guardian of every soul.",
+            "pt": "Escutar com paciência é uma profunda expressão do amor de Jesus. Deixe agora essas cargas compartilhadas nas mãos de Deus, sabendo que Ele é o cuidador definitivo das almas.",
+            "fr": "Écouter avec patience est une expression profonde de l'amour de Jésus. Confie maintenant ces fardeaux entre les mains de Dieu, sachant qu'Il veille sur chaque âme."
+          }
+        },
+        {
+          "id": "restaurar_relaciones",
+          "label": {
+            "es": "Sanar ofensas",
+            "en": "Healing offenses",
+            "pt": "Curar ofensas",
+            "fr": "Guérir les offenses"
+          },
+          "responseTitle": {
+            "es": "Elegiste sanar antes de juzgar",
+            "en": "You chose healing over judgment",
+            "pt": "Você escolheu curar e não julgar",
+            "fr": "Tu as choisi d'apaiser le cœur"
+          },
+          "responseText": {
+            "es": "Decidiste no alimentar el resentimiento y buscaste la reconciliación o la concordia mediante una palabra apacible.",
+            "en": "You decided not to feed resentment and sought reconciliation or harmony through a gentle word.",
+            "pt": "Você decidiu não alimentar o ressentimento e buscou a reconciliação ou a harmonia por meio de uma palavra amável.",
+            "fr": "Tu as décidé de ne pas alimenter le rancœur et as cherché la réconciliation par une parole paisible."
+          },
+          "verses": [
+            "Colosenses 3:12"
+          ],
+          "reflectionHeader": {
+            "es": "Vestidos de compasión divina",
+            "en": "Clothed in divine compassion",
+            "pt": "Revestidos de compaixão",
+            "fr": "Revêtus de compassion divine"
+          },
+          "reflection": {
+            "es": "Despojarte del deseo de tener la razón y vestir tu espíritu de tolerancia fortalece la paz en tu hogar y comunidad. Cierra tu día descansando en la gracia sanadora del Padre.",
+            "en": "Stripping away the desire to be right and clothing your spirit in forbearance strengthens peace in your home and community. Close your day resting in the Father's healing grace.",
+            "pt": "Despir-se do desejo de ter razão e vestir seu espírito com tolerância fortalece a paz em sua casa e comunidade. Feche seu dia descansando na graça curadora do Pai.",
+            "fr": "Roncer au besoin d'avoir raison et revêtir ton esprit de patience renforce la paix autour de toi. Termine ta journée en te reposant dans la grâce guérissante du Père."
+          }
+        },
+        {
+          "id": "oracion_intercesora",
+          "label": {
+            "es": "Oración por los demás",
+            "en": "Praying for others",
+            "pt": "Oração pelos outros",
+            "fr": "Prier pour les autres"
+          },
+          "responseTitle": {
+            "es": "Presentaste a otros ante Dios",
+            "en": "You brought others to God",
+            "pt": "Você apresentou outros a Deus",
+            "fr": "Tu as porté les autres en prière"
+          },
+          "responseText": {
+            "es": "Elevaste plegarias sinceras por las luchas de quienes te rodean, anteponiendo sus necesidades a tus propias preocupaciones.",
+            "en": "You offered sincere prayers for the struggles of those around you, placing their needs ahead of your own concerns.",
+            "pt": "Você elevou orações sinceras pelas lutas dos que o cercam, colocando as necessidades deles acima das suas próprias preocupações.",
+            "fr": "Tu as élevé des prières sincères pour les luttes de ceux qui t'entourent, faisant passer leurs besoins avant tes propres soucis."
+          },
+          "verses": [
+            "1 Timoteo 2:1"
+          ],
+          "reflectionHeader": {
+            "es": "Intercesión que transforma",
+            "en": "Intercession that transforms",
+            "pt": "Intercessão que transforma",
+            "fr": "L'intercession qui transforme"
+          },
+          "reflection": {
+            "es": "La intercesión silenciosa mueve la mano de Dios y conecta los corazones en Su amor. Al ir a dormir, confía en que tus oraciones han sido escuchadas e inscriben paz sobre cada vida mencionada.",
+            "en": "Quiet intercession moves the hand of God and knits hearts in His love. As you sleep, trust that your prayers have been heard and are weaving peace into every life you named.",
+            "pt": "A intercessão silenciosa move a mão de Deus e une os corações em Seu amor. Ao dormir, confie que suas orações foram ouvidas e estão semeando paz sobre as vidas mencionadas.",
+            "fr": "L'intercession silencieuse touche le cœur de Dieu et réunit les esprits dans Son amour. En te couchant, aie la certitude que tes prières apportent la paix aux personnes confiées."
+          }
+        },
+        {
+          "id": "generosidad_humilde",
+          "label": {
+            "es": "Generosidad discreta",
+            "en": "Quiet generosity",
+            "pt": "Generosidade discreta",
+            "fr": "Générosité secrète"
+          },
+          "responseTitle": {
+            "es": "Compartiste sin esperar nada",
+            "en": "You shared expecting nothing",
+            "pt": "Você compartilhou com amor",
+            "fr": "Tu as partagé sans attendre"
+          },
+          "responseText": {
+            "es": "Brindaste un recurso, tiempo o detalle de forma desinteresada para aliviar la carga de alguien necesitado.",
+            "en": "You provided a resource, time, or thoughtful gesture selflessly to ease the burden of someone in need.",
+            "pt": "Você ofereceu um recurso, tempo ou gesto com desprendimento para aliviar o fardo de quem precisava.",
+            "fr": "Tu as donné un bien, du temps ou une attention avec désintéressement pour soulager la peine d'une personne."
+          },
+          "verses": [
+            "Proverbios 19:17"
+          ],
+          "reflectionHeader": {
+            "es": "Sembrar con corazón puro",
+            "en": "Sowing with a pure heart",
+            "pt": "Semear com coração puro",
+            "fr": "Semer d'un cœur pur"
+          },
+          "reflection": {
+            "es": "Dar con alegría y humildad refleja la naturaleza proveedora de nuestro Padre Celestial. Descansa sabiendo que todo lo sembrado en amor permanece para siempre en el reino de Dios.",
+            "en": "Giving with joy and humility reflects the provider nature of our Heavenly Father. Rest knowing that everything sown in love remains forever in God's kingdom.",
+            "pt": "Dar com alegria e humildade reflete a natureza provedora do nosso Pai Celestial. Descanse sabendo que tudo o que é semeado em amor permanece para sempre no reino de Deus.",
+            "fr": "Donner avec joie et humilité reflète la bonté de notre Père céleste. Repose-toi en sachant que tout ce qui est semé avec amour demeure éternellement dans Son royaume."
+          }
+        },
+        {
+          "id": "paciencia_con_debilidad",
+          "label": {
+            "es": "Paciencia y ternura",
+            "en": "Patience and warmth",
+            "pt": "Paciência e ternura",
+            "fr": "Patience et douceur"
+          },
+          "responseTitle": {
+            "es": "Trataste a otros con dulzura",
+            "en": "You treated others with gentle care",
+            "pt": "Você tratou os outros com doçura",
+            "fr": "Tu as agi avec grande douceur"
+          },
+          "responseText": {
+            "es": "Sostuviste la calma ante la fragilidad o imperfección ajena, mostrando la tolerancia propia de un seguidor de Cristo.",
+            "en": "You maintained calm in the face of others' weakness or imperfection, demonstrating the patience of a follower of Christ.",
+            "pt": "Você manteve a calma diante da fragilidade ou imperfeição alheia, demonstrando a paciência própria de um seguidor de Cristo.",
+            "fr": "Tu as garde ton calme face aux faiblesses d'autrui, manifestant la patience propre au disciple du Christ."
+          },
+          "verses": [
+            "1 Tesalonicenses 5:14"
+          ],
+          "reflectionHeader": {
+            "es": "La dulzura de la mansedumbre",
+            "en": "The sweetness of gentleness",
+            "pt": "A doçura da mansidão",
+            "fr": "La douceur de la bonté"
+          },
+          "reflection": {
+            "es": "La paciencia amable es un refugio seguro para las personas cansadas. Que la serenidad del Espíritu Santo envuelva tu descanso nocturno tras haber sido un canal de Su mansedumbre.",
+            "en": "Gentle patience is a safe haven for weary souls. May the serenity of the Holy Spirit wrap around your night's rest after being a channel of His gentleness.",
+            "pt": "A paciência amável é um refúgio seguro para as pessoas cansadas. Que a serenidade do Espírito Santo envolva o seu descanso noturno após ter sido um canal da Sua mansidão.",
+            "fr": "La patience bienveillante est un refuge pour les âmes fatiguées. Que la sérénité du Saint-Esprit enveloppe ton repos après avoir été un canal de Sa douceur."
           }
         }
       ]
