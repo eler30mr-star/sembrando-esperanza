@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-17",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -14028,6 +14028,236 @@
             "en": "Gentle patience is a safe haven for weary souls. May the serenity of the Holy Spirit wrap around your night's rest after being a channel of His gentleness.",
             "pt": "A paciência amável é um refúgio seguro para as pessoas cansadas. Que a serenidade do Espírito Santo envolva o seu descanso noturno após ter sido um canal da Sua mansidão.",
             "fr": "La patience bienveillante est un refuge pour les âmes fatiguées. Que la sérénité du Saint-Esprit enveloppe ton repos après avoir été un canal de Sa douceur."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera viviste hoy con un corazón humilde y de servicio?",
+        "en": "In what way did you live today with a humble and servant heart?",
+        "pt": "De que maneira você viveu hoje com um coração humilde e de serviço?",
+        "fr": "De quelle manière as-tu vécu aujourd'hui avec un cœur humble et de service ?"
+      },
+      "options": [
+        {
+          "id": "servicio_silencioso",
+          "label": {
+            "es": "Servicio silencioso",
+            "en": "Silent service",
+            "pt": "Serviço silencioso",
+            "fr": "Service silencieux"
+          },
+          "responseTitle": {
+            "es": "La grandeza de servir",
+            "en": "The greatness of serving",
+            "pt": "A grandeza de servir",
+            "fr": "La grandeur de servir"
+          },
+          "responseText": {
+            "es": "Elegiste actuar sin buscar reconocimiento, reflejando el carácter de Cristo en lo secreto.",
+            "en": "You chose to act without seeking recognition, reflecting Christ's character in secret.",
+            "pt": "Você escolheu agir sem buscar reconhecimento, refletindo o caráter de Cristo no secreto.",
+            "fr": "Tu as choisi d'agir sans chercher de reconnaissance, reflétant le caractère du Christ dans le secret."
+          },
+          "verses": [
+            "Mateo 6:4"
+          ],
+          "reflectionHeader": {
+            "es": "El valor de lo oculto",
+            "en": "The value of the hidden",
+            "pt": "O valor do oculto",
+            "fr": "La valeur du caché"
+          },
+          "reflection": {
+            "es": "Dios se deleita en el servicio que no busca el aplauso del mundo. Al servir en silencio, permites que Su amor fluya a través de ti sin obstáculos de ego, encontrando una recompensa eterna que solo el Padre puede dar.",
+            "en": "God delights in service that does not seek the world's applause. By serving in silence, you allow His love to flow through you without ego obstacles, finding an eternal reward that only the Father can provide.",
+            "pt": "Deus se agrada do serviço que não busca o aplauso do mundo. Ao servir em silêncio, você permite que o Seu amor flua através de você sem obstáculos de ego, encontrando uma recompensa eterna que só o Pai pode dar.",
+            "fr": "Dieu se réjouit du service qui ne cherche pas les applaudissements du monde. En servant en silence, tu laisses Son amour couler à travers toi sans les obstacles de l'ego, trouvant une récompense éternelle que seul le Père peut donner."
+          }
+        },
+        {
+          "id": "reconocimiento_humilde",
+          "label": {
+            "es": "Reconocer errores",
+            "en": "Admitting mistakes",
+            "pt": "Reconhecer erros",
+            "fr": "Reconnaître ses erreurs"
+          },
+          "responseTitle": {
+            "es": "Puerta a la gracia",
+            "en": "Gate to grace",
+            "pt": "Porta para a graça",
+            "fr": "Porte vers la grâce"
+          },
+          "responseText": {
+            "es": "Mostraste valentía al admitir tus fallos, permitiendo que la humildad restaurara la paz.",
+            "en": "You showed courage by admitting your failures, allowing humility to restore peace.",
+            "pt": "Você mostrou coragem ao admitir suas falhas, permitindo que a humildade restaurasse a paz.",
+            "fr": "Tu as montré du courage en admettant tes fautes, permettant à l'humilité de restaurer la paix."
+          },
+          "verses": [
+            "Santiago 4:10"
+          ],
+          "reflectionHeader": {
+            "es": "Crecer en humildad",
+            "en": "Growing in humility",
+            "pt": "Crescer em humildade",
+            "fr": "Grandir en humilité"
+          },
+          "reflection": {
+            "es": "Reconocer un error no es signo de debilidad, sino de fortaleza espiritual. Al humillarte delante del Señor y de los demás, abres el camino para que Su gracia te exalte y fortalezca tu carácter.",
+            "en": "Admitting a mistake is not a sign of weakness, but of spiritual strength. By humbling yourself before the Lord and others, you open the way for His grace to exalt you and strengthen your character.",
+            "pt": "Reconhecer um erro não é sinal de fraqueza, mas de força espiritual. Ao se humilhar diante do Senhor e dos outros, você abre o caminho para que a Sua graça o exalte e fortaleça o seu caráter.",
+            "fr": "Reconnaître une erreur n'est pas un signe de faiblesse, mais de force spirituelle. En t'humiliant devant le Seigneur et les autres, tu ouvres la voie pour que Sa grâce t'élève et fortifie ton caractère."
+          }
+        },
+        {
+          "id": "otros_primero",
+          "label": {
+            "es": "Priorizar al prójimo",
+            "en": "Putting others first",
+            "pt": "Priorizar o próximo",
+            "fr": "Priorité aux autres"
+          },
+          "responseTitle": {
+            "es": "Amor en acción",
+            "en": "Love in action",
+            "pt": "Amor em ação",
+            "fr": "L'amour en action"
+          },
+          "responseText": {
+            "es": "Pusiste las necesidades de otros por encima de las tuyas, siguiendo el ejemplo del Maestro.",
+            "en": "You put the needs of others above your own, following the Master's example.",
+            "pt": "Você colocou as necessidades dos outros acima das suas, seguindo o exemplo do Mestre.",
+            "fr": "Tu as fait passer les besoins des autres avant les tiens, suivant l'exemple du Maître."
+          },
+          "verses": [
+            "Filipenses 2:3"
+          ],
+          "reflectionHeader": {
+            "es": "El corazón del siervo",
+            "en": "The servant's heart",
+            "pt": "O coração do servo",
+            "fr": "Le cœur du serviteur"
+          },
+          "reflection": {
+            "es": "Servir a otros es una de las expresiones más puras de fe. Al considerar a los demás como importantes, rompes las cadenas del egoísmo y permites que el Reino de Dios se haga tangible en tu entorno.",
+            "en": "Serving others is one of the purest expressions of faith. By considering others as important, you break the chains of selfishness and allow God's Kingdom to become tangible in your environment.",
+            "pt": "Servir aos outros é uma das expressões mais puras da fé. Ao considerar os outros como importantes, você quebra as correntes do egoísmo e permite que o Reino de Deus se torne tangível ao seu redor.",
+            "fr": "Servir les autres est l'une des expressions les plus pures de la foi. En considérant les autres comme importants, tu brises les chaînes de l'égoïsme et permets au Royaume de Dieu de devenir tangible dans ton environnement."
+          }
+        },
+        {
+          "id": "corazon_ensenado",
+          "label": {
+            "es": "Recibir consejo",
+            "en": "Receiving advice",
+            "pt": "Receber conselho",
+            "fr": "Recevoir des conseils"
+          },
+          "responseTitle": {
+            "es": "Sabiduría compartida",
+            "en": "Shared wisdom",
+            "pt": "Sabedoria compartilhada",
+            "fr": "Sagesse partagée"
+          },
+          "responseText": {
+            "es": "Aceptaste la dirección y el consejo con mansedumbre, reconociendo que Dios habla a través de otros.",
+            "en": "You accepted direction and advice with meekness, recognizing that God speaks through others.",
+            "pt": "Você aceitou a direção e o conselho com mansidão, reconhecendo que Deus fala através de outros.",
+            "fr": "Tu as accepté la direction et les conseils avec douceur, reconnaissant que Dieu parle à travers les autres."
+          },
+          "verses": [
+            "Proverbios 12:15"
+          ],
+          "reflectionHeader": {
+            "es": "Mente de aprendiz",
+            "en": "A learner's mind",
+            "pt": "Mente de aprendiz",
+            "fr": "Esprit d'apprenant"
+          },
+          "reflection": {
+            "es": "La verdadera sabiduría comienza con la humildad de saber que siempre podemos aprender más. Un corazón enseñable es tierra fértil para que el Espíritu Santo siembre discernimiento y madurez en tu vida.",
+            "en": "True wisdom begins with the humility to know that we can always learn more. A teachable heart is fertile ground for the Holy Spirit to sow discernment and maturity in your life.",
+            "pt": "A verdadeira sabedoria começa com a humildade de saber que sempre podemos aprender mais. Um coração ensinável é terra fértil para que o Espírito Santo semeie discernimento e maturidade em sua vida.",
+            "fr": "La vraie sagesse commence par l'humilité de savoir que nous pouvons toujours apprendre davantage. Un cœur enseignable est une terre fertile pour que le Saint-Esprit sème le discernement et la maturité dans ta vie."
+          }
+        },
+        {
+          "id": "gratitud_sencilla",
+          "label": {
+            "es": "Contentamiento",
+            "en": "Contentment",
+            "pt": "Contentamento",
+            "fr": "Contentement"
+          },
+          "responseTitle": {
+            "es": "Paz con lo suficiente",
+            "en": "Peace with enough",
+            "pt": "Paz com o suficiente",
+            "fr": "Paix avec l'essentiel"
+          },
+          "responseText": {
+            "es": "Viviste con satisfacción por lo que tienes, reconociendo que todo es un regalo de Dios.",
+            "en": "You lived with satisfaction for what you have, recognizing that everything is a gift from God.",
+            "pt": "Você viveu com satisfação pelo que tem, reconhecendo que tudo é um presente de Deus.",
+            "fr": "Tu as vécu avec satisfaction pour ce que tu as, reconnaissant que tout est un cadeau de Dieu."
+          },
+          "verses": [
+            "Hebreos 13:5"
+          ],
+          "reflectionHeader": {
+            "es": "Suficiencia en Cristo",
+            "en": "Sufficiency in Christ",
+            "pt": "Suficiência em Cristo",
+            "fr": "Suffisance en Christ"
+          },
+          "reflection": {
+            "es": "La humildad también se manifiesta al estar satisfechos con la provisión divina, sin comparaciones ni envidias. Cuando confías en que Dios es suficiente, tu alma encuentra el descanso que el mundo no puede ofrecer.",
+            "en": "Humility is also manifested in being satisfied with divine provision, without comparisons or envy. When you trust that God is enough, your soul finds the rest that the world cannot offer.",
+            "pt": "A humildade também se manifesta ao estar satisfeito com a provisão divina, sem comparações nem invejas. Quando você confia que Deus é suficiente, sua alma encontra o descanso que o mundo não pode oferecer.",
+            "fr": "L'humilité se manifeste aussi par la satisfaction de la provision divine, sans comparaison ni envie. Quand tu as confiance que Dieu suffit, ton âme trouve le repos que le monde ne peut offrir."
+          }
+        },
+        {
+          "id": "gloria_compartida",
+          "label": {
+            "es": "Dar gloria a Dios",
+            "en": "Give God the glory",
+            "pt": "Dar a glória a Deus",
+            "fr": "Rendre gloire à Dieu"
+          },
+          "responseTitle": {
+            "es": "A Dios sea la honra",
+            "en": "To God be the honor",
+            "pt": "A Deus seja a honra",
+            "fr": "À Dieu soit l'honneur"
+          },
+          "responseText": {
+            "es": "Atribuiste tus logros de hoy a la bondad del Señor, manteniendo un corazón humilde ante el éxito.",
+            "en": "You attributed today's achievements to the Lord's goodness, keeping a humble heart in success.",
+            "pt": "Você atribuiu suas conquistas de hoje à bondade do Senhor, mantendo um coração humilde diante do sucesso.",
+            "fr": "Tu as attribué tes réussites d'aujourd'hui à la bonté du Seigneur, gardant un cœur humble face au succès."
+          },
+          "verses": [
+            "Salmos 115:1"
+          ],
+          "reflectionHeader": {
+            "es": "El origen de tu fuerza",
+            "en": "The source of your strength",
+            "pt": "A origem da sua força",
+            "fr": "La source de ta force"
+          },
+          "reflection": {
+            "es": "Nada de lo que logramos es por nuestras propias fuerzas. Reconocer que Dios es el autor de cada victoria te mantiene conectado a la fuente de la vida y te protege de la trampa del orgullo personal.",
+            "en": "Nothing we achieve is by our own strength. Recognizing that God is the author of every victory keeps you connected to the source of life and protects you from the trap of personal pride.",
+            "pt": "Nada do que conquistamos é por nossas próprias forças. Reconhecer que Deus é o autor de cada vitória mantém você conectado à fonte da vida e o protege da armadilha do orgulho pessoal.",
+            "fr": "Rien de ce que nous accomplissons ne se fait par nos propres forces. Reconnaître que Dieu est l'auteur de chaque victoire te maintient connecté à la source de vie et te protège du piège de l'orgueil personnel."
           }
         }
       ]
