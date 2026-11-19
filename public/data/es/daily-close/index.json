@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-18",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -14258,6 +14258,236 @@
             "en": "Nothing we achieve is by our own strength. Recognizing that God is the author of every victory keeps you connected to the source of life and protects you from the trap of personal pride.",
             "pt": "Nada do que conquistamos é por nossas próprias forças. Reconhecer que Deus é o autor de cada vitória mantém você conectado à fonte da vida e o protege da armadilha do orgulho pessoal.",
             "fr": "Rien de ce que nous accomplissons ne se fait par nos propres forces. Reconnaître que Dieu est l'auteur de chaque victoire te maintient connecté à la source de vie et te protège du piège de l'orgueil personnel."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera buscaste reflejar hoy la integridad y verdad de Dios?",
+        "en": "How did you seek to reflect God's integrity and truth today?",
+        "pt": "De que maneira você buscou refletir a integridade e a verdade de Deus hoje?",
+        "fr": "De quelle manière as-tu cherché à refléter l'intégrité et la vérité de Dieu aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "palabras_honestas",
+          "label": {
+            "es": "Palabras honestas",
+            "en": "Honest words",
+            "pt": "Palavras honestas",
+            "fr": "Paroles honnêtes"
+          },
+          "responseTitle": {
+            "es": "Tu palabra es luz",
+            "en": "Your word is light",
+            "pt": "Sua palavra é luz",
+            "fr": "Ta parole est lumière"
+          },
+          "responseText": {
+            "es": "Has honrado a Dios al elegir la verdad sobre la conveniencia en tus conversaciones.",
+            "en": "You have honored God by choosing truth over convenience in your conversations.",
+            "pt": "Você honrou a Deus ao escolher a verdade em vez da conveniência em suas conversas.",
+            "fr": "Tu as honoré Dieu en choisissant la vérité plutôt que la commodité dans tes échanges."
+          },
+          "verses": [
+            "Proverbios 12:22"
+          ],
+          "reflectionHeader": {
+            "es": "El valor de la verdad",
+            "en": "The value of truth",
+            "pt": "O valor da verdade",
+            "fr": "La valeur de la vérité"
+          },
+          "reflection": {
+            "es": "Hablar con veracidad no solo edifica nuestra reputación, sino que refleja el carácter de Aquel que es la Verdad. Al descansar esta noche, agradece al Espíritu Santo por guiar tu lengua hacia lo que es justo y sincero.",
+            "en": "Speaking truthfully not only builds our reputation but reflects the character of Him who is the Truth. As you rest tonight, thank the Holy Spirit for guiding your tongue toward what is right and sincere.",
+            "pt": "Falar com veracidade não apenas constrói nossa reputação, mas reflete o caráter Daquele que é a Verdade. Ao descansar esta noite, agradeça ao Espírito Santo por guiar sua língua para o que é justo e sincero.",
+            "fr": "Parler avec vérité ne construit pas seulement notre réputation, mais reflète le caractère de Celui qui est la Vérité. En te reposant ce soir, remercie le Saint-Esprit d'avoir guidé ta langue vers ce qui est juste et sincère."
+          }
+        },
+        {
+          "id": "justicia_cotidiana",
+          "label": {
+            "es": "Trato justo",
+            "en": "Fair treatment",
+            "pt": "Trato justo",
+            "fr": "Traitement juste"
+          },
+          "responseTitle": {
+            "es": "Sembrando rectitud",
+            "en": "Sowing righteousness",
+            "pt": "Semeando retidão",
+            "fr": "Semer la droiture"
+          },
+          "responseText": {
+            "es": "Actuar con justicia con quienes te rodean es una forma poderosa de adoración.",
+            "en": "Acting with justice toward those around you is a powerful form of worship.",
+            "pt": "Agir com justiça com aqueles ao seu redor é uma forma poderosa de adoração.",
+            "fr": "Agir avec justice envers ceux qui t'entourent est une forme d'adoration puissante."
+          },
+          "verses": [
+            "Miqueas 6:8"
+          ],
+          "reflectionHeader": {
+            "es": "Caminar con justicia",
+            "en": "Walking with justice",
+            "pt": "Caminhar com justiça",
+            "fr": "Marcher avec justice"
+          },
+          "reflection": {
+            "es": "Dios no busca grandes sacrificios, sino que hagamos justicia y amemos la misericordia. Hoy has puesto en práctica el Reino de Dios al tratar a los demás con la equidad y el respeto que Él nos otorga.",
+            "en": "God does not seek great sacrifices, but rather that we do justice and love mercy. Today you have practiced the Kingdom of God by treating others with the fairness and respect He grants us.",
+            "pt": "Deus não busca grandes sacrifícios, mas sim que façamos justiça e amemos a misericórdia. Hoje você colocou em prática o Reino de Deus ao tratar os outros com a equidade e o respeito que Ele nos concede.",
+            "fr": "Dieu ne cherche pas de grands sacrifices, mais plutôt que nous pratiquions la justice et aimions la miséricorde. Aujourd'hui, tu as mis en pratique le Royaume de Dieu en traitant les autres avec l'équité et le respect qu'Il nous accorde."
+          }
+        },
+        {
+          "id": "esfuerzo_sincero",
+          "label": {
+            "es": "Esfuerzo sincero",
+            "en": "Sincere effort",
+            "pt": "Esforço sincero",
+            "fr": "Effort sincère"
+          },
+          "responseTitle": {
+            "es": "Para el Señor",
+            "en": "Unto the Lord",
+            "pt": "Para o Senhor",
+            "fr": "Pour le Seigneur"
+          },
+          "responseText": {
+            "es": "Has realizado tus tareas con integridad, sabiendo que tu jefe final es Dios.",
+            "en": "You have carried out your tasks with integrity, knowing that your ultimate boss is God.",
+            "pt": "Você realizou suas tarefas com integridade, sabendo que seu chefe final é Deus.",
+            "fr": "Tu as accompli tes tâches avec intégrité, sachant que ton patron ultime est Dieu."
+          },
+          "verses": [
+            "Colosenses 3:23"
+          ],
+          "reflectionHeader": {
+            "es": "Trabajo con propósito",
+            "en": "Work with purpose",
+            "pt": "Trabalho com propósito",
+            "fr": "Travail avec intention"
+          },
+          "reflection": {
+            "es": "La integridad en el trabajo es un testimonio silencioso pero impactante. Al dar lo mejor de ti, incluso cuando nadie miraba, glorificaste al Padre. Descansa en la satisfacción del deber cumplido bajo Su mirada.",
+            "en": "Integrity at work is a silent but powerful testimony. By giving your best, even when no one was watching, you glorified the Father. Rest in the satisfaction of a job well done under His gaze.",
+            "pt": "A integridade no trabalho é um testemunho silencioso, mas impactante. Ao dar o seu melhor, mesmo quando ninguém estava olhando, você glorificou ao Pai. Descanse na satisfação do dever cumprido sob o Seu olhar.",
+            "fr": "L'intégrité au travail est un témoignage silencieux mais puissant. En donnant le meilleur de toi-même, même quand personne ne regardait, tu as glorifié le Père. Repose-toi dans la satisfaction du devoir accompli sous Son regard."
+          }
+        },
+        {
+          "id": "silencio_prudente",
+          "label": {
+            "es": "Silencio prudente",
+            "en": "Prudent silence",
+            "pt": "Silêncio prudente",
+            "fr": "Silence prudent"
+          },
+          "responseTitle": {
+            "es": "Guardando la lengua",
+            "en": "Guarding the tongue",
+            "pt": "Guardando a língua",
+            "fr": "Garder sa langue"
+          },
+          "responseText": {
+            "es": "Evitaste el chisme o la crítica, protegiendo la paz de tu entorno y de tu corazón.",
+            "en": "You avoided gossip or criticism, protecting the peace of your surroundings and your heart.",
+            "pt": "Você evitou fofocas ou críticas, protegendo a paz do seu ambiente e do seu coração.",
+            "fr": "Tu as évité les commérages ou la critique, protégeant la paix de ton entourage et de ton cœur."
+          },
+          "verses": [
+            "Salmos 141:3"
+          ],
+          "reflectionHeader": {
+            "es": "Paz en la prudencia",
+            "en": "Peace in prudence",
+            "pt": "Paz na prudência",
+            "fr": "Paix et prudence"
+          },
+          "reflection": {
+            "es": "A veces, la mayor muestra de integridad es lo que decidimos no decir. Al guardar tus labios, has permitido que la armonía prevalezca. Que este silencio te traiga una noche de sueño tranquilo y conciencia limpia.",
+            "en": "Sometimes, the greatest display of integrity is what we choose not to say. By guarding your lips, you have allowed harmony to prevail. May this silence bring you a night of peaceful sleep and a clear conscience.",
+            "pt": "Às vezes, a maior demonstração de integridade é o que decidimos não dizer. Ao guardar seus lábios, você permitiu que a harmonia prevalecesse. Que este silêncio lhe traga uma noite de sono tranquilo e consciência limpa.",
+            "fr": "Parfois, la plus grande preuve d'intégrité est ce que nous choisissons de ne pas dire. En gardant tes lèvres, tu as permis à l'harmonie de prévaloir. Que ce silence t'apporte une nuit de sommeil paisible et une conscience tranquille."
+          }
+        },
+        {
+          "id": "firmeza_valores",
+          "label": {
+            "es": "Firme en valores",
+            "en": "Firm in values",
+            "pt": "Firme nos valores",
+            "fr": "Ferme dans ses valeurs"
+          },
+          "responseTitle": {
+            "es": "Fe inamovible",
+            "en": "Unshakeable faith",
+            "pt": "Fé inabalável",
+            "fr": "Foi inébranlable"
+          },
+          "responseText": {
+            "es": "Mantuviste tus principios cristianos a pesar de las presiones externas del día.",
+            "en": "You maintained your Christian principles despite the external pressures of the day.",
+            "pt": "Você manteve seus princípios cristãos apesar das pressões externas do dia.",
+            "fr": "Tu as maintenu tes principes chrétiens malgré les pressions extérieures de la journée."
+          },
+          "verses": [
+            "1 Corintios 16:13"
+          ],
+          "reflectionHeader": {
+            "es": "Valentía espiritual",
+            "en": "Spiritual courage",
+            "pt": "Coragem espiritual",
+            "fr": "Courage spirituel"
+          },
+          "reflection": {
+            "es": "No siempre es fácil ser luz en medio de la oscuridad. Tu firmeza hoy es un acto de valentía que alegra el corazón de Dios. Él es tu roca y quien fortalece tu carácter frente a cualquier adversidad.",
+            "en": "It is not always easy to be light in the middle of darkness. Your firmness today is an act of courage that gladdens God's heart. He is your rock and the one who strengthens your character in the face of any adversity.",
+            "pt": "Nem sempre é fácil ser luz no meio da escuridão. Sua firmeza hoje é um ato de coragem que alegra o coração de Deus. Ele é sua rocha e quem fortalece seu caráter diante de qualquer adversidade.",
+            "fr": "Il n'est pas toujours facile d'être une lumière au milieu des ténèbres. Ta fermeté aujourd'hui est un acte de courage qui réjouit le cœur de Dieu. Il est ton rocher et celui qui fortifie ton caractère face à toute adversité."
+          }
+        },
+        {
+          "id": "fe_autentica",
+          "label": {
+            "es": "Fe coherente",
+            "en": "Consistent faith",
+            "pt": "Fé coerente",
+            "fr": "Foi cohérente"
+          },
+          "responseTitle": {
+            "es": "Espejo de Cristo",
+            "en": "Mirror of Christ",
+            "pt": "Espelho de Cristo",
+            "fr": "Miroir du Christ"
+          },
+          "responseText": {
+            "es": "Has buscado que lo que crees y lo que haces estén en perfecta sintonía.",
+            "en": "You have sought to bring what you believe and what you do into perfect harmony.",
+            "pt": "Você buscou fazer com que o que acredita e o que faz estejam em perfeita sintonia.",
+            "fr": "Tu as cherché à ce que ce que tu crois et ce que tu fais soient en parfaite harmonie."
+          },
+          "verses": [
+            "Santiago 1:25"
+          ],
+          "reflectionHeader": {
+            "es": "Vida con coherencia",
+            "en": "Consistent living",
+            "pt": "Vida com coerência",
+            "fr": "Vie cohérente"
+          },
+          "reflection": {
+            "es": "La verdadera integridad nace de un corazón que ama la Palabra y la pone por obra. Al cerrar este día, celebra que tu fe no es solo de palabras, sino una realidad viva que transforma tu caminar diario.",
+            "en": "True integrity is born from a heart that loves the Word and puts it into practice. As you close this day, celebrate that your faith is not just words, but a living reality that transforms your daily walk.",
+            "pt": "A verdadeira integridade nasce de um coração que ama a Palavra e a coloca em prática. Ao encerrar este dia, celebre que sua fé não é apenas de palavras, mas uma realidade viva que transforma sua caminhada diária.",
+            "fr": "La véritable intégrité naît d'un cœur qui aime la Parole et la met en pratique. En terminant cette journée, célèbre le fait que ta foi n'est pas faite que de mots, mais qu'elle est une réalité vivante qui transforme ta marche quotidienne."
           }
         }
       ]
