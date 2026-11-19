@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18",
+  "updatedAt": "2026-11-19",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -14488,6 +14488,236 @@
             "en": "True integrity is born from a heart that loves the Word and puts it into practice. As you close this day, celebrate that your faith is not just words, but a living reality that transforms your daily walk.",
             "pt": "A verdadeira integridade nasce de um coração que ama a Palavra e a coloca em prática. Ao encerrar este dia, celebre que sua fé não é apenas de palavras, mas uma realidade viva que transforma sua caminhada diária.",
             "fr": "La véritable intégrité naît d'un cœur qui aime la Parole et la met en pratique. En terminant cette journée, célèbre le fait que ta foi n'est pas faite que de mots, mais qu'elle est une réalité vivante qui transforme ta marche quotidienne."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera fortaleciste hoy tu espíritu para caminar con firmeza en Dios?",
+        "en": "In what way did you strengthen your spirit to walk firmly in God today?",
+        "pt": "De que maneira você fortaleceu seu espírito hoje para caminhar com firmeza em Deus?",
+        "fr": "De quelle manière as-tu fortifié ton esprit aujourd'hui pour marcher fermement en Dieu ?"
+      },
+      "options": [
+        {
+          "id": "quietud_espiritual",
+          "label": {
+            "es": "Quietud profunda",
+            "en": "Deep stillness",
+            "pt": "Quietude profunda",
+            "fr": "Calme profond"
+          },
+          "responseTitle": {
+            "es": "Reposo en Su presencia",
+            "en": "Rest in His presence",
+            "pt": "Repouso em Sua presença",
+            "fr": "Repos en Sa présence"
+          },
+          "responseText": {
+            "es": "Has buscado callar el ruido externo para escuchar la voz apacible del Señor en tu interior.",
+            "en": "You have sought to quiet the external noise to hear the gentle voice of the Lord within you.",
+            "pt": "Você buscou calar o ruído externo para ouvir a voz suave do Senhor em seu interior.",
+            "fr": "Tu as cherché à faire taire le bruit extérieur pour écouter la voix douce du Seigneur en toi."
+          },
+          "verses": [
+            "Salmos 131:2"
+          ],
+          "reflectionHeader": {
+            "es": "El silencio que restaura",
+            "en": "The silence that restores",
+            "pt": "O silêncio que restaura",
+            "fr": "Le silence qui restaure"
+          },
+          "reflection": {
+            "es": "La paz no es la ausencia de conflictos, sino la presencia de Dios reinando en tu corazón. Al buscar momentos de quietud, permites que el Espíritu Santo sature tu alma con Su serenidad eterna.",
+            "en": "Peace is not the absence of conflict, but the presence of God reigning in your heart. By seeking moments of stillness, you allow the Holy Spirit to saturate your soul with His eternal serenity.",
+            "pt": "A paz não é a ausência de conflitos, mas a presença de Deus reinando em seu coração. Ao buscar momentos de quietude, você permite que o Espírito Santo sature sua alma com Sua serenidade eterna.",
+            "fr": "La paix n'est pas l'absence de conflits, mais la présence de Dieu régnant dans ton cœur. En cherchant des moments de calme, tu permets au Saint-Esprit de saturer ton âme de Sa sérénité éternelle."
+          }
+        },
+        {
+          "id": "victoria_miedo",
+          "label": {
+            "es": "Victoria sobre temor",
+            "en": "Victory over fear",
+            "pt": "Vitória sobre o medo",
+            "fr": "Victoire sur la peur"
+          },
+          "responseTitle": {
+            "es": "Valentía en el Espíritu",
+            "en": "Boldness in the Spirit",
+            "pt": "Coragem no Espírito",
+            "fr": "Courage dans l'Esprit"
+          },
+          "responseText": {
+            "es": "Hoy decidiste actuar con valor, confiando en que el poder de Dios es mayor que tus miedos.",
+            "en": "Today you chose to act with courage, trusting that God's power is greater than your fears.",
+            "pt": "Hoje você decidiu agir com coragem, confiando que o poder de Deus é maior que seus medos.",
+            "fr": "Aujourd'hui, tu as choisi d'agir avec courage, confiant que la puissance de Dieu est plus grande que tes peurs."
+          },
+          "verses": [
+            "2 Timoteo 1:7"
+          ],
+          "reflectionHeader": {
+            "es": "Fuerza divina en ti",
+            "en": "Divine strength in you",
+            "pt": "Força divina em você",
+            "fr": "Force divine en toi"
+          },
+          "reflection": {
+            "es": "Dios no nos ha dado un espíritu de cobardía. Cada vez que enfrentas un desafío con fe, demuestras que tu seguridad no depende de ti, sino del Señor que te sostiene y te impulsa.",
+            "en": "God has not given us a spirit of cowardice. Every time you face a challenge with faith, you demonstrate that your security does not depend on you, but on the Lord who sustains and drives you.",
+            "pt": "Deus não nos deu um espírito de covardia. Cada vez que você enfrenta um desafio com fé, demonstra que sua segurança não depende de você, mas do Senhor que o sustenta e o impulsiona.",
+            "fr": "Dieu ne nous a pas donné un esprit de lâcheté. Chaque fois que tu affrontes un défi avec foi, tu montres que ta sécurité ne dépend pas de toi, mais du Seigneur qui te soutient et te pousse."
+          }
+        },
+        {
+          "id": "gozo_interior",
+          "label": {
+            "es": "Gozo del corazón",
+            "en": "Heartfelt joy",
+            "pt": "Alegria do coração",
+            "fr": "Joie du cœur"
+          },
+          "responseTitle": {
+            "es": "Felicidad en Su gracia",
+            "en": "Happiness in His grace",
+            "pt": "Felicidade em Sua graça",
+            "fr": "Bonheur dans Sa grâce"
+          },
+          "responseText": {
+            "es": "Has encontrado motivos para sonreír y agradecer, reconociendo el gozo que solo Dios da.",
+            "en": "You have found reasons to smile and give thanks, recognizing the joy that only God gives.",
+            "pt": "Você encontrou motivos para sorrir e agradecer, reconhecendo a alegria que só Deus dá.",
+            "fr": "Tu as trouvé des raisons de sourire et de rendre grâce, reconnaissant la joie que seul Dieu donne."
+          },
+          "verses": [
+            "Salmos 16:11"
+          ],
+          "reflectionHeader": {
+            "es": "Fuente inagotable",
+            "en": "Inexhaustible source",
+            "pt": "Fonte inesgotável",
+            "fr": "Source inépuisable"
+          },
+          "reflection": {
+            "es": "El gozo cristiano no es una emoción pasajera, sino una certeza profunda. Hoy, al elegir la alegría, has permitido que la luz de Cristo brille a través de ti, incluso en lo cotidiano.",
+            "en": "Christian joy is not a fleeting emotion, but a deep certainty. Today, by choosing joy, you have allowed Christ's light to shine through you, even in the everyday moments.",
+            "pt": "A alegria cristã não é uma emoção passageira, mas uma certeza profunda. Hoje, ao escolher a alegria, você permitiu que a luz de Cristo brilhasse através de você, mesmo no cotidiano.",
+            "fr": "La joie chrétienne n'est pas une émotion passagère, mais une certitude profonde. Aujourd'hui, en choisissant la joie, tu as permis à la lumière du Christ de briller à travers toi, même dans le quotidien."
+          }
+        },
+        {
+          "id": "enfoque_eterno",
+          "label": {
+            "es": "Mirada eterna",
+            "en": "Eternal focus",
+            "pt": "Olhar eterno",
+            "fr": "Regard éternel"
+          },
+          "responseTitle": {
+            "es": "Perspectiva del Cielo",
+            "en": "Perspective of Heaven",
+            "pt": "Perspectiva do Céu",
+            "fr": "Perspective du Ciel"
+          },
+          "responseText": {
+            "es": "Decidiste elevar tus pensamientos por encima de las preocupaciones para enfocarte en lo eterno.",
+            "en": "You chose to lift your thoughts above worries to focus on what is eternal.",
+            "pt": "Você decidiu elevar seus pensamentos acima das preocupações para focar no que é eterno.",
+            "fr": "Tu as choisi d'élever tes pensées au-dessus des préoccupations pour te concentrer sur l'éternel."
+          },
+          "verses": [
+            "Colosenses 3:2"
+          ],
+          "reflectionHeader": {
+            "es": "Más allá de hoy",
+            "en": "Beyond today",
+            "pt": "Além de hoje",
+            "fr": "Au-delà d'aujourd'hui"
+          },
+          "reflection": {
+            "es": "Cuando pones tus ojos en las cosas de arriba, las dificultades de este mundo pierden su peso. Mantener una perspectiva eterna te da la claridad necesaria para vivir con propósito y paz.",
+            "en": "When you set your eyes on things above, the difficulties of this world lose their weight. Keeping an eternal perspective gives you the clarity needed to live with purpose and peace.",
+            "pt": "Quando você coloca seus olhos nas coisas do alto, as dificuldades deste mundo perdem o peso. Manter uma perspectiva eterna lhe dá a clareza necessária para viver com propósito e paz.",
+            "fr": "Quand tu tournes tes regards vers les choses d'en haut, les difficultés de ce monde perdent leur poids. Garder une perspective éternelle te donne la clarté nécessaire pour vivre avec but et paix."
+          }
+        },
+        {
+          "id": "renovacion_mente",
+          "label": {
+            "es": "Mente renovada",
+            "en": "Renewed mind",
+            "pt": "Mente renovada",
+            "fr": "Esprit renouvelé"
+          },
+          "responseTitle": {
+            "es": "Pensamientos de Verdad",
+            "en": "Thoughts of Truth",
+            "pt": "Pensamentos de Verdade",
+            "fr": "Pensées de Vérité"
+          },
+          "responseText": {
+            "es": "Has filtrado tus pensamientos a través de la Palabra, rechazando lo que no edifica tu espíritu.",
+            "en": "You have filtered your thoughts through the Word, rejecting what does not build up your spirit.",
+            "pt": "Você filtrou seus pensamentos através da Palavra, rejeitando o que não edifica seu espírito.",
+            "fr": "Tu as filtré tes pensées à travers la Parole, rejetant ce qui n'édifie pas ton esprit."
+          },
+          "verses": [
+            "Efesios 4:23"
+          ],
+          "reflectionHeader": {
+            "es": "Transformación diaria",
+            "en": "Daily transformation",
+            "pt": "Transformação diária",
+            "fr": "Transformation quotidienne"
+          },
+          "reflection": {
+            "es": "La batalla por la paz comienza en la mente. Al renovar tu entendimiento con las promesas de Dios, transformas tu manera de reaccionar ante el mundo y fortaleces tu identidad en Cristo.",
+            "en": "The battle for peace begins in the mind. By renewing your understanding with God's promises, you transform how you react to the world and strengthen your identity in Christ.",
+            "pt": "A batalha pela paz começa na mente. Ao renovar seu entendimento com as promessas de Deus, você transforma sua maneira de reagir ao mundo e fortalece sua identidade em Cristo.",
+            "fr": "La bataille pour la paix commence dans l'esprit. En renouvelant ton intelligence par les promesses de Dieu, tu transformes ta façon de réagir au monde et tu fortifies ton identité en Christ."
+          }
+        },
+        {
+          "id": "fuerza_debilidad",
+          "label": {
+            "es": "Fuerza en debilidad",
+            "en": "Strength in weakness",
+            "pt": "Força na fraqueza",
+            "fr": "Force en faiblesse"
+          },
+          "responseTitle": {
+            "es": "Gracia suficiente",
+            "en": "Sufficient grace",
+            "pt": "Graça suficiente",
+            "fr": "Grâce suffisante"
+          },
+          "responseText": {
+            "es": "Reconociste tu necesidad de Dios hoy, permitiendo que Su poder actúe en tus momentos frágiles.",
+            "en": "You recognized your need for God today, allowing His power to work in your fragile moments.",
+            "pt": "Você reconheceu sua necessidade de Deus hoje, permitindo que o poder dEle agisse em seus momentos frágeis.",
+            "fr": "Tu as reconnu ton besoin de Dieu aujourd'hui, laissant Sa puissance agir dans tes moments de fragilité."
+          },
+          "verses": [
+            "2 Corintios 12:9"
+          ],
+          "reflectionHeader": {
+            "es": "Poder perfeccionado",
+            "en": "Power perfected",
+            "pt": "Poder aperfeiçoado",
+            "fr": "Puissance accomplie"
+          },
+          "reflection": {
+            "es": "No temas admitir que te sientes cansado o limitado. Es precisamente en nuestra debilidad donde la fuerza de Dios brilla con más intensidad y Su gracia se vuelve más tangible.",
+            "en": "Do not fear admitting that you feel tired or limited. It is precisely in our weakness where God's strength shines most brightly and His grace becomes most tangible.",
+            "pt": "Não tenha medo de admitir que se sente cansado ou limitado. É precisamente em nossa fraqueza que a força de Deus brilha com mais intensidade e Sua graça se torna mais tangível.",
+            "fr": "N'aie pas peur d'admettre que tu te sens fatigué ou limité. C'est précisément dans notre faiblesse que la force de Dieu brille avec le plus d'éclat et que Sa grâce devient plus tangible."
           }
         }
       ]
