@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-20",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -14718,6 +14718,236 @@
             "en": "Do not fear admitting that you feel tired or limited. It is precisely in our weakness where God's strength shines most brightly and His grace becomes most tangible.",
             "pt": "Não tenha medo de admitir que se sente cansado ou limitado. É precisamente em nossa fraqueza que a força de Deus brilha com mais intensidade e Sua graça se torna mais tangível.",
             "fr": "N'aie pas peur d'admettre que tu te sens fatigué ou limité. C'est précisément dans notre faiblesse que la force de Dieu brille avec le plus d'éclat et que Sa grâce devient plus tangible."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera fuiste hoy una luz en el lugar donde Dios te puso?",
+        "en": "In what way were you a light today in the place where God put you?",
+        "pt": "De que maneira você foi uma luz hoje no lugar onde Deus o colocou?",
+        "fr": "De quelle manière as-tu été une lumière aujourd'hui là où Dieu t'a placé ?"
+      },
+      "options": [
+        {
+          "id": "labor_diligente",
+          "label": {
+            "es": "Labor diligente",
+            "en": "Diligent work",
+            "pt": "Trabalho diligente",
+            "fr": "Travail diligent"
+          },
+          "responseTitle": {
+            "es": "Excelencia para el Señor",
+            "en": "Excellence for the Lord",
+            "pt": "Excelência para o Senhor",
+            "fr": "Excellence pour le Seigneur"
+          },
+          "responseText": {
+            "es": "Al realizar tus tareas con esmero, honraste al Creador y diste un testimonio de integridad ante los demás.",
+            "en": "By performing your tasks with care, you honored the Creator and gave a testimony of integrity to others.",
+            "pt": "Ao realizar suas tarefas com esmero, você honrou o Criador e deu um testemunho de integridade aos outros.",
+            "fr": "En accomplissant tes tâches avec soin, tu as honoré le Créateur et rendu un témoignage d'intégrité aux autres."
+          },
+          "verses": [
+            "Colosenses 3:24"
+          ],
+          "reflectionHeader": {
+            "es": "Tu esfuerzo es adoración",
+            "en": "Your effort is worship",
+            "pt": "Seu esforço é adoração",
+            "fr": "Ton effort est une adoration"
+          },
+          "reflection": {
+            "es": "Cada labor, por pequeña que sea, es una oportunidad para reflejar el carácter de Dios. Al trabajar como para el Señor, transformas lo ordinario en un acto sagrado.",
+            "en": "Every task, no matter how small, is an opportunity to reflect God's character. By working as if for the Lord, you transform the ordinary into a sacred act.",
+            "pt": "Cada trabalho, por menor que seja, é uma oportunidade para refletir o caráter de Deus. Ao trabalhar como para o Senhor, você transforma o comum em um ato sagrado.",
+            "fr": "Chaque travail, aussi petit soit-il, est une occasion de refléter le caractère de Dieu. En travaillant comme pour le Seigneur, tu transformes l'ordinaire en un acte sacré."
+          }
+        },
+        {
+          "id": "sembrador_concordia",
+          "label": {
+            "es": "Sembrar concordia",
+            "en": "Sowing harmony",
+            "pt": "Semear concórdia",
+            "fr": "Semer la concorde"
+          },
+          "responseTitle": {
+            "es": "Pacificador en acción",
+            "en": "Peacemaker in action",
+            "pt": "Pacificador em ação",
+            "fr": "Artisan de paix"
+          },
+          "responseText": {
+            "es": "Hoy elegiste ser un puente en lugar de un muro, permitiendo que la paz de Cristo fluyera a través de tus palabras.",
+            "en": "Today you chose to be a bridge instead of a wall, allowing the peace of Christ to flow through your words.",
+            "pt": "Hoje você escolheu ser uma ponte em vez de um muro, permitindo que a paz de Cristo fluísse através de suas palavras.",
+            "fr": "Aujourd'hui, tu as choisi d'être un pont plutôt qu'un mur, laissant la paix du Christ couler à travers tes paroles."
+          },
+          "verses": [
+            "Mateo 5:9"
+          ],
+          "reflectionHeader": {
+            "es": "La bendición de la paz",
+            "en": "The blessing of peace",
+            "pt": "A bênção da paz",
+            "fr": "La bénédiction de la paix"
+          },
+          "reflection": {
+            "es": "Ser un pacificador no significa evitar el conflicto, sino traer la presencia de Dios a él. Descansa sabiendo que tu mansedumbre es un reflejo del cielo.",
+            "en": "Being a peacemaker doesn't mean avoiding conflict, but bringing God's presence into it. Rest knowing that your gentleness is a reflection of heaven.",
+            "pt": "Ser um pacificador não significa evitar o conflito, mas trazer a presença de Deus a ele. Descanse sabendo que sua mansidão é um reflexo do céu.",
+            "fr": "Être un artisan de paix ne signifie pas éviter le conflit, mais y apporter la présence de Dieu. Repose-toi en sachant que ta douceur est un reflet du ciel."
+          }
+        },
+        {
+          "id": "generosidad_viva",
+          "label": {
+            "es": "Generosidad viva",
+            "en": "Living generosity",
+            "pt": "Generosidade viva",
+            "fr": "Générosité vivante"
+          },
+          "responseTitle": {
+            "es": "Canal de bendición",
+            "en": "Channel of blessing",
+            "pt": "Canal de bênção",
+            "fr": "Canal de bénédiction"
+          },
+          "responseText": {
+            "es": "Tu disposición para compartir tus recursos o tu tiempo mostró el amor generoso del Padre a quienes te rodean.",
+            "en": "Your willingness to share your resources or your time showed the Father's generous love to those around you.",
+            "pt": "Sua disposição em compartilhar seus recursos ou seu tempo mostrou o amor generoso do Pai aos que o cercam.",
+            "fr": "Ta volonté de partager tes ressources ou ton temps a montré l'amour généreux du Père à ceux qui t'entourent."
+          },
+          "verses": [
+            "2 Corintios 9:8"
+          ],
+          "reflectionHeader": {
+            "es": "Gracia que sobreabunda",
+            "en": "Grace that abounds",
+            "pt": "Graça que sobreabunda",
+            "fr": "La grâce qui surabonde"
+          },
+          "reflection": {
+            "es": "Dios nos da para que podamos dar. Al soltar con alegría, reconoces que Él es tu proveedor y que nunca te faltará nada para seguir haciendo el bien.",
+            "en": "God gives us so that we can give. By letting go joyfully, you recognize that He is your provider and that you will never lack anything to keep doing good.",
+            "pt": "Deus nos dá para que possamos dar. Ao soltar com alegria, você reconhece que Ele é seu provedor e que nunca lhe faltará nada para continuar fazendo o bem.",
+            "fr": "Dieu nous donne pour que nous puissions donner. En lâchant prise avec joie, tu reconnais qu'Il est ton pourvoyeur et qu'il ne te manquera jamais rien pour continuer à faire le bien."
+          }
+        },
+        {
+          "id": "aliento_oportuno",
+          "label": {
+            "es": "Aliento oportuno",
+            "en": "Timely encouragement",
+            "pt": "Alento oportuno",
+            "fr": "Encouragement opportun"
+          },
+          "responseTitle": {
+            "es": "Voz de esperanza",
+            "en": "Voice of hope",
+            "pt": "Voz de esperança",
+            "fr": "Voix d'espérance"
+          },
+          "responseText": {
+            "es": "Tus palabras fueron medicina para un corazón cansado, recordando a otros que no están solos en su camino.",
+            "en": "Your words were medicine for a weary heart, reminding others that they are not alone on their journey.",
+            "pt": "Suas palavras foram remédio para um coração cansado, lembrando aos outros que não estão sozinhos em sua jornada.",
+            "fr": "Tes paroles ont été un remède pour un cœur fatigué, rappelant aux autres qu'ils ne sont pas seuls sur leur chemin."
+          },
+          "verses": [
+            "Isaías 50:4"
+          ],
+          "reflectionHeader": {
+            "es": "El poder de la palabra",
+            "en": "The power of the word",
+            "pt": "O poder da palavra",
+            "fr": "Le pouvoir de la parole"
+          },
+          "reflection": {
+            "es": "Una palabra de aliento puede cambiar el rumbo del día de alguien. Al escuchar y hablar con amor, ejerces el ministerio de consuelo que Dios te ha confiado.",
+            "en": "A word of encouragement can change the course of someone's day. By listening and speaking with love, you exercise the ministry of comfort that God has entrusted to you.",
+            "pt": "Uma palavra de incentivo pode mudar o rumo do dia de alguém. Ao ouvir e falar com amor, você exerce o ministério de consolo que Deus lhe confiou.",
+            "fr": "Une parole d'encouragement peut changer le cours de la journée de quelqu'un. En écoutant et en parlant avec amour, tu exerces le ministère de réconfort que Dieu t'a confié."
+          }
+        },
+        {
+          "id": "justicia_cotidiana",
+          "label": {
+            "es": "Justicia cotidiana",
+            "en": "Daily justice",
+            "pt": "Justiça cotidiana",
+            "fr": "Justice quotidienne"
+          },
+          "responseTitle": {
+            "es": "Integridad visible",
+            "en": "Visible integrity",
+            "pt": "Integridade visível",
+            "fr": "Intégrité visible"
+          },
+          "responseText": {
+            "es": "Hoy defendiste lo que es correcto y actuaste con rectitud, reflejando el corazón justo de nuestro Dios.",
+            "en": "Today you stood up for what is right and acted with righteousness, reflecting the just heart of our God.",
+            "pt": "Hoje você defendeu o que é certo e agiu com retidão, refletindo o coração justo do nosso Deus.",
+            "fr": "Aujourd'hui, tu as défendu ce qui est juste et agi avec droiture, reflétant le cœur juste de notre Dieu."
+          },
+          "verses": [
+            "Amós 5:24"
+          ],
+          "reflectionHeader": {
+            "es": "Justicia que fluye",
+            "en": "Justice that flows",
+            "pt": "Justiça que flui",
+            "fr": "Une justice qui coule"
+          },
+          "reflection": {
+            "es": "La justicia de Dios se manifiesta en nuestras acciones diarias. Al ser justo en lo pequeño, preparas el terreno para que Su Reino se haga visible en la tierra.",
+            "en": "God's justice is manifested in our daily actions. By being just in the small things, you prepare the ground for His Kingdom to become visible on earth.",
+            "pt": "A justiça de Deus se manifesta em nossas ações diárias. Ao ser justo no pouco, você prepara o terreno para que o Seu Reino se torne visível na terra.",
+            "fr": "La justice de Dieu se manifeste dans nos actions quotidiennes. En étant juste dans les petites choses, tu prépares le terrain pour que Son Royaume devienne visible sur terre."
+          }
+        },
+        {
+          "id": "gozo_testimonio",
+          "label": {
+            "es": "Gozo constante",
+            "en": "Constant joy",
+            "pt": "Gozo constante",
+            "fr": "Joie constante"
+          },
+          "responseTitle": {
+            "es": "Fortaleza en la alegría",
+            "en": "Strength in joy",
+            "pt": "Fortaleza na alegria",
+            "fr": "Force dans la joie"
+          },
+          "responseText": {
+            "es": "A pesar de las circunstancias, mantuviste una actitud gozosa que intrigó e inspiró a quienes te observaron hoy.",
+            "en": "Despite the circumstances, you maintained a joyful attitude that intrigued and inspired those who observed you today.",
+            "pt": "Apesar das circunstâncias, você manteve uma atitude alegre que intrigou e inspirou aqueles que o observaram hoje.",
+            "fr": "Malgré les circonstances, tu as gardé une attitude joyeuse qui a intrigué et inspiré ceux qui t'ont observé aujourd'hui."
+          },
+          "verses": [
+            "Nehemías 8:10"
+          ],
+          "reflectionHeader": {
+            "es": "Tu gozo es tu fuerza",
+            "en": "Your joy is your strength",
+            "pt": "Seu gozo é sua força",
+            "fr": "Ta joie est ta force"
+          },
+          "reflection": {
+            "es": "El gozo del Señor no depende de la facilidad del día, sino de la seguridad de Su presencia. Tu sonrisa sincera es un faro en un mundo a menudo oscuro.",
+            "en": "The joy of the Lord does not depend on the ease of the day, but on the security of His presence. Your sincere smile is a beacon in an often dark world.",
+            "pt": "O gozo do Senhor não depende da facilidade do dia, mas da segurança de Sua presença. Seu sorriso sincero é um farol em um mundo muitas vezes sombrio.",
+            "fr": "La joie du Seigneur ne dépend pas de la facilité de la journée, mais de l'assurance de Sa présence. Ton sourire sincère est un phare dans un monde souvent sombre."
           }
         }
       ]
