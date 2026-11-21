@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-21",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -14948,6 +14948,236 @@
             "en": "The joy of the Lord does not depend on the ease of the day, but on the security of His presence. Your sincere smile is a beacon in an often dark world.",
             "pt": "O gozo do Senhor não depende da facilidade do dia, mas da segurança de Sua presença. Seu sorriso sincero é um farol em um mundo muitas vezes sombrio.",
             "fr": "La joie du Seigneur ne dépend pas de la facilité de la journée, mais de l'assurance de Sa présence. Ton sourire sincère est un phare dans un monde souvent sombre."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera buscaste hoy la sabiduría de Dios para guiar tus decisiones?",
+        "en": "How did you seek God's wisdom to guide your decisions today?",
+        "pt": "De que maneira você buscou hoje a sabedoria de Deus para guiar suas decisões?",
+        "fr": "Comment as-tu cherché la sagesse de Dieu pour guider tes choix aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "pausa_orante",
+          "label": {
+            "es": "Pausa orante",
+            "en": "Prayerful pause",
+            "pt": "Pausa de oração",
+            "fr": "Pause de prière"
+          },
+          "responseTitle": {
+            "es": "Buscar a Dios antes de actuar",
+            "en": "Seeking God before acting",
+            "pt": "Buscar a Deus antes de agir",
+            "fr": "Chercher Dieu avant d'agir"
+          },
+          "responseText": {
+            "es": "Decidiste detenerte un instante antes de reaccionar o tomar un rumbo, pidiendo la dirección del Padre para que tus pasos fueran guiados por la fe y no por la prisa.",
+            "en": "You chose to pause before reacting or taking a path, asking for the Father's guidance so that your steps would be led by faith rather than haste.",
+            "pt": "Você escolheu parar um instante antes de reagir ou tomar um rumo, pedindo a direção do Pai para que seus passos fossem guiados pela fé e não pela pressa.",
+            "fr": "Tu as choisi de t'arrêter un instant avant de réagir ou de prendre une direction, demandant la conduite du Père pour que tes pas soient guidés par la foi plutôt que par la hâte."
+          },
+          "verses": [
+            "Santiago 1:5"
+          ],
+          "reflectionHeader": {
+            "es": "La sabiduría se pide en oración",
+            "en": "Wisdom is asked in prayer",
+            "pt": "A sabedoria é pedida em oração",
+            "fr": "La sagesse se demande par la prière"
+          },
+          "reflection": {
+            "es": "Al cerrar el día, reconoce el valor de haber consultado al Señor en el silencio de tu corazón. El Dios que concede sabiduría a quienes se la piden sostiene cada una de tus determinaciones y fortalece tu andar con su paz inexplicable.",
+            "en": "As the day closes, recognize the value of having consulted the Lord in the silence of your heart. The God who gives wisdom generously to all who ask sustains your path and strengthens you with His peace.",
+            "pt": "Ao fechar o dia, reconheça o valor de ter consultado o Senhor no silêncio do seu coração. O Deus que concede sabedoria a quem pede sustenta suas decisões e fortalece sua caminhada com a paz dele.",
+            "fr": "En terminant la journée, reconnais la valeur d'avoir consulté le Seigneur dans le silence de ton cœur. Le Dieu qui donne la sagesse avec générosité soutient tes choix et fortifie tes pas par sa paix."
+          }
+        },
+        {
+          "id": "filtro_palabras",
+          "label": {
+            "es": "Palabras edificantes",
+            "en": "Edifying words",
+            "pt": "Palavras que edificam",
+            "fr": "Paroles d'édification"
+          },
+          "responseTitle": {
+            "es": "Medir la voz con prudencia",
+            "en": "Measuring words with wisdom",
+            "pt": "Medir as palavras com prudência",
+            "fr": "Mesurer ses mots avec sagesse"
+          },
+          "responseText": {
+            "es": "Procuraste que tu lenguaje trajera calma en lugar de discordia, eligiendo responder con gracia y cuidado en tus conversaciones de la jornada.",
+            "en": "You sought to make your language bring calm instead of discord, choosing to respond with grace and care throughout your daily conversations.",
+            "pt": "Você procurou fazer com que sua linguagem trouxesse calma em vez de discórdia, escolhendo responder com graça e cuidado nas conversas do dia.",
+            "fr": "Tu as veillé à ce que tes paroles apportent la paix plutôt que la discorde, en choisissant de répondre avec grâce et attention lors de tes échanges."
+          },
+          "verses": [
+            "Proverbios 15:1"
+          ],
+          "reflectionHeader": {
+            "es": "Palabras que traen sanidad",
+            "en": "Words that bring healing",
+            "pt": "Palavras que trazem cura",
+            "fr": "Des paroles qui apportent la guérison"
+          },
+          "reflection": {
+            "es": "Una respuesta blanda tiene la virtud de desarmar la tensión y reflejar el carácter de Cristo. Descansa esta noche sabiendo que cada palabra sembrada en amor dar el fruto que honra a Dios en tu entorno.",
+            "en": "A gentle answer has the power to diffuse tension and reflect the character of Christ. Rest tonight knowing that every word sown in love yields fruit that honors God in your sphere.",
+            "pt": "Uma resposta branda tem o poder de desfazer a tensão e refletir o caráter de Cristo. Descanse esta noite sabendo que cada palavra semeada em amor dará frutos que honram a Deus ao seu redor.",
+            "fr": "Une réponse douce a le pouvoir d'apaiser la tension et de refléter le caractère du Christ. Repose-toi ce soir en sachant que chaque parole semée avec amour portera du fruit pour honorer Dieu."
+          }
+        },
+        {
+          "id": "discernir_voluntad",
+          "label": {
+            "es": "Discernir lo bueno",
+            "en": "Discern the good",
+            "pt": "Discernir o bem",
+            "fr": "Discerner le bien"
+          },
+          "responseTitle": {
+            "es": "Examinar todo con la verdad",
+            "en": "Examining all things with truth",
+            "pt": "Examinar tudo com a verdade",
+            "fr": "Examiner tout avec la vérité"
+          },
+          "responseText": {
+            "es": "Frente a distintas opiniones o impulsos, buscaste filtrar cada situación a través del discernimiento espiritual para retener únicamente lo edificante.",
+            "en": "Faced with various opinions or impulses, you sought to filter each situation through spiritual discernment to hold fast only to what is good.",
+            "pt": "Diante de diferentes opiniões ou impulsos, você buscou filtrar cada situação através do discernimento espiritual para reter apenas o que é bom.",
+            "fr": "Face aux diverses opinions ou impulsions, tu as cherché à filtrer chaque situation par le discernement spirituel afin de ne retenir que ce qui est bon."
+          },
+          "verses": [
+            "1 Tesalonicenses 5:21"
+          ],
+          "reflectionHeader": {
+            "es": "Un espíritu que discierne",
+            "en": "A discerning spirit",
+            "pt": "Um espírito de discernimento",
+            "fr": "Un esprit de discernement"
+          },
+          "reflection": {
+            "es": "El discernimiento es un regalo continuo del Espíritu Santo para resguardar tu vida. Entrega al Señor los pensamientos del día y confía en que su verdad seguirá ordenando tus criterios y convicciones.",
+            "en": "Discernment is an ongoing gift from the Holy Spirit to guard your walk. Hand over your thoughts to the Lord tonight and trust that His truth will keep refining your convictions.",
+            "pt": "O discernimento é um presente contínuo do Espírito Santo para guardar a sua vida. Entregue ao Senhor os pensamentos do dia e confie que a verdade Dele continuará ordenando suas convicções.",
+            "fr": "Le discernement est un don continu du Saint-Esprit pour protéger ta vie. Remets au Seigneur les pensées de ta journée et fie-toi à sa vérité para guider tes convictions."
+          }
+        },
+        {
+          "id": "mansedumbre_trato",
+          "label": {
+            "es": "Trato apacible",
+            "en": "Gentle attitude",
+            "pt": "Trato suave",
+            "fr": "Douceur des mots"
+          },
+          "responseTitle": {
+            "es": "Responder con calma y humildad",
+            "en": "Responding with calm and grace",
+            "pt": "Responder com calma e humildade",
+            "fr": "Répondre avec calme et humilité"
+          },
+          "responseText": {
+            "es": "Elegiste actuar con templanza frente a la exigencia del entorno, permitiendo que la serenidad de Cristo gobernara tu actitud y tus expresiones.",
+            "en": "You chose to act with self-control amidst the demands around you, letting the serenity of Christ govern your attitude and words.",
+            "pt": "Você escolheu agir com temperança diante das exigências do dia, permitindo que a serenidade de Cristo governasse sua atitude e expressões.",
+            "fr": "Tu as choisi d'agir avec retenue face aux sollicitations, laissant la sérénité du Christ gouverner ton attitude et tes paroles."
+          },
+          "verses": [
+            "Proverbios 16:24"
+          ],
+          "reflectionHeader": {
+            "es": "La fuerza de una respuesta suave",
+            "en": "The power of a gentle answer",
+            "pt": "A força de uma resposta branda",
+            "fr": "La force d'une réponse douce"
+          },
+          "reflection": {
+            "es": "La dulzura en la conducta no es debilidad, sino fortaleza bajo el dominio de Dios. Al ir a descansar, agradece por la gracia que te permitió reflejar sosiego en medio de las interacciones cotidianas.",
+            "en": "Gentleness is not weakness, but strength brought under God's control. As you head to rest, give thanks for the grace that enabled you to reflect calm in your daily interactions.",
+            "pt": "A mansidão não é fraqueza, mas força sob o domínio de Deus. Ao ir descansar, agradeça pela graça que permitiu a você refletir calma no meio das interações diárias.",
+            "fr": "La douceur n'est pas une faiblesse, mais une force maîtrisée par Dieu. En te reposant, rends grâce para la grâce qui t'a permis de refléter la sérénité dans tes relations."
+          }
+        },
+        {
+          "id": "guardar_cordura",
+          "label": {
+            "es": "Guardar prudencia",
+            "en": "Keep prudence",
+            "pt": "Guardar prudência",
+            "fr": "Garder la prudence"
+          },
+          "responseTitle": {
+            "es": "Evitar elecciones apresuradas",
+            "en": "Avoiding hasty decisions",
+            "pt": "Evitar escolhas apressadas",
+            "fr": "Éviter les choix précipités"
+          },
+          "responseText": {
+            "es": "Preferiste reflexionar antes que dejarte llevar por el afán del momento, buscando resguardar la cordura y el buen juicio en lo cotidiano.",
+            "en": "You preferred to reflect rather than be carried away by momentary anxiety, protecting prudence and sound judgment in daily tasks.",
+            "pt": "Você preferiu refletir antes de se deixar levar pela ansiedade do momento, buscando guardar a prudência e o bom senso no cotidiano.",
+            "fr": "Tu as préféré réfléchir plutôt que de te laisser emporter par l'empressement du moment, veillant à garder le bon sens et la prudence."
+          },
+          "verses": [
+            "Proverbios 3:21"
+          ],
+          "reflectionHeader": {
+            "es": "Pasos firmes sin agitación",
+            "en": "Steady steps without haste",
+            "pt": "Passos firmes sem agitação",
+            "fr": "Des pas fermes sans précipitation"
+          },
+          "reflection": {
+            "es": "Guardar la cordura protege tu corazón de remordimientos innecesarios y afianza tus pies en el camino del Señor. Reposa tranquilo sabiendo que tu vida está custodiada por su amor fiel.",
+            "en": "Keeping sound judgment protects your heart from unnecessary regret and establishes your steps on the Lord's path. Rest peacefully knowing your life is guarded by His faithful love.",
+            "pt": "Guardar a prudência protege seu coração de remorsos desnecessários e firma seus pés no caminho do Senhor. Descanse tranquilo sabendo que sua vida está guardada pelo amor fiel Dele.",
+            "fr": "Garder la prudence préserve ton cœur des regrets inutiles et raffermit tes pas sur el chemin du Seigneur. Repose-toi paisiblement sous la garde de son amour fidèle."
+          }
+        },
+        {
+          "id": "descanso_confiado",
+          "label": {
+            "es": "Confiar decisiones",
+            "en": "Surrender decisions",
+            "pt": "Entregar decisões",
+            "fr": "Confier ses choix"
+          },
+          "responseTitle": {
+            "es": "Confiar el resultado al Señor",
+            "en": "Entrusting the outcome to God",
+            "pt": "Confiar o resultado a Deus",
+            "fr": "Confier le résultat au Seigneur"
+          },
+          "responseText": {
+            "es": "Habiendo tomado tus decisiones con oración y buena fe, eligiste soltar la ansiedad y depositar en manos de Dios los frutos de la jornada.",
+            "en": "Having made your choices with prayer and good faith, you chose to release anxiety and put the results of the day into God's hands.",
+            "pt": "Tendo tomado suas decisões com oração e boa fé, você escolheu soltar a ansiedade e entregar nas mãos de Deus os resultados do dia.",
+            "fr": "Après avoir fait tes choix dans la prière et la bonne foi, tu as choisi de déposer l'anxiété et de remettre entre les mains de Dieu les suites de cette journée."
+          },
+          "verses": [
+            "Salmos 37:7"
+          ],
+          "reflectionHeader": {
+            "es": "Paz al entregar la jornada",
+            "en": "Peace in surrendering the day",
+            "pt": "Paz ao entregar o dia",
+            "fr": "Paix en remettant la journée"
+          },
+          "reflection": {
+            "es": "La mayor sabiduría radica en saber dónde terminan tus esfuerzos y dónde comienza la providencia divina. Al cerrar este día, reposa con la certeza de que Dios cuida perfectamente de ti y de lo tuyo.",
+            "en": "The highest wisdom lies in knowing where your efforts end and where divine providence begins. As night falls, rest assured that God takes perfect care of you and all that concerns you.",
+            "pt": "A maior sabedoria está em saber onde terminam seus esforços e onde começa a providência divina. Ao fechar este dia, descanse com a certeza de que Deus cuida perfeitamente de você.",
+            "fr": "La plus grande sagesse consiste à savoir où s'arrêtent tes efforts et où commence la providence divine. En fermant la journée, repose-toi avec la certitude que Dieu prend soin de toi."
           }
         }
       ]
