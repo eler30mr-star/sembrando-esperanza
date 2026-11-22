@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-22",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -15178,6 +15178,236 @@
             "en": "The highest wisdom lies in knowing where your efforts end and where divine providence begins. As night falls, rest assured that God takes perfect care of you and all that concerns you.",
             "pt": "A maior sabedoria está em saber onde terminam seus esforços e onde começa a providência divina. Ao fechar este dia, descanse com a certeza de que Deus cuida perfeitamente de você.",
             "fr": "La plus grande sagesse consiste à savoir où s'arrêtent tes efforts et où commence la providence divine. En fermant la journée, repose-toi avec la certitude que Dieu prend soin de toi."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera experimentaste hoy la provisión y el cuidado fiel del Señor?",
+        "en": "How did you experience the Lord's provision and faithful care today?",
+        "pt": "De que maneira você experimentou hoje a provisão e o cuidado fiel do Senhor?",
+        "fr": "Comment as-tu expérimenté aujourd'hui la provision et le soin fidèle du Seigneur ?"
+      },
+      "options": [
+        {
+          "id": "provision_material_diaria",
+          "label": {
+            "es": "Necesidades cubiertas",
+            "en": "Daily needs met",
+            "pt": "Necessidades supridas",
+            "fr": "Besoins comblés"
+          },
+          "responseTitle": {
+            "es": "Dios provee lo necesario",
+            "en": "God provides what's needed",
+            "pt": "Deus provê o necessário",
+            "fr": "Dieu pourvoit au nécessaire"
+          },
+          "responseText": {
+            "es": "Hoy has reconocido que cada recurso y sustento físico proviene de la mano generosa de tu Padre celestial.",
+            "en": "Today you recognized that every physical resource and sustenance comes from the generous hand of your heavenly Father.",
+            "pt": "Hoje você reconheceu que cada recurso e sustento físico provém da mão generosa de seu Pai celestial.",
+            "fr": "Aujourd'hui, tu as reconnu que chaque ressource et subsistance physique provient de la main généreuse de ton Père céleste."
+          },
+          "verses": [
+            "Filipenses 4:19"
+          ],
+          "reflectionHeader": {
+            "es": "Confianza en el Proveedor",
+            "en": "Trust in the Provider",
+            "pt": "Confiança no Provedor",
+            "fr": "Confiance au Pourvoyeur"
+          },
+          "reflection": {
+            "es": "Descansa sabiendo que el Dios que alimentó a las multitudes se interesa por tus necesidades más básicas. No hay falta en Su reino para aquellos que confían en Su fidelidad. Al cerrar tus ojos, entrega cualquier preocupación financiera o material, sabiendo que Él ya está en tu mañana.",
+            "en": "Rest knowing that the God who fed the multitudes cares for your most basic needs. There is no lack in His kingdom for those who trust in His faithfulness. As you close your eyes, surrender any financial or material worry, knowing He is already in your tomorrow.",
+            "pt": "Descanse sabendo que o Deus que alimentou as multidões se interessa por suas necessidades mais básicas. Não há falta em Seu reino para aqueles que confiam em Sua fidelidade. Ao fechar os olhos, entregue qualquer preocupação financeira ou material, sabendo que Ele já está no seu amanhã.",
+            "fr": "Repose-toi en sachant que le Dieu qui a nourri les foules s'intéresse à tes besoins les plus élémentaires. Il n'y a pas de manque dans Son royaume pour ceux qui se confient en Sa fidélité. En fermant les yeux, remets-Lui toute inquiétude financière ou matérielle, sachant qu'Il est déjà dans ton lendemain."
+          }
+        },
+        {
+          "id": "sustento_emocional_paz",
+          "label": {
+            "es": "Fortaleza interna",
+            "en": "Inner strength",
+            "pt": "Força interior",
+            "fr": "Force intérieure"
+          },
+          "responseTitle": {
+            "es": "Sostenido en Su amor",
+            "en": "Sustained in His love",
+            "pt": "Sustentado em Seu amor",
+            "fr": "Soutenu dans Son amour"
+          },
+          "responseText": {
+            "es": "En medio de las presiones, sentiste que una fuerza que no era tuya te mantuvo en pie y con ánimo.",
+            "en": "Amidst the pressures, you felt a strength that was not your own keeping you standing and encouraged.",
+            "pt": "Em meio às pressões, você sentiu que uma força que não era sua o manteve de pé e com ânimo.",
+            "fr": "Au milieu des pressions, tu as senti qu'une force qui n'était pas la tienne t'a maintenu debout et encouragé."
+          },
+          "verses": [
+            "Salmos 55:22"
+          ],
+          "reflectionHeader": {
+            "es": "Cargas entregadas",
+            "en": "Burdens surrendered",
+            "pt": "Cargas entregues",
+            "fr": "Fardeaux remis"
+          },
+          "reflection": {
+            "es": "Dios no solo provee pan, sino también la paz que sobrepasa todo entendimiento. Si hoy lograste mantener la calma o recuperar el ánimo, fue Su Espíritu obrando en ti. Deja que esa fortaleza sea tu almohada esta noche; Él sostiene tu mundo y tu corazón.",
+            "en": "God not only provides bread, but also the peace that surpasses all understanding. If today you managed to stay calm or regain your spirits, it was His Spirit working in you. Let that strength be your pillow tonight; He sustains your world and your heart.",
+            "pt": "Deus não apenas provê o pão, mas também a paz que excede todo o entendimento. Se hoje você conseguiu manter a calma ou recuperar o ânimo, foi o Seu Espírito agindo em você. Deixe que essa força seja o seu travesseiro esta noite; Ele sustenta o seu mundo e o seu coração.",
+            "fr": "Dieu ne fournit pas seulement le pain, mais aussi la paix qui dépasse toute intelligence. Si tu as réussi aujourd'hui à rester calme ou à reprendre courage, c'est Son Esprit qui a agi en toi. Laisse cette force être ton oreiller ce soir ; Il soutient ton monde et ton cœur."
+          }
+        },
+        {
+          "id": "socorro_oportuno_ayuda",
+          "label": {
+            "es": "Socorro oportuno",
+            "en": "Timely help",
+            "pt": "Socorro oportuno",
+            "fr": "Secours opportun"
+          },
+          "responseTitle": {
+            "es": "Mi socorro viene de Dios",
+            "en": "My help comes from God",
+            "pt": "Meu socorro vem de Deus",
+            "fr": "Mon secours vient de Dieu"
+          },
+          "responseText": {
+            "es": "Experimentaste una ayuda inesperada o una solución que llegó justo en el momento exacto.",
+            "en": "You experienced unexpected help or a solution that arrived at exactly the right moment.",
+            "pt": "Você experimentou uma ajuda inesperada ou uma solução que chegou exatamente no momento certo.",
+            "fr": "Tu as fait l'expérience d'une aide inattendue ou d'une solution arrivée exactement au bon moment."
+          },
+          "verses": [
+            "Salmos 121:2"
+          ],
+          "reflectionHeader": {
+            "es": "Asistencia divina",
+            "en": "Divine assistance",
+            "pt": "Assistência divina",
+            "fr": "Assistance divine"
+          },
+          "reflection": {
+            "es": "A veces Dios usa personas, situaciones o incluso lo que parece una coincidencia para socorrernos. Reconocer Su mano en esa ayuda te libera de la autosuficiencia y te recuerda que eres profundamente amado y cuidado. Duerme en gratitud por Su intervención oportuna.",
+            "en": "Sometimes God uses people, situations, or even what seems like a coincidence to help us. Recognizing His hand in that help frees you from self-sufficiency and reminds you that you are deeply loved and cared for. Sleep in gratitude for His timely intervention.",
+            "pt": "Às vezes Deus usa pessoas, situações ou mesmo o que parece ser uma coincidência para nos socorrer. Reconhecer Sua mão nessa ajuda o liberta da autossuficiência e o lembra de que você é profundamente amado e cuidado. Durma em gratidão por Sua intervenção oportuna.",
+            "fr": "Parfois, Dieu utilise des personnes, des situations ou même ce qui semble être une coïncidence pour nous secourir. Reconnaître Sa main dans cette aide te libère de l'autosuffisance et te rappelle que tu es profondément aimé et soigné. Dors dans la gratitude pour Son intervention opportune."
+          }
+        },
+        {
+          "id": "alimento_espiritual_alma",
+          "label": {
+            "es": "Paz en el alma",
+            "en": "Soul peace",
+            "pt": "Paz na alma",
+            "fr": "Paix de l'âme"
+          },
+          "responseTitle": {
+            "es": "Saciado por Su gracia",
+            "en": "Satisfied by His grace",
+            "pt": "Saciado por Sua graça",
+            "fr": "Rassasié par Sa grâce"
+          },
+          "responseText": {
+            "es": "Hoy sentiste que tu hambre espiritual fue saciada a través de Su Palabra o Su presencia constante.",
+            "en": "Today you felt your spiritual hunger satisfied through His Word or His constant presence.",
+            "pt": "Hoje você sentiu que sua fome espiritual foi saciada através de Sua Palavra ou Sua presença constante.",
+            "fr": "Aujourd'hui, tu as senti que ta faim spirituelle a été rassasiée par Sa Parole ou Sa présence constante."
+          },
+          "verses": [
+            "Juan 6:35"
+          ],
+          "reflectionHeader": {
+            "es": "Sustento eterno",
+            "en": "Eternal sustenance",
+            "pt": "Sustento eterno",
+            "fr": "Soutien éternel"
+          },
+          "reflection": {
+            "es": "Jesús es el Pan de Vida que nutre nuestro espíritu cuando el mundo nos deja vacíos. Si hoy encontraste propósito o consuelo espiritual, es porque Él te ha alimentado con Su verdad. Que este alimento te dé la calma necesaria para descansar profundamente bajo Su mirada.",
+            "en": "Jesus is the Bread of Life who nourishes our spirit when the world leaves us empty. If today you found purpose or spiritual comfort, it is because He has fed you with His truth. May this nourishment give you the calm needed to rest deeply under His gaze.",
+            "pt": "Jesus é o Pão da Vida que nutre nosso espírito quando o mundo nos deixa vazios. Se hoje você encontrou propósito ou consolo espiritual, é porque Ele o alimentou com Sua verdade. Que este alimento lhe dê a calma necessária para descansar profundamente sob o Seu olhar.",
+            "fr": "Jésus est le Pain de Vie qui nourrit notre esprit quand le monde nous laisse vides. Si tu as trouvé aujourd'hui un but ou un réconfort spirituel, c'est parce qu'Il t'a nourri de Sa vérité. Que cette nourriture te donne le calme nécessaire pour te reposer profondément sous Son regard."
+          }
+        },
+        {
+          "id": "proteccion_fiel_camino",
+          "label": {
+            "es": "Refugio seguro",
+            "en": "Safe refuge",
+            "pt": "Refúgio seguro",
+            "fr": "Refuge sûr"
+          },
+          "responseTitle": {
+            "es": "Bajo Su sombra",
+            "en": "Under His shadow",
+            "pt": "Sob Sua sombra",
+            "fr": "Sous Son ombre"
+          },
+          "responseText": {
+            "es": "Has percibido el cuidado protector de Dios sobre tu integridad física y la de tus seres queridos.",
+            "en": "You have perceived God's protective care over your physical integrity and that of your loved ones.",
+            "pt": "Você percebeu o cuidado protetor de Deus sobre sua integridade física e a de seus entes queridos.",
+            "fr": "Tu as perçu le soin protecteur de Dieu sur ton intégrité physique et celle de tes proches."
+          },
+          "verses": [
+            "Salmos 121:7"
+          ],
+          "reflectionHeader": {
+            "es": "Guardado por Dios",
+            "en": "Guarded by God",
+            "pt": "Guardado por Deus",
+            "fr": "Gardé par Dieu"
+          },
+          "reflection": {
+            "es": "Él es quien guarda tu salida y tu entrada. La protección divina no siempre es visible, pero Su fidelidad es un escudo real contra el mal. Al terminar este día, suelta la vigilancia y confía en que el Guardián de Israel no duerme; Él cuida de ti mientras descansas.",
+            "en": "He is the one who watches over your going out and your coming in. Divine protection is not always visible, but His faithfulness is a real shield against evil. At the end of this day, release your vigilance and trust that the Guardian of Israel does not sleep; He watches over you while you rest.",
+            "pt": "Ele é quem guarda sua saída e sua entrada. A proteção divina nem sempre é visível, mas Sua fidelidade é um escudo real contra o mal. Ao terminar este dia, solte a vigilância e confie que o Guarda de Israel não dorme; Ele cuida de você enquanto você descansa.",
+            "fr": "C'est Lui qui garde ton départ et ton arrivée. La protection divine n'est pas toujours visible, mais Sa fidélité est un bouclier réel contre le mal. À la fin de cette journée, relâche ta vigilance et aie confiance que le Gardien d'Israël ne dort pas ; Il veille sur toi pendant que tu te reposes."
+          }
+        },
+        {
+          "id": "descanso_renovador_paz",
+          "label": {
+            "es": "Reposo reparador",
+            "en": "Restorative rest",
+            "pt": "Repouso renovador",
+            "fr": "Repos réparateur"
+          },
+          "responseTitle": {
+            "es": "Renovado en quietud",
+            "en": "Renewed in stillness",
+            "pt": "Renovado na quietude",
+            "fr": "Renouvelé dans le calme"
+          },
+          "responseText": {
+            "es": "Dios te ha brindado hoy momentos de quietud y descanso que han renovado tus fuerzas.",
+            "en": "God has provided you today with moments of stillness and rest that have renewed your strength.",
+            "pt": "Deus lhe proporcionou hoje momentos de quietude e descanso que renovaram suas forças.",
+            "fr": "Dieu t'a accordé aujourd'hui des moments de calme et de repos qui ont renouvelé tes forces."
+          },
+          "verses": [
+            "Salmos 23:2"
+          ],
+          "reflectionHeader": {
+            "es": "Aguas de reposo",
+            "en": "Waters of rest",
+            "pt": "Águas de repouso",
+            "fr": "Eaux de repos"
+          },
+          "reflection": {
+            "es": "El descanso no es solo la ausencia de actividad, sino la presencia de Su paz. Dios desea llevarte a pastos delicados donde tu alma pueda ser restaurada. Prepárate para dormir con la certeza de que tu valor no depende de lo que hiciste hoy, sino de Quién te cuida con amor eterno.",
+            "en": "Rest is not just the absence of activity, but the presence of His peace. God desires to lead you into green pastures where your soul can be restored. Prepare to sleep with the certainty that your worth does not depend on what you did today, but on Who cares for you with eternal love.",
+            "pt": "O descanso não é apenas a ausência de atividade, mas a presença de Sua paz. Deus deseja levá-lo a pastos delicados onde sua alma possa ser restaurada. Prepare-se para dormir com a certeza de que seu valor não depende do que você fez hoje, mas de Quem cuida de você com amor eterno.",
+            "fr": "Le repos n'est pas seulement l'absence d'activité, mais la présence de Sa paix. Dieu désire te conduire vers de verts pâturages où ton âme peut être restaurée. Prépare-toi à dormir avec la certitude que ta valeur ne dépend pas de ce que tu as fait aujourd'hui, mais de Celui qui prend soin de toi avec un amour éternel."
           }
         }
       ]
