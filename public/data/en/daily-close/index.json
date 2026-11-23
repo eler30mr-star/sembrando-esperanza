@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-23",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -15408,6 +15408,236 @@
             "en": "Rest is not just the absence of activity, but the presence of His peace. God desires to lead you into green pastures where your soul can be restored. Prepare to sleep with the certainty that your worth does not depend on what you did today, but on Who cares for you with eternal love.",
             "pt": "O descanso não é apenas a ausência de atividade, mas a presença de Sua paz. Deus deseja levá-lo a pastos delicados onde sua alma possa ser restaurada. Prepare-se para dormir com a certeza de que seu valor não depende do que você fez hoje, mas de Quem cuida de você com amor eterno.",
             "fr": "Le repos n'est pas seulement l'absence d'activité, mais la présence de Sa paix. Dieu désire te conduire vers de verts pâturages où ton âme peut être restaurée. Prépare-toi à dormir avec la certitude que ta valeur ne dépend pas de ce que tu as fait aujourd'hui, mais de Celui qui prend soin de toi avec un amour éternel."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera diste prioridad hoy a las cosas eternas en medio de lo cotidiano?",
+        "en": "In what way did you prioritize eternal things amidst your daily routine today?",
+        "pt": "De que maneira você deu prioridade hoje às coisas eternas no meio do cotidiano?",
+        "fr": "De quelle manière as-tu donné la priorité aux choses éternelles aujourd'hui ?"
+      },
+      "options": [
+        {
+          "id": "amor_sin_egoismo",
+          "label": {
+            "es": "Amor sin egoísmo",
+            "en": "Selfless love",
+            "pt": "Amor altruísta",
+            "fr": "Amour désintéressé"
+          },
+          "responseTitle": {
+            "es": "El amor busca el bien",
+            "en": "Love seeks the good",
+            "pt": "O amor busca o bem",
+            "fr": "L'amour cherche le bien"
+          },
+          "responseText": {
+            "es": "Al elegir no insistir en tu propio camino, permitiste que el amor de Dios fluyera a través de ti.",
+            "en": "By choosing not to insist on your own way, you allowed God's love to flow through you.",
+            "pt": "Ao escolher não insistir em seu próprio caminho, você permitiu que o amor de Deus fluísse através de você.",
+            "fr": "En choisissant de ne pas insister sur ta propre voie, tu as permis à l'amour de Dieu de couler à travers toi."
+          },
+          "verses": [
+            "1 Corintios 13:5"
+          ],
+          "reflectionHeader": {
+            "es": "Reflejando a Cristo",
+            "en": "Reflecting Christ",
+            "pt": "Refletindo a Cristo",
+            "fr": "Refléter le Christ"
+          },
+          "reflection": {
+            "es": "La verdadera victoria espiritual no se encuentra en ganar una discusión o imponerse, sino en amar como Jesús nos amó, priorizando el bienestar de los demás sobre nuestro propio orgullo.",
+            "en": "True spiritual victory is not found in winning an argument or imposing oneself, but in loving as Jesus loved us, prioritizing the well-being of others over our own pride.",
+            "pt": "A verdadeira vitória espiritual não se encontra em ganhar uma discussão ou impor-se, mas em amar como Jesus nos amou, priorizando o bem-estar dos outros sobre o nosso próprio orgulho.",
+            "fr": "La véritable victoire spirituelle ne se trouve pas dans le fait de gagner une dispute, mais dans le fait d'aimer comme Jésus nous a aimés, en privilégiant le bien-être des autres."
+          }
+        },
+        {
+          "id": "reino_prioridad",
+          "label": {
+            "es": "Reino en prioridad",
+            "en": "Kingdom priority",
+            "pt": "Reino em prioridade",
+            "fr": "Priorité au Royaume"
+          },
+          "responseTitle": {
+            "es": "Prioridad en Su Reino",
+            "en": "Priority in His Kingdom",
+            "pt": "Prioridade em Seu Reino",
+            "fr": "Priorité à Son Royaume"
+          },
+          "responseText": {
+            "es": "Pusiste la voluntad del Señor por encima de tus deseos inmediatos y preocupaciones terrenales.",
+            "en": "You placed the Lord's will above your immediate desires and earthly concerns.",
+            "pt": "Você colocou a vontade do Senhor acima de seus desejos imediatos e preocupações terrenas.",
+            "fr": "Tu as placé la volonté du Seigneur au-dessus de tes désirs immédiats et de tes préoccupations terrestres."
+          },
+          "verses": [
+            "Mateo 6:33"
+          ],
+          "reflectionHeader": {
+            "es": "Un corazón alineado",
+            "en": "An aligned heart",
+            "pt": "Um coração alinhado",
+            "fr": "Un cœur aligné"
+          },
+          "reflection": {
+            "es": "Cuando buscamos primero el Reino de Dios, nuestras prioridades se ordenan y nuestra alma encuentra descanso. Dios se encarga de lo temporal cuando nosotros nos enfocamos en lo eterno.",
+            "en": "When we seek God's Kingdom first, our priorities become ordered and our soul finds rest. God takes care of the temporal when we focus on the eternal.",
+            "pt": "Quando buscamos primeiro o Reino de Deus, nossas prioridades se ordenam e nossa alma encontra descanso. Deus cuida do temporal quando focamos no eterno.",
+            "fr": "Quand nous cherchons d'abord le Royaume de Dieu, nos priorités s'ordonnent et notre âme trouve le repos. Dieu s'occupe du temporel quand nous nous concentrons sur l'éternel."
+          }
+        },
+        {
+          "id": "inversion_eterna",
+          "label": {
+            "es": "Inversión eterna",
+            "en": "Eternal investment",
+            "pt": "Investimento eterno",
+            "fr": "Investissement éternel"
+          },
+          "responseTitle": {
+            "es": "Tesoros en el cielo",
+            "en": "Treasures in heaven",
+            "pt": "Tesouros no céu",
+            "fr": "Trésors dans le ciel"
+          },
+          "responseText": {
+            "es": "Fuiste generoso con tus recursos, tiempo o talentos para bendecir a otros en el nombre de Cristo.",
+            "en": "You were generous with your resources, time, or talents to bless others in Christ's name.",
+            "pt": "Você foi generoso com seus recursos, tempo ou talentos para abençoar os outros em nome de Cristo.",
+            "fr": "Tu as été généreux avec tes ressources, ton temps ou tes talents pour bénir les autres au nom du Christ."
+          },
+          "verses": [
+            "Lucas 12:33"
+          ],
+          "reflectionHeader": {
+            "es": "Sembrando para siempre",
+            "en": "Sowing forever",
+            "pt": "Semeando para sempre",
+            "fr": "Semer pour toujours"
+          },
+          "reflection": {
+            "es": "Nada de lo que se da por amor al Señor se pierde jamás. Cada acto de generosidad es una semilla plantada en la eternidad que produce un fruto que el tiempo no puede marchitar.",
+            "en": "Nothing given for the love of the Lord is ever lost. Every act of generosity is a seed planted in eternity that produces fruit that time cannot wither.",
+            "pt": "Nada do que é dado por amor ao Senhor se perde jamais. Cada ato de generosidade é uma semente plantada na eternidade que produz um fruto que o tempo não pode murchar.",
+            "fr": "Rien de ce qui est donné par amour pour le Seigneur n'est jamais perdu. Chaque acte de générosité est une graine plantée dans l'éternité."
+          }
+        },
+        {
+          "id": "enfoque_invisible",
+          "label": {
+            "es": "Enfoque invisible",
+            "en": "Unseen focus",
+            "pt": "Foco invisível",
+            "fr": "Focus invisible"
+          },
+          "responseTitle": {
+            "es": "Mirada en lo eterno",
+            "en": "Eyes on the eternal",
+            "pt": "Olhar no eterno",
+            "fr": "Regard sur l'éternel"
+          },
+          "responseText": {
+            "es": "No te dejaste desanimar por las dificultades visibles, confiando en las promesas invisibles de Dios.",
+            "en": "You did not let yourself be discouraged by visible difficulties, trusting in God's unseen promises.",
+            "pt": "Você não se deixou desanimar pelas dificuldades visíveis, confiando nas promessas invisíveis de Deus.",
+            "fr": "Tu ne t'es pas laissé décourager par les difficultés visibles, confiant dans les promesses invisibles de Dieu."
+          },
+          "verses": [
+            "2 Corintios 4:18"
+          ],
+          "reflectionHeader": {
+            "es": "Fuerza en la esperanza",
+            "en": "Strength in hope",
+            "pt": "Força na esperança",
+            "fr": "Force dans l'espoir"
+          },
+          "reflection": {
+            "es": "Las circunstancias de este mundo son pasajeras, pero la gloria de Dios es eterna. Mantener la mirada en Cristo nos da la perspectiva necesaria para caminar con fe sobre cualquier tormenta.",
+            "en": "The circumstances of this world are fleeting, but God's glory is eternal. Keeping our eyes on Christ gives us the perspective needed to walk by faith over any storm.",
+            "pt": "As circunstâncias deste mundo são passageiras, mas a glória de Deus é eterna. Manter o olhar em Cristo nos dá a perspectiva necessária para caminhar com fé sobre qualquer tempestade.",
+            "fr": "Les circonstances de ce monde sont passagères, mais la gloire de Dieu est éternelle. Garder les yeux sur Christ nous donne la perspective nécessaire."
+          }
+        },
+        {
+          "id": "tiempo_redimido",
+          "label": {
+            "es": "Tiempo redimido",
+            "en": "Redeemed time",
+            "pt": "Tempo remido",
+            "fr": "Temps racheté"
+          },
+          "responseTitle": {
+            "es": "Sabiduría en el tiempo",
+            "en": "Wisdom in time",
+            "pt": "Sabedoria no tempo",
+            "fr": "Sagesse dans le temps"
+          },
+          "responseText": {
+            "es": "Usaste tus horas con sabiduría, buscando oportunidades para reflejar la luz de Dios en tu entorno.",
+            "en": "You used your hours with wisdom, seeking opportunities to reflect God's light in your environment.",
+            "pt": "Você usou suas horas com sabedoria, buscando oportunidades para refletir a luz de Deus em seu ambiente.",
+            "fr": "Tu as utilisé tes heures avec sagesse, cherchant des occasions de refléter la lumière de Dieu autour de toi."
+          },
+          "verses": [
+            "Efesios 5:16"
+          ],
+          "reflectionHeader": {
+            "es": "Viviendo con propósito",
+            "en": "Living with purpose",
+            "pt": "Vivendo com propósito",
+            "fr": "Vivre avec intention"
+          },
+          "reflection": {
+            "es": "Cada día es un regalo único para glorificar a Dios. Vivir con intención significa entender que incluso los momentos más sencillos pueden tener un impacto eterno si los vivimos para Su gloria.",
+            "en": "Each day is a unique gift to glorify God. Living with intention means understanding that even the simplest moments can have an eternal impact if lived for His glory.",
+            "pt": "Cada dia é um presente único para glorificar a Deus. Viver com intenção significa entender que mesmo os momentos mais simples podem ter um impacto eterno se os vivermos para Sua glória.",
+            "fr": "Chaque jour est un cadeau unique pour glorifier Dieu. Vivre avec intention signifie que même les moments simples ont un impact éternel."
+          }
+        },
+        {
+          "id": "gracia_palabras",
+          "label": {
+            "es": "Gracia al hablar",
+            "en": "Grace in speech",
+            "pt": "Graça no falar",
+            "fr": "Grâce des paroles"
+          },
+          "responseTitle": {
+            "es": "Palabras de bendición",
+            "en": "Words of blessing",
+            "pt": "Palavras de bênção",
+            "fr": "Paroles de bénédiction"
+          },
+          "responseText": {
+            "es": "Tus palabras hoy fueron sazonadas con gracia, trayendo edificación y paz a quienes te escucharon.",
+            "en": "Your words today were seasoned with grace, bringing edification and peace to those who heard you.",
+            "pt": "Suas palavras hoje foram temperadas com graça, trazendo edificação e paz para quem as ouviu.",
+            "fr": "Tes paroles aujourd'hui ont été assaisonnées de grâce, apportant édification et paix à ceux qui t'ont entendu."
+          },
+          "verses": [
+            "Colosenses 4:6"
+          ],
+          "reflectionHeader": {
+            "es": "El fruto de tus labios",
+            "en": "The fruit of your lips",
+            "pt": "O fruto dos seus lábios",
+            "fr": "Le fruit de tes lèvres"
+          },
+          "reflection": {
+            "es": "El hablar con gracia revela un corazón que ha sido profundamente transformado por la bondad del Señor. Nuestras conversaciones son puentes para que otros experimenten el amor de Dios.",
+            "en": "Speaking with grace reveals a heart that has been deeply transformed by the Lord's goodness. Our conversations are bridges for others to experience God's love.",
+            "pt": "Falar com graça revela um coração que foi profundamente transformado pela bondade do Senhor. Nossas conversas são pontes para que outros experimentem o amor de Deus.",
+            "fr": "Parler avec grâce révèle un cœur transformé par la bonté du Seigneur. Nos conversations sont des ponts vers l'amour de Dieu."
           }
         }
       ]
