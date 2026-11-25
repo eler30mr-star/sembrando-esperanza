@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-25",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -15868,6 +15868,236 @@
             "en": "Knowing you are kept by the Most High removes fear and brings quietness to the mind. Rest peacefully, for your life is hidden in the security of His love.",
             "pt": "Saber-se guardado pelo Altíssimo elimina o medo e traz sossego à mente. Descanse tranquilo, pois sua vida está escondida na segurança do Seu amor.",
             "fr": "Se savoir gardé par le Très-Haut élimine la peur et apporte la quiétude à l'esprit. Repose-toi en paix, car ta vie est cachée dans la sécurité de son amour."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera buscaste hoy mantener una fe firme y llena de esperanza?",
+        "en": "In what way did you seek to keep a steadfast and hopeful faith today?",
+        "pt": "De que maneira você buscou hoje manter uma fé firme e cheia de esperança?",
+        "fr": "De quelle manière as-tu cherché aujourd'hui à garder une foi ferme et joyeuse ?"
+      },
+      "options": [
+        {
+          "id": "refugio_en_promesas",
+          "label": {
+            "es": "Confiar en sus promesas",
+            "en": "Trusting his promises",
+            "pt": "Confiar nas promessas",
+            "fr": "Croire ses promesses"
+          },
+          "responseTitle": {
+            "es": "Promesas que sostienen",
+            "en": "Promises that sustain",
+            "pt": "Promessas que sustentam",
+            "fr": "Des promesses solides"
+          },
+          "responseText": {
+            "es": "Al fijar tu mirada en lo invisible y eterno, descansaste en la certeza de la fidelidad de Dios para tu vida.",
+            "en": "By fixing your gaze on the unseen and eternal, you rested in the certainty of God's faithfulness for your life.",
+            "pt": "Ao fixar seu olhar no invisível e eterno, você descansou na certeza da fidelidade de Deus para sua vida.",
+            "fr": "En fixant ton regard sur l'invisible et l'éternel, tu t'es reposé sur la certitude de la fidélité de Dieu."
+          },
+          "verses": [
+            "Hebreos 11:1"
+          ],
+          "reflectionHeader": {
+            "es": "La certeza de lo que se espera",
+            "en": "The certainty of things hoped for",
+            "pt": "A certeza do que se espera",
+            "fr": "La certitude des choses espérées"
+          },
+          "reflection": {
+            "es": "La fe no depende de las circunstancias cambiantes de la jornada, sino de la naturaleza inmutable de nuestro Padre celestial. Cierra la noche recordando que cada promesa divina sigue en pie.",
+            "en": "Faith does not depend on the changing circumstances of the day, but on the immutable nature of our heavenly Father. Close the night remembering that every divine promise still stands.",
+            "pt": "A fé não depende das circunstâncias mutáveis do dia, mas da natureza imutável do nosso Pai celestial. Feche a noite lembrando que cada promessa divina permanece de pé.",
+            "fr": "La foi ne dépend pas des circonstances changeantes de la journée, mais de la nature immuable de notre Père céleste. Termine la nuit en te rappelant que chaque promesse divine tient toujours."
+          }
+        },
+        {
+          "id": "vencer_el_desanimo",
+          "label": {
+            "es": "Superar el desánimo",
+            "en": "Overcoming low spirits",
+            "pt": "Superar o desânimo",
+            "fr": "Surmonter le doute"
+          },
+          "responseTitle": {
+            "es": "Esperanza viva en la prueba",
+            "en": "Living hope in trials",
+            "pt": "Esperança viva na provação",
+            "fr": "Espérance dans l'épreuve"
+          },
+          "responseText": {
+            "es": "Elegiste hablarle a tu propia alma con la verdad bíblica en lugar de permitir que las dudas apagaran tu paz.",
+            "en": "You chose to speak biblical truth to your own soul instead of letting doubts extinguish your peace.",
+            "pt": "Você escolheu falar a verdade bíblica à sua própria alma em vez de permitir que as dúvidas apagassem sua paz.",
+            "fr": "Tu as choisi de parler à ton âme avec la vérité biblique plutôt que de laisser les doutes éteindre ta paix."
+          },
+          "verses": [
+            "Salmos 42:11"
+          ],
+          "reflectionHeader": {
+            "es": "Dios restaura tu aliento",
+            "en": "God restores your spirit",
+            "pt": "Deus restaura seu ânimo",
+            "fr": "Dieu restaure ton souffle"
+          },
+          "reflection": {
+            "es": "Cuando el cansancio del día intenta abrumarte, recuerda recordar a tu corazón quién es tu salvación. Dios restaura tus fuerzas esta noche para que mañana camines renovado.",
+            "en": "When the weariness of the day attempts to overwhelm you, remind your heart who your salvation is. God restores your strength tonight so you may walk renewed tomorrow.",
+            "pt": "Quando o cansaço do dia tenta sobrecarregá-lo, lembre seu coração de quem é a sua salvação. Deus restaura suas forças esta noite para que amanhã você caminhe renovado.",
+            "fr": "Lorsque la fatigue du jour cherche à t'accabler, rappelle à ton cœur qui est ton salut. Dieu restaure tes forces ce soir pour que tu marches renouvelé demain."
+          }
+        },
+        {
+          "id": "oracion_perseverante",
+          "label": {
+            "es": "Oración constante",
+            "en": "Constant prayer",
+            "pt": "Oração constante",
+            "fr": "Prière constante"
+          },
+          "responseTitle": {
+            "es": "Firmeza en la oración",
+            "en": "Steadfastness in prayer",
+            "pt": "Firmeza na oração",
+            "fr": "Fermeté dans la prière"
+          },
+          "responseText": {
+            "es": "Mantuviste un diálogo sincero con el Señor a lo largo de las horas, hallando fortaleza continua en su presencia.",
+            "en": "You maintained a sincere dialogue with the Lord throughout the hours, finding continuous strength in his presence.",
+            "pt": "Você manteve um diálogo sincero com o Senhor ao longo das horas, encontrando força contínua em sua presença.",
+            "fr": "Tu as maintenu un dialogue sincère avec le Seigneur tout au long de la journée, trouvant une force continue en sa présence."
+          },
+          "verses": [
+            "Romanos 12:12"
+          ],
+          "reflectionHeader": {
+            "es": "Diálogo continuo con el Creador",
+            "en": "Continuous dialogue with God",
+            "pt": "Diálogo contínuo com o Criador",
+            "fr": "Dialogue continu avec le Créateur"
+          },
+          "reflection": {
+            "es": "La oración constante transforma la rutina diaria en un santuario. Entregar al Señor tus vivencias antes de dormir renueva tu serenidad y afirma tus pasos para el nuevo día.",
+            "en": "Constant prayer transforms the daily routine into a sanctuary. Handing over your experiences to the Lord before sleep renews your serenity and firms your steps for the new day.",
+            "pt": "A oração constante transforma a rotina diária em um santuário. Entregar ao Senhor suas experiências antes de dormir renova sua serenidade e firma seus passos para o novo dia.",
+            "fr": "La prière constante transforme la routine quotidienne en un sanctuaire. Remettre au Seigneur ton vécu avant de dormir renouvelle ta sérénité et affermit tes pas pour le jour nouveau."
+          }
+        },
+        {
+          "id": "calma_en_tormenta",
+          "label": {
+            "es": "Calma en la tormenta",
+            "en": "Calm in the storm",
+            "pt": "Calma na tempestade",
+            "fr": "Calme dans la tempête"
+          },
+          "responseTitle": {
+            "es": "Confianza en la tempestad",
+            "en": "Trust amidst the storm",
+            "pt": "Confiança na tempestade",
+            "fr": "Confiance dans la tempête"
+          },
+          "responseText": {
+            "es": "Frente a las turbulencias e incertidumbres del día, preferiste confiar en que Cristo tiene autoridad sobre todo.",
+            "en": "Faced with the day's turbulence and uncertainty, you chose to trust that Christ holds authority over everything.",
+            "pt": "Diante das turbulências e incertezas do dia, você preferiu confiar que Cristo tem autoridade sobre tudo.",
+            "fr": "Face aux turbulences et aux incertitudes du jour, tu as préféré faire confiance à l'autorité de Christ sur toute chose."
+          },
+          "verses": [
+            "Marcos 4:40"
+          ],
+          "reflectionHeader": {
+            "es": "El Señor domina los vientos",
+            "en": "The Lord rules the winds",
+            "pt": "O Senhor domina os ventos",
+            "fr": "Le Seigneur maîtrise les vents"
+          },
+          "reflection": {
+            "es": "Jesús está en tu barca incluso cuando las olas parecen altas. Al descansar esta noche, recuerda que su sola voz trae bonanza y sosiego a tu mente y a tu espíritu.",
+            "en": "Jesus is in your boat even when the waves seem high. As you rest tonight, remember that his voice alone brings calm and quietness to your mind and spirit.",
+            "pt": "Jesus está no seu barco mesmo quando as ondas parecem altas. Ao descansar esta noite, lembre-se de que sua voz traz bonança e sossego à sua mente e ao seu espírito.",
+            "fr": "Jésus est dans ta barque même lorsque les vagues semblent hautes. En te reposant ce soir, rappelle-toi que sa seule voix apporte le calme et la quiétude à ton esprit."
+          }
+        },
+        {
+          "id": "firmeza_en_la_verdad",
+          "label": {
+            "es": "Permanecer en la verdad",
+            "en": "Standing in truth",
+            "pt": "Permanecer na verdade",
+            "fr": "Demeurer dans la vérité"
+          },
+          "responseTitle": {
+            "es": "Inamovibles en el Señor",
+            "en": "Unshakable in the Lord",
+            "pt": "Inabaláveis no Senhor",
+            "fr": "Inébranlables dans le Seigneur"
+          },
+          "responseText": {
+            "es": "Decidiste mantener tus principios intactos y trabajar con diligencia, sabiendo que tu labor en Dios no es en vano.",
+            "en": "You decided to keep your principles intact and work diligently, knowing that your labor in God is not in vain.",
+            "pt": "Você decidiu manter seus princípios intactos e trabalhar com diligência, sabendo que seu trabalho em Deus não é em vão.",
+            "fr": "Tu as décidé de garder tes principes intacts et de travailler avec diligence, sachant que ton travail en Dieu n'est pas en vain."
+          },
+          "verses": [
+            "1 Corintios 15:58"
+          ],
+          "reflectionHeader": {
+            "es": "Trabajo en el Señor con propósito",
+            "en": "Purposeful labor in the Lord",
+            "pt": "Trabalho no Senhor com propósito",
+            "fr": "Travail pour le Seigneur avec sens"
+          },
+          "reflection": {
+            "es": "Cada acto de fidelidad, por pequeño que parezca, tiene un valor eterno. Da gracias por el esfuerzo de hoy y descansa sabiendo que el Señor afirma la obra de tus manos.",
+            "en": "Every act of faithfulness, no matter how small it seems, holds eternal value. Give thanks for today's effort and rest knowing that the Lord establishes the work of your hands.",
+            "pt": "Cada ato de fidelidade, por menor que pareça, tem um valor eterno. Dê graças pelo esforço de hoje e descanse sabendo que o Senhor estabelece a obra de suas mãos.",
+            "fr": "Chaque acte de fidélité, aussi petit qu'il paraisse, a une valeur éternelle. Rends grâce pour l'effort d'aujourd'hui et repose-toi en sachant que le Seigneur affermit l'œuvre de tes mains."
+          }
+        },
+        {
+          "id": "gozo_en_esperanza",
+          "label": {
+            "es": "Gozo en la prueba",
+            "en": "Joy amidst trials",
+            "pt": "Alegria na provação",
+            "fr": "Joie dans l'épreuve"
+          },
+          "responseTitle": {
+            "es": "Alegría fundada en Dios",
+            "en": "Joy founded in God",
+            "pt": "Alegria fundada em Deus",
+            "fr": "Joie fondée en Dieu"
+          },
+          "responseText": {
+            "es": "Aun si los frutos externos no fueron abundantes, encontraste tu mayor deleite y seguridad en la persona del Señor.",
+            "en": "Even if external outcomes were not abundant, you found your greatest delight and security in the person of the Lord.",
+            "pt": "Mesmo se os frutos externos não foram abundantes, você encontrou seu maior deleite e segurança na pessoa do Senhor.",
+            "fr": "Même si les fruits extérieurs n'ont pas été abondants, tu as trouvé ton plus grand délice et ta sécurité en la personne du Seigneur."
+          },
+          "verses": [
+            "Habacuc 3:18"
+          ],
+          "reflectionHeader": {
+            "es": "Dios es tu fortaleza permanente",
+            "en": "God is your lasting strength",
+            "pt": "Deus é sua força permanente",
+            "fr": "Dieu est ta force permanente"
+          },
+          "reflection": {
+            "es": "El verdadero gozo cristiano no depende de las ganancias terrenales, sino del Salvador que nunca falla. Ve a dormir reconociendo que en Él tienes plenitud y sustento suficiente.",
+            "en": "True Christian joy does not depend on earthly gains, but on the Savior who never fails. Go to sleep acknowledging that in Him you have fullness and sufficient sustenance.",
+            "pt": "A verdadeira alegria cristã não depende dos ganhos terrenais, mas do Salvador que nunca falha. Vá dormir reconhecendo que nEle você tem plenitude e sustento suficiente.",
+            "fr": "La vraie joie chrétienne ne dépend pas des gains terrestres, mais du Sauveur qui ne faillit jamais. Endors-toi en reconnaissant qu'en Lui tu as la plénitude et un soutien suffisant."
           }
         }
       ]
