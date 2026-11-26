@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -16098,6 +16098,236 @@
             "en": "True Christian joy does not depend on earthly gains, but on the Savior who never fails. Go to sleep acknowledging that in Him you have fullness and sufficient sustenance.",
             "pt": "A verdadeira alegria cristã não depende dos ganhos terrenais, mas do Salvador que nunca falha. Vá dormir reconhecendo que nEle você tem plenitude e sustento suficiente.",
             "fr": "La vraie joie chrétienne ne dépend pas des gains terrestres, mais du Sauveur qui ne faillit jamais. Endors-toi en reconnaissant qu'en Lui tu as la plénitude et un soutien suffisant."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera manifestaste hoy el carácter de Cristo en tus acciones?",
+        "en": "In what way did you manifest Christ's character in your actions today?",
+        "pt": "De que maneira você manifestou hoje o caráter de Cristo em suas ações?",
+        "fr": "De quelle manière as-tu manifesté aujourd'hui le caractère de Christ dans tes actions ?"
+      },
+      "options": [
+        {
+          "id": "gentileza_activa",
+          "label": {
+            "es": "Gentileza activa",
+            "en": "Active kindness",
+            "pt": "Gentileza ativa",
+            "fr": "Douceur active"
+          },
+          "responseTitle": {
+            "es": "Reflejo de Bondad",
+            "en": "Reflection of Goodness",
+            "pt": "Reflexo de Bondade",
+            "fr": "Reflet de Bonté"
+          },
+          "responseText": {
+            "es": "Tu amabilidad es un testimonio silencioso del amor de Dios.",
+            "en": "Your kindness is a silent testimony of God's love.",
+            "pt": "Sua amabilidade é um testemunho silencioso do amor de Deus.",
+            "fr": "Ta gentillesse est un témoignage silencieux de l'amour de Dieu."
+          },
+          "verses": [
+            "Gálatas 5:22"
+          ],
+          "reflectionHeader": {
+            "es": "La suavidad del Reino",
+            "en": "The softness of the Kingdom",
+            "pt": "A suavidade do Reino",
+            "fr": "La douceur du Royaume"
+          },
+          "reflection": {
+            "es": "Al tratar a otros con gentileza, permites que la luz del Espíritu brille a través de ti, suavizando los corazones y trayendo calma al entorno.",
+            "en": "By treating others with kindness, you allow the light of the Spirit to shine through you, softening hearts and bringing calm to your surroundings.",
+            "pt": "Ao tratar os outros com gentileza, você permite que a luz do Espírito brilhe através de você, suavizando os corações e trazendo calma ao ambiente.",
+            "fr": "En traitant les autres avec douceur, tu laisses la lumière de l'Esprit briller à travers toi, adoucissant les cœurs et apportant le calme autour de toi."
+          }
+        },
+        {
+          "id": "gobierno_interno",
+          "label": {
+            "es": "Dominio propio",
+            "en": "Self-control",
+            "pt": "Domínio próprio",
+            "fr": "Maîtrise de soi"
+          },
+          "responseTitle": {
+            "es": "Gobierno del Espíritu",
+            "en": "Spirit's Government",
+            "pt": "Governo do Espírito",
+            "fr": "Gouvernement de l'Esprit"
+          },
+          "responseText": {
+            "es": "Frenar un impulso es permitir que Dios tome el timón.",
+            "en": "Restraining an impulse is allowing God to take the helm.",
+            "pt": "Frear um impulso é permitir que Deus assuma o leme.",
+            "fr": "Retenir une impulsion, c'est laisser Dieu prendre les commandes."
+          },
+          "verses": [
+            "Proverbios 25:28"
+          ],
+          "reflectionHeader": {
+            "es": "Fortaleza interna",
+            "en": "Inner Strength",
+            "pt": "Fortaleza interna",
+            "fr": "Force intérieure"
+          },
+          "reflection": {
+            "es": "El dominio propio no es represión, sino la libertad de elegir lo que agrada a Dios por encima de los impulsos pasajeros del alma.",
+            "en": "Self-control is not repression, but the freedom to choose what pleases God over the fleeting impulses of the soul.",
+            "pt": "O domínio próprio não é repressão, mas a liberdade de escolher o que agrada a Deus acima dos impulsos passageiros da alma.",
+            "fr": "La maîtrise de soi n'est pas une répression, mais la liberté de choisir ce qui plaît à Dieu plutôt que les impulsions passagères de l'âme."
+          }
+        },
+        {
+          "id": "constructor_paz",
+          "label": {
+            "es": "Semilla de paz",
+            "en": "Seed of peace",
+            "pt": "Semente de paz",
+            "fr": "Semence de paix"
+          },
+          "responseTitle": {
+            "es": "Constructor de Puentes",
+            "en": "Bridge Builder",
+            "pt": "Construtor de Pontes",
+            "fr": "Bâtisseur de Ponts"
+          },
+          "responseText": {
+            "es": "Al sembrar paz, cosechas justicia y reflejas al Padre.",
+            "en": "By sowing peace, you reap justice and reflect the Father.",
+            "pt": "Ao semear paz, você colhe justiça e reflete o Pai.",
+            "fr": "En semant la paix, tu récoltes la justice et reflètes le Père."
+          },
+          "verses": [
+            "Santiago 3:18"
+          ],
+          "reflectionHeader": {
+            "es": "Armonía divina",
+            "en": "Divine Harmony",
+            "pt": "Harmonia divina",
+            "fr": "Harmonie divine"
+          },
+          "reflection": {
+            "es": "Ser un pacificador requiere valentía para calmar tormentas ajenas y sabiduría para no encender fuegos innecesarios en el trato diario.",
+            "en": "Being a peacemaker requires courage to calm others' storms and wisdom not to ignite unnecessary fires in daily interactions.",
+            "pt": "Ser um pacificador exige coragem para acalmar tempestades alheias e sabedoria para não acender fogos desnecessários no trato diário.",
+            "fr": "Être un artisan de paix exige du courage pour calmer les tempêtes des autres et de la sagesse pour ne pas allumer de feux inutiles au quotidien."
+          }
+        },
+        {
+          "id": "fidelidad_pequena",
+          "label": {
+            "es": "Fidelidad diaria",
+            "en": "Daily faithfulness",
+            "pt": "Fidelidade diária",
+            "fr": "Fidélité quotidienne"
+          },
+          "responseTitle": {
+            "es": "Pequeñas Victorias",
+            "en": "Small Victories",
+            "pt": "Pequenas Vitórias",
+            "fr": "Petites Victoires"
+          },
+          "responseText": {
+            "es": "Ser fiel en lo poco te prepara para grandes propósitos.",
+            "en": "Being faithful in little prepares you for great purposes.",
+            "pt": "Ser fiel no pouco prepara você para grandes propósitos.",
+            "fr": "Être fidèle dans les petites choses te prépare à de grands desseins."
+          },
+          "verses": [
+            "Lucas 16:10"
+          ],
+          "reflectionHeader": {
+            "es": "Caminando en integridad",
+            "en": "Walking in Integrity",
+            "pt": "Caminhando em integridade",
+            "fr": "Marcher dans l'intégrité"
+          },
+          "reflection": {
+            "es": "Dios valora profundamente la integridad en los detalles más pequeños; allí es donde se forja la solidez de un testimonio cristiano real.",
+            "en": "God deeply values integrity in the smallest details; that is where the solidity of a real Christian testimony is forged.",
+            "pt": "Deus valoriza profundamente a integridade nos menores detalhes; é ali que se forja a solidez de um testemunho cristão real.",
+            "fr": "Dieu valorise profondément l'intégrité dans les moindres détails ; c'est là que se forge la solidité d'un véritable témoignage chrétien."
+          }
+        },
+        {
+          "id": "humildad_gracia",
+          "label": {
+            "es": "Humildad sincera",
+            "en": "Sincere humility",
+            "pt": "Humildade sincera",
+            "fr": "Humilité sincère"
+          },
+          "responseTitle": {
+            "es": "Camino de Gracia",
+            "en": "Path of Grace",
+            "pt": "Caminho de Graça",
+            "fr": "Chemin de Grâce"
+          },
+          "responseText": {
+            "es": "La humildad abre las puertas a la bendición de Dios.",
+            "en": "Humility opens the doors to God's blessing.",
+            "pt": "A humildade abre as portas à bênção de Deus.",
+            "fr": "L'humilité ouvre les portes à la bénédiction de Dieu."
+          },
+          "verses": [
+            "Efesios 4:2"
+          ],
+          "reflectionHeader": {
+            "es": "Corazón bajo Su luz",
+            "en": "Heart under His light",
+            "pt": "Coração sob Sua luz",
+            "fr": "Cœur sous Sa lumière"
+          },
+          "reflection": {
+            "es": "La humildad es la llave que nos mantiene conectados a la fuente de la gracia, permitiéndonos ver a los demás con los ojos de Jesús.",
+            "en": "Humility is the key that keeps us connected to the source of grace, allowing us to see others through the eyes of Jesus.",
+            "pt": "A humildade é a chave que nos mantém conectados à fonte da graça, permitindo-nos ver os outros com os olhos de Jesus.",
+            "fr": "L'humilité est la clé qui nous maintient connectés à la source de la grâce, nous permettant de voir les autres avec les yeux de Jésus."
+          }
+        },
+        {
+          "id": "paciencia_ritmo",
+          "label": {
+            "es": "Paciencia viva",
+            "en": "Living patience",
+            "pt": "Paciência viva",
+            "fr": "Patience vivante"
+          },
+          "responseTitle": {
+            "es": "Ritmo de Dios",
+            "en": "God's Rhythm",
+            "pt": "Ritmo de Deus",
+            "fr": "Rythme de Dieu"
+          },
+          "responseText": {
+            "es": "Esperar con buen ánimo honra el tiempo del Señor.",
+            "en": "Waiting with good cheer honors the Lord's timing.",
+            "pt": "Esperar com bom ânimo honra o tempo do Senhor.",
+            "fr": "Attendre de bonne humeur honore le temps du Seigneur."
+          },
+          "verses": [
+            "Eclesiastés 7:8"
+          ],
+          "reflectionHeader": {
+            "es": "Fruto de la espera santa",
+            "en": "Fruit of holy waiting",
+            "pt": "Fruto da espera santa",
+            "fr": "Fruit de l'attente sainte"
+          },
+          "reflection": {
+            "es": "La paciencia es la fe en acción que nos recuerda que Dios está obrando aun cuando las circunstancias no avanzan a nuestro ritmo.",
+            "en": "Patience is faith in action that reminds us God is working even when circumstances do not move at our pace.",
+            "pt": "A paciência é a fé em ação que nos lembra que Deus está agindo mesmo quando as circunstâncias não avançam no nosso ritmo.",
+            "fr": "La patience est la foi en action qui nous rappelle que Dieu agit même lorsque les circonstances n'avancent pas à notre rythme."
           }
         }
       ]
