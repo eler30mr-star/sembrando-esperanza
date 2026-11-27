@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26",
+  "updatedAt": "2026-11-27",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -16328,6 +16328,236 @@
             "en": "Patience is faith in action that reminds us God is working even when circumstances do not move at our pace.",
             "pt": "A paciência é a fé em ação que nos lembra que Deus está agindo mesmo quando as circunstâncias não avançam no nosso ritmo.",
             "fr": "La patience est la foi en action qui nous rappelle que Dieu agit même lorsque les circonstances n'avancent pas à notre rythme."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera cuidaste hoy la salud de tu corazón ante Dios?",
+        "en": "How did you guard the health of your heart before God today?",
+        "pt": "De que maneira você cuidou hoje da saúde do seu coração diante de Deus?",
+        "fr": "De quelle manière as-tu veillé aujourd'hui sur la santé de ton cœur ?"
+      },
+      "options": [
+        {
+          "id": "soltar_ofensas",
+          "label": {
+            "es": "Soltar ofensas",
+            "en": "Releasing offenses",
+            "pt": "Soltar ofensas",
+            "fr": "Libérer les offenses"
+          },
+          "responseTitle": {
+            "es": "Guardando el corazón con perdón",
+            "en": "Guarding the heart with forgiveness",
+            "pt": "Guardando o coração com perdão",
+            "fr": "Garder son cœur par le pardon"
+          },
+          "responseText": {
+            "es": "Decidiste no permitir que la amargura ni el rencor echen raíces en tu alma al cerrar este día.",
+            "en": "You chose not to allow bitterness or resentment to take root in your soul as this day ends.",
+            "pt": "Você decidiu não permitir que a amargura ou o rancor criem raízes em sua alma ao fechar este dia.",
+            "fr": "Tu as choisi de ne pas laisser l'amertume ou le rancœur prendre racine dans ton âme à la fin de cette journée."
+          },
+          "verses": [
+            "Proverbios 4:23"
+          ],
+          "reflectionHeader": {
+            "es": "La pureza de la paz interior",
+            "en": "The purity of inner peace",
+            "pt": "A pureza da paz interior",
+            "fr": "La pureté de la paix intérieure"
+          },
+          "reflection": {
+            "es": "Proteger el corazón requiere la valentía de perdonar y entregar a Dios cada herida. Al soltar las ofensas, liberas tu espíritu y permites que la paz del Señor habite plenamente en ti. Descansa sabiendo que tu alma está limpia y resguardada en su amor.",
+            "en": "Guarding your heart requires the courage to forgive and entrust every hurt to God. By releasing offenses, you free your spirit and allow the Lord's peace to dwell fully within you. Rest knowing that your soul is clean and protected in His love.",
+            "pt": "Proteger o coração exige a coragem de perdoar e entregar a Deus cada ferida. Ao soltar as ofensas, você liberta seu espírito e permite que a paz do Senhor habite plenamente em você. Descanse sabendo que sua alma está limpa e guardada em seu amor.",
+            "fr": "Protéger son cœur demande le courage de pardonner et de confier chaque blessure à Dieu. En libérant les offenses, tu libères ton esprit et permets à la paix du Seigneur d'habiter pleinement en toi. Repose-toi en sachant que ton âme est pure et protégée dans son amour."
+          }
+        },
+        {
+          "id": "oracion_sincera",
+          "label": {
+            "es": "Oración sincera",
+            "en": "Sincere prayer",
+            "pt": "Oração sincera",
+            "fr": "Prière sincère"
+          },
+          "responseTitle": {
+            "es": "Derramando el alma ante Él",
+            "en": "Pouring out your soul before Him",
+            "pt": "Derramando a alma diante Dele",
+            "fr": "Répandre son âme devant Lui"
+          },
+          "responseText": {
+            "es": "Abriste tu corazón con honestidad ante Dios, compartiendo tus cargas y anhelos sin reservas.",
+            "en": "You opened your heart honestly before God, sharing your burdens and desires without reservation.",
+            "pt": "Você abriu seu coração com honestidade diante de Deus, compartilhando suas cargas e desejos sem reservas.",
+            "fr": "Tu as ouvert ton cœur avec honnêteté devant Dieu, partageant tes fardeaux et tes désirs sans réserve."
+          },
+          "verses": [
+            "Salmos 62:8"
+          ],
+          "reflectionHeader": {
+            "es": "Un refugio permanente",
+            "en": "A permanent refuge",
+            "pt": "Um refúgio permanente",
+            "fr": "Un refuge permanent"
+          },
+          "reflection": {
+            "es": "La verdadera intimidad con el Padre nace de la transparencia. Al buscar a Dios sin máscaras, tu fe se fortalece y encuentras en Él un refugio inquebrantable. Duerme tranquilamente, sabiendo que tus oraciones han sido escuchadas con ternura.",
+            "en": "True intimacy with the Father comes from transparency. By seeking God without masks, your faith is strengthened, and you find in Him an unshakeable refuge. Sleep peacefully, knowing that your prayers have been heard with tenderness.",
+            "pt": "A verdadeira intimidade com o Pai nasce da transparência. Ao buscar a Deus sem máscaras, sua fé se fortalece e você encontra Nele um refúgio inabalável. Durma tranquilamente, sabendo que suas orações foram ouvidas com ternura.",
+            "fr": "La véritable intimité avec le Père naît de la transparence. En cherchant Dieu sans masque, ta foi se fortifie et tu trouves en Lui un refuge inébranlable. Dors paisiblement, sachant que tes prières ont été entendues avec tendresse."
+          }
+        },
+        {
+          "id": "meditar_palabra",
+          "label": {
+            "es": "Meditar su Palabra",
+            "en": "Pondering His Word",
+            "pt": "Meditar na Palavra",
+            "fr": "Méditer sa Parole"
+          },
+          "responseTitle": {
+            "es": "Alimentando la mente con verdad",
+            "en": "Feeding the mind with truth",
+            "pt": "Alimentando a mente com a verdade",
+            "fr": "Nourrir l'esprit de vérité"
+          },
+          "responseText": {
+            "es": "Buscaste la guía de las Escrituras para renovar tu entendimiento y alinear tu andar con su voluntad.",
+            "en": "You sought the guidance of Scripture to renew your mind and align your walk with His will.",
+            "pt": "Você buscou a orientação das Escrituras para renovar seu entendimento e alinhar seus passos à vontade Dele.",
+            "fr": "Tu as cherché la direction des Écritures pour renouveler ta pensée et aligner ta marche sur sa volonté."
+          },
+          "verses": [
+            "Salmos 119:105"
+          ],
+          "reflectionHeader": {
+            "es": "Luz para cada paso",
+            "en": "Light for every step",
+            "pt": "Luz para cada passo",
+            "fr": "Une lumière sur ton chemin"
+          },
+          "reflection": {
+            "es": "La Palabra de Dios sostiene nuestros pensamientos cuando las incertidumbres del día intentan desorientarnos. Al atesorar sus promesas en tu mente, caminas con claridad y firmeza. Que el descanso de esta noche selle la verdad divina en tu corazón.",
+            "en": "God's Word sustains our thoughts when the day's uncertainties try to confuse us. By treasuring His promises in your mind, you walk with clarity and confidence. May tonight's rest seal divine truth in your heart.",
+            "pt": "A Palavra de Deus sustenta nossos pensamentos quando as incertezas do dia tentam nos desorientar. Ao guardar suas promessas em sua mente, você caminha com clareza e firmeza. Que o descanso desta noite sele a verdade divina em seu coração.",
+            "fr": "La Parole de Dieu soutient nos pensées lorsque les incertitudes du jour cherchent à nous désorienter. En chérissant ses promesses dans ton esprit, tu marches avec clarté et assurance. Que le repos de cette nuit scelle la vérité divine dans ton cœur."
+          }
+        },
+        {
+          "id": "silenciar_ruido",
+          "label": {
+            "es": "Silenciar el ruido",
+            "en": "Silencing the noise",
+            "pt": "Silenciar o ruído",
+            "fr": "Faire taire le bruit"
+          },
+          "responseTitle": {
+            "es": "Buscando sosiego en la verdad",
+            "en": "Finding rest in His truth",
+            "pt": "Buscando sossego na verdade",
+            "fr": "Chercher le repos dans la vérité"
+          },
+          "responseText": {
+            "es": "Apartaste la prisa y la sobrecarga diaria para descansar en la presencia tranquila del Señor.",
+            "en": "You set aside daily rush and overload to rest in the quiet presence of the Lord.",
+            "pt": "Você afastou a pressa e a sobrecarga diária para descansar na presença tranquila do Senhor.",
+            "fr": "Tu as mis de côté la hâte et la surcharge quotidienne pour te reposer dans la présence paisible du Seigneur."
+          },
+          "verses": [
+            "Isaías 26:3"
+          ],
+          "reflectionHeader": {
+            "es": "La serenidad del espíritu",
+            "en": "The serenity of the spirit",
+            "pt": "A serenidade do espírito",
+            "fr": "La sérénité de l'esprit"
+          },
+          "reflection": {
+            "es": "En medio de un mundo ruidoso, decidir hacer una pausa ante Dios restaura las fuerzas y afirma el alma. Aquellos que confían en el Señor experimentan una paz perfecta que trasciende las circunstancias. Entrega esta noche tu cansancio y recibe su sosiego.",
+            "en": "In the midst of a noisy world, choosing to pause before God restores strength and settles the soul. Those who trust in the Lord experience perfect peace that surpasses circumstances. Surrender your fatigue tonight and receive His tranquility.",
+            "pt": "No meio de um mundo ruidoso, decidir fazer uma pausa diante de Deus restaura as forças e firma a alma. Aqueles que confiam no Senhor experimentam uma paz perfeita que transcende as circunstâncias. Entregue esta noite o seu cansaço e receba o Seu sossego.",
+            "fr": "Au milieu d'un monde bruyant, choisir de faire une pause devant Dieu restaure les forces et affermit l'âme. Ceux qui font confiance au Seigneur font l'expérience d'une paix parfaite qui surpasse les circonstances. Dépose ta fatigue ce soir et reçois sa tranquillité."
+          }
+        },
+        {
+          "id": "contentamiento_fiel",
+          "label": {
+            "es": "Contentamiento fiel",
+            "en": "Faithful contentment",
+            "pt": "Contentamento fiel",
+            "fr": "Contentement fidèle"
+          },
+          "responseTitle": {
+            "es": "Aceptando cada etapa con fe",
+            "en": "Accepting every season with faith",
+            "pt": "Aceitando cada etapa com fé",
+            "fr": "Accueillir chaque saison avec foi"
+          },
+          "responseText": {
+            "es": "Decidiste valorar la voluntad divina hoy, reconociendo que Dios sostiene tu presente con suficiencia.",
+            "en": "You chose to value God's will today, recognizing that He holds your present with all sufficiency.",
+            "pt": "Você decidiu valorizar a vontade divina hoje, reconhecendo que Deus sustenta seu presente com suficiência.",
+            "fr": "Tu as choisi de valoriser la volonté divine aujourd'hui, reconnaissant que Dieu soutient ton présent avec suffisance."
+          },
+          "verses": [
+            "Filipenses 4:11"
+          ],
+          "reflectionHeader": {
+            "es": "Paz en la soberanía de Dios",
+            "en": "Peace in God's sovereignty",
+            "pt": "Paz na soberania de Deus",
+            "fr": "Paix dans la souveraineté de Dieu"
+          },
+          "reflection": {
+            "es": "El contentamiento espiritual no depende de tenerlo todo resuelto, sino de confiar en la fidelidad de Dios en cualquier circunstancia. Al agradecer el día vivido, reconoces que la gracia divina es tu mayor riqueza. Duerme con la serenidad de estar en sus manos.",
+            "en": "Spiritual contentment does not depend on having everything figured out, but on trusting God's faithfulness in any situation. By giving thanks for the day, you recognize that divine grace is your greatest wealth. Sleep with the serenity of being in His hands.",
+            "pt": "O contentamento espiritual não depende de ter tudo resolvido, mas de confiar na fidelidade de Deus em qualquer circunstância. Ao agradecer pelo dia vivido, você reconhece que a graça divina é sua maior riqueza. Durma com a serenidade de estar em suas mãos.",
+            "fr": "Le contentement spirituel ne dépend pas de tout avoir résolu, mais de faire confiance à la fidélité de Dieu en toute circonstance. En remerciant pour la journée écoulée, tu reconnais que la grâce divine est ta plus grande richesse. Dors avec la sérénité d'être entre ses mains."
+          }
+        },
+        {
+          "id": "amor_incondicional",
+          "label": {
+            "es": "Amar sin fingimiento",
+            "en": "Loving without pretense",
+            "pt": "Amar sem fingimento",
+            "fr": "Aimer sans feinte"
+          },
+          "responseTitle": {
+            "es": "Conservando un amor íntegro",
+            "en": "Keeping a pure and true love",
+            "pt": "Mantendo um amor puro e íntegro",
+            "fr": "Conserver un amour pur et intègre"
+          },
+          "responseText": {
+            "es": "Procuraste actuar con sinceridad y bondad en tus relaciones, reflejando el afecto genuino de Cristo.",
+            "en": "You sought to act with sincerity and kindness in your relationships, reflecting Christ's genuine love.",
+            "pt": "Você buscou agir com sinceridade e bondade em seus relacionamentos, refletindo o afeto genuíno de Cristo.",
+            "fr": "Tu as cherché à agir avec sincérité et bonté dans tes relations, reflétant l'affection sincère du Christ."
+          },
+          "verses": [
+            "Romanos 12:9"
+          ],
+          "reflectionHeader": {
+            "es": "El fruto de un corazón puro",
+            "en": "The fruit of a pure heart",
+            "pt": "O fruto de um coração puro",
+            "fr": "Le fruit d'un cœur pur"
+          },
+          "reflection": {
+            "es": "Amar sinceramente exige paciencia, verdad y disposición para servir a los demás sin buscar recompensa. Cuando permites que el amor de Dios dirija tus acciones, tu entorno se transforma y tu espíritu encuentra plenitud. Reposa esta noche bajo el abrigo de su constante amor.",
+            "en": "Loving sincerely requires patience, truth, and a willingness to serve others without seeking reward. When you allow God's love to direct your actions, your surroundings are transformed and your spirit finds fulfillment. Rest tonight under the shelter of His constant love.",
+            "pt": "Amar sinceramente exige paciência, verdade e disposição para servir aos outros sem buscar recompensa. Quando você permite que o amor de Deus dirija suas ações, seu ambiente se transforma e seu espírito encontra plenitude. Repouse esta noite sob o abrigo de Seu constante amor.",
+            "fr": "Aimer sincèrement demande de la patience, de la vérité et une disposition à servir les autres sans chercher de récompense. Lorsque tu laisses l'amour de Dieu diriger tes actions, ton entourage se transforme et ton esprit trouve la plénitude. Repose-toi ce soir à l'abri de son amour constant."
           }
         }
       ]
