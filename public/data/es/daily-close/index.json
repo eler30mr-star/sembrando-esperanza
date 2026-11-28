@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27",
+  "updatedAt": "2026-11-28",
   "reflections": [
     {
       "date": "2026-09-16",
@@ -16558,6 +16558,236 @@
             "en": "Loving sincerely requires patience, truth, and a willingness to serve others without seeking reward. When you allow God's love to direct your actions, your surroundings are transformed and your spirit finds fulfillment. Rest tonight under the shelter of His constant love.",
             "pt": "Amar sinceramente exige paciência, verdade e disposição para servir aos outros sem buscar recompensa. Quando você permite que o amor de Deus dirija suas ações, seu ambiente se transforma e seu espírito encontra plenitude. Repouse esta noite sob o abrigo de Seu constante amor.",
             "fr": "Aimer sincèrement demande de la patience, de la vérité et une disposition à servir les autres sans chercher de récompense. Lorsque tu laisses l'amour de Dieu diriger tes actions, ton entourage se transforme et ton esprit trouve la plénitude. Repose-toi ce soir à l'abri de son amour constant."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "status": "published",
+      "generatedBy": "gemini",
+      "generatorVersion": 2,
+      "question": {
+        "es": "¿De qué manera buscaste hoy cumplir el propósito de Dios en tu vida?",
+        "en": "In what way did you seek to fulfill God's purpose in your life today?",
+        "pt": "De que maneira você buscou hoje cumprir o propósito de Deus em sua vida?",
+        "fr": "De quelle manière as-tu cherché aujourd'hui à accomplir le dessein de Dieu dans ta vie ?"
+      },
+      "options": [
+        {
+          "id": "talentos_para_su_reino",
+          "label": {
+            "es": "Usando mis dones",
+            "en": "Using my gifts",
+            "pt": "Usando meus dons",
+            "fr": "Utilisant mes dons"
+          },
+          "responseTitle": {
+            "es": "Dones al servicio de Dios",
+            "en": "Gifts at God's service",
+            "pt": "Dons ao serviço de Deus",
+            "fr": "Dons au service de Dieu"
+          },
+          "responseText": {
+            "es": "Has usado tus habilidades para honrar a quien te las dio, convirtiendo tu labor en una ofrenda.",
+            "en": "You have used your abilities to honor the One who gave them to you, turning your work into an offering.",
+            "pt": "Você usou suas habilidades para honrar Aquele que as deu, transformando seu trabalho em uma oferta.",
+            "fr": "Tu as utilisé tes capacités pour honorer Celui qui te les a données, transformant ton travail en offrande."
+          },
+          "verses": [
+            "Colosenses 3:17"
+          ],
+          "reflectionHeader": {
+            "es": "Excelencia para la gloria",
+            "en": "Excellence for glory",
+            "pt": "Excelência para a glória",
+            "fr": "Excellence pour la gloire"
+          },
+          "reflection": {
+            "es": "Cada talento que posees es una herramienta en las manos del Creador. Al ejercer tus tareas con amor y dedicación, no solo cumples con un deber, sino que manifiestas la belleza de Dios a quienes te rodean. Descansa sabiendo que tu esfuerzo ha tenido un valor eterno hoy.",
+            "en": "Every talent you possess is a tool in the Creator's hands. By performing your tasks with love and dedication, you don't just fulfill a duty, you manifest God's beauty to those around you. Rest knowing that your effort has had eternal value today.",
+            "pt": "Cada talento que você possui é uma ferramenta nas mãos do Criador. Ao realizar suas tarefas com amor e dedicação, você não apenas cumpre um dever, mas manifesta a beleza de Deus para aqueles ao seu redor. Descanse sabendo que seu esforço teve um valor eterno hoje.",
+            "fr": "Chaque talent que tu possèdes est un outil entre les mains du Créateur. En accomplissant tes tâches avec amour et dévouement, tu ne fais pas que remplir un devoir, tu manifestes la beauté de Dieu à ceux qui t'entourent. Repose-toi en sachant que ton effort a eu une valeur éternelle aujourd'hui."
+          }
+        },
+        {
+          "id": "edificar_al_projimo",
+          "label": {
+            "es": "Edificando a otros",
+            "en": "Edifying others",
+            "pt": "Edificando outros",
+            "fr": "Édifiant les autres"
+          },
+          "responseTitle": {
+            "es": "Instrumento de bendición",
+            "en": "Instrument of blessing",
+            "pt": "Instrumento de bênção",
+            "fr": "Instrument de bénédiction"
+          },
+          "responseText": {
+            "es": "Tu propósito se cumplió hoy al fortalecer a alguien más, siendo manos y pies de Cristo en la tierra.",
+            "en": "Your purpose was fulfilled today by strengthening someone else, being Christ's hands and feet on earth.",
+            "pt": "Seu propósito foi cumprido hoje ao fortalecer outra pessoa, sendo as mãos e os pés de Cristo na terra.",
+            "fr": "Ton dessein s'est accompli aujourd'hui en fortifiant quelqu'un d'autre, étant les mains et les pieds de Christ sur terre."
+          },
+          "verses": [
+            "Proverbios 27:17"
+          ],
+          "reflectionHeader": {
+            "es": "Vínculos con propósito",
+            "en": "Purposeful connections",
+            "pt": "Vínculos com propósito",
+            "fr": "Liens avec dessein"
+          },
+          "reflection": {
+            "es": "Dios nos diseñó para crecer en comunidad. Al dedicar tiempo para escuchar, animar o guiar a un hermano, estás participando activamente en la construcción del Reino. Esa semilla de amor que plantaste hoy dará frutos que solo Dios conoce. Duerme en Su paz.",
+            "en": "God designed us to grow in community. By taking time to listen, encourage, or guide a brother or sister, you are actively participating in building the Kingdom. That seed of love you planted today will bear fruit that only God knows. Sleep in His peace.",
+            "pt": "Deus nos projetou para crescer em comunidade. Ao dedicar tempo para ouvir, encorajar ou guiar um irmão, você está participando ativamente na construção do Reino. Essa semente de amor que você plantou hoje dará frutos que somente Deus conhece. Durma em Sua paz.",
+            "fr": "Dieu nous a conçus pour grandir en communauté. En prenant le temps d'écouter, d'encourager ou de guider un frère, tu participes activement à la construction du Royaume. Cette semence d'amour que tu as plantée aujourd'hui portera des fruits que seul Dieu connaît. Dors dans Sa paix."
+          }
+        },
+        {
+          "id": "administracion_del_tiempo",
+          "label": {
+            "es": "Valorando el tiempo",
+            "en": "Valuing time",
+            "pt": "Valorizando o tempo",
+            "fr": "Valorisant le temps"
+          },
+          "responseTitle": {
+            "es": "Sabiduría en el día",
+            "en": "Wisdom in the day",
+            "pt": "Sabedoria no dia",
+            "fr": "Sagesse dans la journée"
+          },
+          "responseText": {
+            "es": "Has buscado aprovechar cada momento para lo que es importante a los ojos de Dios.",
+            "en": "You have sought to make the most of every moment for what is important in God's eyes.",
+            "pt": "Você buscou aproveitar cada momento para o que é importante aos olhos de Deus.",
+            "fr": "Tu as cherché à mettre à profit chaque moment pour ce qui est important aux yeux de Dieu."
+          },
+          "verses": [
+            "Efesios 5:15-16"
+          ],
+          "reflectionHeader": {
+            "es": "El regalo del hoy",
+            "en": "The gift of today",
+            "pt": "O presente do hoje",
+            "fr": "Le cadeau d'aujourd'hui"
+          },
+          "reflection": {
+            "es": "El tiempo es uno de los recursos más valiosos que Dios nos confía. Vivir con intención significa reconocer que cada hora es una oportunidad para amar y servir. Al cerrar este día, agradece al Señor por la gracia de haber caminado con propósito y discernimiento.",
+            "en": "Time is one of the most valuable resources God entrusts to us. Living with intention means recognizing that every hour is an opportunity to love and serve. As you close this day, thank the Lord for the grace of having walked with purpose and discernment.",
+            "pt": "O tempo é um dos recursos mais valiosos que Deus nos confia. Viver com intenção significa reconhecer que cada hora é uma oportunidade para amar e servir. Ao encerrar este dia, agradeça ao Senhor pela graça de ter caminhado com propósito e discernimento.",
+            "fr": "Le temps est l'une des ressources les plus précieuses que Dieu nous confie. Vivre avec intention signifie reconnaître que chaque heure est une occasion d'aimer et de servir. En terminant cette journée, remercie le Seigneur pour la grâce d'avoir marché avec dessein et discernement."
+          }
+        },
+        {
+          "id": "fidelidad_cotidiana",
+          "label": {
+            "es": "Fidelidad en lo poco",
+            "en": "Faithfulness in small",
+            "pt": "Fidelidade no pouco",
+            "fr": "Fidélité au quotidien"
+          },
+          "responseTitle": {
+            "es": "Grandeza en lo pequeño",
+            "en": "Greatness in smallness",
+            "pt": "Grandeza no pequeno",
+            "fr": "Grandeur dans le petit"
+          },
+          "responseText": {
+            "es": "Incluso en las tareas rutinarias, tu obediencia ha reflejado un corazón que busca agradar al Padre.",
+            "en": "Even in routine tasks, your obedience has reflected a heart that seeks to please the Father.",
+            "pt": "Mesmo nas tarefas rotineiras, sua obediência refletiu um coração que busca agradar ao Pai.",
+            "fr": "Même dans les tâches routinières, ton obéissance a reflété un cœur qui cherche à plaire au Père."
+          },
+          "verses": [
+            "Lucas 16:10"
+          ],
+          "reflectionHeader": {
+            "es": "Carácter en la rutina",
+            "en": "Character in routine",
+            "pt": "Caráter na rotina",
+            "fr": "Caractère et routine"
+          },
+          "reflection": {
+            "es": "No todos los días están llenos de grandes hazañas, pero Dios se deleita en la fidelidad constante. Al realizar tus labores diarias con integridad, estás construyendo un carácter sólido y honrando Su diseño para tu vida. Tu constancia es un testimonio poderoso ante el cielo.",
+            "en": "Not every day is full of great feats, but God delights in constant faithfulness. By doing your daily work with integrity, you are building a solid character and honoring His design for your life. Your consistency is a powerful testimony before heaven.",
+            "pt": "Nem todos os dias estão repletos de grandes feitos, mas Deus se deleita na fidelidade constante. Ao realizar seus trabalhos diários com integridade, você está construindo um caráter sólido e honrando o Seu plano para sua vida. Sua constância é um testemunho poderoso diante do céu.",
+            "fr": "Tous les jours ne sont pas faits de grands exploits, mais Dieu se réjouit d'une fidélité constante. En accomplissant ton travail quotidien avec intégrité, tu bâtis un caractère solide et tu honores Son plan pour ta vie. Ta persévérance est un témoignage puissant devant le ciel."
+          }
+        },
+        {
+          "id": "paso_de_fe_valiente",
+          "label": {
+            "es": "Paso de fe",
+            "en": "Step of faith",
+            "pt": "Passo de fé",
+            "fr": "Pas de foi"
+          },
+          "responseTitle": {
+            "es": "Confianza en acción",
+            "en": "Trust in action",
+            "pt": "Confiança em ação",
+            "fr": "Confiance en action"
+          },
+          "responseText": {
+            "es": "Te has atrevido a confiar en la dirección de Dios por encima de tus propios temores hoy.",
+            "en": "You have dared to trust God's direction above your own fears today.",
+            "pt": "Você se atreveu a confiar na direção de Deus acima dos seus próprios temores hoje.",
+            "fr": "Tu as osé faire confiance à la direction de Dieu au-delà de tes propres peurs aujourd'hui."
+          },
+          "verses": [
+            "Hebreos 11:6"
+          ],
+          "reflectionHeader": {
+            "es": "Más allá de lo visible",
+            "en": "Beyond the visible",
+            "pt": "Além do visível",
+            "fr": "Au-delà du visible"
+          },
+          "reflection": {
+            "es": "Cumplir el propósito de Dios a menudo requiere valentía. Al dar ese paso de fe hoy, has demostrado que Su voz es más real para ti que las circunstancias. Sigue caminando con esa seguridad, pues el Señor sostiene a quienes se atreven a creer en Sus promesas.",
+            "en": "Fulfilling God's purpose often requires courage. By taking that step of faith today, you have shown that His voice is more real to you than the circumstances. Keep walking with that security, for the Lord sustains those who dare to believe in His promises.",
+            "pt": "Cumprir o propósito de Deus muitas vezes exige coragem. Ao dar esse passo de fé hoje, você demonstrou que a voz d'Ele é mais real para você do que as circunstâncias. Continue caminhando com essa segurança, pois o Senhor sustenta aqueles que se atrevem a crer em Suas promessas.",
+            "fr": "Accomplir le dessein de Dieu demande souvent du courage. En faisant ce pas de foi aujourd'hui, tu as montré que Sa voix est plus réelle pour toi que les circonstances. Continue à marcher avec cette assurance, car le Seigneur soutient ceux qui osent croire en Ses promesses."
+          }
+        },
+        {
+          "id": "obediencia_y_entrega",
+          "label": {
+            "es": "Entrega total",
+            "en": "Total surrender",
+            "pt": "Entrega total",
+            "fr": "Remise totale"
+          },
+          "responseTitle": {
+            "es": "Corazón rendido",
+            "en": "Surrendered heart",
+            "pt": "Coração rendido",
+            "fr": "Cœur rendu"
+          },
+          "responseText": {
+            "es": "Has buscado alinear tu voluntad con la de Dios, reconociendo Su soberanía en cada detalle.",
+            "en": "You have sought to align your will with God's, recognizing His sovereignty in every detail.",
+            "pt": "Você buscou alinhar sua vontade com a de Deus, reconhecendo Sua soberania em cada detalhe.",
+            "fr": "Tu as cherché à aligner ta volonté sur celle de Dieu, reconnaissant Sa souveraineté dans chaque détail."
+          },
+          "verses": [
+            "Romanos 12:1"
+          ],
+          "reflectionHeader": {
+            "es": "Sacrificio vivo",
+            "en": "Living sacrifice",
+            "pt": "Sacrifício vivo",
+            "fr": "Sacrifice vivant"
+          },
+          "reflection": {
+            "es": "La mayor expresión de propósito es rendir nuestra vida como un sacrificio agradable a Dios. Al decir 'Hágase tu voluntad' en tu jornada, has permitido que la luz de Cristo brille a través de tu obediencia. Descansa en el centro de Su voluntad perfecta esta noche.",
+            "en": "The greatest expression of purpose is surrendering our lives as a living sacrifice to God. By saying 'Thy will be done' in your day, you have allowed the light of Christ to shine through your obedience. Rest in the center of His perfect will tonight.",
+            "pt": "A maior expressão de propósito é render nossa vida como um sacrifício agradável a Deus. Ao dizer 'Seja feita a tua vontade' em sua jornada, você permitiu que a luz de Cristo brilhasse através da sua obediência. Descanse no centro da vontade perfeita d'Ele esta noite.",
+            "fr": "La plus grande expression du dessein est d'offrir notre vie comme un sacrifice agréable à Dieu. En disant 'Que Ta volonté soit faite' au cours de ta journée, tu as permis à la lumière de Christ de briller à travers ton obéissance. Repose-toi au centre de Sa volonté parfaite ce soir."
           }
         }
       ]
